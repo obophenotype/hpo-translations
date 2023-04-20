@@ -23,7 +23,34 @@ HPOIE Operations is responsible for cross-language coordination, translation onb
 - Bruno Donadille (Curator)
 - Emeline Lebreton (Project manager): `@e-lbtn`
 
-Reach out on the [issue tracker](https://github.com/obophenotype/hpo-translations/issues) if you want to join the French Language Working Group.
+### Nyangurmata Language Working Group
+
+- Yarlalu Thomas (lead)
+
+### Twi Language Working Group
+
+- [Samuel Wiafe](https://orcid.org/0000-0003-2125-2285) (lead)
+
+### Dusun Language Working Group
+
+- Rani Charuruks Ong (lead)
+- [Dr Gareth Baynam](https://orcid.org/0000-0003-4920-9553)
+
+### Spanish Language Working Group
+
+- 
+
+### Turkish Language Working Group
+
+- 
+
+### Dutch Language Working Group
+
+- 
+
+### Join a Language Working Group
+
+Reach out on the [issue tracker](https://github.com/obophenotype/hpo-translations/issues) if you want to join any of the Language Working Groups.
 
 ## Curation
 
