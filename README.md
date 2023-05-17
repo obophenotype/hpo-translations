@@ -23,6 +23,10 @@ HPOIE Operations is responsible for cross-language coordination, translation onb
 - Bruno Donadille (Curator)
 - Emeline Lebreton (Project manager): `@e-lbtn`
 
+### Chinese Language Working Group
+
+- Kai Wang: `@kaichop`
+
 ### Nyangurmata Language Working Group
 
 - Yarlalu Thomas (lead)
