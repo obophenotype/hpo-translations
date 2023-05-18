@@ -25,6 +25,7 @@ HPOIE Operations is responsible for cross-language coordination, translation onb
 
 ### Chinese Language Working Group
 
+- Weihong Gu (Translation coordinator, on behalf of [Chinese HPO consortium](https://www.chinahpo.net/chpo/About.html))
 - Kai Wang: `@kaichop`
 
 ### Nyangurmata Language Working Group
