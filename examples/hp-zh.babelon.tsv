@@ -1,0 +1,7 @@
+source_language	translation_language	subject_id	predicate_id	source_value	translation_value	translation_status
+en	zh	HP:0000001	rdfs:label	All	所有词汇	OFFICIAL
+en	zh	HP:0000002	rdfs:label	Abnormality of body height	身高异常	OFFICIAL
+en	zh	HP:0000003	rdfs:label	Multicystic kidney dysplasia	多囊性肾发育不良	OFFICIAL
+en	zh	HP:0000005	rdfs:label	Mode of inheritance	遗传模式	OFFICIAL
+en	zh	HP:0000006	rdfs:label	Autosomal dominant inheritance	常染色体显性遗传	OFFICIAL
+en	zh	HP:0000007	rdfs:label	Autosomal recessive inheritance	常染色体隐性遗传	OFFICIAL
