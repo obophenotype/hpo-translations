@@ -17,6 +17,13 @@ nav:
   - About HPO translations: index.md
   - How to submit a language profile: submit.md
   - Contact: contact.md
+  - Translations: translations.md
+  - Language translations:
+    - Chinese: translations/zh.md
+    - Czech: translations/cs.md
+    - Dutch: translations/nl.md
+    - French: translations/fr.md
+    - Turkish: translations/tr.md
 repo_url: https://github.com/obophenotype/hpo-translations/
 site_url: https://obophenotype.github.io/hpo-translations/
 edit_uri: docs/

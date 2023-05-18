@@ -14,7 +14,6 @@ There are currently two ways we can process a language profile:
 3. If you want to submit your synonyms as well, please use the [ROBOT template](http://robot.obolibrary.org/template) format. For an example in Czech language, [see here](https://github.com/obophenotype/hpo-translations/blob/main/examples/hp-cs.synonyms.tsv). **Please make sure you use the correct [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1) language code for your language**. If no code exists in ISO 639-1, you may use [ISO 639-3](https://en.wikipedia.org/wiki/ISO_639-3) instead.
 4. Make a pull request to add the TSV files prepared into this directory: https://github.com/obophenotype/hpo-translations/tree/main/babelon. If you do not have the expertise to make a pull request, please email the profile to the [HPOIE contacts](contact.md). Whether you make a pull request or send an email, make sure you provide the following information:
     - Name of the submitter (mandatory)
-    - [ORCID](https://orcid.org) of all contributors (for attribution, optional)
+    - [ORCID](https://orcid.org) or names of all contributors (for attribution, optional)
     - [ROR](https://ror.org) or [Wikidata ID](https://www.wikidata.org/) of the organisation providing the translation (for attribution, optional)
-    - Short description of the translation, how it was made and how it is used (3-5 sentences)
-
+    - Short description of the translation, how it was made and how it is used (3-5 sentences, mandatory)
