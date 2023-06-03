@@ -8,6 +8,9 @@ We are in the process of forming the Human Phenotype Ontology Internationalizati
 
 It is our vision that eventually we can break down language barriers entirely and enable not only cross-border phenotyping (for example in national rare disease registries) but also cross-border ontology curation.
 
+http://purl.obolibrary.org/obo/hp.owl
+https://purl.obolibrary.org/obo/hp.owl
+
 ## Provisional organisation
 
 ### Human Phenotype Ontology Internationalization Effort Operations Committee:
