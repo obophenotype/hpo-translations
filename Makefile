@@ -1,17 +1,19 @@
 ##### Process translations
 
+install:
+	pip install babelon
+
 ###
 prepare_data:
-	rm -rf tests/data/all_translations
-	unzip -d tests/data/all_translations tests/data/all_translations.zip
+	rm -rf crowdin_data/
+	unzip -d crowdin_data/ all_translations.zip
 
-tests/data/translations/hp-%.babelon.tsv:
-	mkdir -p tests/data/translations/
-	python src/babelon/cli.py tests/data/all_translations/$*/hpo_notes.xliff $@
-
+babelon/hp-%.babelon.tsv:
+	mkdir -p babelon/
+	babelon parse crowdin_data/$*/hpo_notes.xliff -o $@
 
 LANGUAGES=cs nl tr
-HP_TRANSLATIONS=$(patsubst %, tests/data/translations/hp-%.babelon.tsv, $(LANGUAGES))
+HP_TRANSLATIONS=$(patsubst %, babelon/hp-%.babelon.tsv, $(LANGUAGES))
 
 # Recipe: Go to https://crowdin.com/project/hpo-translation/translations# and click "Build and Download"
 # Safe the downloaded file as tests/data/all_translations.zip

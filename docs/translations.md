@@ -5,3 +5,6 @@
 - [Dutch](translations/nl.md)
 - [French](translations/fr.md)
 - [Turkish](translations/tr.md)
+- [Nyangumarta](translations/nna.md)
+- [Tiwi](translations/tw.md)
+- [Dusun](translations/dtp.md)
