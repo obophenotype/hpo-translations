@@ -1,7 +1,7 @@
 ##### Process translations
 
 install:
-	pip install babelon
+	pip install -U babelon
 
 ###
 prepare_data:
