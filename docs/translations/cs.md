@@ -2,7 +2,9 @@
 
 ## Working Group
 
+The Working Group is led by Marek Turnovec, please [contact](../contact.md) us if there is any interest.
+
 ## Translations
 
-Labels and Definition: http://purl.obolibrary.org/obo/hp/translations/hp-cs.babelon.tsv
-Synonyms: http://purl.obolibrary.org/obo/hp/translations/hp-cs.synonyms.tsv
+- [Translations](https://github.com/obophenotype/hpo-translations/blob/main/babelon/hp-cs.babelon.tsv)
+- [Synonyms](https://github.com/obophenotype/hpo-translations/blob/main/babelon/hp-cs.synonyms.tsv)

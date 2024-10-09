@@ -2,7 +2,9 @@
 
 ## Working Group
 
+A Working Group is being formed at the moment, please [contact](../contact.md) us if there is any interest in joining.
+
 ## Translations
 
-Labels and Definition: http://purl.obolibrary.org/obo/hp/translations/hp-nl.babelon.tsv
-Synonyms: http://purl.obolibrary.org/obo/hp/translations/hp-nl.synonyms.tsv
+- [Translations](https://github.com/obophenotype/hpo-translations/blob/main/babelon/hp-nl.babelon.tsv)
+- [Synonyms](https://github.com/obophenotype/hpo-translations/blob/main/babelon/hp-nl.synonyms.tsv)

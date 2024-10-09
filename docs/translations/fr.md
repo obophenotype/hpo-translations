@@ -2,7 +2,12 @@
 
 ## Working Group
 
-## Translations
+- Caterina Lucano (Scientific coordinator): `@caterina-lucano-orphanet`
+- Bruno Donadille (Curator)
+- Emeline Lebreton (Project manager): `@e-lbtn`
 
-Labels and Definition: http://purl.obolibrary.org/obo/hp/translations/hp-fr.babelon.tsv
-Synonyms: http://purl.obolibrary.org/obo/hp/translations/hp-fr.synonyms.tsv
+## Translation Sources of Truth:
+
+- [Translations](https://github.com/obophenotype/hpo-translations/blob/main/babelon/hp-fr.babelon.tsv)
+- [Synonyms](https://github.com/obophenotype/hpo-translations/blob/main/babelon/hp-fr.synonyms.tsv)
+
