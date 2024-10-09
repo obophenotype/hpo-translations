@@ -1,6 +1,7 @@
 # Documentation of the Human Phenotype Internationalisation Effort
 
 - [How to submit a language profile for inclusion in the HPO international edition](submit.md)
+- [How to maintain a language profile that is already part of the international edition](maintain.md)
 - [Overview of translations currently in the HPO international edition](translations.md)
 - [Contact](contact.md)
 
@@ -25,4 +26,4 @@ The persistent URL (PURL) of the HPO International editions is
 http://purl.obolibrary.org/obo/hp/hp-international.owl
 ```
 
-All the released language profiles can be [found on GitHub](https://github.com/obophenotype/human-phenotype-ontology/tree/master/src/ontology/translations), inclusion versions in RDF/OWL and TSV.
+All the released language profiles can be [found on GitHub](https://github.com/obophenotype/human-phenotype-ontology/tree/master/src/translations).
