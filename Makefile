@@ -3,6 +3,18 @@
 install:
 	pip install -U babelon
 
+
+sort-%: babelon/hp-%.babelon.tsv babelon/hp-%.synonyms.tsv
+	mkdir -p tmp
+	{ head -n 1 babelon/hp-$*.synonyms.tsv && tail -n +2 babelon/hp-$*.synonyms.tsv | sort; } > tmp/$*_synonyms_sorted.tsv
+	{ head -n 1 babelon/hp-$*.babelon.tsv && tail -n +2 babelon/hp-$*.babelon.tsv | sort; } > tmp/$*_babelon_sorted.tsv
+	mv tmp/$*_babelon_sorted.tsv babelon/hp-$*.babelon.tsv
+	mv tmp/$*_synonyms_sorted.tsv babelon/hp-$*.synonyms.tsv
+
+clean-%: babelon/%.tsv
+	sed -E 's/\t[[:space:]]+/\t/g; s/[[:space:]]+\t/\t/g' $< > temp.tsv && mv temp.tsv $<
+	sed -E 's/\tMD/\tDOMAIN_EXPERT/g' $< > temp.tsv && mv temp.tsv $<
+
 ###
 prepare_data:
 	rm -rf crowdin_data/
