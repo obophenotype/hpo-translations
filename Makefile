@@ -11,9 +11,19 @@ sort-%: babelon/hp-%.babelon.tsv babelon/hp-%.synonyms.tsv
 	mv tmp/$*_babelon_sorted.tsv babelon/hp-$*.babelon.tsv
 	mv tmp/$*_synonyms_sorted.tsv babelon/hp-$*.synonyms.tsv
 
-clean-%: babelon/%.tsv
-	sed -E 's/\t[[:space:]]+/\t/g; s/[[:space:]]+\t/\t/g' $< > temp.tsv && mv temp.tsv $<
-	sed -E 's/\tMD/\tDOMAIN_EXPERT/g' $< > temp.tsv && mv temp.tsv $<
+clean-%: babelon/hp-%.babelon.tsv babelon/hp-%.synonyms.tsv
+	sed -E 's/\t[[:space:]]+/\t/g; s/[[:space:]]+\t/\t/g' babelon/hp-$*.babelon.tsv > temp.tsv && mv temp.tsv babelon/hp-$*.babelon.tsv
+	sed -E 's/\t[[:space:]]+/\t/g; s/[[:space:]]+\t/\t/g' babelon/hp-$*.synonyms.tsv > temp.tsv && mv temp.tsv babelon/hp-$*.synonyms.tsv
+
+clean-all:
+	$(MAKE) clean-pt clean-de clean-fr clean-pt clean-zh
+
+sort-all:
+	$(MAKE) sort-pt sort-de sort-fr sort-pt sort-zh
+
+validate-%: babelon/hp-%.babelon.tsv babelon/hp-%.synonyms.tsv
+	tsvalid babelon/hp-$*.babelon.tsv --skip "W1"
+	tsvalid babelon/hp-$*.synonyms.tsv --skip "W1"
 
 ###
 prepare_data:
