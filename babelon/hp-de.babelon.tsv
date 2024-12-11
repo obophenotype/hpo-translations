@@ -1785,7 +1785,7 @@ en	Impaired distal tactile sensation	HP:0006937	rdfs:label	de	Beeinträchtigung 
 en	Impaired distal vibration sensation	HP:0006886	rdfs:label	de	Beeinträchtigtes distales Vibrationsempfinden	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Impaired epinephrine-induced platelet aggregation	HP:0008148	rdfs:label	de	Beeinträchtigte Epinephrin-induzierte Thrombozytenaggregation	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Impaired executive functioning	HP:0033051	rdfs:label	de	Beeinträchtigte exekutive Funktionen	OFFICIAL	0000-0002-9746-4412	DOMAIN_EXPERT	2024-12-10	
-en	Impaired heel-walking ability	HP:6000490	rdfs:label	de	beeinträchtigter Hackengang	OFFICIAL	0000-0002-9746-4412	2024-12-10	
+en	Impaired heel-walking ability	HP:6000490	rdfs:label	de	Beeinträchtigter Hackengang	OFFICIAL	0000-0002-9746-4412	DOMAIN_EXPERT	2024-12-10	
 en	Impaired lymphocyte transformation with phytohemagglutinin	HP:0003347	rdfs:label	de	Beeinträchtigte Lymphozyten-Transformation mit Phytohemagglutinin	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Impaired mastication	HP:0005216	rdfs:label	de	Beeinträchtigung des Kauens	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Impaired oxidative burst	HP:0003203	rdfs:label	de	Beeinträchtigung des oxidativen Stoßes	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -2419,7 +2419,7 @@ en	Orofacial dyskinesia	HP:0002310	rdfs:label	de	Orofaciale Dyskinesie	OFFICIAL	
 en	Oromandibular dystonia	HP:0012048	rdfs:label	de	Oromandibuläre Dystonie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Oromotor apraxia	HP:0007301	rdfs:label	de	Oromotorische Apraxie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Oroticaciduria	HP:0003218	rdfs:label	de	Orotsäureurie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Orthokeratosis	HP:0040162	rdfs:label	de	Orthokeratose	CANDIDATE	0000-0002-9746-4412	2024-12-10	
+en	Orthokeratosis	HP:0040162	rdfs:label	de	Orthokeratose	CANDIDATE	0000-0002-9746-4412	DOMAIN_EXPERT	2024-12-10	
 en	Orthostatic hypotension	HP:0001278	rdfs:label	de	Orthostatische Hypotonie	OFFICIAL	0000-0002-9746-4412	DOMAIN_EXPERT	2024-12-10	
 en	Os odontoideum	HP:0005667	rdfs:label	de	Os odontoideum	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Osteoarthritis	HP:0002758	rdfs:label	de	Arthrose	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
