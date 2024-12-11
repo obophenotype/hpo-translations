@@ -1,4 +1,5 @@
 subject_id	translation_value	comment
+ID	AL oboInOwl:hasExactSynonym@nl	
 HP:0000003	Multicystic dysplastic kidney	NOT_TRANSLATED
 HP:0000003	Multicystic kidneys	NOT_TRANSLATED
 HP:0000003	Multicystic renal dysplasia	NOT_TRANSLATED
@@ -20734,4 +20735,3 @@ HP:5000043	Anti-dopamine-2 receptors (D2R) antibody	NOT_TRANSLATED
 HP:5000044	Anti-glutamate kainate receptor subunit 2 antibody	NOT_TRANSLATED
 HP:5000046	Anti-low-density lipoprotein receptor-related protein 4 antibody	NOT_TRANSLATED
 HP:5000047	Anti-RyR antibody	NOT_TRANSLATED
-ID	AL oboInOwl:hasExactSynonym@nl	
