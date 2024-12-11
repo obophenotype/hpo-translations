@@ -1,4 +1,5 @@
 subject_id	translation_value	comment	Status	Line number
+ID	AL oboInOwl:hasExactSynonym@fr			
 HP:0000003	Dysplasie rénale polykystique	synonyms of HP:0000003 (Multicystic kidney dysplasia)  ; abnormality of the genitourinary system	OFFICIAL	1642
 HP:0000005	Mode d'héritage	synonyms of HP:0000005 (Mode of inheritance)  ; inheritance	OFFICIAL	11789
 HP:0000005	Transmission	synonyms of HP:0000005 (Mode of inheritance)  ; inheritance	OFFICIAL	1589
@@ -11814,4 +11815,3 @@ HP:3000075	Abnormality of lingual nerve	synonyms of HP:3000075 (Abnormal lingual
 HP:3000077	Abnormality of mandible condylar process	synonyms of HP:3000077 (Abnormal mandible condylar process morphology)  ; abnormality of head or neck ; abnormality of the skeletal system	NOT_TRANSLATED	7558
 HP:3000078	Abnormality of mandible coronoid process	synonyms of HP:3000078 (Abnormal mandible coronoid process morphology)  ; abnormality of head or neck ; abnormality of the skeletal system	NOT_TRANSLATED	7560
 HP:3000079	Abnormality of mandible symphysis	synonyms of HP:3000079 (Abnormality of mandibular symphysis)  ; abnormality of the skeletal system	NOT_TRANSLATED	7559
-ID	AL oboInOwl:hasExactSynonym@fr			
