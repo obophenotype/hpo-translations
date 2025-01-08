@@ -512,15 +512,6 @@ en	pt	HP:0006799	rdfs:label	Basal ganglia cysts	Cistos nos gânglios basais	OFFI
 en	pt	HP:0006951	rdfs:label	Retrocerebellar cyst	Cisto retrocerebelar	OFFICIAL	orcid:0009-0005-0193-5224
 en	pt	HP:0007109	rdfs:label	Periventricular cysts	Cistos periventriculares	OFFICIAL	orcid:0009-0005-0193-5224
 en	pt	HP:0007291	rdfs:label	Posterior fossa cyst	Cisto de fossa posterior	OFFICIAL	orcid:0009-0005-0193-5224
-en	pt	HP:0007667	rdfs:label	Peripheral cystoid retinal degeneration	Degeneração cistoide periférica da retina	OFFICIAL	orcid:0009-0005-0193-5224
-en	pt	HP:0008188	rdfs:label	Thyroid dysgenesis	Disgenesia tireoidiana	OFFICIAL	orcid:0009-0005-0193-5224
-en	pt	HP:0008191	rdfs:label	Thyroid agenesis	Agenesia tireoidiana	OFFICIAL	orcid:0009-0005-0193-5224
-en	pt	HP:0008200	rdfs:label	Primary hyperparathyroidism	Hiperparatireoidismo primário	OFFICIAL	orcid:0009-0005-0193-5224
-en	pt	HP:0008223	rdfs:label	Compensated hypothyroidism	Hipotireoidismo compensado	OFFICIAL	orcid:0009-0005-0193-5224
-en	pt	HP:0008225	rdfs:label	Thyroid follicular hyperplasia	Hiperplasia folicular da tireoide	OFFICIAL	orcid:0009-0005-0193-5224
-en	pt	HP:0008227	rdfs:label	Pituitary resistance to thyroid hormone	Resistência hipofisária ao hormônio tireoidiano	OFFICIAL	orcid:0009-0005-0193-5224
-en	pt	HP:0008229	rdfs:label	Thyroid lymphangiectasia	Linfangiectasia da tireoide	OFFICIAL	orcid:0009-0005-0193-5224
-en	pt	HP:0008237	rdfs:label	Hypothalamic hypothyroidism	Hipotireoidismo hipotalâmico	OFFICIAL	orcid:0009-0005-0193-5224
 en	pt	HP:0008247	rdfs:label	Euthyroid hyperthyroxinemia	Hipertiroxinemia eutireoidea	OFFICIAL	orcid:0009-0005-0193-5224
 en	pt	HP:0008263	rdfs:label	Thyroid defect in oxidation and organification of iodide	Defeito tireoidiano na oxidação e organificação do iodo	OFFICIAL	orcid:0009-0005-0193-5224
 en	pt	HP:0008659	rdfs:label	Multiple small medullary renal cysts	Múltiplos pequenos cistos renais medulares	OFFICIAL	orcid:0009-0005-0193-5224
@@ -547,11 +538,6 @@ en	pt	HP:0012035	rdfs:label	Steatocystoma multiplex	Esteatocistoma múltiplo	OFF
 en	pt	HP:0012063	rdfs:label	Aneurysmal bone cyst	Cisto ósseo aneurismático	OFFICIAL	orcid:0009-0005-0193-5224
 en	pt	HP:0012096	rdfs:label	Intracranial epidermoid cyst	Cisto epidermoide intracraniano	OFFICIAL	orcid:0009-0005-0193-5224
 en	pt	HP:0012097	rdfs:label	Intracranial dermoid cyst	Cisto dermoide intracraniano	OFFICIAL	orcid:0009-0005-0193-5224
-en	pt	HP:0012487	rdfs:label	Cerebellopontine angle arachnoid cyst	Cisto aracnoide no ângulo pontocerebelar	OFFICIAL	orcid:0009-0005-0193-5224
-en	pt	HP:0012488	rdfs:label	Intraventricular arachnoid cyst	Cisto aracnoide intraventricular	OFFICIAL	orcid:0009-0005-0193-5224
-en	pt	HP:0012489	rdfs:label	Suprasellar arachnoid cyst	Cisto aracnoide suprasselar	OFFICIAL	orcid:0009-0005-0193-5224
-en	pt	HP:0012540	rdfs:label	Axillary epidermoid cyst	Cisto epidermoide axilar	OFFICIAL	orcid:0009-0005-0193-5224
-en	pt	HP:0012618	rdfs:label	Urachal cyst	Cisto de úraco	OFFICIAL	orcid:0009-0005-0193-5224
 en	pt	HP:0020143	rdfs:label	Tracheal duplication cyst	Cisto de duplicação traqueal	OFFICIAL	orcid:0009-0005-0193-5224
 en	pt	HP:0020157	rdfs:label	Thin zona pellucida	Zona pelúcida fina	OFFICIAL	orcid:0009-0005-0193-5224
 en	pt	HP:0025246	rdfs:label	Trichilemmal cyst	Cisto triquilemal	OFFICIAL	orcid:0009-0005-0193-5224
@@ -1797,3 +1783,1186 @@ en	pt	HP:0004621	rdfs:label	Enlarged vertebral pedicles	Pedículos vertebrais au
 en	pt	HP:0004622	rdfs:label	Progressive intervertebral space narrowing	Estreitamento progressivo do espaço intervertebral	OFFICIAL	orcid:0009-0005-0193-5224
 en	pt	HP:0004625	rdfs:label	Biconvex vertebral bodies	Corpos vertebrais biconvexos	OFFICIAL	orcid:0009-0005-0193-5224
 en	pt	HP:0004626	rdfs:label	Lumbar scoliosis	Escoliose lombar	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007516	rdfs:label	Redundant skin on fingers	Pele redundante nos dedos	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007517	rdfs:label	Palmoplantar cutis laxa	Cútis laxa palmoplantar	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007521	rdfs:label	Irregular hyperpigmentation of back	Hiperpigmentação irregular das costas	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007522	rdfs:label	Increased number of skin folds	Aumento da quantidade de dobras cutâneas	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007524	rdfs:label	Atypical neurofibromatosis	Neurofibromatose atípica	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007525	rdfs:label	Yellow subcutaneous tissue covered by thin, scaly skin	Tecido subcutâneo amarelo coberto por pele fina e escamosa	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007526	rdfs:label	Hypopigmented skin patches on arms	Manchas hipopigmentadas na pele dos braços	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007529	rdfs:label	Hidrotic ectodermal dysplasia	Displasia ectodérmica hidrótica	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007530	rdfs:label	Punctate palmoplantar hyperkeratosis	Hiperceratose palmoplantar puntiforme	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007534	rdfs:label	Congenital posterior occipital alopecia	Alopécia occipital posterior congênita	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007535	rdfs:label	Hypopigmented streaks	Estrias hipopigmentadas	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007536	rdfs:label	Aplasia cutis congenita of midline scalp vertex	Aplasia cutis na região mediana do vértice do couro cabeludo	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007537	rdfs:label	Severe photosensitivity	Fotossensibilidade severa	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007541	rdfs:label	Frontal cutaneous lipoma	Lipoma cutâneo frontal	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007542	rdfs:label	Absent pigmentation of the ventral chest	Ausência de pigmentação na região ventral do tórax	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007543	rdfs:label	Epidermal hyperkeratosis	Hiperceratose epidérmica	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007544	rdfs:label	Piebald skin depigmentation	Despigmentação cutânea do tipo piebald	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007545	rdfs:label	Congenital palmoplantar hyperkeratosis	Hiperceratose palmoplantar congênita	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007546	rdfs:label	Linear hyperpigmentation	Hiperpigmentação linear	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007549	rdfs:label	Desquamation of skin soon after birth	Descamação da pele logo após o nascimento	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007550	rdfs:label	Hypohidrosis or hyperhidrosis	Hipoidrose ou hiperidrose	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007552	rdfs:label	Abnormal subcutaneous fat tissue distribution	Distribuição anormal do tecido adiposo subcutâneo	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007553	rdfs:label	Congenital symmetrical palmoplantar keratosis	Ceratose palmoplantar simétrica congênita	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007554	rdfs:label	Confetti hypopigmentation pattern of lower leg skin	Padrão de hipopigmentação em confete na pele da porção inferior da perna	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007556	rdfs:label	Plantar hyperkeratosis	Hiperceratose plantar	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007559	rdfs:label	Localized epidermolytic hyperkeratosis	Hiperceratose epidermolítica localizada	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007560	rdfs:label	Unusual dermatoglyphics	Dermatoglifos incomuns	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007565	rdfs:label	Multiple cafe-au-lait spots	Múltiplas manchas café com leite	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007566	rdfs:label	Index finger dermatoglyphic radial loop	Laço radial dermatoglífico do dedo indicador	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007569	rdfs:label	Generalized seborrheic dermatitis	Dermatite seborreica generalizada	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007570	rdfs:label	Hyperkeratosis lenticularis perstans	Hiperceratose lenticular persistente	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007572	rdfs:label	Hyperpigmented streaks	Estrias hiperpigmentadas	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007573	rdfs:label	Late onset atopic dermatitis	Dermatite atópica de início tardio	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007574	rdfs:label	Generalized bronze hyperpigmentation	Hiperpigmentação bronze generalizada	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007576	rdfs:label	Palmar neurofibroma	Neurofibroma palmar	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007581	rdfs:label	Mediosternal, longitudinal streak of hypopigmentation	Faixa de hipopigmentação mediosternal, longitudinal	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007583	rdfs:label	Telangiectasia macularis eruptiva perstans	Telangiectasia macular eruptiva perstans	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007585	rdfs:label	Skin fragility with non-scarring blistering	Fragilidade cutânea com formação de bolhas não cicatriciais	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007586	rdfs:label	Telangiectases producing 'marbled' skin	"Telangiectasias que produzem pele ""marmorizada"""	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007587	rdfs:label	Numerous pigmented freckles	Numerosas sardas pigmentadas	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007588	rdfs:label	Reticular hyperpigmentation	Hiperpigmentação reticular	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007589	rdfs:label	Aplasia cutis congenita on trunk or limbs	Aplasia cutânea congénita no tronco ou nos membros	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007590	rdfs:label	Aplasia cutis congenita over posterior parietal area	Aplasia cutânea congênita sobre a área parietal posterior	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007592	rdfs:label	Aplasia/Hypoplastia of the eccrine sweat glands	Aplasia/Hipoplasia das glândulas sudoríparas écrinas	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007595	rdfs:label	Redundant skin in infancy	Pele redundante na infância	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007596	rdfs:label	Painful subcutaneous lipomas	Lipomas subcutâneos dolorosos	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007598	rdfs:label	Bilateral single transverse palmar creases	Prega palmar transversal única bilateral	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007599	rdfs:label	Generalized reticulate brown pigmentation	Pigmentação marrom reticulada generalizada	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007601	rdfs:label	Midline facial capillary hemangioma	Hemengioma capilar na linha media da face	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007602	rdfs:label	Complex palmar dermatoglyphic pattern	Padrão dermatoglífico palmar complexo	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007603	rdfs:label	Freckles in sun-exposed areas	Sardas em áreas expostas ao sol	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007605	rdfs:label	Excessive wrinkling of palmar skin	Enrugamento excessivo da pele palmar	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007606	rdfs:label	Multiple cutaneous malignancies	Múltiplas malignidades cutâneas	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007607	rdfs:label	Hypohidrotic ectodermal dysplasia	Displasia ectodérmica hipohidrótica	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007608	rdfs:label	Abnormal palmar dermal ridges	Cristas dérmicas palmares anormais	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007609	rdfs:label	Hypoproteinemic edema	Edema hipoproteinêmico	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007610	rdfs:label	Blotching pigmentation of the skin	Pigmentação manchada da pele	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007613	rdfs:label	Spinous keratoses of palms and soles	Ceratoses espinhosas das palmas das mãos e plantas dos pés	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007616	rdfs:label	Nevus flammeus nuchae	Nevo flâmeo na nuca	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007617	rdfs:label	Fine, reticulate skin pigmentation	Pigmentação cutânea reticulada fina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007618	rdfs:label	Subcutaneous calcification	Calcificação subcutânea	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007620	rdfs:label	Cutaneous leiomyoma	Leiomioma cutâneo	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007621	rdfs:label	Telangiectasia of extensor surfaces	Telangiectasia de superfícies extensoras	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007623	rdfs:label	Pigmentation anomalies of sun-exposed skin	Anomalias de pigmentação da pele exposta ao sol	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007626	rdfs:label	Mandibular osteomyelitis	Osteomielite mandibular	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007627	rdfs:label	Mandibular condyle aplasia	Aplasia do côndilo mandibular	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007628	rdfs:label	Mandibular condyle hypoplasia	Hipoplasia do côndilo mandibular	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007633	rdfs:label	Bilateral microphthalmos	Microftalmia bilateral	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007634	rdfs:label	Nonarteritic anterior ischemic optic neuropathy	Neuropatia óptica isquêmica anterior não arterítica	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007641	rdfs:label	Dyschromatopsia	Discromatopsia	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007642	rdfs:label	Congenital stationary night blindness	Cegueira noturna congênita estacionária	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007643	rdfs:label	Peripheral tractional retinal detachment	Descolamento de retina tracional periférico	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007646	rdfs:label	Absent lower eyelashes	Cílios inferiores ausentes	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007647	rdfs:label	Congenital extraocular muscle anomaly	Anomalia muscular extraocular congênita	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007648	rdfs:label	Punctate cataract	Catarata puntata	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007649	rdfs:label	Congenital hypertrophy of retinal pigment epithelium	Hipertrofia congênita do epitélio pigmentar da retina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007650	rdfs:label	Progressive ophthalmoplegia	Oftalmoplegia progressiva	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007651	rdfs:label	Ectropion of lower eyelids	Ectrópio das pálpebras inferiores	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007655	rdfs:label	Eversion of lateral third of lower eyelids	Eversão do terço lateral das pálpebras inferiores	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007656	rdfs:label	Lacrimal gland aplasia	Aplasia da glândula lacrimal	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007657	rdfs:label	Diffuse nuclear cataract	Catarata nuclear difusa	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007658	rdfs:label	Large hyperpigmented retinal spots	Manchas retinianas grandes e hiperpigmentadas	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007661	rdfs:label	Abnormality of chorioretinal pigmentation	Anomalia da pigmentação coriorretiniana	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007663	rdfs:label	Reduced visual acuity	Acuidade visual reduzida	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007665	rdfs:label	Curly eyelashes	Cílios encaracolados	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007667	rdfs:label	Peripheral cystoid retinal degeneration	Degeneração cistoide periférica da retina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007668	rdfs:label	Impaired pursuit initiation and maintenance	Prejuízo na iniciação e manutenção do movimento de perseguição	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007670	rdfs:label	Abnormal vestibulo-ocular reflex	Reflexo vestibulo-ocular anormal	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007675	rdfs:label	Progressive night blindness	Cegueira noturna progressiva	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007676	rdfs:label	Hypoplasia of the iris	Hipoplasia da íris	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007677	rdfs:label	Vitelliform-like macular lesions	Lesões maculares do tipo viteliforme	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007678	rdfs:label	Lacrimal duct stenosis	Estenose do ducto lacrimal	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007680	rdfs:label	Depigmented fundus	Fundo do olho despigmentado	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007685	rdfs:label	Peripheral retinal avascularization	Avascularização periférica da retina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007687	rdfs:label	Unilateral ptosis	Ptose unilateral	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007688	rdfs:label	Undetectable light- and dark-adapted electroretinogram	Eletrorretinograma adaptado à luz e à escuridão indetectável	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007690	rdfs:label	Map-dot-fingerprint corneal dystrophy	Distrofia corneana do tipo mapa-ponto-impressão digital	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007695	rdfs:label	Abnormal pupillary light reflex	Reflexo pupilar à luz anormal	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007697	rdfs:label	Hypoplasia of the lower eyelids	Hipoplasia das pálpebras inferiores	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007700	rdfs:label	Ocular anterior segment dysgenesis	Disgenesia do segmento ocular anterior	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007703	rdfs:label	Abnormality of retinal pigmentation	Anomalia da pigmentação da retina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007704	rdfs:label	Paroxysmal involuntary eye movements	Movimentos oculares involuntários paroxísticos	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007705	rdfs:label	Corneal degeneration	Degeneração da córnea	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007707	rdfs:label	Congenital aphakia	Afacia congênita	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007708	rdfs:label	Absent inner eyelashes	Cílios internos ausentes	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007710	rdfs:label	Peripheral vitreous opacities	Opacidades vítreas periféricas	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007715	rdfs:label	Weak extraocular muscles	Músculos extraoculares fracos	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007716	rdfs:label	Uveal melanoma	Melanoma da úvea	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007717	rdfs:label	Chronic irritative conjunctivitis	Conjuntivite irritativa crônica	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007720	rdfs:label	Flat cornea	Córnea plana	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007721	rdfs:label	Saccular conjunctival dilatations	Dilatações conjuntivais saculares	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007722	rdfs:label	Retinal pigment epithelial atrophy	Atrofia do epitélio pigmentado da retina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007727	rdfs:label	Opacification of the corneal epithelium	Opacificação do epitélio corneano	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007728	rdfs:label	Congenital miosis	Miose congênita	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007730	rdfs:label	Iris hypopigmentation	Hipopigmentação da íris	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007731	rdfs:label	Chorioretinal dysplasia	Displasia coriorretiniana	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007732	rdfs:label	Lacrimal gland hypoplasia	Hipoplasia da glândula lacrimal	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007733	rdfs:label	Laterally curved eyebrow	Sobrancelha curvada lateralmente	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007734	rdfs:label	Enlarged lacrimal glands	Glândulas lacrimais aumentadas	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007738	rdfs:label	Uncontrolled eye movements	Movimentos oculares descontrolados	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007740	rdfs:label	Long eyelashes in irregular rows	Cílios longos em fileiras irregulares	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007747	rdfs:label	Monocular horizontal nystagmus	Nistagmo horizontal monocular	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007750	rdfs:label	Hypoplasia of the fovea	Hipoplasia da fóvea	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007754	rdfs:label	Macular dystrophy	Distrofia macular	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007755	rdfs:label	Juvenile epithelial corneal dystrophy	Distrofia corneana epitelial juvenil	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007759	rdfs:label	Opacification of the corneal stroma	Opacificação do estroma corneano	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007760	rdfs:label	Crystalline corneal dystrophy	Distrodia corneana cristalina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007761	rdfs:label	Pericentral scotoma	Escotoma pericentral	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007763	rdfs:label	Retinal telangiectasia	Telangiectasia da retina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007765	rdfs:label	Deep anterior chamber	Câmara anterior profunda	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007766	rdfs:label	Optic disc hypoplasia	Hipoplasia do disco óptico	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007768	rdfs:label	Central retinal vessel vascular tortuosity	Tortuosidade vascular do vaso central da retina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007769	rdfs:label	Peripheral retinal degeneration	degeneração retiniana periférica	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007770	rdfs:label	Hypoplasia of the retina	Hipoplasia da retina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007772	rdfs:label	Impaired smooth pursuit	Perseguição suave prejudicada	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007773	rdfs:label	Vitreoretinopathy	Vitreorretinopatia	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007774	rdfs:label	Hypoplasia of the ciliary body	Hipoplasia do corpo ciliar	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007776	rdfs:label	Sparse lower eyelashes	Cílios inferiores esparsos	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007777	rdfs:label	Chorioretinal scar	Cicatriz coriorretiniana	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007778	rdfs:label	Posterior retinal neovascularization	Neovascularização posterior da retina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007779	rdfs:label	Anterior segment of eye aplasia	Aplasia do segmento ocular anterior	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007780	rdfs:label	Cortical pulverulent cataract	Catarata pulverulenta cortical	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007787	rdfs:label	Posterior subcapsular cataract	Catarata subcapsular posterior	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007791	rdfs:label	Patchy atrophy of the retinal pigment epithelium	Atrofia irregular do epitélio pigmentar da retina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007793	rdfs:label	Granular macular appearance	Aparência macular granular	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007795	rdfs:label	Anterior cortical cataract	Catarata cortical anterior	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007797	rdfs:label	Retinal vascular malformation	Malformação vascular da retina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007799	rdfs:label	Conjunctival whitish salt-like deposits	Depósitos conjuntivais esbranquiçados semelhantes a sal	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007800	rdfs:label	Increased axial length of the globe	Aumento do comprimento axial do globo ocular	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007802	rdfs:label	Granular corneal dystrophy	Distrofia corneana granular	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007803	rdfs:label	Monochromacy	Monocromatismo	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007807	rdfs:label	Optic nerve compression	Compressão do nervo óptico	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007811	rdfs:label	Horizontal pendular nystagmus	Nistagmo pendular horizontal	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007812	rdfs:label	Herpetiform corneal ulceration	Ulceração herpetiforme da córnea	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007813	rdfs:label	Nongranulomatous uveitis	Uveíte não granulomatosa	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007815	rdfs:label	Abnormal distribution of retinal arterioles and venules	Distribuição anormal das arteríolas e vênulas da retina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007817	rdfs:label	Horizontal supranuclear gaze palsy	Paralisia supranuclear do olhar horizontal	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007818	rdfs:label	Central heterochromia	Heterocromia central	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007819	rdfs:label	Presenile cataracts	Catarata pré-senil	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007820	rdfs:label	Lacrimal punctal atresia	Atresia do ponto lacrimal	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007822	rdfs:label	Central retinal exudate	Exsudato retiniano central	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007824	rdfs:label	Total ophthalmoplegia	Oftalmoplegia total	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007827	rdfs:label	Nodular corneal dystrophy	Distrofia nodular da córnea	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007830	rdfs:label	Adult-onset night blindness	Cegueira noturna com início na idade adulta	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007831	rdfs:label	Nonprogressive restrictive external ophthalmoplegia	Oftalmoplegia externa restritiva não progressiva	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007832	rdfs:label	Pigmentation of the sclera	Pigmentação da esclera	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007833	rdfs:label	Anterior chamber synechiae	Sinéquias da câmara anterior	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007834	rdfs:label	Progressive cataract	Catarata progressiva	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007835	rdfs:label	S-shaped palpebral fissures	Fissuras palpebrais em formato de S	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007836	rdfs:label	Mosaic corneal dystrophy	Distrofia da córnea em mosaico	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007838	rdfs:label	Progressive ptosis	Ptose progressiva	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007840	rdfs:label	Long upper eyelashes	Cílios superiores longos	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007841	rdfs:label	Amyloid deposition in the vitreous humor	Deposição de amiloide no humor vítreo	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007843	rdfs:label	Attenuation of retinal blood vessels	Atenuação dos vasos sanguíneos da retina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007850	rdfs:label	Retinal vascular proliferation	Proliferação vascular retiniana	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007854	rdfs:label	Glaucomatous visual field defect	Defeito glaucomatoso do campo visual	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007858	rdfs:label	Chorioretinal lacunae	Lacunas coriorretinianas	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007859	rdfs:label	Congenital horizontal nystagmus	Nistagmo horizontal congênito	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007862	rdfs:label	Retinal calcification	Calcificação da retina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007866	rdfs:label	Retinal infarction	Infarto da retina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007867	rdfs:label	Restrictive partial external ophthalmoplegia	Oftalmoplegia externa parcial restritiva	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007872	rdfs:label	Choroidal hemangioma	Hemangioma da coroide	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007873	rdfs:label	Abnormally prominent line of Schwalbe	Linha de Schwalbe anormalmente proeminente	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007874	rdfs:label	Almond-shaped palpebral fissure	Fissura palpebral amendoada	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007875	rdfs:label	Congenital blindness	Cegueira congênita	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007879	rdfs:label	Allergic conjunctivitis	Conjuntivite alérgica	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007880	rdfs:label	Marginal corneal dystrophy	Distrofia corneana marginal	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007881	rdfs:label	Central corneal dystrophy	Distrofia corneana central	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007885	rdfs:label	Slowed horizontal saccades	Sacadas horizontais lentas	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007886	rdfs:label	Absent extraocular muscles	Músculos extraoculares ausentes	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007889	rdfs:label	Iridescent posterior subcapsular cataract	Catarata subcapsular posterior iridescente	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007892	rdfs:label	Hypoplasia of the lacrimal punctum	Hipoplasia do ponto lacrimal	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007894	rdfs:label	Hypopigmentation of the fundus	Hipopigmentação do fundo do olho	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007898	rdfs:label	Exudative retinopathy	Retinopatia exsudativa	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007899	rdfs:label	Retinal nonattachment	Não aderência da retina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007900	rdfs:label	Hypoplastic lacrimal duct	Ducto lacrimal hipoplásico	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007902	rdfs:label	Vitreous hemorrhage	Hemorragia vítrea	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007903	rdfs:label	Paravenous chorioretinal atrophy	Atrofia paravenosa coriorretiniana	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007905	rdfs:label	Abnormal iris vasculature	Vasculatura anormal da íris	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007906	rdfs:label	Ocular hypertension	Hipertensão ocular	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007911	rdfs:label	Congenital bilateral ptosis	Ptose bilateral congênita	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007913	rdfs:label	Reticular retinal dystrophy	Distrofia retiniana reticulada	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007915	rdfs:label	Polymorphous posterior corneal dystrophy	Distrofia corneana polimórfica posterior	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007917	rdfs:label	Tractional retinal detachment	Descolamento tracional da retina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007922	rdfs:label	Hypermyelinated retinal nerve fibers	Fibras nervosas retinianas hipermielinizadas	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007924	rdfs:label	Slow decrease in visual acuity	Diminuição lenta da acuidade visual	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007925	rdfs:label	Lacrimal duct aplasia	Aplasia do ducto lacrimal	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007928	rdfs:label	Abnormal flash visual evoked potentials	Potenciais evocados visuais por flash anormais	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007929	rdfs:label	Peripheral retinal detachment	Descolamento periférico da retina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007932	rdfs:label	Bilateral congenital mydriasis	Midríase congênita bilateral	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007933	rdfs:label	Broad lateral eyebrow	Sobrancelha lateral larga	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007935	rdfs:label	Juvenile posterior subcapsular lenticular opacities	Opacidades lenticulares subcapsulares posteriores juvenis	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007936	rdfs:label	Restrictive external ophthalmoplegia	Oftalmoplegia externa restritiva	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007937	rdfs:label	Reticular pigmentary degeneration	Degeneração pigmentar reticular	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007939	rdfs:label	Blue cone monochromacy	Monocromatismo de cone azul	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007941	rdfs:label	Limited extraocular movements	Movimentos extraoculares limitados	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007942	rdfs:label	Internal ophthalmoplegia	Oftalmoplegia interna	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007943	rdfs:label	Congenital stapes ankylosis	Anquilose congênita do estribo	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007944	rdfs:label	Intermittent microsaccadic pursuits	Buscas microssacádicas intermitentes	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007946	rdfs:label	Unilateral narrow palpebral fissure	Fissura palpebral estreita unilateral	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007947	rdfs:label	Pericentral retinitis pigmentosa	Retinite pigmentosa pericentral	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007948	rdfs:label	Dense posterior cortical cataract	Catarata cortical posterior densa	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007950	rdfs:label	Peripapillary chorioretinal atrophy	Atrofia coriorretiniana peripapilar	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007957	rdfs:label	Corneal opacity	Opacidade da córnea	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007958	rdfs:label	Optic atrophy from cranial nerve compression	Atrofia óptica por compressão do nervo craniano	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007963	rdfs:label	Pattern dystrophy of the retina	Distrofia retiniana em padrão	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007964	rdfs:label	Degenerative vitreoretinopathy	Vitreorretinopatia degenerativa	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007965	rdfs:label	Undetectable visual evoked potentials	Potenciais evocados visuais indetectáveis	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007968	rdfs:label	Remnants of the hyaloid vascular system	Remanescentes do sistema vascular hialoide	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007970	rdfs:label	Congenital ptosis	Ptose congênita	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007971	rdfs:label	Lamellar cataract	Catarata lamelar	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007973	rdfs:label	Retinal dysplasia	Displasia retiniana	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007975	rdfs:label	Hypometric horizontal saccades	Sacadas horizontais hipométricas	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007976	rdfs:label	Cerulean cataract	Catarata cerúlea	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007979	rdfs:label	Gaze-evoked horizontal nystagmus	Nistagmo horizontal evocado pelo olhar	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007980	rdfs:label	Absent retinal pigment epithelium	Epitélio pigmentar da retina ausente	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007984	rdfs:label	Electronegative electroretinogram	Eletrorretinograma eletronegativo	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007985	rdfs:label	Retinal arteriolar occlusion	Oclusão arteriolar da retina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007986	rdfs:label	Increased retinal vascularity	Aumento da vascularização da retina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007987	rdfs:label	Progressive visual field defects	Defeitos progressivos do campo visual	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007988	rdfs:label	Macular hypopigmentation	Hipopigmentação macular	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007989	rdfs:label	Intraretinal exudate	Exsudato intrarretiniano	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007990	rdfs:label	Hypoplastic iris stroma	Estroma da íris hipoplásico	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007992	rdfs:label	Lattice retinal degeneration	Degeneração retiniana em treliça	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007993	rdfs:label	Malformed lacrimal duct	Ducto lacrimal malformado	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0007994	rdfs:label	Peripheral visual field loss	Perda de campo visual periférico	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008000	rdfs:label	Decreased corneal reflex	Reflexo corneano diminuído	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008001	rdfs:label	Foveal hyperpigmentation	Hiperpigmentação foveal	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008002	rdfs:label	Abnormality of macular pigmentation	Anomalia da pigmentação macular	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008007	rdfs:label	Primary congenital glaucoma	Glaucoma congênito primário	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008009	rdfs:label	Three rows of eyelashes	Três fileiras de cílios	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008011	rdfs:label	Peripheral opacification of the cornea	Opacificação periférica da córnea	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008014	rdfs:label	Central fundal arteriolar microaneurysms	Microaneurismas arteriolares centrais do fundo do olho	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008019	rdfs:label	Superior lens subluxation	Subluxação superior do cristalino	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008020	rdfs:label	Cone dystrophy	Distrofia de cones	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008026	rdfs:label	Horizontal opticokinetic nystagmus	Nistagmo optocinético horizontal	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008028	rdfs:label	Cystoid macular degeneration	Degeneração macular cistoide	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008030	rdfs:label	Retinal arteritis	Arterite retiniana	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008034	rdfs:label	Abnormal iris pigmentation	Pigmentação anormal da íris	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008035	rdfs:label	Retinitis pigmentosa inversa	Retinite pigmentosa inversa	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008037	rdfs:label	Absent anterior chamber of the eye	Câmara anterior do olho ausente	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008038	rdfs:label	Aplastic/hypoplastic lacrimal glands	Glândulas lacrimais aplásticas/hipoplásticas	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008039	rdfs:label	Subepithelial corneal opacities	Opacidades corneanas subepiteliais	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008041	rdfs:label	Late onset congenital glaucoma	Glaucoma congênito de início tardio	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008043	rdfs:label	Retinal arteriolar constriction	Constrição arteriolar da retina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008045	rdfs:label	Enlarged flash visual evoked potentials	Potenciais evocados visuais por flash aumentados	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008046	rdfs:label	Abnormal retinal vascular morphology	Morfologia vascular anormal da retina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008047	rdfs:label	Abnormality of the vasculature of the eye	Anomalia da vasculatura do olho	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008048	rdfs:label	Abnormal line of Schwalbe morphology	Morfologia anormal da linha de Schwalbe	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008049	rdfs:label	Abnormality of the extraocular muscles	Anomalia dos músculos extraoculares	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008050	rdfs:label	Abnormality of the palpebral fissures	Anomalia das fissuras palpebrais	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008052	rdfs:label	Retinal fold	Dobra da retina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008053	rdfs:label	Aplasia/Hypoplasia of the iris	Aplasia/Hipoplasia da íris	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008054	rdfs:label	Abnormal morphology of the conjunctival vasculature	Morfologia anormal da vasculatura conjuntival	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008055	rdfs:label	Aplasia/Hypoplasia affecting the uvea	Aplasia/hipoplasia que afeta a úvea	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008056	rdfs:label	Aplasia/Hypoplasia affecting the eye	Aplasia/hipoplasia que afeta o olho	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008057	rdfs:label	Aplasia/Hypoplasia affecting the fundus	Aplasia/hipoplasia que afeta o fundo do olho	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008058	rdfs:label	Aplasia/Hypoplasia of the optic nerve	Aplasia/Hipoplasia do nervo óptico	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008059	rdfs:label	Aplasia/Hypoplasia of the macula	Aplasia/Hipoplasia da mácula	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008060	rdfs:label	Aplasia/Hypoplasia of the fovea	Aplasia/Hipoplasia da fóvea	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008061	rdfs:label	Aplasia/Hypoplasia of the retina	Aplasia/Hipoplasia da retina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008062	rdfs:label	Aplasia/Hypoplasia affecting the anterior segment of the eye	Aplasia/hipoplasia que afeta o segmento anterior do olho	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008063	rdfs:label	Aplasia/Hypoplasia of the lens	Aplasia/Hipoplasia do cristalino	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008064	rdfs:label	Ichthyosis	Ictiose	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008065	rdfs:label	Aplasia/Hypoplasia of the skin	Aplasia/Hipoplasia da pele	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008066	rdfs:label	Abnormal blistering of the skin	Bolhas anormais na pele	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008067	rdfs:label	Abnormally lax or hyperextensible skin	Pele anormalmente frouxa ou hiperextensível	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008069	rdfs:label	Neoplasm of the skin	Neoplasia cutânea	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008070	rdfs:label	Sparse hair	Cabelos esparsos	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008071	rdfs:label	Maternal hypertension	Hipertensão materna	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008072	rdfs:label	Maternal virilization in pregnancy	Virilização materna na gestação	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008073	rdfs:label	Low maternal circulating estriol concentration	Baixa concentração de estriol materno circulante	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008074	rdfs:label	Metatarsal periosteal thickening	Espessamento do periósteo metatársico	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008076	rdfs:label	Osteoporotic tarsals	Tarsos osteoporóticos	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008078	rdfs:label	Thin metatarsal cortices	Córtices finos dos metatarsos	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008079	rdfs:label	Absent fifth metatarsal	Ausência do quinto metatarso	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008080	rdfs:label	Hallux varus	Hálux varo	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008081	rdfs:label	Pes valgus	Pé valgo	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008082	rdfs:label	Medial deviation of the foot	Desvio medial do pé	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008083	rdfs:label	2nd-5th toe middle phalangeal hypoplasia	Hipoplasia da falange média do 2º ao 5º dedos do pé	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008087	rdfs:label	Nonossified fifth metatarsal	Quinto metatarso não ossificado	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008089	rdfs:label	Abnormality of the fifth metatarsal bone	Anomalia do quinto osso metatarso	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008090	rdfs:label	Ankylosis of feet small joints	Anquilose das pequenas articulações dos pés	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008093	rdfs:label	Short 4th toe	4º dedo do pé curto	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008094	rdfs:label	Widely spaced toes	Dedos dos pés amplamente espaçados	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008095	rdfs:label	Osteolysis of talus	Osteólise do tálus	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008096	rdfs:label	Medially deviated second toe	Segundo dedo do pé desviado medialmente	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008097	rdfs:label	Partial fusion of tarsals	Fusão parcial de tarsos	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008102	rdfs:label	Expanded metatarsals with widened medullary cavities	Metatarsos expandidos com cavidades medulares alargadas	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008103	rdfs:label	Delayed tarsal ossification	Ossificação tarsal tardia	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008107	rdfs:label	Plantar crease between first and second toes	Prega plantar entre o primeiro e o segundo dedos do pé	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008108	rdfs:label	Advanced tarsal ossification	Ossificação tarsal avançada	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008110	rdfs:label	Equinovarus deformity	Deformidade equinovara	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008111	rdfs:label	Broad distal hallux	Hálux distal alargado	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008112	rdfs:label	Plantar flexion contracture	Contratura de flexão plantar	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008113	rdfs:label	Multiple plantar creases	Múltiplas pregas plantares	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008114	rdfs:label	Metatarsal diaphyseal endosteal sclerosis	Esclerose endosteal diafisária metatarsal	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008115	rdfs:label	Clinodactyly of the 3rd toe	Clinodactilia do 3º dedo do pé	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008116	rdfs:label	Flexion limitation of toes	Limitação de flexão dos dedos dos pés	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008117	rdfs:label	Shortening of the talar neck	Encurtamento do pescoço talar	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008119	rdfs:label	Deformed tarsal bones	Ossos tarsais deformados	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008122	rdfs:label	Calcaneonavicular fusion	Fusão calcaneonavicular	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008124	rdfs:label	Talipes calcaneovarus	Talipes calcâneo varo	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008125	rdfs:label	Second metatarsal posteriorly placed	Segundo metatarso posicionado posteriormente	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008127	rdfs:label	Bipartite calcaneus	Calcâneo bipartido	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008132	rdfs:label	Medial rotation of the medial malleolus	Rotação medial do maléolo medial	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008133	rdfs:label	Distal tapering of metatarsals	Afilamento distal dos metatarsos	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008134	rdfs:label	Irregular tarsal ossification	Ossificação tarsal irregular	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008141	rdfs:label	Dislocation of toes	Luxação dos dedos dos pés	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008142	rdfs:label	Delayed calcaneal ossification	Ossificação tardia do calcâneo	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008144	rdfs:label	Flattening of the talar dome	Achatamento da cúpula talar	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008148	rdfs:label	Impaired epinephrine-induced platelet aggregation	Agregação plaquetária induzida por epinefrina prejudicada	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008150	rdfs:label	Elevated serum transaminases during infections	Transaminases séricas elevadas durante infecções	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008151	rdfs:label	Prolonged prothrombin time	Tempo de protrombina prolongado	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008153	rdfs:label	Periodic hypokalemic paresis	Paresia hipocalêmica periódica	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008155	rdfs:label	Mucopolysacchariduria	Mucopolissacaridúria	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008158	rdfs:label	Hyperapobetalipoproteinemia	Hiperapobetalipoproteinemia	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008160	rdfs:label	3-hydroxydicarboxylic aciduria	Acidúria 3-hidroxidicarboxílica	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008161	rdfs:label	Absent leukocyte alkaline phosphatase	Fosfatase alcalina leucocitária ausente	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008162	rdfs:label	Asymptomatic hyperammonemia	Hiperamonemia assintomática	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008163	rdfs:label	Decreased circulating cortisol level	Diminuição do nível de cortisol circulante	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008165	rdfs:label	Decreased helper T cell proportion	Diminuição da proporção de células T auxiliares	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008166	rdfs:label	Decreased beta-galactosidase activity	Atividade diminuída da beta-galactosidase	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008167	rdfs:label	Very long chain fatty acid accumulation	Acúmulo de ácidos graxos de cadeia muito longa	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008169	rdfs:label	Reduced factor VII activity	Actividade reduzida do factor VII	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008176	rdfs:label	Neonatal unconjugated hyperbilirubinemia	Hiperbilirrubinemia não conjugada neonatal	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008178	rdfs:label	Abnormal cartilage matrix	Matriz de cartilagem anormal	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008179	rdfs:label	Decreased Arden ratio of electrooculogram	Relação de Arden diminuída do eletrooculograma	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008180	rdfs:label	Mildly elevated creatine kinase	Creatina cinase levemente elevada	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008181	rdfs:label	Abetalipoproteinemia	Abetalipoproteinemia	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008182	rdfs:label	Adrenocortical hypoplasia	Hipoplasia adrenocortical	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008185	rdfs:label	Precocious puberty in males	Puberdade precoce em homens	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008186	rdfs:label	Adrenocortical cytomegaly	Citomegalia adrenocortical	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008187	rdfs:label	Absence of secondary sex characteristics	Ausência de características sexuais secundárias	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008188	rdfs:label	Thyroid dysgenesis	Disgenesia tireoidiana	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008189	rdfs:label	Insulin insensitivity	Insensibilidade à insulina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008191	rdfs:label	Thyroid agenesis	Agenesia tireoidiana	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008193	rdfs:label	Primary gonadal insufficiency	Insuficiência gonadal primária	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008194	rdfs:label	Multiple pancreatic beta-cell adenomas	Múltiplos adenomas de células beta pancreáticas	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008197	rdfs:label	Absence of pubertal development	Ausência de desenvolvimento puberal	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008198	rdfs:label	Congenital hypoparathyroidism	Hipoparatiroidismo congênito	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008200	rdfs:label	Primary hyperparathyroidism	Hiperparatireoidismo primário	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008202	rdfs:label	Reduced circulating prolactin concentration	Concentração de prolactina circulante reduzida	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008204	rdfs:label	Precocious puberty with Sertoli cell tumor	Puberdade precoce com tumor de células de Sertoli	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008205	rdfs:label	Insulin-dependent but ketosis-resistant diabetes	Diabetes insulino-dependente, mas resistente a cetose	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008207	rdfs:label	Primary adrenal insufficiency	Insuficiência adrenal primária	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008208	rdfs:label	Parathyroid hyperplasia	Hiperplasia da glândula paratireoide	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008209	rdfs:label	Premature ovarian insufficiency	Insuficiência ovariana prematura	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008211	rdfs:label	Parathyroid agenesis	Agenesia da glândula paratireoide	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008213	rdfs:label	Gonadotropin deficiency	Deficiência de gonadotrofina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008214	rdfs:label	Decreased serum estradiol	Estradiol sérico diminuído	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008216	rdfs:label	Adrenal gland dysgenesis	Disgenesia da glândula adrenal	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008221	rdfs:label	Adrenal hyperplasia	Hiperplasia adrenal	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008222	rdfs:label	Female infertility	Infertilidade feminina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008223	rdfs:label	Compensated hypothyroidism	Hipotireoidismo compensado	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008225	rdfs:label	Thyroid follicular hyperplasia	Hiperplasia folicular da tireoide	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008226	rdfs:label	Androgen insufficiency	Insuficiência androgênica	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008227	rdfs:label	Pituitary resistance to thyroid hormone	Resistência hipofisária ao hormônio tireoidiano	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008229	rdfs:label	Thyroid lymphangiectasia	Linfangiectasia da tireoide	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008231	rdfs:label	Macronodular adrenal hyperplasia	Hiperplasia macronodular adrenal	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008232	rdfs:label	Elevated circulating follicle stimulating hormone level	Nível elevado de hormônio folículo-estimulante circulante	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008233	rdfs:label	Decreased circulating progesterone	Diminuição da progesterona circulante	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008236	rdfs:label	Isosexual precocious puberty	Puberdade precoce isossexual	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008237	rdfs:label	Hypothalamic hypothyroidism	Hipotireoidismo hipotalâmico	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008239	rdfs:label	Adrenal medullary hypoplasia	Hipoplasia medular adrenal	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008240	rdfs:label	Secondary growth hormone deficiency	Deficiência secundária de hormônio do crescimento	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008242	rdfs:label	Pseudohypoaldosteronism	Pseudo-hipoaldosteronismo	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0008244	rdfs:label	Congenital adrenal hypoplasia	Hipoplasia adrenal congênita	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0006094	rdfs:label	Finger joint hypermobility	Hipermobilidade articular dos dedos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006095	rdfs:label	Wide tufts of distal phalanges	Tufos largos das falanges distais	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006097	rdfs:label	3-4 finger syndactyly	Sindactília de 3º e 4º dedos da mão	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006099	rdfs:label	Metacarpophalangeal joint hyperextensibility	Hiperextensibilidade articular metacarpofalângica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006101	rdfs:label	Finger syndactyly	Sindactilia de dedos da mão	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006106	rdfs:label	Absent trapezoid bone	Ausência de osso trapezoide	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006107	rdfs:label	Fingerpad telangiectases	Telangiectasias em coxins digitais	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006108	rdfs:label	Tapered metacarpals	Metacarpos cônicos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006109	rdfs:label	Absent phalangeal crease	Prega falangeana ausente	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006110	rdfs:label	Shortening of all middle phalanges of the fingers	Encurtamento de todas as falanges médias dos dedos da mão	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006112	rdfs:label	Expanded phalanges with widened medullary cavities	Falanges expandidas com cavidades medulares alargadas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006114	rdfs:label	Multiple palmar creases	Múltiplas pregas palmares	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006118	rdfs:label	Shortening of all distal phalanges of the fingers	Encurtamento de todas as falanges distais dos dedos da mão	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006119	rdfs:label	Proximal tapering of metacarpals	Afunilamento proximal dos metacarpos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006121	rdfs:label	Acral ulceration	Ulceração acral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006127	rdfs:label	Long proximal phalanx of finger	Falange proximal de dedo da mão alongada	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006129	rdfs:label	Drumstick terminal phalanges	Baqueteamento digital	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006134	rdfs:label	Enlarged metacarpal epiphyses	Epífises metacarpais aumentadas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006135	rdfs:label	Decreased finger mobility	Diminuição da mobilidade dos dedos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006136	rdfs:label	Bilateral postaxial polydactyly	Polidactilia pós-axial bilateral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006140	rdfs:label	Premature fusion of phalangeal epiphyses	Fusão prematura das epífises falangeanas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006143	rdfs:label	Abnormal finger flexion crease	Prega de flexão anormal em dedo da mão	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006144	rdfs:label	Shortening of all proximal phalanges of the fingers	Encurtamento de todas as falanges proximais dos dedos da mão	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006145	rdfs:label	Central Y-shaped metacarpal	Metacarpo central em forma de Y	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006146	rdfs:label	Broad metacarpal epiphyses	Epífises metacarpais amplas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006147	rdfs:label	Progressive fusion 2nd-5th pip joints	Fusão progressiva das articulações interfalangeanas proximas do 2o ao 5o dígito	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006149	rdfs:label	Increased laxity of fingers	Aumento da frouxidão dos dedos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006150	rdfs:label	Swan neck-like deformities of the fingers	Deformidades semelhantes a pescoço de cisne dos dedos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006152	rdfs:label	Proximal symphalangism of hands	Sinfalangismo proximal das mãos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006155	rdfs:label	Long phalanx of finger	Falange de dedo da mão alongada	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006156	rdfs:label	Ulnar deviation of thumb	Desvio ulnar do polegar	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006157	rdfs:label	Prominent palmar flexion creases	Pregas palmares proeminentes	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006159	rdfs:label	Mesoaxial hand polydactyly	Polidactilia mesoaxial da mão	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006160	rdfs:label	Irregular metacarpals	Metacarpos irregulares	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006161	rdfs:label	Short metacarpals with rounded proximal ends	Metacarpos curtos com extremidades proximais arredondadas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006162	rdfs:label	Soft tissue swelling of interphalangeal joints	Edema em tecidos moles das articulações interfalangianas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006163	rdfs:label	Enlarged metacarpophalangeal joints	Articulações metacarpofalangianas aumentadas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006165	rdfs:label	Proportionate shortening of all digits	Encurtamento proporcional de todos os dígitos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006166	rdfs:label	Tubular metacarpal bones	Ossos metacarpais tubulares	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006167	rdfs:label	Prominent proximal interphalangeal joints	Articulações interfalangeanas proximais proeminentes	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006169	rdfs:label	Decreased mobility 3rd-5th fingers	Mobilidade diminuída de 3º ao 5º quirodáctilos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006170	rdfs:label	Chess-pawn distal phalanges	Falanges distais em peão de xadrez	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006172	rdfs:label	Flattened, squared-off epiphyses of tubular bones	Epífises achatadas e quadradas de ossos tubulares	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006174	rdfs:label	Metacarpal diaphyseal endosteal sclerosis	Esclerose endosteal diafisária metacarpal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006175	rdfs:label	Proximal phalangeal periosteal thickening	Espessamento periosteal de falange proximal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006176	rdfs:label	Two carpal ossification centers present at birth	Dois centros de ossificação do carpo presentes ao nascimento	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006179	rdfs:label	Pseudoepiphyses of second metacarpal	Pseudoepífises do segundo metacarpo	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006180	rdfs:label	Crowded carpal bones	Ossos do carpo apinhados	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006184	rdfs:label	Decreased palmar creases	Pregas palmares diminuídas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006185	rdfs:label	Enlarged proximal interphalangeal joints	Articulações interfalangeanas proximais aumentadas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006189	rdfs:label	Prominent interdigital folds	Membrana interdigital proeminente	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006190	rdfs:label	Radially deviated wrists	Desvio radial do punho	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006191	rdfs:label	Deep palmar crease	Prega palmar profunda	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006192	rdfs:label	Tapered phalanx of finger	Falange afilada de dedo da mão	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006193	rdfs:label	Thimble-shaped middle phalanges of hand	Falanges médias da mão em forma de dedal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006200	rdfs:label	Widened distal phalanges	Falanges distais alargadas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006201	rdfs:label	Hypermobility of distal interphalangeal joints	Hipermobilidade das articulações interfalangeanas distais	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006202	rdfs:label	Osteolysis of scaphoids	Osteólise de escafoides	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006203	rdfs:label	Decreased movement range in interphalangeal joints	Restrição de amplitude de movimento das articulações interfalangeanas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006205	rdfs:label	Irregular phalanges	Falanges irregulares	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006206	rdfs:label	Hypersegmentation of proximal phalanx of second finger	Hipersegmentação da falange proximal do segundo dedo	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006207	rdfs:label	Partial fusion of carpals	Fusão parcial de ossos do carpo	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006208	rdfs:label	Metaphyseal cupping of proximal phalanges	Falanges proximais em taça	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006209	rdfs:label	Partial-complete absence of 5th phalanges	Ausência parcial ou completa de 5ª falanges	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006210	rdfs:label	Postaxial oligodactyly	Oligodactilia pós-axial	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006213	rdfs:label	Thin proximal phalanges with broad epiphyses of the hand	Falanges proximais da mão finas com epífises amplas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006216	rdfs:label	Single interphalangeal crease of fifth finger	Prega interfalangeana única do quinto dedo da mão	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006217	rdfs:label	Limited mobility of proximal interphalangeal joint	Mobilidade limitada de articulação interfalangeana proximal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006224	rdfs:label	Tapering pointed ends of distal finger phalanges	Falanges distais dos dedos da mão afuniladas e pontiagudas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006226	rdfs:label	Osteoarthritis of the first carpometacarpal joint	Osteoartrite da primeira articulação carpometacarpal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006228	rdfs:label	Valgus hand deformity	Deformidade da mão em valgo	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006230	rdfs:label	Unilateral oligodactyly	Oligodactilia unilateral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006232	rdfs:label	Expanded metacarpals with widened medullary cavities	Metacarpos expandidos com cavidades medulares alargadas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006233	rdfs:label	Osteoarthritis of the distal interphalangeal joint	Osteoartrite de articulação interfalangeana distal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006234	rdfs:label	Osteolysis involving tarsal bones	Osteólise envolvendo ossos do tarso	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006236	rdfs:label	Slender metacarpals	Metacarpos delgados	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006237	rdfs:label	Prominent interphalangeal joints	Articulações interfalangeanas proeminentes	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006239	rdfs:label	Shortening of all middle phalanges of the toes	Encurtamento de todas as falanges médias dos dedos dos pés	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006243	rdfs:label	Phalangeal dislocation	Luxação das falanges	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006247	rdfs:label	Enlarged interphalangeal joints	Articulações interfalangeanas alargadas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006248	rdfs:label	Limited wrist movement	Movimento limitado do punho	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006251	rdfs:label	Limited wrist extension	Extensão limitada do punho	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006252	rdfs:label	Interphalangeal joint erosions	Erosão de articulações interfalangeanas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006253	rdfs:label	Swelling of proximal interphalangeal joints	Edema de articulações interfalangeanas proximais	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006254	rdfs:label	Elevated circulating alpha-fetoprotein concentration	Concentração elevada de alfa-fetoproteína circulante	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006256	rdfs:label	Abnormality of hand joint mobility	Anomalia de mobilidade de articulação da mão	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006257	rdfs:label	Abnormality of carpal bone ossification	Anomalia de ossificação de osso do carpo	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006261	rdfs:label	Abnormal phalangeal joint morphology of the hand	Morfologia anormal da articulação falangeana da mão	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006262	rdfs:label	Aplasia/Hypoplasia of the 5th finger	Aplasia/hipoplasia do 5º dedo da mão	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006263	rdfs:label	Abnormality of the epiphyses of the 2nd finger	Anomalia das epífises do 2º dedo da mão	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006264	rdfs:label	Aplasia/Hypoplasia of the 2nd finger	Aplasia/hipoplasia do 2º dedo da mão	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006265	rdfs:label	Aplasia/Hypoplasia of fingers	Aplasia/hipoplasia dos dedos da mão	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006266	rdfs:label	Small placenta	Placenta pequena	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0006267	rdfs:label	Large placenta	Placenta grande	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006268	rdfs:label	Fluctuating splenomegaly	Esplenomegalia intermitente	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006270	rdfs:label	Hypoplastic spleen	Baço hipoplásico	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006273	rdfs:label	Pancreatic lymphangiectasis	Linfangiectasia pancreática	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006274	rdfs:label	Reduced pancreatic beta cells	Células beta pancreáticas reduzidas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006276	rdfs:label	Hyperechogenic pancreas	Pâncreas hiperecogênico	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006277	rdfs:label	Pancreatic hyperplasia	Hiperplasia pancreática	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006278	rdfs:label	Ectopic pancreatic tissue	Tecido pancreático ectópico	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006279	rdfs:label	Beta-cell dysfunction	Disfunção das células beta	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006280	rdfs:label	Chronic pancreatitis	Pancreatite crônica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006282	rdfs:label	Generalized hypoplasia of dental enamel	Hipoplasia generalizada do esmalte dentário	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006283	rdfs:label	Multiple unerupted teeth	Múltiplos dentes não irrompidos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006285	rdfs:label	Enamel hypomineralization	Hipomineralização do esmalte dentário	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006286	rdfs:label	Yellow-brown discoloration of the teeth	Dentes com coloração amarelada/amarronzada	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006288	rdfs:label	Advanced eruption of teeth	Erupção precoce dos dentes	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006289	rdfs:label	Agenesis of central incisor	Agenesia de incisivo central	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006290	rdfs:label	Discolored lateral incisors	Incisivos laterais descoloridos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006291	rdfs:label	Marked delay in eruption of permanent teeth	Atraso acentuado na erupção dos dentes permanentes	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006292	rdfs:label	Abnormality of dental eruption	Anomalia da erupção dentária	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006293	rdfs:label	Agenesis of maxillary central incisor	Agenesia de incisivo central superior	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006297	rdfs:label	Enamel hypoplasia	Hipoplasia do esmalte dentário	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006298	rdfs:label	Prolonged bleeding after dental extraction	Sangramento prolongado após exodontia	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006302	rdfs:label	Dagger-shaped pulp calcifications	Calcificações da polpa em forma de adaga	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006304	rdfs:label	Widely-spaced incisors	Incisivos amplamente espaçados	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006308	rdfs:label	Atrophy of alveolar ridges	Atrofia das cristas alveolares	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006311	rdfs:label	Generalized microdontia	Microdontia generalizada	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006313	rdfs:label	Widely spaced primary teeth	Dentes decíduos amplamente espaçados	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006315	rdfs:label	Solitary median maxillary central incisor	Incisivo central superior único em posição medial	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006316	rdfs:label	Irregularly spaced teeth	Dentes espaçados irregularmente	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006321	rdfs:label	Multiple non-erupting secondary teeth	Múltiplos dentes secundários não irrompidos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006323	rdfs:label	Premature loss of primary teeth	Perda prematura de dentes decíduos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006326	rdfs:label	Buried teeth encased in mucopolysaccharide	Dentes enterrados e envoltos por mucopolissacarídeos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006329	rdfs:label	Alveolar process hypoplasia	Hipoplasia do processo alveolar	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006330	rdfs:label	Rotated maxillary central incisors	Incisivos centrais superiores rotacionados	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006332	rdfs:label	Supernumerary maxillary incisor	Incisivo maxilar supranumerário	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006333	rdfs:label	Crowded maxillary incisors	Incisivos maxilares apinhados	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006334	rdfs:label	Hypoplasia of the primary teeth	Hipoplasia dos dentes decíduos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006335	rdfs:label	Persistence of primary teeth	Persistência de dentes decíduos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006336	rdfs:label	Short dental root	Raiz dentária curta	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006337	rdfs:label	Premature eruption of permanent teeth	Erupção prematura de dentes permanentes	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006338	rdfs:label	Malformation of mandibular premolar	Malformação de pré-molar mandibular	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006339	rdfs:label	Conical mandibular incisor	Incisivo mandibular cônico	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006342	rdfs:label	Peg-shaped maxillary lateral incisors	Incisivos laterais superiores em forma de pino	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006344	rdfs:label	Abnormal primary molar morphology	Morfologia anormal de dente molar decíduo	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006346	rdfs:label	Screwdriver-shaped incisors	Incisivos em forma de chave de fenda	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006347	rdfs:label	Microdontia of primary teeth	Microdontia de dentes decíduos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006349	rdfs:label	Agenesis of permanent teeth	Agenesia de dentes permanentes	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006350	rdfs:label	Pulp obliteration	Obliteração da polpa dentária	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006352	rdfs:label	Failure of eruption of permanent teeth	Falha de erupção de dentes permanentes	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006353	rdfs:label	Hypoplasia of the tooth germ	Hipoplasia do germe dentário	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006355	rdfs:label	Agenesis of mandibular central incisor	Agenesia de incisivo central mandibular	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006357	rdfs:label	Premature loss of permanent teeth	Perda prematura de dentes permanentes	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006358	rdfs:label	Shovel-shaped maxillary central incisors	Incisivos centrais superiores em forma de pá	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006361	rdfs:label	Irregular femoral epiphysis	Epífise femoral irregular	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006362	rdfs:label	Varus deformity of humeral neck	Deformidade em varo do colo do úmero	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006366	rdfs:label	Adductor longus contractures	Contraturas do adutor longo	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006367	rdfs:label	Crumpled long bones	Ossos longos com aparência amassada	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006368	rdfs:label	Forearm reduction defects	Defeitos de redução do antebraço	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006369	rdfs:label	Irregular patellae	Patelas irregulares	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006370	rdfs:label	Distal ulnar epiphyseal stippling	Pontilhado epifisário ulnar distal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006371	rdfs:label	Broad long bone diaphyses	Diáfises de ossos longos largas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006375	rdfs:label	Dumbbell-shaped femur	Fêmur em forma de haltere	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006376	rdfs:label	Limited elbow flexion	Flexão limitada do cotovelo	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006378	rdfs:label	Osteolysis of patellae	Osteólise das patelas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006379	rdfs:label	Proximal tibial hypoplasia	Hipoplasia da tíbia proximal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006380	rdfs:label	Knee flexion contracture	Contratura em flexão do joelho	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006381	rdfs:label	Rudimentary fibula	Fíbula rudimentar	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006383	rdfs:label	Progressive bowing of long bones	Arqueamento progressivo dos ossos longos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006384	rdfs:label	Club-shaped distal femur	Fêmur distal em forma de clava	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006385	rdfs:label	Short lower limbs	Membros inferiores curtos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006386	rdfs:label	Hypoplastic distal radial epiphyses	Epífises radiais distais hipoplásicas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006387	rdfs:label	Wide distal femoral metaphysis	Metáfise femoral distal ampla	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006389	rdfs:label	Limited knee flexion	Flexão limitada do joelho	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006390	rdfs:label	Anterior tibial bowing	Arqueamento anterior da tíbia	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006391	rdfs:label	Overtubulated long bones	Estreitamento de ossos longos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006392	rdfs:label	Increased density of long bones	Aumento da densidade de ossos longos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006394	rdfs:label	Limited pronation/supination of forearm	Pronação/supinação limitada do antebraço	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006397	rdfs:label	Lateral displacement of patellae	Deslocamento lateral das patelas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006398	rdfs:label	Flat distal femoral epiphysis	Epífise femoral distal plana	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006400	rdfs:label	Absent knee epiphyses	Epífises de joelho ausentes	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006402	rdfs:label	Distal shortening of limbs	Encurtamento distal dos membros	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006406	rdfs:label	Club-shaped proximal femur	Fêmur proximal em clava	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006407	rdfs:label	Irregular distal femoral epiphysis	Epífise femoral distal irregular	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006408	rdfs:label	Distal tapering femur	Fêmur distal afunilado	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006409	rdfs:label	Progressive leg bowing	Arqueamento progressivo de pernas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006413	rdfs:label	Broad tibial metaphyses	Metáfises tibiais amplas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006414	rdfs:label	Distal tibial bowing	Arqueamento da tíbia distal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006415	rdfs:label	Cortically dense long tubular bones	Ossos tubulares longos com córtex denso	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006417	rdfs:label	Wide femoral metaphysis	Metáfise femoral ampla	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006420	rdfs:label	Asymmetric radial dysplasia	Displasia radial assimétrica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006423	rdfs:label	Peg-like central prominence of distal tibial metaphyses	Proeminência central em cravelha de metáfises tibiais distais	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006424	rdfs:label	Elongated radius	Rádio alongado	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006426	rdfs:label	Rudimentary to absent tibiae	Tíbias rudimentares a ausentes	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006429	rdfs:label	Broad femoral neck	Colo femoral largo	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006431	rdfs:label	Abnormal proximal femoral metaphysis morphology	Morfologia anormal da metáfise femoral proximal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006432	rdfs:label	Trapezoidal distal femoral condyles	Côndilos femorais distais trapezoidais	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006433	rdfs:label	Radial dysplasia	Displasia radial	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006434	rdfs:label	Hypoplasia of proximal radius	Hipoplasia do rádio proximal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006437	rdfs:label	Disproportionate prominence of the femoral medial condyle	Proeminência desproporcional do côndilo medial femoral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006438	rdfs:label	Enlargement of the distal femoral epiphysis	Alargamento da epífise femoral distal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006439	rdfs:label	Radioulnar dislocation	Luxação radioulnar	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006440	rdfs:label	Increased density of long bone diaphyses	Aumento da densidade de diáfises de ossos longos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006441	rdfs:label	Lateral humeral condyle aplasia	Aplasia do côndilo umeral lateral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006442	rdfs:label	Hypoplasia of proximal fibula	Hipoplasia da fíbula proximal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006443	rdfs:label	Patellar aplasia	Aplasia patelar	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006446	rdfs:label	Dysplastic patella	Patela displásica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006449	rdfs:label	Distal radial epiphyseal osteolysis	Osteólise epifisária radial distal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006450	rdfs:label	Multicentric ossification of proximal femoral epiphyses	Ossificação multicêntrica de epífises femorais proximais	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006453	rdfs:label	Lateral displacement of the femoral head	Deslocamento lateral da cabeça femoral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006454	rdfs:label	Delayed patellar ossification	Ossificação patelar retardada	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006456	rdfs:label	Irregular proximal tibial epiphyses	Epífises tibiais proximais irregulares	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006459	rdfs:label	Dorsal subluxation of ulna	Subluxação dorsal da ulna	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006460	rdfs:label	Increased laxity of ankles	Aumento da frouxidão dos tornozelos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006461	rdfs:label	Proximal femoral epiphysiolysis	Epifisiólise da cabeça do fémur	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006462	rdfs:label	Generalized bone demineralization	Desmineralização óssea generalizada	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006463	rdfs:label	Rickets of the lower limbs	Raquitismo dos membros inferiores	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006465	rdfs:label	Periosteal thickening of long tubular bones	Espessamento periosteal de ossos tubulares longos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006466	rdfs:label	Ankle flexion contracture	Contratura em flexão do tornozelo	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006467	rdfs:label	Limited shoulder movement	Movimento limitado dos ombros	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006470	rdfs:label	Thin long bone diaphyses	Diáfise fina de ossos longos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006471	rdfs:label	Fixed elbow flexion	Flexão fixa do cotovelo	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006473	rdfs:label	Anterior bowing of long bones	Arqueamento anterior de ossos longos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006476	rdfs:label	Abnormality of the pancreatic islet cells	Anomalia das células das ilhotas pancreáticas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006477	rdfs:label	Abnormal alveolar ridge morphology	Morfologia anormal da crista alveolar	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006479	rdfs:label	Abnormal dental pulp morphology	Morfologia anormal da polpa dentária	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006480	rdfs:label	Premature loss of teeth	Perda prematura de dentes	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006481	rdfs:label	Abnormality of primary teeth	Anomalia dos dentes decíduos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006482	rdfs:label	Abnormal dental morphology	Morfologia dentária anormal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006483	rdfs:label	Abnormal number of teeth	Quantidade anormal de dentes	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0006485	rdfs:label	Agenesis of incisor	Agenesia do incisivo	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006486	rdfs:label	Abnormal dental root morphology	Morfologia anormal da raiz dentária	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006487	rdfs:label	Bowing of the long bones	Arqueamento dos ossos longos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006488	rdfs:label	Bowing of the arm	Arqueamento do braço	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006489	rdfs:label	Abnormal femoral metaphysis morphology	Morfologia anormal da metáfise femoral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006492	rdfs:label	Aplasia/Hypoplasia of the fibula	Aplasia/Hipoplasia da fíbula	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006493	rdfs:label	Aplasia/hypoplasia involving bones of the lower limbs	Aplasia/hipoplasia envolvendo ossos dos membros inferiores	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006494	rdfs:label	Aplasia/Hypoplasia involving bones of the feet	Aplasia/Hipoplasia envolvendo ossos dos pés	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006495	rdfs:label	Aplasia/Hypoplasia of the ulna	Aplasia/Hipoplasia da ulna	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006496	rdfs:label	Aplasia/hypoplasia involving bones of the upper limbs	Aplasia/hipoplasia envolvendo ossos dos membros superiores	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006498	rdfs:label	Aplasia/Hypoplasia of the patella	Aplasia/Hipoplasia da patela	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006499	rdfs:label	Abnormal femoral epiphysis morphology	Morfologia anormal da epífise femoral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006500	rdfs:label	Abnormal lower limb epiphysis morphology	Morfologia anormal da epífise do membro inferior	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006501	rdfs:label	Aplasia/Hypoplasia of the radius	Aplasia/Hipoplasia do rádio	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006502	rdfs:label	Aplasia/Hypoplasia involving the carpal bones	Aplasia/Hipoplasia envolvendo os ossos do carpo	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006503	rdfs:label	Aplasia/hypoplasia involving forearm bones	Aplasia/hipoplasia envolvendo ossos do antebraço	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006505	rdfs:label	Abnormal limb epiphysis morphology	Anomalia morfológica epifisária de membro	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006507	rdfs:label	Aplasia/hypoplasia of the humerus	Aplasia/hipoplasia do úmero	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006508	rdfs:label	Abnormality of tibial epiphyses	Anomalia das epífises tibiais	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006509	rdfs:label	Diverticulosis of trachea	Diverticulose da traqueia	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006510	rdfs:label	Chronic pulmonary obstruction	Obstrução pulmonar crônica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006511	rdfs:label	Laryngeal stridor	Estridor laríngeo	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006514	rdfs:label	Intraalveolar nodular calcifications	Calcificações nodulares intra-alveolares	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006515	rdfs:label	Interstitial pneumonitis	Pneumonite intersticial	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006516	rdfs:label	Hypersensitivity pneumonitis	Pneumonite de hipersensibilidade	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006517	rdfs:label	Intraalveolar phospholipid accumulation	Acúmulo de fosfolipídios intra-alveolares	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006518	rdfs:label	Pulmonary venous occlusion	Oclusão venosa pulmonar	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006519	rdfs:label	Alveolar cell carcinoma	Carcinoma de células alveolares	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006520	rdfs:label	Progressive pulmonary function impairment	Comprometimento progressivo da função pulmonar	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006521	rdfs:label	Pulmonary lymphangiectasia	Linfangiectasia pulmonar	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006522	rdfs:label	Repeated pneumothoraces	Pneumotórax de repetição	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006524	rdfs:label	Tracheobronchial leiomyomatosis	Leiomiomatose traqueobrônquica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006527	rdfs:label	Lymphocytic interstitial pneumonia	Pneumonia intersticial linfocítica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006528	rdfs:label	Chronic lung disease	Doença pulmonar crónica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006529	rdfs:label	Abnormal pulmonary lymphatics	Linfáticos pulmonares anormais	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006530	rdfs:label	Abnormal pulmonary interstitial morphology	Morfologia intersticial pulmonar anormal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006531	rdfs:label	Pleural lymphangiectasia	Linfangiectasia pleural	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006532	rdfs:label	Recurrent pneumonia	Pneumonia recidivante	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006533	rdfs:label	Bronchodysplasia	Broncodisplasia	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006535	rdfs:label	Recurrent intrapulmonary hemorrhage	Hemorragia intrapulmonar recorrente	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006536	rdfs:label	Airway obstruction	Obstrução de vias aéreas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006538	rdfs:label	Recurrent bronchopulmonary infections	Infecções broncopulmonares recorrentes	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006539	rdfs:label	Bronchial cartilage hypoplasia	Hipoplasia da cartilagem brônquica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006543	rdfs:label	Cardiorespiratory arrest	Parada cardiorrespiratória	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006544	rdfs:label	Extrapulmonary lobar sequestration	Sequestro lobar extrapulmonar	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006548	rdfs:label	Pulmonary arteriovenous malformation	Malformação arteriovenosa em pulmão	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006549	rdfs:label	Unilateral primary pulmonary dysgenesis	Disgenesia pulmonar primária unilateral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006552	rdfs:label	Fibrocystic lung disease	Doença pulmonar fibrocística	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006554	rdfs:label	Acute hepatic failure	Falência hepática aguda	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006555	rdfs:label	Diffuse hepatic steatosis	Esteatose hepática difusa	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006557	rdfs:label	Polycystic liver disease	Doença hepática policística	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006558	rdfs:label	Decreased mitochondrial complex III activity in liver tissue	Diminuição da atividade do complexo mitocondrial III no tecido hepático	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006559	rdfs:label	Hepatic calcification	Calcificação hepática	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006560	rdfs:label	Biliary hyperplasia	Hiperplasia biliar	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006561	rdfs:label	Lipid accumulation in hepatocytes	Acûmulo de lipídeos nos hepatócitos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006562	rdfs:label	Viral hepatitis	Hepatite viral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006563	rdfs:label	Malformation of the hepatic ductal plate	Malformação da placa ductal hepática	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006564	rdfs:label	Fluctuating hepatomegaly	Hepatomegalia flutuante	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006565	rdfs:label	Increased hepatocellular lipid droplets	Aumento das gotículas lipídicas hepatocelulares	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006566	rdfs:label	Neonatal cholestatic liver disease	Doença hepática colestática neonatal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006568	rdfs:label	Increased hepatic glycogen content	Aumento do teor de glicogênio hepático	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006571	rdfs:label	Reduced number of intrahepatic bile ducts	Número reduzido de vias biliares intra-hepáticas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006572	rdfs:label	Subacute progressive viral hepatitis	Hepatite viral progressiva subaguda	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006573	rdfs:label	Acute hepatic steatosis	Esteatose hepática aguda	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006574	rdfs:label	Hepatic arteriovenous malformation	Malformação arteriovenosa hepática	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006575	rdfs:label	Intrahepatic cholestasis with episodic jaundice	Colestase intra-hepática com icterícia episódica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006576	rdfs:label	Hepatic vascular malformations	Malformações vasculares hepáticas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006577	rdfs:label	Macronodular cirrhosis	Cirrose hepática macronodular	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006579	rdfs:label	Prolonged neonatal jaundice	Icterícia neonatal prolongada	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006580	rdfs:label	Portal fibrosis	Fibrose portal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006581	rdfs:label	Depletion of mitochondrial DNA in liver	Depleção do DNA mitocondrial no fígado	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006582	rdfs:label	Reye syndrome-like episodes	Episódios semelhantes à síndrome de Reye	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006583	rdfs:label	Fatal liver failure in infancy	Insuficiência hepática fatal na infância	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006584	rdfs:label	Small abnormally formed scapulae	Escápulas pequenas e malformadas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006585	rdfs:label	Congenital pseudoarthrosis of the clavicle	Pseudoartrose congênita da clavícula	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006587	rdfs:label	Straight clavicles	Clavículas retas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006589	rdfs:label	Flaring of lower rib cage	Caixa torácica inferior ampla	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006590	rdfs:label	Premature sternal synostosis	Sinostose esternal prematura	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006591	rdfs:label	Absent glenoid fossa	Ausência de fossa glenóide	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006593	rdfs:label	Anomalous rib insertion to vertebrae	Inserção vertebral anômala de costela	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006595	rdfs:label	Scapulohumeral synostosis	Sinostose escapulo-umeral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006596	rdfs:label	Restricted chest movement	Movimento torácico restrito	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006597	rdfs:label	Diaphragmatic paralysis	Paralisia diafragmática	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006598	rdfs:label	Irregular ossification at anterior rib ends	Ossificação irregular nas extremidades das costelas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006599	rdfs:label	Medial widening of clavicles	Alargamento medial das clavículas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006600	rdfs:label	Progressive calcification of costochondral cartilage	Calcificacão progressiva de cartilagem costocondral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006603	rdfs:label	Flared, irregular rib ends	Extremidades de costela irregulares e alargadas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006606	rdfs:label	Irregular chondrocostal junctions	Junções condrocostais irregulares	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006607	rdfs:label	Precocious costochondral ossification	Ossificação costocondral precoce	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006608	rdfs:label	Midclavicular hypoplasia	Hipoplasia medial da clavícula	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006610	rdfs:label	Wide intermamillary distance	Hipertelorismo mamilar	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006611	rdfs:label	Decreased number of sternal ossification centers	Diminuição do número de centros de ossificação esternais	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006615	rdfs:label	Absent in utero rib ossification	Ausência intra-útero de ossificação das costelas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006619	rdfs:label	Anterior rib punctate calcifications	Calcificações punctatas das costelas anteriores	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006623	rdfs:label	Costochondral joint sclerosis	Esclerose articular costocondral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006625	rdfs:label	Multifocal breast carcinoma	Carcinoma de mama multifocal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006628	rdfs:label	Absent sternal ossification	Ausência de ossificação do esterno	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006631	rdfs:label	Hypoplastic distal segments of scapulae	Segmentos distais da escápula hipoplásicos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006633	rdfs:label	Glenoid fossa hypoplasia	Hipoplasia da fossa glenoidal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006634	rdfs:label	Osteosclerosis of ribs	Osteosclerose das costelas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006637	rdfs:label	Sternal punctate calcifications	Calcificações punctatas do esterno	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006638	rdfs:label	Midclavicular aplasia	Aplasia da clavícula média	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006640	rdfs:label	Multiple rib fractures	Fratura de múltiplas costelas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006641	rdfs:label	Prominent floating ribs	Costelas flutuantes proeminentes	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006642	rdfs:label	Large sternal ossification centers	Centros de ossificação do esterno com tamanho aumentado	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006643	rdfs:label	Fused sternal ossification centers	Centros de ossificação esternal fundidos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006644	rdfs:label	Thoracic dysplasia	Displasia torácica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006645	rdfs:label	Thin clavicles	Clavículas finas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006646	rdfs:label	Costal cartilage calcification	Calcificação de cartilagem costal, calcificação em cartilagem costal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006647	rdfs:label	Congenital microthorax	Microtórax congênito	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006649	rdfs:label	Costochondral pain	Dor costocondral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006650	rdfs:label	Thickening of the lateral border of the scapula	Espessamento da borda lateral da escápula	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006655	rdfs:label	Rib segmentation abnormalities	Anomalias de segmentação das costelas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006657	rdfs:label	Hypoplasia of first ribs	Hipoplasia das primeiras costelas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006659	rdfs:label	Internally rotated shoulders	Ombros rodados internamente	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006660	rdfs:label	Aplastic clavicle	Clavícula aplásica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006665	rdfs:label	Coat hanger sign of ribs	Costelas em formato de cabide	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006668	rdfs:label	Twelfth rib hypoplasia	Hipoplasia da décima segunda costela	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006670	rdfs:label	Impaired myocardial contractility	Contratilidade miocárdica prejudicada	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006671	rdfs:label	Paroxysmal atrial tachycardia	Taquicardia atrial paroxística	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006673	rdfs:label	Reduced systolic function	Função sistólica reduzida	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006677	rdfs:label	Prolonged QRS complex	Complexo QRS prolongado	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0006679	rdfs:label	Granulomatous coronary arteritis	Arterite coronariana granulomatosa	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006681	rdfs:label	Absent atrioventricular node	Nó atrioventricular ausente	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006682	rdfs:label	Premature ventricular contraction	Contrações ventriculares ectópicas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006683	rdfs:label	Abnormal ventricular filling	Enchimento ventricular anormal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006684	rdfs:label	Ventricular preexcitation with multiple accessory pathways	Pré-excitação ventricular com múltiplas vias acessórias	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006685	rdfs:label	Endocardial fibrosis	Fibrose do endocárdio	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006687	rdfs:label	Aortic tortuosity	Tortuosidade aórtica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006688	rdfs:label	Paroxysmal tachycardia	Taquicardia paroxística	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006689	rdfs:label	Bacterial endocarditis	Endocardite bacteriana	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006690	rdfs:label	Myocardial calcification	Calcificação miocárdica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006691	rdfs:label	Pulmonic valve myxoma	Mixoma de valva pulmonar	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006692	rdfs:label	Short chordae tendineae of the tricuspid valve	Cordas tendíneas da valva tricúspide curtas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006693	rdfs:label	Myocardial steatosis	Esteatose miocárdica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006694	rdfs:label	Early progressive calcific cardiac valvular disease	Doença cardíaca valvar calcificada progressiva precoce	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006695	rdfs:label	Atrioventricular canal defect	Defeito do septo atrioventricular	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006696	rdfs:label	Polymorphic and polytopic ventricular extrasystoles	Extrassístoles ventriculares polimórficas e politópicas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006698	rdfs:label	Dilatation of the ventricular cavity	Dilatação da cavidade ventricular	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006699	rdfs:label	Premature atrial contractions	Contrações atriais prematuras	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006702	rdfs:label	Coronary artery dissection	Dissecção de artéria coronariana	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006703	rdfs:label	Aplasia/Hypoplasia of the lungs	Aplasia/Hipoplasia dos pulmões	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006704	rdfs:label	Abnormal coronary artery morphology	Morfologia anormal de artéria coronária	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006705	rdfs:label	Abnormal atrioventricular valve morphology	Morfologia anormal de valva atrioventricular	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006706	rdfs:label	Cystic liver disease	Doença hepática cística	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006707	rdfs:label	Abnormality of the hepatic vasculature	Anomalia da vasculatura hepática	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006709	rdfs:label	Aplasia/Hypoplasia of the nipples	Aplasia/Hipoplasia dos mamilos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006710	rdfs:label	Aplasia/Hypoplasia of the clavicles	Aplasia/Hipoplasia das clavículas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006711	rdfs:label	Aplasia/Hypoplasia involving bones of the thorax	Aplasia/Hipoplasia envolvendo ossos do tórax	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006712	rdfs:label	Aplasia/Hypoplasia of the ribs	Aplasia/Hipoplasia das costelas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006713	rdfs:label	Aplasia/Hypoplasia of the scapulae	Aplasia/Hipoplasia da escápula	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006715	rdfs:label	Glomus tympanicum paraganglioma	Paraganglioma júgulo-timpânico	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006716	rdfs:label	Hereditary nonpolyposis colorectal carcinoma	Carcinoma colorretal não polipoide hereditário	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006717	rdfs:label	Peripheral neuroepithelioma	Neuroepitelioma periférico	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006719	rdfs:label	Benign gastrointestinal tract tumors	Tumores benignos do trato gastrointestinal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006721	rdfs:label	Acute lymphoblastic leukemia	Leucemia linfoblástica aguda	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006722	rdfs:label	Small intestine carcinoid	Carcinoide do intestino delgado	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006723	rdfs:label	Intestinal carcinoid	Carcinoide intestinal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006725	rdfs:label	Pancreatic adenocarcinoma	Adenocarcinoma do pancreas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006727	rdfs:label	T-cell acute lymphoblastic leukemias	Leucemias linfoblásticas agudas de células T	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006729	rdfs:label	Retroperitoneal paraganglioma	Paraganglioma retroperitoneal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006731	rdfs:label	Follicular thyroid carcinoma	Adenocarcinoma folicular de tireoide	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006732	rdfs:label	Papillary renal cell carcinoma type 2	Carcinoma de células renais papilares tipo 2	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006733	rdfs:label	Acute megakaryocytic leukemia	Leucemia megacariocítica aguda	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006735	rdfs:label	Renal cortical adenoma	Adenoma cortical renal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006737	rdfs:label	Extraadrenal pheochromocytoma	Feocromocitoma Extrassuprarrenal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006739	rdfs:label	Squamous cell carcinoma of the skin	Carcinoma espinocelular da pele	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006740	rdfs:label	Transitional cell carcinoma of the bladder	Carcinoma de células transicionais da bexiga	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006742	rdfs:label	Congenital neuroblastoma	Neuroblastoma congénito	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006743	rdfs:label	Embryonal rhabdomyosarcoma	Rabdomiosarcoma embrionário	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006744	rdfs:label	Adrenocortical carcinoma	Carcinoma adrenocortical	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006747	rdfs:label	Ganglioneuroblastoma	Ganglioneuroblastoma	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006748	rdfs:label	Adrenal pheochromocytoma	Feocromocitoma adrenal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006749	rdfs:label	Malignant gastrointestinal tract tumors	Cancer do trato grastrointestinal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0006751	rdfs:label	Paraspinal neurofibroma	Neurofibroma paraespinhal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012439	rdfs:label	Abnormal biliary tract physiology	Fisiologia anormal do trato biliar	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012440	rdfs:label	Abnormal biliary tract morphology	Morfologia anormal das vias biliares	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012441	rdfs:label	Sphincter of Oddi dyskinesia	Discinesia do esfíncter de Oddi	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012442	rdfs:label	Gallbladder dyskinesia	Discinesia da Vesícula Biliar	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012443	rdfs:label	Abnormal brain morphology	Morfologia cerebral anormal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012444	rdfs:label	Brain atrophy	Atrofia cerebral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012446	rdfs:label	Decreased CSF 5-methyltetrahydrofolate concentration	Concentração reduzida de 5-metiltetrahidrofolato no líquor cefalorraquidiano	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012447	rdfs:label	Abnormal myelination	Mielinização anormal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012448	rdfs:label	Delayed myelination	Mielinização retardada	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012449	rdfs:label	Sacroiliac joint synovitis	Sinovite da articulação sacroilíaca	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012450	rdfs:label	Chronic constipation	Constipação crônica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012451	rdfs:label	Acute constipation	Constipação aguda	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012452	rdfs:label	Restless legs	Pernas inquietas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012453	rdfs:label	Bilateral wrist flexion contracture	Contratura em flexão bilateral dos punhos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012454	rdfs:label	Unilateral wrist flexion contracture	Contratura em flexão unilateral do punho	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012456	rdfs:label	Medial arterial calcification	Calcificação da túnica média das artérias	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012457	rdfs:label	Medial calcification of medium-sized arteries	Calcificação da túnica média de artérias de tamanho médio	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012458	rdfs:label	Medial calcification of small arteries	Calcificação da túnica média de pequenas artérias	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012459	rdfs:label	Hypnic headache	Cefaleia hípnica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012460	rdfs:label	Dysmorphic inferior cerebellar vermis	Vermis cerebelar inferior dismórfico	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012461	rdfs:label	Bacteriuria	Bacteriúria	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012462	rdfs:label	Chin myoclonus	Mioclonia do queixo	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012463	rdfs:label	Elevated transferrin saturation	Saturação de transferrina elevada	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012464	rdfs:label	Decreased transferrin saturation	Diminuição da saturação de transferrina	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012465	rdfs:label	Elevated hepatic iron concentration	Concentração elevada de ferro hepático	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012466	rdfs:label	Chronic respiratory acidosis	Acidose respiratória crônica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012467	rdfs:label	Acute respiratory acidosis	Acidose respiratória aguda	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012468	rdfs:label	Chronic acidosis	Acidose crônica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012469	rdfs:label	Infantile spasms	Espasmos infantis	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012470	rdfs:label	Setting-sun eye phenomenon	Fenômeno ocular do sol poente	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012471	rdfs:label	Thick vermilion border	Borda do vermelhão grossa	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012472	rdfs:label	Eclabion	Eclabion	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012473	rdfs:label	Tongue atrophy	Atrofia da língua	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012474	rdfs:label	Carotid artery occlusion	Oclusão da artéria carótida	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012475	rdfs:label	Decreased circulating level of specific antibody	Diminuição do nível circulante de anticorpo específico	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012476	rdfs:label	Decreased specific pneumococcal antibody level	Diminuição do nível de anticorpos específicos aos pneumococos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012477	rdfs:label	Vocal tremor	Tremor vocal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012478	rdfs:label	Temporomandibular joint ankylosis	Anquilose da articulação temporomandibular	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012479	rdfs:label	Temporomandibular joint crepitus	Crepitação em articulação temporomandibular	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012480	rdfs:label	Abnormal cerebral vein morphology	Morfologia anormal das veias cerebrais	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012481	rdfs:label	Cerebral venous angioma	Angioma Venoso Cerebral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012482	rdfs:label	Frontal venous angioma	Angioma venoso frontal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012483	rdfs:label	Abnormal alpha granules	Grânulos alfa anormais	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012484	rdfs:label	Abnormal dense granules	Grânulos densos anormais	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012485	rdfs:label	Abnormal surface-connected open canalicular system	Sistema canalicular aberto anormalmente conectado à superfície plaquetária	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012486	rdfs:label	Myelitis	Mielite	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012487	rdfs:label	Cerebellopontine angle arachnoid cyst	Cisto aracnoide no ângulo cerebelopontino	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012488	rdfs:label	Intraventricular arachnoid cyst	Cisto aracnoide intraventricular	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012489	rdfs:label	Suprasellar arachnoid cyst	Cisto aracnoide suprasselar	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012490	rdfs:label	Panniculitis	Paniculite	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012491	rdfs:label	Abnormal dense tubular system	Sistema tubular denso anormal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012492	rdfs:label	Cerebral artery stenosis	Estenose de artéria cerebral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012493	rdfs:label	Middle cerebral artery stenosis	Estenose da artéria cerebral média	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012494	rdfs:label	Anterior cerebral artery stenosis	Estenose da artéria cerebral anterior	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012495	rdfs:label	Posterior cerebral artery stenosis	Estenose da artéria cerebral posterior	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012496	rdfs:label	Reduced maximal inspiratory pressure	Pressão inspiratória máxima reduzida	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012497	rdfs:label	Reduced maximal expiratory pressure	Pressão expiratória máxima reduzida	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012498	rdfs:label	Nuchal cord	Circular do cordão no pescoço	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012499	rdfs:label	Descending aortic dissection	Dissecção da aorta descendente	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012500	rdfs:label	Verrucous papule	Pápula verrucosa	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012501	rdfs:label	Abnormal brainstem white matter morphology	Morfologia anormal da substância branca do tronco encefálico	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012502	rdfs:label	Abnormality of the internal capsule	Anomalia da cápsula interna	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012503	rdfs:label	Abnormal pituitary gland morphology	Morfologia anormal da glândula pituitária	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012504	rdfs:label	Abnormal size of pituitary gland	Tamanho anormal da glândula pituitária	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012505	rdfs:label	Enlarged pituitary gland	Hipófise aumentada	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0012506	rdfs:label	Small pituitary gland	Hipófise pequena	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012507	rdfs:label	Weakness of orbicularis oculi muscle	Fraqueza do músculo orbicular do olho	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012508	rdfs:label	Metamorphopsia	Metamorfopsia	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012509	rdfs:label	Reduced thyroxin-binding globulin	Globulina ligadora de tiroxina reduzida	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012510	rdfs:label	Extra-axial cerebrospinal fluid accumulation	Acúmulo extra-axial de líquido cefalorraquidiano	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012511	rdfs:label	Temporal optic disc pallor	Palidez do disco óptico temporal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012512	rdfs:label	Diffuse optic disc pallor	Palidez difusa do disco óptico	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012513	rdfs:label	Upper limb pain	Dor em braço	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012514	rdfs:label	Lower limb pain	Dor na perna	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012515	rdfs:label	Hip flexor weakness	Fraqueza dos flexores do quadril	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012516	rdfs:label	Tetralogy of Fallot with pulmonary atresia	Tetralogia de Fallot com atresia pulmonar	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012517	rdfs:label	Reduced circulating catalase activity	Atividade reduzida da catalase circulante	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012518	rdfs:label	Abnormal circle of Willis morphology	Morfologia anormal do polígono de Willis	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012519	rdfs:label	Hypoplastic posterior communicating artery	Artéria comunicante posterior hipoplásica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012520	rdfs:label	Dilation of Virchow-Robin spaces	Dilatação dos espaços de Virchow-Robin	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012521	rdfs:label	Optic nerve aplasia	Aplasia do nervo óptico	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012522	rdfs:label	Spider hemangioma	Hemangioma de aranha	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012523	rdfs:label	Oral aversion	Aversão oral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012524	rdfs:label	Abnormal platelet shape	Forma anormal das plaquetas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012525	rdfs:label	Abnormal alpha granule distribution	Distribuição anormal de grânulos alfa	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012526	rdfs:label	Absence of alpha granules	Ausência de grânulos alfa	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012527	rdfs:label	Abnormal alpha granule content	Conteúdo anormal dos grânulos alfa	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012528	rdfs:label	Abnormal number of alpha granules	Quantidade anormal de grânulos alfa	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012529	rdfs:label	Abnormal dense granule content	Conteúdo anormal dos grânulos densos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012530	rdfs:label	Abnormal number of dense granules	Quantidade anormal de grânulos densos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012531	rdfs:label	Pain	Dor	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012532	rdfs:label	Chronic pain	Dor crônica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012533	rdfs:label	Allodynia	Alodínia	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012534	rdfs:label	Dysesthesia	Disestesia	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012535	rdfs:label	Abnormal synaptic transmission	Transmissão sináptica anormal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012536	rdfs:label	Maternal anticardiolipin antibody positive	Anticorpo anticardiolipina materno positivo	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012537	rdfs:label	Food intolerance	Intolerância alimentar	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0012538	rdfs:label	Gluten intolerance	Intolerância ao glúten	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012539	rdfs:label	Non-Hodgkin lymphoma	Linfoma não Hodgkin	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012540	rdfs:label	Axillary epidermoid cyst	Cisto epidermoide axilar	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012541	rdfs:label	Cephalohematoma	Cefalematoma	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012542	rdfs:label	Onychauxis	Unhas de espessura aumentada	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012543	rdfs:label	Hemosiderinuria	Hemossiderinúria	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012544	rdfs:label	Elevated circulating aldolase concentration	Concentração elevada de aldolase circulante	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012545	rdfs:label	Reduced circulating aldolase concentration	Concentração reduzida de aldolase circulante	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0012546	rdfs:label	Skewed maternal X inactivation	Inativação enviesada do cromossomo X materno	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012547	rdfs:label	Abnormal involuntary eye movements	Movimentos involuntários anormais do olho	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012548	rdfs:label	Fatty replacement of skeletal muscle	Substituição gordurosa do músculo esquelético	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012549	rdfs:label	Conjunctival lipoma	Lipoma conjuntival	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012550	rdfs:label	Colonic varices	Varizes do cólon	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012551	rdfs:label	Absent neutrophil specific granules	Ausência dos grânulos específicos dos neutrófilos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012552	rdfs:label	Increased neutrophil nuclear projections	Projeções nucleares de neutrófilos aumentadas	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012553	rdfs:label	Hypoplastic thumbnail	Unha do polegar hipoplásica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012554	rdfs:label	Absent thumbnail	Unha do polegar ausente	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012555	rdfs:label	Absent nail of hallux	Unha do hálux ausente	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012556	rdfs:label	Hyperbeta-alaninemia	Hiperbeta-alaninemia	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012557	rdfs:label	EEG with centrotemporal focal spike waves	EEG com ponta onda focal centrotemporal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012558	rdfs:label	Abnormal T3/T4 ratio	Relação T3/T4 anormal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012559	rdfs:label	Increased T3/T4 ratio	Relação T3/T4 aumentada	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012560	rdfs:label	Decreased T3/T4 ratio	Relação T3/T4 diminuída	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012561	rdfs:label	Unicuspid aortic valve	Valva aórtica unicúspide	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012562	rdfs:label	Premature epimetaphyseal fusion in hand	Fusão epimetafisária prematura na mão	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012563	rdfs:label	Premature epimetaphyseal fusion in foot	Fusão epimetafisária prematura no pé	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012564	rdfs:label	Premature epimetaphyseal fusion in tibia	Fusão epimetafisária prematura na tíbia	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012565	rdfs:label	Premature epimetaphyseal fusion in fibula	Fusão epimetafisária prematura na fíbula	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012566	rdfs:label	Premature epimetaphyseal fusion in radius	Fusão epimetafisária prematura no rádio	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012567	rdfs:label	Premature epimetaphyseal fusion in ulna	Fusão epimetafisária prematura na ulna	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012568	rdfs:label	Lower eyelid edema	Edema da pálpebra inferior	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012569	rdfs:label	Delayed menarche	Menarca tardia	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012570	rdfs:label	Synovial sarcoma	Sarcoma sinovial	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012571	rdfs:label	Ureter fissus	Ureter com duplicação incompleta	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012572	rdfs:label	Ureter duplex	Ureter com duplicação completa	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012573	rdfs:label	Global proximal tubulopathy	Tubulopatia proximal global	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012574	rdfs:label	Mesangial hypercellularity	Hipercelularidade mesangial	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012575	rdfs:label	Abnormal nephron morphology	Morfologia anormal dos néfrons	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012576	rdfs:label	Glomerular C3 deposition	Deposição glomerular de C3	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012577	rdfs:label	Thin glomerular basement membrane	Membrana basal glomerular fina	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012578	rdfs:label	Membranous nephropathy	Nefropatia membranosa	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012579	rdfs:label	Minimal change glomerulonephritis	Glomerulonefrite com lesão mínima	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012580	rdfs:label	Calcium phosphate nephrolithiasis	Nefrolitíase por fosfato de cálcio	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012581	rdfs:label	Simple renal cyst	Cisto renal simples	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012582	rdfs:label	Bilateral renal dysplasia	Displasia renal bilateral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012583	rdfs:label	Unilateral renal hypoplasia	Hipoplasia renal unilateral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012584	rdfs:label	Bilateral renal hypoplasia	Hipoplasia renal bilateral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012585	rdfs:label	Renal atrophy	Atrofia renal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012586	rdfs:label	Bilateral renal atrophy	Atrofia renal bilateral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012587	rdfs:label	Macroscopic hematuria	Hematúria macroscópica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012588	rdfs:label	Steroid-resistant nephrotic syndrome	Síndrome nefrótica esteroide-resistente	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012589	rdfs:label	Multidrug-resistant nephrotic syndrome	Síndrome nefrótica multirresistente	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012590	rdfs:label	Abnormal urine output	Débito urinário anormal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012591	rdfs:label	Abnormal urinary electrolyte concentration	Concentração anormal de eletrólitos urinários	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012592	rdfs:label	Albuminuria	Albuminúria	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012593	rdfs:label	Nephrotic range proteinuria	Proteinúria em níveis nefróticos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012594	rdfs:label	Moderate albuminuria	Albuminúria moderada	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012595	rdfs:label	Mild proteinuria	Proteinúria leve	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012596	rdfs:label	Moderate proteinuria	Proteinúria moderada	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012597	rdfs:label	Heavy proteinuria	Proteinúria marcada	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012598	rdfs:label	Abnormal urine potassium concentration	Concentração anormal de potássio na urina	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012599	rdfs:label	Abnormal urine phosphate concentration	Concentração anormal de fosfato na urina	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012600	rdfs:label	Abnormal urine chloride concentration	Concentração anormal de cloreto na urina	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012601	rdfs:label	Hypochloriduria	Hipocloridúria	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012602	rdfs:label	Renal chloride wasting	Perda renal de cloreto	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012603	rdfs:label	Abnormal urine sodium concentration	Concentração anormal de sódio na urina	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012604	rdfs:label	Hyponatriuria	Hiponatriúria	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012605	rdfs:label	Hypernatriuria	Hipernatriuria	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012606	rdfs:label	Renal sodium wasting	Perda renal de sódio	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012607	rdfs:label	Abnormal urine magnesium concentration	Concentração anormal de magnésio na urina	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012608	rdfs:label	Hypermagnesiuria	Hipermagnesiúria	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012609	rdfs:label	Hypomagnesiuria	Hipomagnesiúria	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012610	rdfs:label	Abnormality of urinary uric acid level	Anomalia do nível de ácido úrico urinário	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012612	rdfs:label	Abnormal urinary sulfate concentration	Concentração anormal de sulfato urinário	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012613	rdfs:label	Increased urinary sulfate	Aumento do sulfato urinário	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012614	rdfs:label	Abnormal urine cytology	Citologia da urina anormal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012615	rdfs:label	Cylindruria	Cilíndros na urina	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012616	rdfs:label	Leukocyte cylindruria	Cilindrúria leucocitária	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012617	rdfs:label	Erythrocyte cylindruria	Cilindrúria eritocitária	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012618	rdfs:label	Urachal cyst	Cisto de úraco	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012619	rdfs:label	Multiple bladder diverticula	Divertículos múltiplos da bexiga	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012620	rdfs:label	Cloacal abnormality	Anomalia cloacal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012621	rdfs:label	Persistent cloaca	Cloaca persistente	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012622	rdfs:label	Chronic kidney disease	Doença renal crônica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012623	rdfs:label	Stage 1 chronic kidney disease	Doença renal crônica em estadio 1	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012624	rdfs:label	Stage 2 chronic kidney disease	Doença renal crônica em fase 2	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012625	rdfs:label	Stage 3 chronic kidney disease	Doença renal crônica em estadio 3	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012626	rdfs:label	Stage 4 chronic kidney disease	Doença renal crônica em fase 4	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012627	rdfs:label	Pseudoexfoliation	Pseudoexfoliação	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012628	rdfs:label	Abnormal suspensory ligament of lens morphology	Morfologia anormal do ligamento suspensor do cristalino	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012629	rdfs:label	Phakodonesis	Facodonese	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012630	rdfs:label	Abnormal trabecular meshwork morphology	Morfologia anormal da malha trabecular	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012631	rdfs:label	Pigment deposition in the trabecular meshwork	Deposição de pigmento na malha trabecular	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012632	rdfs:label	Abnormal intraocular pressure	Pressão ocular anormal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012633	rdfs:label	Asymmetry of intraocular pressure	Assimetria da pressão intraocular	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012634	rdfs:label	Iris pigment dispersion	Dispersão do pigmento da íris	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012635	rdfs:label	Iris hypoperfusion	Hipoperfusão da íris	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012636	rdfs:label	Retinal vein occlusion	Oclusão da veia da retina	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012637	rdfs:label	Renal calcium wasting	Perda de cálcio renal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012638	rdfs:label	Abnormal nervous system physiology	Fisiologia anormal do sistema nervoso	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012639	rdfs:label	Abnormal nervous system morphology	Morfologia anormal do sistema nervoso	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012640	rdfs:label	Abnormality of intracranial pressure	Anomalia da pressão intracraniana	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012641	rdfs:label	Decreased intracranial pressure	Pressão intracraniana diminuída	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012642	rdfs:label	Cerebellar agenesis	Agenesia cerebelar	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012643	rdfs:label	Foveal hypopigmentation	Hipopigmentação foveal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012644	rdfs:label	Increased caudate lactate level	Aumento de lactato no núcleo caudado	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012645	rdfs:label	Enlarged peripheral nerve	Nervo periférico engrossado	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012646	rdfs:label	Retractile testis	Testículos retráteis	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012647	rdfs:label	Abnormal inflammatory response	Resposta inflamatória anormal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012648	rdfs:label	Decreased inflammatory response	Diminuição da resposta inflamatória	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012649	rdfs:label	Increased inflammatory response	Aumento da resposta inflamatória	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012650	rdfs:label	Perisylvian polymicrogyria	Polimicrogiria perisilviana	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012651	rdfs:label	Abasia	Abasia	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012652	rdfs:label	Exercise-induced asthma	Asma Induzida por Exercício	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012653	rdfs:label	Status asthmaticus	Estado asmático	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012654	rdfs:label	Abnormal CSF dopamine concentration	Concentração anormal de dopamina no LCR	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012655	rdfs:label	Elevated CSF dopamine concentration	Concentração elevada de dopamina no LCR	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012656	rdfs:label	Reduced CSF dopamine concentration	Concentração reduzida de dopamina no LCR	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012657	rdfs:label	Abnormal brain positron emission tomography	Tomografia cerebral de emissão de pósitrons anormal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012658	rdfs:label	Abnormal brain FDG positron emission tomography	Tomografia dcerebral de emissão de pósitrons com uso de FDG anormal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012659	rdfs:label	Prefrontal hypometabolism in FDG PET	Hipometabolismo prefrontal em PET-FDG	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012660	rdfs:label	Thalamic hypometabolism in FDG PET	Hipometabolismo talâmico em PET-FDG	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012661	rdfs:label	Hypothalamic hypometabolism in FDG PET	Hipometabolismo hipotalâmico em PET-FDG	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012662	rdfs:label	Parietal hypometabolism in FDG PET	Hipometabolismo parietal em PET-FDG	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012663	rdfs:label	Mildly reduced left ventricular ejection fraction	Fração de ejeção do ventrículo esquerdo com redução leve	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012664	rdfs:label	Reduced left ventricular ejection fraction	Fração de ejeção do ventrículo esquerdo reduzida	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012665	rdfs:label	Moderately reduced left ventricular ejection fraction	Fração de ejeção ventricular esquerda moderadamente reduzida	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012666	rdfs:label	Severely reduced left ventricular ejection fraction	Redução acentuada da fração de ejeção do ventrículo esquerdo	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012667	rdfs:label	Regional left ventricular wall motion abnormality	Anomalia localizada de movimento da parede do ventrículo esquerdo	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012668	rdfs:label	Vasovagal syncope	Síncope vasovagal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012669	rdfs:label	Carotid sinus syncope	Síncope do seio carotídeo	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012670	rdfs:label	Orthostatic syncope	Síncope ortostática	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012671	rdfs:label	Abulia	Abulia	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012672	rdfs:label	Akinetic mutism	Mutismo acinético	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012673	rdfs:label	Aplasia of the upper vagina	Aplasia da vagina superior	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012674	rdfs:label	Aplasia of the lower vagina	Aplasia da vagina inferior	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012675	rdfs:label	Iron accumulation in brain	Acúmulo de ferro no cérebro	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012676	rdfs:label	Copper accumulation in brain	Acúmulo de cobre no cérebro	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012678	rdfs:label	Iron accumulation in substantia nigra	Acúmulo de ferro na substância negra	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012679	rdfs:label	Widened interpedicular distance	Distância interpedicular aumentada	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012680	rdfs:label	Abnormality of the pineal gland	Anomalia da glândula pineal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012681	rdfs:label	Abnormal pineal morphology	Morfologia pineal anormal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012682	rdfs:label	Pineal gland calcification	Calcificação da glândula pineal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012683	rdfs:label	Pineal cyst	Cisto da glândula pineal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012684	rdfs:label	Abnormal pineal volume	Volume pineal anormal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012685	rdfs:label	Decreased pineal volume	Diminuição do volume pineal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012686	rdfs:label	Increased pineal volume	Aumento do volume pineal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012687	rdfs:label	Agenesis of pineal gland	Agenesia da glândula pineal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012688	rdfs:label	Abnormality of pineal physiology	Anomalia da fisiologia da pineal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012689	rdfs:label	Abnormal pineal melatonin secretion	Secreção anormal de melatonina pela glândula pineal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012690	rdfs:label	T2 hypointense thalamus	Hipointensidade em T2 no tálamo	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012691	rdfs:label	Focal T2 hypointense thalamic lesion	Lesão talâmica com hipointensidade focal em T2	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012692	rdfs:label	Focal T2 hyperintense thalamic lesion	Lesão talâmica com hiperintensidade focal em T2	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012693	rdfs:label	Abnormal thalamic size	Tamanho talâmico anormal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012694	rdfs:label	Enlarged thalamic volume	Volume talâmico aumentado	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012695	rdfs:label	Decreased thalamic volume	Diminuição do volume talâmico	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012696	rdfs:label	Abnormal thalamic MRI signal intensity	Intensidade anormal de sinal no tálamo à ressonância magnética	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012697	rdfs:label	Small basal ganglia	Gânglios basais pequenos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012698	rdfs:label	Cerebellar gliosis	Gliose cerebelar	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012699	rdfs:label	Anomaly of lower limb diaphyses	Anomalia de diáfises de membros inferiores	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012700	rdfs:label	Abnormal large intestine physiology	Fisiologia anormal do intestino grosso	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012701	rdfs:label	Bowel urgency	Urgência evacuatória	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012702	rdfs:label	Tenesmus	Tenesmo	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012703	rdfs:label	Abnormal subarachnoid space morphology	Morfologia anormal do espaço subaracnoideo	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012704	rdfs:label	Widened subarachnoid space	Espaço subaracnoide alargado	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012705	rdfs:label	Abnormal metabolic brain imaging by MRS	Metabolismo cerebral anormal à ressonância magnética com espectroscopia	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012706	rdfs:label	Elevated brain choline level by MRS	Pico de colina cerebral aumentado à ressonância magnética com espectrometria	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012707	rdfs:label	Elevated brain lactate level by MRS	Pico de lactato cerebral aumentado à ressonância magnética por espectroscopia	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012708	rdfs:label	Reduced brain N-acetyl aspartate level by MRS	pico de N-acetil-aspartato diminuído à ressonância magnética cerebral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012709	rdfs:label	Abnormal brain choline/creatine ratio by MRS	Relação colina/creatina cerebral anormal por MRS	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012710	rdfs:label	Ingrown nail	Onicocriptose	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012711	rdfs:label	Delayed ossification of vertebral epiphysis	Ossificação tardia de epífise vertebral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012712	rdfs:label	Mild hearing impairment	Déficit auditivo leve	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012713	rdfs:label	Moderate hearing impairment	Déficit auditivo moderado	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012714	rdfs:label	Severe hearing impairment	Déficit auditivo grave	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012715	rdfs:label	Profound hearing impairment	Déficit auditivo profundo	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012716	rdfs:label	Moderate conductive hearing impairment	Déficit auditivo condutivo moderado	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012717	rdfs:label	Severe conductive hearing impairment	Déficit auditivo condutivo grave	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012718	rdfs:label	Abnormal gastrointestinal tract morphology	Morfologia anormal do trato gastrointestinal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012719	rdfs:label	Functional abnormality of the gastrointestinal tract	Anomalia funcional do trato gastrointestinal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012720	rdfs:label	Neoplasm of the nose	Neoplasia nasal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012721	rdfs:label	Venous malformation	Malformação venosa	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012722	rdfs:label	Heart block	Bloqueio cardíaco	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012723	rdfs:label	Sinoatrial block	Bloqueio sinoatrial	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012724	rdfs:label	Upper eyelid edema	Edema da pálpebra superior	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012725	rdfs:label	Cutaneous syndactyly	Sindactilia cutânea	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012726	rdfs:label	Episodic hypokalemia	Hipocalemia episódica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012727	rdfs:label	Thoracic aortic aneurysm	Aneurisma da aorta torácica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012728	rdfs:label	Fusiform descending thoracic aortic aneurysm	Aneurisma fusiforme da aorta torácica descendente	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012729	rdfs:label	Saccular descending thoracic aortic aneurysm	Aneurisma sacular da aorta torácica descendente	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012730	rdfs:label	Aglossia	Aglossia	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012731	rdfs:label	Ectopic anterior pituitary gland	Glândula pituitária anterior ectópica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012732	rdfs:label	Anorectal anomaly	Anomalia anorretal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012734	rdfs:label	Ketotic hypoglycemia	Hipoglicemia cetótica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012735	rdfs:label	Cough	Tosse	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012736	rdfs:label	Profound global developmental delay	Atraso global de desenvolvimento profundo	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012737	rdfs:label	Small intestinal polyp	Pólipo do intestino delgado	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012738	rdfs:label	Agenesis of canine	Agenesia de canino	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012739	rdfs:label	Agenesis of the small intestine	Agenesia do intestino delgado	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012740	rdfs:label	Papilloma	Papiloma	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012741	rdfs:label	Unilateral cryptorchidism	Criptorquidia unilateral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012742	rdfs:label	Thin fingernail	Unha da mão fina	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0012743	rdfs:label	Abdominal obesity	Obesidade abdominal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012744	rdfs:label	Femoral aplasia	Aplasia femoral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012745	rdfs:label	Short palpebral fissure	Fissura palpebral curta	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012746	rdfs:label	Thin toenail	Unha do pé fina	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012747	rdfs:label	Abnormal brainstem MRI signal intensity	Intensidade anormal de sinal do tronco encefálico à ressonância magnética	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012748	rdfs:label	Focal T2 hyperintense brainstem lesion	Lesão em tronco encefálico com foco de hipersinal em T2	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012749	rdfs:label	Focal T2 hypointense brainstem lesion	Lesão em tronco encefálico com foco de hipossinal em T2	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012750	rdfs:label	T2 hypointense brainstem	Tronco encefálico com hipossinal em T2	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012751	rdfs:label	Abnormal basal ganglia MRI signal intensity	Intensidade anormal de sinal dos núcleos da base em ressonância magnética	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012752	rdfs:label	Focal T2 hypointense basal ganglia lesion	Lesão nos núcleos da base com foco de hipossinal em T2	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012753	rdfs:label	T2 hypointense basal ganglia	Núcleos da base com hipossinal em T2	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012754	rdfs:label	CNS hypermyelination	Hipermielinização do SNC	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012755	rdfs:label	Enlarged brainstem	Tronco encefálico aumentado	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012756	rdfs:label	CSF polymorphonuclear pleocytosis	Pleocitose polimorfonuclear do LCR	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012757	rdfs:label	Abnormal neuron morphology	Morfologia anormal de neurônio	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012758	rdfs:label	Neurodevelopmental delay	Atraso no desenvolvimento neurológico	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012759	rdfs:label	Neurodevelopmental abnormality	Anomalia do desenvolvimento neurológico	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012760	rdfs:label	Reduced social responsiveness	Redução da capacidade de resposta social	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012761	rdfs:label	Absent mastoid	Mastoide ausente	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012762	rdfs:label	Cerebral white matter atrophy	Atrofia da substância branca cerebral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012763	rdfs:label	Paroxysmal dyspnea	Dispneia paroxística	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012764	rdfs:label	Orthopnea	Ortopneia	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012765	rdfs:label	Widened cerebellar subarachnoid space	Espaço subaracnóideo cerebelar alargado	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012766	rdfs:label	Widened cerebral subarachnoid space	Espaço subaracnóide cerebral alargado	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012767	rdfs:label	Abnormal placental size	Tamanho anormal da placenta	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012768	rdfs:label	Neonatal asphyxia	Asfixia neonatal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012769	rdfs:label	Abnormal arm span	Envergadura de membros superiores alterada	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012770	rdfs:label	Reduced arm span	Envergadura de membros superiores reduzida	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012771	rdfs:label	Increased arm span	Envergadura de membros superiores aumentada	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012772	rdfs:label	Abnormal upper to lower segment ratio	Relação segmento superior/inferior anormal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012773	rdfs:label	Reduced upper to lower segment ratio	Relação segmento superior/inferior reduzida	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012774	rdfs:label	Increased upper to lower segment ratio	Relação segmento superior/inferior aumentada	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012775	rdfs:label	Stellate iris	Íris estrelada	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012776	rdfs:label	Abnormal ciliary body morphology	Morfologia anormal do corpo ciliar	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012777	rdfs:label	Retinal neoplasm	Neoplasia retiniana	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012778	rdfs:label	Retinal astrocytic hamartoma	Hamartoma astrocítico da retina	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012779	rdfs:label	Transient hearing impairment	Déficit auditivo transitório	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012780	rdfs:label	Neoplasm of the ear	Neoplasia do ouvido	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012781	rdfs:label	Mid-frequency hearing loss	Perda auditiva para frequências médias	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012782	rdfs:label	Perilobar nephrogenic rest	Resto nefrogênico perilobar	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012783	rdfs:label	Intralobar nephrogenic rest	Resto nefrogênico intralobar	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012784	rdfs:label	Perinephritis	Perinefrite	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0012785	rdfs:label	Flexion contracture of finger	Contratura em flexão do dedo	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012786	rdfs:label	Recurrent cystitis	Cistite recorrente	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012787	rdfs:label	Recurrent pyelonephritis	Pielonefrite recorrente	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012788	rdfs:label	Reticulate pigmentation of oral mucosa	Pigmentação reticulada em mucosa oral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012789	rdfs:label	Hypoplasia of the calcaneus	Hipoplasia do calcâneo	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012790	rdfs:label	Abnormal intramembranous ossification	Ossificação intramembranosa anormal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012791	rdfs:label	Abnormal humeral ossification	Ossificação umeral anormal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012792	rdfs:label	Absent ossification of thoracic vertebral bodies	Ausência de ossificação dos corpos vertebrais torácicos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012793	rdfs:label	Kinked brainstem	Tronco encefálico angulado	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012794	rdfs:label	Periventricular white matter hypodensities	Hipodensidades da substância branca periventricular	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012795	rdfs:label	Abnormal optic disc morphology	Morfologia anormal do disco óptico	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012796	rdfs:label	Increased cup-to-disc ratio	Aumento da relação escavação para disco óptico	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012797	rdfs:label	Lymphatic vessel neoplasm	Tumores de vasos linfáticos	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012798	rdfs:label	Pulmonary lymphangiomyomatosis	Linfangiomiomatose pulmonar	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012799	rdfs:label	Unilateral facial palsy	Paralisia facial unilateral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012800	rdfs:label	Accessory cranial suture	Sutura craniana acessória	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012801	rdfs:label	Narrow jaw	Mandíbula estreita	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012802	rdfs:label	Broad jaw	Mandíbula larga	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012803	rdfs:label	Anisometropia	Anisometropia	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012804	rdfs:label	Corneal ulceration	Úlcera em córnea	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012805	rdfs:label	Iris transillumination defect	Defeito de transiluminação da íris	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012806	rdfs:label	Proboscis	Probóscide	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012807	rdfs:label	High insertion of columella	Implantação alta da columela	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012808	rdfs:label	Abnormal nasal base norphology	Morfologia anormal da base nasal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012809	rdfs:label	Narrow nasal base	Base nasal estreita	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012810	rdfs:label	Wide nasal base	Base nasal larga	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012811	rdfs:label	Wide nasal ridge	Dorso nasal largo	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012812	rdfs:label	Fullness of paranasal tissue	Tecido adjacente ao nariz aumentado	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012813	rdfs:label	Unilateral breast hypoplasia	Hipoplasia mamária unilateral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012814	rdfs:label	Bilateral breast hypoplasia	Hipoplasia mamária bilateral	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0012815	rdfs:label	Hypoplastic female external genitalia	Genitália externa feminina hipoplásica	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012816	rdfs:label	Right ventricular noncompaction cardiomyopathy	Cardiomiopatia não compactada do ventrículo direito	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012817	rdfs:label	Noncompaction cardiomyopathy	Cardiomiopatia não compactada	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012818	rdfs:label	Biventricular noncompaction cardiomyopathy	Cardiomiopatia não compactada biventricular	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012819	rdfs:label	Myocarditis	Miocardite	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012820	rdfs:label	Bilateral vocal cord paralysis	Paralisia bilateral de pregas vocais	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012821	rdfs:label	Unilateral vocal cord paresis	Paralisia unilateral de pregas vocais	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012822	rdfs:label	Bilateral vocal cord paresis	Paresia bilateral de pregas vocais	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012824	rdfs:label	Severity	Gravidade	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012825	rdfs:label	Mild	Leve	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012826	rdfs:label	Moderate	Moderada	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012827	rdfs:label	Borderline	Limítrofe	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012828	rdfs:label	Severe	Grave	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012829	rdfs:label	Profound	Profunda	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012830	rdfs:label	Position	Posição	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012831	rdfs:label	Laterality	Lateralidade	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012832	rdfs:label	Bilateral	Bilateral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012833	rdfs:label	Unilateral	Unilateral	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012834	rdfs:label	Right	Direita	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012835	rdfs:label	Left	Esquerda	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012836	rdfs:label	Spatial pattern	Padrão espacial	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012837	rdfs:label	Generalized	Generalizada	OFFICIAL	orcid:0009-0005-0193-5224
+en	pt	HP:0012838	rdfs:label	Localized	Localizada	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012839	rdfs:label	Distal	Distal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012840	rdfs:label	Proximal	Proximal	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012841	rdfs:label	Retinal vascular tortuosity	Tortuosidade vascular da retina	OFFICIAL	orcid:0009-0004-3413-3132
+en	pt	HP:0012842	rdfs:label	Skin appendage neoplasm	Tumor de anexos epidérmicos	OFFICIAL	orcid:0009-0004-3413-3132
