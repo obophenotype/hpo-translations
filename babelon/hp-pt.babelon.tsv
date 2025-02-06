@@ -2093,9 +2093,9 @@ en	pt	HP:0006748	rdfs:label	Adrenal pheochromocytoma	Feocromocitoma adrenal	OFFI
 en	pt	HP:0006749	rdfs:label	Malignant gastrointestinal tract tumors	Cancer do trato grastrointestinal	OFFICIAL	orcid:0009-0004-3413-3132
 en	pt	HP:0006751	rdfs:label	Paraspinal neurofibroma	Neurofibroma paraespinhal	OFFICIAL	orcid:0009-0004-3413-3132
 en	pt	HP:0006781	rdfs:label	Hurthle cell thyroid adenoma	Adenoma tireoidiano de células de Hurthle	OFFICIAL	orcid:0009-0005-0193-5224
-en	pt	HP:0006799	rdfs:label	Basal ganglia cysts	Cistos nos gânglios basais	OFFICIAL	orcid:0009-0005-0193-5224| orcid:0009-0005-0193-5224
-en	pt	HP:0006951	rdfs:label	Retrocerebellar cyst	Cisto retrocerebelar	OFFICIAL	orcid:0009-0005-0193-5224| orcid:0009-0005-0193-5224
-en	pt	HP:0007109	rdfs:label	Periventricular cysts	Cistos periventriculares	OFFICIAL	orcid:0009-0005-0193-5224| orcid:0009-0005-0193-5224
+en	pt	HP:0006799	rdfs:label	Basal ganglia cysts	Cistos nos gânglios basais	OFFICIAL	orcid:0009-0005-0193-5224|orcid:0009-0005-0193-5224
+en	pt	HP:0006951	rdfs:label	Retrocerebellar cyst	Cisto retrocerebelar	OFFICIAL	orcid:0009-0005-0193-5224|orcid:0009-0005-0193-5224
+en	pt	HP:0007109	rdfs:label	Periventricular cysts	Cistos periventriculares	OFFICIAL	orcid:0009-0005-0193-5224|orcid:0009-0005-0193-5224
 en	pt	HP:0007516	rdfs:label	Redundant skin on fingers	Pele redundante nos dedos	OFFICIAL	orcid:0009-0005-0193-5224
 en	pt	HP:0007517	rdfs:label	Palmoplantar cutis laxa	Cútis laxa palmoplantar	OFFICIAL	orcid:0009-0005-0193-5224
 en	pt	HP:0007521	rdfs:label	Irregular hyperpigmentation of back	Hiperpigmentação irregular das costas	OFFICIAL	orcid:0009-0005-0193-5224
@@ -2487,7 +2487,7 @@ en	pt	HP:0008244	rdfs:label	Congenital adrenal hypoplasia	Hipoplasia adrenal con
 en	pt	HP:0008247	rdfs:label	Euthyroid hyperthyroxinemia	Hipertiroxinemia eutireoidea	OFFICIAL	orcid:0009-0005-0193-5224
 en	pt	HP:0008263	rdfs:label	Thyroid defect in oxidation and organification of iodide	Defeito tireoidiano na oxidação e organificação do iodo	OFFICIAL	orcid:0009-0005-0193-5224
 en	pt	HP:0008659	rdfs:label	Multiple small medullary renal cysts	Múltiplos pequenos cistos renais medulares	OFFICIAL	orcid:0009-0005-0193-5224
-en	pt	HP:0009745	rdfs:label	Spinal arachnoid cyst	Cisto aracnoide espinhal	OFFICIAL	orcid:0009-0005-0193-5224| orcid:0009-0001-0105-7733
+en	pt	HP:0009745	rdfs:label	Spinal arachnoid cyst	Cisto aracnoide espinhal	OFFICIAL	orcid:0009-0005-0193-5224|orcid:0009-0001-0105-7733
 en	pt	HP:0009952	rdfs:label	Complete duplication of the middle phalanx of the 2nd finger	Duplicação completa da falange média do 2º dedo da mão	OFFICIAL	orcid:0009-0005-0193-5224
 en	pt	HP:0009953	rdfs:label	Partial duplication of the middle phalanx of the 2nd finger	Duplicação parcial da falange média do 2º dedo da mão	OFFICIAL	orcid:0009-0005-0193-5224
 en	pt	HP:0009954	rdfs:label	Complete duplication of the proximal phalanx of the 2nd finger	Duplicação completa da falange proximal do 2º dedo da mão	OFFICIAL	orcid:0009-0005-0193-5224
@@ -2848,10 +2848,10 @@ en	pt	HP:0010361	rdfs:label	Bullet-shaped 3rd toe phalanx	Falange do 3º dedo do
 en	pt	HP:0010362	rdfs:label	Curved 3rd toe phalanx	Falange do 3º dedo do pé encurvada	OFFICIAL	orcid:0009-0005-0193-5224
 en	pt	HP:0010363	rdfs:label	Osteolytic defects of the phalanges of the 3rd toe	Defeitos osteolíticos das falanges do 3º dedo do pé	OFFICIAL	orcid:0009-0005-0193-5224
 en	pt	HP:0010364	rdfs:label	Patchy sclerosis of 3rd toe phalanx	Esclerose irregular da falange do 3º dedo do pé	OFFICIAL	orcid:0009-0005-0193-5224
-en	pt	HP:0010518	rdfs:label	Thyroglossal cyst	Cisto tireoglosso	OFFICIAL	orcid:0009-0005-0193-5224| orcid:0000-0001-6276-958
+en	pt	HP:0010518	rdfs:label	Thyroglossal cyst	Cisto tireoglosso	OFFICIAL	orcid:0009-0005-0193-5224|orcid:0000-0001-6276-958
 en	pt	HP:0010603	rdfs:label	Odontogenic keratocysts of the jaw	Ceratocistos odontogênicos na mandíbula	OFFICIAL	orcid:0009-0005-0193-5224
-en	pt	HP:0010769	rdfs:label	Pilonidal sinus	Cisto pilonidal	OFFICIAL	orcid:0009-0005-0193-5224| orcid:0000-0001-6276-958
-en	pt	HP:0010770	rdfs:label	Pilonidal fistula	Fístula pilonidal	OFFICIAL	orcid:0009-0005-0193-5224| orcid:0000-0001-6276-958
+en	pt	HP:0010769	rdfs:label	Pilonidal sinus	Cisto pilonidal	OFFICIAL	orcid:0009-0005-0193-5224|orcid:0000-0001-6276-958
+en	pt	HP:0010770	rdfs:label	Pilonidal fistula	Fístula pilonidal	OFFICIAL	orcid:0009-0005-0193-5224|orcid:0000-0001-6276-958
 en	pt	HP:0011426	rdfs:label	Fetal choroid plexus cysts	Cistos de plexo coróide fetal	OFFICIAL	orcid:0009-0005-0193-5224
 en	pt	HP:0011505	rdfs:label	Cystoid macular edema	Edema macular cistoide	OFFICIAL	orcid:0009-0005-0193-5224
 en	pt	HP:0011766	rdfs:label	Abnormal parathyroid morphology	Morfologia anormal da paratireoide	OFFICIAL	orcid:0009-0005-0193-5224
@@ -3455,8 +3455,8 @@ en	pt	HP:0030419	rdfs:label	Bartholin gland carcinoma	Carcinoma da glândula de 
 en	pt	HP:0030420	rdfs:label	Vulvar adenocarcinoma	Adenocarcinoma vulvar	OFFICIAL	orcid:0009-0004-3413-3132
 en	pt	HP:0030421	rdfs:label	Epididymal neoplasm	Neoplasia epididimal	OFFICIAL	orcid:0009-0004-3413-3132
 en	pt	HP:0030423	rdfs:label	Splenic cyst	Cisto esplênico	OFFICIAL	orcid:0009-0004-3413-3132
-en	pt	HP:0030424	rdfs:label	Epididymal cyst	Cisto no epidídimo	OFFICIAL	orcid:0009-0005-0193-5224| orcid:0009-0004-3413-3132
-en	pt	HP:0030425	rdfs:label	Calcified ovarian cyst	Cisto ovariano calcificado	OFFICIAL	orcid:0009-0005-0193-5224| orcid:0009-0004-3413-3132
+en	pt	HP:0030424	rdfs:label	Epididymal cyst	Cisto no epidídimo	OFFICIAL	orcid:0009-0005-0193-5224|orcid:0009-0004-3413-3132
+en	pt	HP:0030425	rdfs:label	Calcified ovarian cyst	Cisto ovariano calcificado	OFFICIAL	orcid:0009-0005-0193-5224|orcid:0009-0004-3413-3132
 en	pt	HP:0030426	rdfs:label	Ossifying fibroma	Fibroma ossificante	OFFICIAL	orcid:0009-0004-3413-3132
 en	pt	HP:0030427	rdfs:label	Ossifying fibroma of the jaw	Fibroma ossificante da mandíbula	OFFICIAL	orcid:0009-0004-3413-3132
 en	pt	HP:0030428	rdfs:label	Cutaneous myxoma	Mixoma cutâneo	OFFICIAL	orcid:0009-0004-3413-3132
@@ -3481,8 +3481,8 @@ en	pt	HP:0030447	rdfs:label	Merkel cell skin cancer	Carcinoma cutâneo de célul
 en	pt	HP:0030448	rdfs:label	Soft tissue sarcoma	Sarcoma dos tecidos moles	OFFICIAL	orcid:0009-0004-3413-3132
 en	pt	HP:0030449	rdfs:label	Therapeutic abortion	Aborto terapêutico	OFFICIAL	orcid:0009-0004-3413-3132
 en	pt	HP:0030450	rdfs:label	Neoplasm of the autonomic nervous system	Neoplasia do sistema nervoso autônomo	OFFICIAL	orcid:0009-0004-3413-3132
-en	pt	HP:0030451	rdfs:label	Mesenteric cyst	Cisto mesentérico	OFFICIAL	orcid:0009-0005-0193-5224| orcid:0009-0004-3413-3132
-en	pt	HP:0030452	rdfs:label	Chylolymphatic mesenteric cyst	Cisto mesentérico quilolinfático	OFFICIAL	orcid:0009-0005-0193-5224| orcid:0009-0004-3413-3132
+en	pt	HP:0030451	rdfs:label	Mesenteric cyst	Cisto mesentérico	OFFICIAL	orcid:0009-0005-0193-5224|orcid:0009-0004-3413-3132
+en	pt	HP:0030452	rdfs:label	Chylolymphatic mesenteric cyst	Cisto mesentérico quilolinfático	OFFICIAL	orcid:0009-0005-0193-5224|orcid:0009-0004-3413-3132
 en	pt	HP:0030453	rdfs:label	Abnormal visual electrophysiology	Eletrofisiologia visual anormal	OFFICIAL	orcid:0009-0004-3413-3132
 en	pt	HP:0030454	rdfs:label	Abnormal electrooculogram	Eletro-oculograma anormal	OFFICIAL	orcid:0009-0004-3413-3132
 en	pt	HP:0030455	rdfs:label	Abnormality of pattern visual evoked potentials	Anomalia dos potenciais evocados visuais por padrões	OFFICIAL	orcid:0009-0004-3413-3132
@@ -3690,7 +3690,7 @@ en	pt	HP:0030664	rdfs:label	Beevor's sign	Sinal de Beevor	OFFICIAL	orcid:0009-00
 en	pt	HP:0030665	rdfs:label	Rubral tremor	Tremor rubral	OFFICIAL	orcid:0009-0004-3413-3132
 en	pt	HP:0030666	rdfs:label	Retinal neovascularization	Neovascularização Retiniana	OFFICIAL	orcid:0009-0004-3413-3132
 en	pt	HP:0030667	rdfs:label	Peripheral retinal neovascularization	Neovascularização periférica da retina	OFFICIAL	orcid:0009-0004-3413-3132
-en	pt	HP:0030668	rdfs:label	Periorbital dermoid cyst	Cisto dermoide periorbital	OFFICIAL	orcid:0009-0005-0193-5224| orcid:0009-0004-3413-3132
+en	pt	HP:0030668	rdfs:label	Periorbital dermoid cyst	Cisto dermoide periorbital	OFFICIAL	orcid:0009-0005-0193-5224|orcid:0009-0004-3413-3132
 en	pt	HP:0030669	rdfs:label	Abnormal ocular adnexa morphology	Morfologia anormal dos anexos oculares	OFFICIAL	orcid:0009-0004-3413-3132
 en	pt	HP:0030670	rdfs:label	Hamartoma of the orbital region	Hamartoma da região orbital	OFFICIAL	orcid:0009-0004-3413-3132
 en	pt	HP:0030671	rdfs:label	Abnormal common tendinous ring morphology	Morfologia anormal do anel tendíneo comum	OFFICIAL	orcid:0009-0004-3413-3132
@@ -3734,10 +3734,10 @@ en	pt	HP:0030720	rdfs:label	Subchorionic septal cyst	Cisto septal subcoriônico	
 en	pt	HP:0030721	rdfs:label	Tetraphocomelia	Tetrafocomelia	OFFICIAL	orcid:0009-0004-3413-3132
 en	pt	HP:0030722	rdfs:label	Ectopic liver	Fígado ectópico	OFFICIAL	orcid:0009-0004-3413-3132
 en	pt	HP:0030723	rdfs:label	Congenital megalourethra	Megauretra congênita	OFFICIAL	orcid:0009-0004-3413-3132
-en	pt	HP:0030724	rdfs:label	Central nervous system cyst	Cisto no sistema nervoso central	OFFICIAL	orcid:0009-0005-0193-5224| orcid:0009-0004-3413-3132
-en	pt	HP:0030725	rdfs:label	Neurenteric cyst	Cisto neurentérico	OFFICIAL	orcid:0009-0005-0193-5224| orcid:0009-0004-3413-3132
-en	pt	HP:0030726	rdfs:label	Spinal neurenteric cyst	Cisto neurentérico espinhal	OFFICIAL	orcid:0009-0005-0193-5224| orcid:0009-0004-3413-3132
-en	pt	HP:0030727	rdfs:label	Intracranial neurenteric cyst	Cisto neurentérico intracraniano	OFFICIAL	orcid:0009-0005-0193-5224| orcid:0009-0004-3413-3132
+en	pt	HP:0030724	rdfs:label	Central nervous system cyst	Cisto no sistema nervoso central	OFFICIAL	orcid:0009-0005-0193-5224|orcid:0009-0004-3413-3132
+en	pt	HP:0030725	rdfs:label	Neurenteric cyst	Cisto neurentérico	OFFICIAL	orcid:0009-0005-0193-5224|orcid:0009-0004-3413-3132
+en	pt	HP:0030726	rdfs:label	Spinal neurenteric cyst	Cisto neurentérico espinhal	OFFICIAL	orcid:0009-0005-0193-5224|orcid:0009-0004-3413-3132
+en	pt	HP:0030727	rdfs:label	Intracranial neurenteric cyst	Cisto neurentérico intracraniano	OFFICIAL	orcid:0009-0005-0193-5224|orcid:0009-0004-3413-3132
 en	pt	HP:0030728	rdfs:label	Meromelia	Meromelia	OFFICIAL	orcid:0009-0004-3413-3132
 en	pt	HP:0030729	rdfs:label	Frontoethmoidal meningocele	Meningocele frontoetmoidal	OFFICIAL	orcid:0009-0004-3413-3132
 en	pt	HP:0030730	rdfs:label	Parietal meningocele	Meningocele parietal	OFFICIAL	orcid:0009-0004-3413-3132
