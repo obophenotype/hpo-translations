@@ -2,6 +2,8 @@
 
 ## Working Group
 
+The French translation of HPO is led by Orphanet (INSERM).
+
 - Caterina Lucano (Scientific coordinator): `@caterina-lucano-orphanet`
 - Bruno Donadille (Curator)
 - Emeline Lebreton (Project manager): `@e-lbtn`
