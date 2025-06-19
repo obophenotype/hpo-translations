@@ -2,7 +2,7 @@
 
 ## Working Group
 
-A Working Group is led by Hibat Omer, Medical Geneticist and Director of Genomics Hub (UAE), please [contact](../contact.md) us if there is any interest.
+A Working Group is led by Hibat Omer, Medical Geneticist and Director of Genomics Hub (UAE), and Ms. Maria Al Hinai; please [contact](../contact.md) us if there is any interest to join the effort.
 
 ## Sources of Truth
 
