@@ -18,17 +18,14 @@ jobs:
   qc:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
-    container: obolibrary/odkfull:v1.5.4
+    container: obolibrary/odkfull:v1.6.1
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
-
-      - name: Install dependencies
-        run: make install
       - name: Run ontology QC checks
         env:
           DEFAULT_BRANCH: main
-        run: make qc
+        run: make RUN="" qc
 
