@@ -3,6 +3,9 @@ BABELON_FILES := $(wildcard babelon/hp-*.babelon.tsv)
 # Extract the variable part (e.g., pt)
 TRANSLATIONS := $(patsubst babelon/hp-%.babelon.tsv, %, $(BABELON_FILES))
 
+#RUN ?= uv run
+RUN=""
+
 list-translations:
 	@echo $(TRANSLATIONS)
 
@@ -26,18 +29,18 @@ sort-all:
 	$(MAKE) sort-pt sort-de sort-fr sort-pt sort-zh
 
 validate-%: babelon/hp-%.babelon.tsv babelon/hp-%.synonyms.tsv
-	@output=$$(tsvalid babelon/hp-$*.synonyms.tsv --skip "W1"); \
+	@output=$$($(RUN) tsvalid babelon/hp-$*.synonyms.tsv --skip "W1"); \
 	if echo "$$output" | grep -Eq 'E[0-9]+:[ ]'; then \
 		echo "Error detected in hp-$*.synonyms.tsv: $$output"; \
 		exit 1; \
 	fi
-	@output=$$(tsvalid babelon/hp-$*.babelon.tsv --skip "W1"); \
+	@output=$$($(RUN) tsvalid babelon/hp-$*.babelon.tsv --skip "W1"); \
 	if echo "$$output" | grep -Eq 'E[0-9]+:[ ]'; then \
 		echo "Error detected in hp-$*.babelon.tsv: $$output"; \
 		exit 1; \
 	fi
-	babelon convert babelon/hp-$*.babelon.tsv --output-format owl -o tmp/$*-babelon.owl
-	robot template --template babelon/hp-$*.synonyms.tsv --output tmp/$*-synonyms.owl
+	$(RUN) babelon convert babelon/hp-$*.babelon.tsv --output-format owl -o tmp/$*-babelon.owl
+	robot template --prefix "dcterms: http://purl.org/dc/terms/" --template babelon/hp-$*.synonyms.tsv --output tmp/$*-synonyms.owl
 
 validate-all:
 	$(MAKE) $(foreach lang, $(TRANSLATIONS), validate-$(lang))
@@ -45,13 +48,13 @@ validate-all:
 qc: validate-all
 	@echo "All translations are valid"
 
-update: babelon/hp-ja.babelon.tsv
+update:
 	$(MAKE) sort-all
 	$(MAKE) clean-all
 	$(MAKE) validate-all
 
 install:
-	pip install -U babelon==0.3.4 --break-system-packages
+	uv sync
 
 ###
 prepare_data:
@@ -60,7 +63,7 @@ prepare_data:
 
 babelon/hp-%.babelon.tsv:
 	mkdir -p babelon/
-	babelon parse crowdin_data/$*/hpo_notes.xliff -o $@
+	$(RUN) babelon parse crowdin_data/$*/hpo_notes.xliff -o $@
 
 babelon/hp-ja.babelon.tsv:
 	wget "https://raw.githubusercontent.com/ogishima/HPO-Japanese/master/HPO-japanese.alpha.21Jul2023.tsv" -O $@

@@ -27,5 +27,5 @@ jobs:
       - name: Run ontology QC checks
         env:
           DEFAULT_BRANCH: main
-        run: make qc
+        run: make RUN="" qc
 
