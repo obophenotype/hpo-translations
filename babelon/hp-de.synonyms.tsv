@@ -1,5 +1,5 @@
 subject_id	translation_value	synonym_type	contributor
-ID	AL oboInOwl:hasExactSynonym@de SPLIT=|	>AI oboInOwl:hasSynonymType	AI dcterms:contributor
+ID	AL oboInOwl:hasExactSynonym@de SPLIT=|	>AI oboInOwl:hasSynonymType	AI dc:contributor
 HP:0000020	Harninkontinenz|Verlust der Kontrolle über die Blase	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0000027	Keine Spermien in der Samenflüssigkeit|Sperma enthält keine Spermien	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0000103	Erhöhte Urinausscheidung	http://purl.obolibrary.org/obo/hp#layperson	
