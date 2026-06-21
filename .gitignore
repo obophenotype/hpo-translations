@@ -4,3 +4,6 @@ all_translations.zip
 crowdin_data/
 /site
 tmp/
+# pixi environments
+.pixi/*
+!.pixi/config.toml
