@@ -21,3 +21,8 @@ This plan outlines the sequential steps required to migrate the development envi
 - [ ] **Task 4:** Set up git pre-commit hook template using pixi tasks to run ruff and vale.
 - [ ] **Task 5:** Configure pre-commit hook framework integration managed by Pixi.
 
+## Phase 4: CI/CD & Static Analysis Configuration
+- [ ] **Task 1:** Update GitHub Actions workflows (`qc.yml` and `docs.yml`) to use `prefix-dev/setup-pixi` and configure caching.
+- [ ] **Task 2:** Add `pyright` or `mypy` to dev dependencies and verify static type safety of repository scripts.
+- [ ] **Task 3:** Configure native LinkML schema validation checks in the validation pipeline.
+

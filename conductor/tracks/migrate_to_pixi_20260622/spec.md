@@ -21,3 +21,12 @@ Migrate the development environment from `uv` to `pixi`, and transition automati
 ### 3. Linting and Formatting Setup
 - Configure `ruff` rules in `pixi.toml` or `pyproject.toml`.
 - Configure `vale` configuration (`.vale.ini`) and vocabulary/style folders to lint markdown files.
+
+### 4. CI/CD Migration & GitHub Actions
+- Replace existing actions setups with `prefix-dev/setup-pixi` in `.github/workflows/qc.yml` and `.github/workflows/docs.yml`.
+- Configure caching for the `.pixi` environments to run validation tests rapidly.
+
+### 5. Static Analysis & Type Safety
+- Add `pyright` or `mypy` to enforce typing in scripts.
+- Incorporate LinkML native schema validator checks in the verification pipeline.
+
