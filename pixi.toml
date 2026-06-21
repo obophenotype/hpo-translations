@@ -1,0 +1,10 @@
+[workspace]
+authors = ["Dylan Mordaunt <Dylan.Mordaunt@health.nsw.gov.au>"]
+channels = ["conda-forge"]
+name = "hpo-translations"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
