@@ -39,4 +39,7 @@ Migrate the development environment from `uv` to `pixi`, and transition automati
 - Automate release creation and artifact uploads using GitHub CLI (`gh release create`) on main-branch tag releases.
 - Implement a translation diff auditing task to format and output easy-to-read diff summaries of translated/modified strings.
 
-
+### 8. Dependabot, Diagnostics & Performance Profiling
+- Create `.github/dependabot.yml` to automatically track and update package dependencies.
+- Implement a `pixi run profile` task to benchmark validation execution times per translation profile.
+- Configure GitHub Actions pipeline to comment TSV validation diagnostic warnings directly on pull requests.

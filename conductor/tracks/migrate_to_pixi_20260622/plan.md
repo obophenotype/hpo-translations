@@ -31,4 +31,7 @@ This plan outlines the sequential steps required to migrate the development envi
 - [ ] **Task 2:** Create a `pixi run package` task to automatically bundle translations into release assets (e.g. `all_translations.zip`).
 - [ ] **Task 3:** Implement translation diff auditing script to output summary changes on PRs.
 
-
+## Phase 6: Dependabot, Diagnostics & Performance Profiling
+- [ ] **Task 1:** Create `.github/dependabot.yml` to automatically track and update package dependencies.
+- [ ] **Task 2:** Implement a `pixi run profile` task to benchmark validation execution times per translation profile.
+- [ ] **Task 3:** Configure GitHub Actions pipeline to comment TSV validation diagnostic warnings directly on pull requests.
