@@ -5,7 +5,7 @@ This plan outlines the sequential steps required to migrate the development envi
 ## Phase 1: Environment Setup with Pixi
 - [x] **Task 1:** Initialize `pixi` configuration (`pixi.toml`) in the root directory.
 - [x] **Task 2:** Add Python >=3.14 environment and add standard dependencies (`babelon`, `tsvalid`, `linkml`, `linkml-runtime`, `setuptools`).
-- [ ] **Task 3:** Add development dependencies (`ruff` and `vale`).
+- [x] **Task 3:** Add development dependencies (`ruff` and `vale`).
 - [ ] **Task 4:** Verify pixi environment installation and sync.
 
 ## Phase 2: Task & Workflow Migration
