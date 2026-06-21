@@ -23,6 +23,12 @@ This plan outlines the sequential steps required to migrate the development envi
 
 ## Phase 4: CI/CD & Static Analysis Configuration
 - [ ] **Task 1:** Update GitHub Actions workflows (`qc.yml` and `docs.yml`) to use `prefix-dev/setup-pixi` and configure caching.
-- [ ] **Task 2:** Add `pyright` or `mypy` to dev dependencies and verify static type safety of repository scripts.
+- [ ] **Task 2:** Add `mypy` to dev dependencies and verify static type safety of repository scripts in strict mode (`mypy --strict`).
 - [ ] **Task 3:** Configure native LinkML schema validation checks in the validation pipeline.
+
+## Phase 5: Semantic Releases & Packaging Automation
+- [ ] **Task 1:** Add and configure `commitizen` in `pixi.toml` and git hooks for conventional commits.
+- [ ] **Task 2:** Create a `pixi run package` task to automatically bundle translations into release assets (e.g. `all_translations.zip`).
+- [ ] **Task 3:** Implement translation diff auditing script to output summary changes on PRs.
+
 

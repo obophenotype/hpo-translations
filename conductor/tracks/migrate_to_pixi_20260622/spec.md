@@ -27,6 +27,16 @@ Migrate the development environment from `uv` to `pixi`, and transition automati
 - Configure caching for the `.pixi` environments to run validation tests rapidly.
 
 ### 5. Static Analysis & Type Safety
-- Add `pyright` or `mypy` to enforce typing in scripts.
+- Add `mypy` to enforce strict type checking (`mypy --strict`) on repository python scripts.
 - Incorporate LinkML native schema validator checks in the verification pipeline.
+
+### 6. Semantic Releases & Commit Guidelines
+- Introduce `commitizen` inside `pixi.toml` and configure hooks to enforce Conventional Commit formats (`feat:`, `fix:`, `chore:`).
+- Enable automated version bumping, changelog generation, and tag creation during the release pipeline.
+
+### 7. Release Packaging Automation & Diff Auditing
+- Define a `pixi run package` task to compile and zip translation assets (e.g. producing `all_translations.zip`).
+- Automate release creation and artifact uploads using GitHub CLI (`gh release create`) on main-branch tag releases.
+- Implement a translation diff auditing task to format and output easy-to-read diff summaries of translated/modified strings.
+
 
