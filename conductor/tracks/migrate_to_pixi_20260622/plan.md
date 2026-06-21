@@ -9,8 +9,8 @@ This plan outlines the sequential steps required to migrate the development envi
 - [x] **Task 4:** Verify pixi environment installation and sync.
 
 ## Phase 2: Task & Workflow Migration
-- [ ] **Task 1:** Define pixi tasks in `pixi.toml` matching the `sort-all` and `clean-all` Makefile behaviors.
-- [ ] **Task 2:** Define validation tasks (`validate-all` and `qc` equivalent) in `pixi.toml`.
+- [x] **Task 1:** Define pixi tasks in `pixi.toml` matching the `sort-all` and `clean-all` Makefile behaviors.
+- [x] **Task 2:** Define validation tasks (`validate-all` and `qc` equivalent) in `pixi.toml`.
 - [ ] **Task 3:** Verify that all translation processing commands run successfully under `pixi run`.
 
 ## Phase 3: Code Quality & Prose Validation Configuration

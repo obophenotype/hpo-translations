@@ -6,6 +6,11 @@ platforms = ["win-64"]
 version = "0.1.0"
 
 [tasks]
+sort-all = "python scripts/process_translations.py sort-all"
+clean-all = "python scripts/process_translations.py clean-all"
+validate-all = "python scripts/process_translations.py validate-all"
+qc = "python scripts/process_translations.py validate-all"
+update = { depends_on = ["sort-all", "clean-all", "validate-all"] }
 
 [dependencies]
 python = ">=3.14.6,<3.15"
