@@ -12,9 +12,12 @@ This plan outlines the sequential steps required to migrate the development envi
 - [x] **Task 1:** Define pixi tasks in `pixi.toml` matching the `sort-all` and `clean-all` Makefile behaviors.
 - [x] **Task 2:** Define validation tasks (`validate-all` and `qc` equivalent) in `pixi.toml`.
 - [ ] **Task 3:** Verify that all translation processing commands run successfully under `pixi run`.
+- [ ] **Task 4:** Configure Pixi task caching (caching inputs/outputs) for translation processing and validation tasks.
 
 ## Phase 3: Code Quality & Prose Validation Configuration
 - [ ] **Task 1:** Configure `ruff` linting and formatting settings (in `pyproject.toml` or `pixi.toml`).
 - [ ] **Task 2:** Set up `.vale.ini` configuration and install basic prose styles.
 - [ ] **Task 3:** Verify Ruff and Vale runs on existing code and documentation.
 - [ ] **Task 4:** Set up git pre-commit hook template using pixi tasks to run ruff and vale.
+- [ ] **Task 5:** Configure pre-commit hook framework integration managed by Pixi.
+
