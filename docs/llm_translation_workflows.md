@@ -61,6 +61,295 @@ later human review:
    the model checks do not report failures.
 7. Leave rows as `CANDIDATE`; do not mark LLM output as `OFFICIAL`.
 
+## End-to-end release workflow
+
+Use this sequence for each language. The goal is an upstream pull request with
+LLM-generated `CANDIDATE` rows, not human-approved `OFFICIAL` rows.
+
+1. Refresh the audit:
+
+   ```bash
+   pixi run audit-translations --output tmp/translation-audit.tsv
+   ```
+
+2. Export untranslated rows for the selected workflow:
+
+   ```bash
+   pixi run agent-export --language tr --status NOT_TRANSLATED --workflow-id tr-gap-fill --batch-id tr-gap-fill-001 --model gpt-5 --output tmp/tr-gap-fill-001.work.jsonl
+   ```
+
+3. Generate candidate JSONL from the work items. Preserve exact keys from the
+   work item and add only the candidate translation value plus required LLM
+   provenance.
+
+4. Validate row matching before writing:
+
+   ```bash
+   pixi run agent-apply-dry-run --input tmp/tr-gap-fill-001.codex-gpt5.suggestions.jsonl
+   ```
+
+5. Triangulate with free or open models. The default clean review lanes are:
+
+   ```bash
+   opencode run --pure --model opencode/deepseek-v4-flash-free --format json "<review prompt>"
+   opencode run --pure --model opencode/mimo-v2.5-free --format json "<review prompt>"
+   ```
+
+   Use representative samples for large batches. Include obsolete terms,
+   inheritance/modifier terms, anatomical terms, and any known terminology
+   clusters in the sample. Do not use one model more than twice when another
+   reliable free model is available.
+
+6. Resolve conflicts before apply:
+
+   - If both review lanes pass, apply the candidate batch.
+   - If one lane passes and one lane flags notes, prefer existing terminology in
+     the target language profile and keep the row `CANDIDATE`.
+   - If any lane reports a likely mistranslation, revise the candidate and rerun
+     dry-run plus model checks for that batch.
+   - If the conflict cannot be resolved confidently, keep the safest literal
+     candidate, leave it `CANDIDATE`, and document the uncertainty in the
+     workflow record or PR body.
+   - Never promote a generated row to `OFFICIAL`.
+
+7. Apply the candidate batch:
+
+   ```bash
+   pixi run .pixi/envs/default/python.exe scripts/translation_audit.py apply-agent-output --input tmp/tr-gap-fill-001.codex-gpt5.suggestions.jsonl --apply
+   ```
+
+8. Repeat export, generate, validate, triangulate, and apply until the language
+   audit reports `not_translated_rows: 0`.
+
+9. Run verification:
+
+   ```bash
+   pixi run audit-translations --language tr --output tmp/tr-audit-finished.tsv
+   pixi run lint
+   git diff --check -- babelon/hp-tr.babelon.tsv docs/llm_translation_workflows.md translation_workflows/candidate_workflows.json
+   ```
+
+10. Commit only the intended language/workflow files. Do not sweep unrelated
+    dirty Babelon files into the commit.
+
+    ```bash
+    git add babelon/hp-tr.babelon.tsv docs/llm_translation_workflows.md translation_workflows/candidate_workflows.json
+    git commit -F tmp/commit-message.txt
+    ```
+
+11. Push the branch:
+
+    ```bash
+    git push -u origin <branch-name>
+    ```
+
+12. Open or update the upstream pull request:
+
+    ```bash
+    gh pr create --repo obophenotype/hpo-translations --head edithatogo:<branch-name> --base main --fill-first --body-file tmp/pr-body.md
+    ```
+
+    If a PR already exists for the branch, update it:
+
+    ```bash
+    gh pr edit <number> --repo obophenotype/hpo-translations --title <short-title> --body-file tmp/pr-body.md
+    ```
+
+13. The PR body should include:
+
+    - language audit before and after
+    - number of LLM `CANDIDATE` rows added
+    - generator model and review models used
+    - dry-run and lint results
+    - conflict-resolution notes
+    - explicit statement that human review is required before `OFFICIAL`
+      promotion
+
+## Per-language workflows
+
+### Japanese (`ja-gap-fill`)
+
+State: completed in upstream PR
+<https://github.com/obophenotype/hpo-translations/pull/40>.
+
+Use Japanese as the reference implementation for the full flow. It was completed
+by exporting existing `NOT_TRANSLATED` rows, generating `CANDIDATE` rows with
+Codex CLI / `gpt-5`, validating every row through the importer, triangulating
+with free OpenCode review lanes, applying candidates, committing, pushing, and
+updating the upstream PR.
+
+Conflict resolution:
+
+- Existing Japanese profile terminology was checked before filling remaining
+  rows.
+- Source labels beginning with `obsolete` were kept visibly obsolete with the
+  `旧：` prefix.
+- Rows stayed `CANDIDATE` even when both review lanes passed.
+
+### Turkish (`tr-gap-fill`)
+
+State: next recommended completeable language.
+
+Use the existing-profile gap-fill lifecycle. Turkish has a medium backlog and
+should be processed in bounded batches, starting with `batch_size: 250`.
+
+Translate:
+
+- Export only `NOT_TRANSLATED` rows from `babelon/hp-tr.babelon.tsv`.
+- Generate candidate rows with Codex CLI / `gpt-5`.
+- Preserve Turkish profile style and existing terminology when present.
+
+Triangulate:
+
+- Review each applied batch with `opencode/deepseek-v4-flash-free`.
+- Use `opencode/mimo-v2.5-free` as the second clean review lane.
+- For larger batches, use representative samples that include inheritance,
+  modifier, anatomical, obsolete, and long compound terms.
+
+Resolve conflicts:
+
+- If one model flags wording but the translation matches existing Turkish
+  profile style, keep the candidate and document the note.
+- If both models flag a likely error, revise before apply.
+- If uncertainty remains, keep the row `CANDIDATE` and mention the issue in the
+  PR body.
+
+Commit and PR:
+
+- Commit `babelon/hp-tr.babelon.tsv` plus workflow documentation updates only.
+- Push the branch and update or open the upstream PR with Turkish audit counts
+  and model evidence.
+
+### Dutch (`nl-gap-fill`)
+
+State: largest existing-profile backlog.
+
+Use the same existing-profile lifecycle after Turkish. Dutch has a larger backlog,
+so use smaller reviewable chunks when model review or terminology conflict grows
+too broad.
+
+Translate:
+
+- Export only `NOT_TRANSLATED` rows from `babelon/hp-nl.babelon.tsv`.
+- Generate candidate rows with Codex CLI / `gpt-5`.
+- Preserve Dutch profile terminology already present in the file.
+
+Triangulate:
+
+- Use the two clean OpenCode free lanes by default.
+- Add extra spot checks for definition-heavy or long compound batches.
+- Do not ask free models to emit full 18k-row judgments; use importer validation
+  for full row coverage and stratified model samples for quality checks.
+
+Resolve conflicts:
+
+- Split large disagreement clusters into smaller batches.
+- Prefer established Dutch HPO terminology where it exists locally.
+- Keep unresolved rows as `CANDIDATE`; do not mark anything `OFFICIAL`.
+
+Commit and PR:
+
+- Commit `babelon/hp-nl.babelon.tsv` plus workflow documentation updates only.
+- Push and update or open the upstream PR with Dutch audit counts and model
+  evidence.
+
+### Arabic (`ar-empty-profile-bootstrap`)
+
+State: profile exists but contains no rows.
+
+Arabic is not a normal gap-fill workflow because there are no source rows to
+export. Treat it as bootstrap work.
+
+Translate:
+
+- First create or derive a canonical source-row inventory that matches the
+  Babelon schema.
+- Generate Arabic candidate rows from that inventory only.
+- Preserve right-to-left text correctly and keep all rows `CANDIDATE`.
+
+Triangulate:
+
+- Use the default OpenCode free review lanes where they return usable Arabic
+  review output.
+- Add a right-to-left formatting check before applying.
+- If a translation-specific Hugging Face or other free Arabic-capable model is
+  available, use it as an additional baseline lane.
+
+Resolve conflicts:
+
+- Do not invent source rows from docs alone.
+- If model outputs disagree on Arabic terminology, keep the more literal HPO
+  label candidate and document the uncertainty for human review.
+
+Commit and PR:
+
+- Commit Arabic profile files plus source-inventory/workflow documentation.
+- The PR body must state that this is bootstrap candidate output, not a gap-fill
+  from an existing populated profile.
+
+### Finnish (`fi-bootstrap-profile`)
+
+State: documented language without a Babelon profile.
+
+Finnish requires profile bootstrap before candidate generation.
+
+Translate:
+
+- Create a canonical Finnish Babelon source-row inventory first.
+- Generate `CANDIDATE` rows from the inventory with Codex CLI / `gpt-5`.
+- Preserve exact HPO IDs, predicates, and source labels.
+
+Triangulate:
+
+- Use the default OpenCode free lanes for sample review.
+- Add extra samples for compound clinical labels and morphology terms.
+- If a Finnish-capable free translation model is available, use it as a baseline
+  comparison, not as an `OFFICIAL` source.
+
+Resolve conflicts:
+
+- Do not apply rows until schema validation and importer dry-run pass.
+- If Finnish terminology is uncertain, keep literal candidates and document the
+  uncertainty in the PR body.
+
+Commit and PR:
+
+- Commit the new Finnish profile files and workflow documentation together.
+- The PR body must identify it as bootstrap `CANDIDATE` output requiring human
+  review.
+
+### Thai (`th-bootstrap-profile`)
+
+State: documented language without a Babelon profile.
+
+Thai also requires profile bootstrap before candidate generation.
+
+Translate:
+
+- Create a canonical Thai Babelon source-row inventory first.
+- Generate `CANDIDATE` rows from that inventory with Codex CLI / `gpt-5`.
+- Preserve exact HPO IDs, predicates, and source labels.
+
+Triangulate:
+
+- Use the default OpenCode free lanes where they return usable Thai review
+  output.
+- Add formatting checks for Thai text and punctuation.
+- Use additional free Thai-capable models if available, but do not overuse one
+  model more than twice when alternatives work.
+
+Resolve conflicts:
+
+- Do not synthesize rows from docs alone.
+- If reviewers disagree, keep the safest literal candidate and document the
+  issue for human review.
+
+Commit and PR:
+
+- Commit the new Thai profile files and workflow documentation together.
+- The PR body must identify it as bootstrap `CANDIDATE` output requiring human
+  review.
+
 ## Japanese completion record
 
 Japanese (`ja-gap-fill`) was completed as an LLM-assisted candidate profile.
