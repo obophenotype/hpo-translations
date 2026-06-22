@@ -1,8 +1,8 @@
 {
   "track_id": "migrate_to_pixi_20260622",
   "type": "feature",
-  "status": "new",
+  "status": "complete",
   "created_at": "2026-06-22T00:45:30Z",
-  "updated_at": "2026-06-22T00:45:30Z",
+  "updated_at": "2026-06-22T10:15:00Z",
   "description": "Migrate project environment and automation workflows from uv/Makefile to pixi and configure code quality tools (ruff and vale)"
 }

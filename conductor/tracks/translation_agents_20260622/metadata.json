@@ -1,0 +1,8 @@
+{
+  "track_id": "translation_agents_20260622",
+  "type": "feature",
+  "status": "complete",
+  "created_at": "2026-06-22T10:30:00Z",
+  "updated_at": "2026-06-22T11:05:00Z",
+  "description": "Implement translation completeness audits and automated translation using LLM coding agents"
+}

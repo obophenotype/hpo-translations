@@ -1,0 +1,33 @@
+repos:
+  - repo: local
+    hooks:
+      - id: ruff-check
+        name: Ruff Lint Check
+        entry: pixi run ruff-check
+        language: system
+        types: [python]
+        require_serial: true
+      - id: ruff-format
+        name: Ruff Formatter Check
+        entry: pixi run ruff-format
+        language: system
+        types: [python]
+        require_serial: true
+      - id: mypy-check
+        name: MyPy Strict Type Check
+        entry: pixi run mypy-check
+        language: system
+        types: [python]
+        pass_filenames: false
+        require_serial: true
+      - id: vale-check
+        name: Vale Prose Lint Check
+        entry: pixi run vale-check
+        language: system
+        types: [markdown]
+        require_serial: true
+      - id: commitizen-check
+        name: Commitizen Conventional Commit Check
+        entry: pixi run cz -- check --commit-msg-file
+        language: system
+        stages: [commit-msg]

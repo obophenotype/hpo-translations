@@ -1,0 +1,46 @@
+set shell := ["cmd.exe", "/c"]
+
+default:
+    just --list
+
+list:
+    pixi task list
+
+qc:
+    pixi run qc
+
+lint:
+    pixi run lint
+
+package:
+    pixi run package
+
+diff-audit:
+    pixi run diff-audit
+
+audit:
+    pixi run audit-translations
+
+agent-export:
+    pixi run agent-export
+
+agent-apply-dry-run input:
+    pixi run agent-apply-dry-run --input {{input}}
+
+profile:
+    pixi run profile
+
+update:
+    pixi run update
+
+sort-all:
+    pixi run sort-all
+
+clean-all:
+    pixi run clean-all
+
+pre-commit-install:
+    pixi run pre-commit-install
+
+pre-commit-run:
+    pixi run pre-commit-run

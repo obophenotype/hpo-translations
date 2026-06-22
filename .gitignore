@@ -1,9 +1,15 @@
 
 .DS_Store
 all_translations.zip
+all_translations*.zip
+translation_audit_summary.tsv
+translation_diff_summary.md
 crowdin_data/
 /site
 tmp/
+.cache/
+.mypy_cache/
+.ruff_cache/
 # pixi environments
 .pixi/*
 !.pixi/config.toml
