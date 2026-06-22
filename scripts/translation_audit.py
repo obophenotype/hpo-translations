@@ -7,9 +7,11 @@ from pathlib import Path
 from typing import Any
 
 BABELON_DIR = Path("babelon")
+DOC_TRANSLATIONS_DIR = Path("docs/translations")
 DEFAULT_SUMMARY = Path("translation_audit_summary.tsv")
 DEFAULT_WORK_ITEMS = Path("tmp/translation_agent_work_items.jsonl")
 CANONICAL_STATUSES = {"OFFICIAL", "CANDIDATE", "NOT_TRANSLATED"}
+LLM_TRANSLATION_METHOD = "LLM_ASSISTED_DRAFT"
 
 
 @dataclass(frozen=True)
@@ -48,6 +50,16 @@ def babelon_paths(language: str | None = None) -> list[Path]:
 
 def synonym_path(language: str) -> Path:
     return BABELON_DIR / f"hp-{language}.synonyms.tsv"
+
+
+def documented_languages() -> set[str]:
+    if not DOC_TRANSLATIONS_DIR.exists():
+        return set()
+    return {path.stem for path in DOC_TRANSLATIONS_DIR.glob("*.md")}
+
+
+def profiled_languages() -> set[str]:
+    return {language_from_path(path) for path in babelon_paths()}
 
 
 def read_translation_rows(path: Path) -> list[TranslationRow]:
@@ -105,8 +117,31 @@ def audit_rows(language: str | None = None) -> list[dict[str, Any]]:
                 "definition_rows": by_predicate["IAO:0000115"],
                 "synonym_rows": count_synonyms(language_code),
                 "unknown_statuses": ",".join(unknown_statuses),
+                "has_babelon_profile": "true",
+                "documented_without_profile": "false",
             }
         )
+    if language is None:
+        missing_profiles = documented_languages() - profiled_languages()
+        for language_code in sorted(missing_profiles):
+            records.append(
+                {
+                    "language": language_code,
+                    "total_rows": 0,
+                    "complete_rows": 0,
+                    "needs_translation_rows": "PROFILE_MISSING",
+                    "completion_percent": 0,
+                    "official_rows": 0,
+                    "candidate_rows": 0,
+                    "not_translated_rows": "PROFILE_MISSING",
+                    "label_rows": 0,
+                    "definition_rows": 0,
+                    "synonym_rows": 0,
+                    "unknown_statuses": "",
+                    "has_babelon_profile": "false",
+                    "documented_without_profile": "true",
+                }
+            )
     return records
 
 
@@ -125,6 +160,8 @@ def write_summary(records: list[dict[str, Any]], output: Path) -> None:
         "definition_rows",
         "synonym_rows",
         "unknown_statuses",
+        "has_babelon_profile",
+        "documented_without_profile",
     ]
     with output.open("w", encoding="utf-8", newline="") as file:
         writer = csv.DictWriter(file, fieldnames=fieldnames, delimiter="\t")
@@ -143,9 +180,13 @@ def work_item(row: TranslationRow) -> dict[str, Any]:
         "current_translation_value": row.translation_value,
         "current_translation_status": row.translation_status,
         "requested_status": "CANDIDATE",
+        "agent_generated": True,
+        "translation_method": LLM_TRANSLATION_METHOD,
         "instructions": (
-            "Provide a faithful HPO translation for source_value. Return JSONL with "
-            "language, subject_id, predicate_id, source_value, translation_value, and translation_status."
+            "Provide a faithful HPO translation for source_value as an LLM-assisted draft. "
+            "Return JSONL with language, subject_id, predicate_id, source_value, translation_value, "
+            "translation_status='CANDIDATE', agent_generated=true, and "
+            f"translation_method='{LLM_TRANSLATION_METHOD}'. Do not mark LLM output as OFFICIAL."
         ),
     }
 
@@ -182,6 +223,10 @@ def load_agent_suggestions(path: Path) -> dict[tuple[str, str, str, str], dict[s
             )
             if not item.get("translation_value"):
                 raise ValueError(f"Missing translation_value on line {line_number}")
+            if item.get("agent_generated") is not True:
+                raise ValueError(f"Missing agent_generated=true on line {line_number}")
+            if item.get("translation_method") != LLM_TRANSLATION_METHOD:
+                raise ValueError(f"Missing translation_method={LLM_TRANSLATION_METHOD} on line {line_number}")
             suggestions[key] = item
     return suggestions
 
@@ -208,7 +253,12 @@ def apply_suggestions(input_path: Path, apply: bool) -> int:
             if row.get("translation_status") not in {"NOT_TRANSLATED", "CANDIDATE"}:
                 continue
             row["translation_value"] = suggestion["translation_value"]
-            row["translation_status"] = suggestion.get("translation_status", "CANDIDATE")
+            row["translation_status"] = "CANDIDATE"
+            if "translation_type" in row:
+                row["translation_type"] = LLM_TRANSLATION_METHOD
+            if "comment" in row and LLM_TRANSLATION_METHOD not in row.get("comment", ""):
+                existing_comment = row.get("comment", "").strip()
+                row["comment"] = f"{existing_comment}; {LLM_TRANSLATION_METHOD}".strip("; ")
             changed += 1
 
         if changed and apply:
