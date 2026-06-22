@@ -12,6 +12,8 @@ DEFAULT_SUMMARY = Path("translation_audit_summary.tsv")
 DEFAULT_WORK_ITEMS = Path("tmp/translation_agent_work_items.jsonl")
 CANONICAL_STATUSES = {"OFFICIAL", "CANDIDATE", "NOT_TRANSLATED"}
 LLM_TRANSLATION_METHOD = "LLM_ASSISTED_DRAFT"
+DEFAULT_CODING_AGENT = "Codex CLI"
+DEFAULT_MODEL = "gpt-5"
 
 
 @dataclass(frozen=True)
@@ -169,8 +171,20 @@ def write_summary(records: list[dict[str, Any]], output: Path) -> None:
         writer.writerows(records)
 
 
-def work_item(row: TranslationRow) -> dict[str, Any]:
+def work_item(
+    row: TranslationRow,
+    workflow_id: str,
+    coding_agent: str,
+    model: str,
+    batch_id: str,
+    review_policy: str,
+) -> dict[str, Any]:
     return {
+        "workflow_id": workflow_id,
+        "batch_id": batch_id,
+        "coding_agent": coding_agent,
+        "model": model,
+        "review_policy": review_policy,
         "language": row.language,
         "row_number": row.row_number,
         "subject_id": row.subject_id,
@@ -186,12 +200,23 @@ def work_item(row: TranslationRow) -> dict[str, Any]:
             "Provide a faithful HPO translation for source_value as an LLM-assisted draft. "
             "Return JSONL with language, subject_id, predicate_id, source_value, translation_value, "
             "translation_status='CANDIDATE', agent_generated=true, and "
-            f"translation_method='{LLM_TRANSLATION_METHOD}'. Do not mark LLM output as OFFICIAL."
+            f"translation_method='{LLM_TRANSLATION_METHOD}'. Preserve workflow_id, batch_id, "
+            "coding_agent, model, and review_policy. Do not mark LLM output as OFFICIAL."
         ),
     }
 
 
-def export_work_items(language: str | None, status: str, limit: int | None, output: Path) -> int:
+def export_work_items(
+    language: str | None,
+    status: str,
+    limit: int | None,
+    output: Path,
+    workflow_id: str,
+    coding_agent: str,
+    model: str,
+    batch_id: str,
+    review_policy: str,
+) -> int:
     output.parent.mkdir(parents=True, exist_ok=True)
     count = 0
     with output.open("w", encoding="utf-8", newline="\n") as file:
@@ -201,7 +226,14 @@ def export_work_items(language: str | None, status: str, limit: int | None, outp
                     continue
                 if not row.needs_translation and status == "NOT_TRANSLATED":
                     continue
-                file.write(json.dumps(work_item(row), ensure_ascii=False, sort_keys=True) + "\n")
+                file.write(
+                    json.dumps(
+                        work_item(row, workflow_id, coding_agent, model, batch_id, review_policy),
+                        ensure_ascii=False,
+                        sort_keys=True,
+                    )
+                    + "\n"
+                )
                 count += 1
                 if limit is not None and count >= limit:
                     return count
@@ -227,6 +259,12 @@ def load_agent_suggestions(path: Path) -> dict[tuple[str, str, str, str], dict[s
                 raise ValueError(f"Missing agent_generated=true on line {line_number}")
             if item.get("translation_method") != LLM_TRANSLATION_METHOD:
                 raise ValueError(f"Missing translation_method={LLM_TRANSLATION_METHOD} on line {line_number}")
+            if not item.get("coding_agent"):
+                raise ValueError(f"Missing coding_agent on line {line_number}")
+            if not item.get("model"):
+                raise ValueError(f"Missing model on line {line_number}")
+            if not item.get("workflow_id"):
+                raise ValueError(f"Missing workflow_id on line {line_number}")
             suggestions[key] = item
     return suggestions
 
@@ -291,6 +329,11 @@ def main() -> None:
     export_parser.add_argument("--status", default="NOT_TRANSLATED")
     export_parser.add_argument("--limit", type=int)
     export_parser.add_argument("--output", type=Path, default=DEFAULT_WORK_ITEMS)
+    export_parser.add_argument("--workflow-id", default="ad-hoc-gap-fill")
+    export_parser.add_argument("--coding-agent", default=DEFAULT_CODING_AGENT)
+    export_parser.add_argument("--model", default=DEFAULT_MODEL)
+    export_parser.add_argument("--batch-id", default="manual")
+    export_parser.add_argument("--review-policy", default="human-review-required")
 
     apply_parser = subparsers.add_parser("apply-agent-output", help="Apply JSONL translation suggestions.")
     apply_parser.add_argument("--input", type=Path, required=True)
@@ -302,7 +345,17 @@ def main() -> None:
         write_summary(records, args.output)
         print(f"Wrote {len(records)} language audit rows to {args.output}")
     elif args.command == "export-work-items":
-        count = export_work_items(args.language, args.status, args.limit, args.output)
+        count = export_work_items(
+            args.language,
+            args.status,
+            args.limit,
+            args.output,
+            args.workflow_id,
+            args.coding_agent,
+            args.model,
+            args.batch_id,
+            args.review_policy,
+        )
         print(f"Wrote {count} work items to {args.output}")
     elif args.command == "apply-agent-output":
         apply_suggestions(args.input, args.apply)

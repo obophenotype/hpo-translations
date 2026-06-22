@@ -27,6 +27,12 @@ agent-export:
 agent-apply-dry-run input:
     pixi run agent-apply-dry-run --input {{input}}
 
+workflow-list:
+    pixi run workflow-list
+
+workflow-show workflow_id:
+    pixi run workflow-show {{workflow_id}}
+
 profile:
     pixi run profile
 

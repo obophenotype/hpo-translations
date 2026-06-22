@@ -26,6 +26,8 @@ diff-audit = ".pixi/envs/default/python.exe scripts/diff_translations.py"
 audit-translations = ".pixi/envs/default/python.exe scripts/translation_audit.py audit"
 agent-export = ".pixi/envs/default/python.exe scripts/translation_audit.py export-work-items"
 agent-apply-dry-run = ".pixi/envs/default/python.exe scripts/translation_audit.py apply-agent-output"
+workflow-list = ".pixi/envs/default/python.exe scripts/translation_workflows.py list"
+workflow-show = ".pixi/envs/default/python.exe scripts/translation_workflows.py show"
 
 [dependencies]
 python = ">=3.14.6,<3.15"

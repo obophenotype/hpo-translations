@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "defaults": {
+    "coding_agent": "Codex CLI",
+    "model": "gpt-5",
+    "translation_method": "LLM_ASSISTED_DRAFT",
+    "target_status": "CANDIDATE",
+    "review_policy": "human-review-required",
+    "apply_policy": "dry-run-first"
+  },
+  "workflows": [
+    {
+      "workflow_id": "fi-bootstrap-profile",
+      "language": "fi",
+      "lane": "missing-profile-bootstrap",
+      "profile_state": "documented_without_babelon_profile",
+      "batch_size": 100,
+      "source_scope": "requires-canonical-hpo-source-profile-before-export",
+      "notes": "Finnish is documented in docs/translations but has no babelon/hp-fi.babelon.tsv profile. Create profile only from a reviewed source-row inventory, then mark all LLM output as CANDIDATE."
+    },
+    {
+      "workflow_id": "th-bootstrap-profile",
+      "language": "th",
+      "lane": "missing-profile-bootstrap",
+      "profile_state": "documented_without_babelon_profile",
+      "batch_size": 100,
+      "source_scope": "requires-canonical-hpo-source-profile-before-export",
+      "notes": "Thai is documented in docs/translations but has no babelon/hp-th.babelon.tsv profile. Create profile only from a reviewed source-row inventory, then mark all LLM output as CANDIDATE."
+    },
+    {
+      "workflow_id": "ar-empty-profile-bootstrap",
+      "language": "ar",
+      "lane": "empty-profile-bootstrap",
+      "profile_state": "babelon_profile_exists_with_zero_rows",
+      "batch_size": 100,
+      "source_scope": "requires-canonical-hpo-source-profile-before-export",
+      "notes": "Arabic profile files exist but contain headers only. Treat separately from normal gap-fill because there are no source rows to export yet."
+    },
+    {
+      "workflow_id": "ja-gap-fill",
+      "language": "ja",
+      "lane": "existing-profile-gap-fill",
+      "profile_state": "babelon_profile_with_not_translated_rows",
+      "status_filter": "NOT_TRANSLATED",
+      "batch_size": 100,
+      "source_scope": "existing hp-ja.babelon.tsv rows",
+      "notes": "Japanese has a small bounded backlog. Preserve any existing provenance columns and force LLM output to CANDIDATE."
+    },
+    {
+      "workflow_id": "tr-gap-fill",
+      "language": "tr",
+      "lane": "existing-profile-gap-fill",
+      "profile_state": "babelon_profile_with_not_translated_rows",
+      "status_filter": "NOT_TRANSLATED",
+      "batch_size": 250,
+      "source_scope": "existing hp-tr.babelon.tsv rows",
+      "notes": "Turkish has a medium backlog. Use batches to keep review manageable."
+    },
+    {
+      "workflow_id": "nl-gap-fill",
+      "language": "nl",
+      "lane": "existing-profile-gap-fill",
+      "profile_state": "babelon_profile_with_not_translated_rows",
+      "status_filter": "NOT_TRANSLATED",
+      "batch_size": 250,
+      "source_scope": "existing hp-nl.babelon.tsv rows",
+      "notes": "Dutch has the largest backlog. Use smaller batches if reviewers need definition-heavy review."
+    }
+  ]
+}
