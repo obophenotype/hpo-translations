@@ -117,6 +117,14 @@ def validate_translation(lang: str) -> None:
 
     # Run tsvalid
     for path in [synonyms_path, babelon_path]:
+        # Normalize line endings to LF before running tsvalid to prevent CRLF errors on Windows
+        if path.exists():
+            with open(path, encoding="utf-8", errors="ignore") as f:
+                content = f.read()
+            normalized = content.replace("\r\n", "\n")
+            with open(path, "w", encoding="utf-8", newline="\n") as f:
+                f.write(normalized)
+
         cmd = [resolve_python(), "-m", "tsvalid", str(path), "--skip", "W1", "--encoding", "utf-8"]
         res = subprocess.run(cmd, capture_output=True, text=True, env=subprocess_env())
         # check for errors E[0-9]+:
