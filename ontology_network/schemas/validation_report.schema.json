@@ -1,0 +1,30 @@
+{
+  "$id": "https://example.org/hpo-translations/ontology-network/validation_report.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "artifact": {
+      "type": "string"
+    },
+    "generated_date": {
+      "type": "string"
+    },
+    "issues": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "validation_result": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "artifact",
+    "generated_date",
+    "issues",
+    "validation_result"
+  ],
+  "title": "validation_report",
+  "type": "object"
+}

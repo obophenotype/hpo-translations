@@ -1,0 +1,16 @@
+[
+  {
+    "candidate_only": true,
+    "confidence": 0.0,
+    "edge_id": "probe-open-related-0001",
+    "external_id": "DO:SCHEMA-PROBE",
+    "external_source_id": "do",
+    "hpo_id": "HP:0000001",
+    "human_review_required": true,
+    "mapping_basis": "source_xref",
+    "mapping_predicate": "relatedMatch",
+    "mapping_source": "ontology_network_fail_fast_probe",
+    "provenance_id": "prov-crosswalk-probe-2026-06-23",
+    "review_status": "needs_review"
+  }
+]

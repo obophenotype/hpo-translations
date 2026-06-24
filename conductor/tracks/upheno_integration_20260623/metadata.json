@@ -1,0 +1,133 @@
+{
+  "track_id": "upheno_integration_20260623",
+  "type": "feature",
+  "status": "planned",
+  "created_at": "2026-06-23T00:00:00Z",
+  "updated_at": "2026-06-23T00:00:00Z",
+  "description": "Integrate uPheno into terminology and translation support",
+  "depends_on": [
+    "translation_agents_20260622",
+    "ontology_network_20260623:phase_1_registry_schema"
+  ],
+  "blocks": [
+    "ontology_network_20260623:phase_3_identifier_network",
+    "ontology_network_20260623:phase_4_non_translation_outputs"
+  ],
+  "branch": "codex/upheno_integration_20260623",
+  "pr_url": null,
+  "ci_status": "not_started",
+  "merge_status": "not_opened",
+  "last_commit": null,
+  "phase_review_status": "not_started",
+  "github_checks_url": null,
+  "merge_commit": null,
+  "parallel_group": "ontology-source-governance",
+  "local_only_artifacts": [],
+  "restricted_sources": [],
+  "priority": "P1",
+  "known_blockers": [
+    "uPheno depends on upstream ontology build products and may change with source releases.",
+    "Cross-species phenotype patterns require explicit evidence and predicate fields."
+  ],
+  "expected_blockers": [
+    "Automated equivalence can overstate confidence for translation candidates.",
+    "Build artifacts may be large and should remain generated unless accepted by policy."
+  ],
+  "blocker_owner": "track implementer until reassigned in Phase 0",
+  "fallback_path": "Start with pattern and cross-species conflict reports before any candidate evidence use.",
+  "source_access_status": "open_ontology_download_review_required",
+  "write_owner": "unassigned",
+  "merge_owner": "ontology-network maintainer",
+  "automation_readiness": "phase_0_required",
+  "evidence_score_policy": {
+    "candidate_only": true,
+    "signals": [
+      "curated mapping",
+      "identifier exactness",
+      "preferred-label agreement",
+      "synonym agreement",
+      "language agreement",
+      "LLM agreement",
+      "source conflict",
+      "license caveat"
+    ],
+    "promotion_rule": "no ontology or LLM signal promotes a translation without human review"
+  },
+  "agent_telemetry": {
+    "record_required": true,
+    "fields": [
+      "agent",
+      "model",
+      "task_id",
+      "source_version",
+      "runtime_seconds",
+      "validation_command",
+      "validation_result",
+      "conflict_count",
+      "open_blockers"
+    ]
+  },
+  "human_review_handoff": [
+    "changed records",
+    "source evidence",
+    "model evidence",
+    "conflicts",
+    "license caveats",
+    "validation output"
+  ],
+  "restricted_payload_policy": {
+    "commit_policy": "commit metadata, schemas, bounded non-restricted samples, validation summaries, review-pack structure, and derived reports only after source terms are verified; raw, credentialed, private, full-release, and licensed payloads stay local-only",
+    "local_only_artifacts": [
+      "raw downloads",
+      "licensed payloads",
+      "full API responses",
+      "credentialed exports"
+    ],
+    "blocked_patterns": [
+      "raw",
+      "licensed",
+      "credential",
+      "api_key",
+      "token",
+      "full_release",
+      "private",
+      "restricted"
+    ],
+    "required_evidence": [
+      "source license classification",
+      "local-only manifest if any restricted source is touched",
+      "redaction or exclusion proof before commit"
+    ]
+  },
+  "fail_fast_probe": {
+    "required": true,
+    "scope": "one authoritative source record, one normalized registry row, one provenance row, one candidate comparison or crosswalk edge when applicable",
+    "success_criteria": [
+      "source authority and license state recorded",
+      "payload handling path classified as commit-safe or local-only",
+      "schema validation passes for the bounded sample",
+      "review pack marks LLM-derived content as candidate-only when present"
+    ]
+  },
+  "artifact_contract": {
+    "required_before_phase_1_completion": [
+      "registry_record",
+      "source_access_record",
+      "provenance_manifest",
+      "validation_report",
+      "review_handoff_pack"
+    ],
+    "conditional_outputs": [
+      "language_comparison_pack",
+      "crosswalk_edges",
+      "conflict_report",
+      "coverage_summary",
+      "local_only_manifest"
+    ],
+    "excluded_until_policy_allows": [
+      "raw_source_payloads",
+      "licensed_release_archives",
+      "credentialed_api_responses"
+    ]
+  }
+}

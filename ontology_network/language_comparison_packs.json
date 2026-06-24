@@ -1,0 +1,307 @@
+{
+  "generated_date": "2026-06-23",
+  "record_count": 23,
+  "records": [
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "comparison_status": "not_computed_source_payloads_excluded",
+      "human_review_required": true,
+      "language": "ar",
+      "source_ids": [
+        "icd10",
+        "icd11",
+        "meddra",
+        "umls"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "comparison_status": "not_computed_source_payloads_excluded",
+      "human_review_required": true,
+      "language": "cs",
+      "source_ids": [
+        "icd11",
+        "meddra",
+        "mesh",
+        "orphanet"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "comparison_status": "not_computed_source_payloads_excluded",
+      "human_review_required": true,
+      "language": "da",
+      "source_ids": [
+        "snomed_ct"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "comparison_status": "not_computed_source_payloads_excluded",
+      "human_review_required": true,
+      "language": "de",
+      "source_ids": [
+        "loinc",
+        "meddra",
+        "mesh",
+        "orphanet",
+        "snomed_ct",
+        "umls"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "comparison_status": "not_computed_source_payloads_excluded",
+      "human_review_required": true,
+      "language": "en",
+      "source_ids": [
+        "decipher",
+        "do",
+        "efo",
+        "fma",
+        "icd10",
+        "icd11",
+        "lddb",
+        "loinc",
+        "meddra",
+        "mesh",
+        "mp",
+        "omim",
+        "oncotree",
+        "orphanet",
+        "pato",
+        "snomed_ct",
+        "upheno"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "comparison_status": "not_computed_source_payloads_excluded",
+      "human_review_required": true,
+      "language": "es",
+      "source_ids": [
+        "icd10",
+        "icd11",
+        "loinc",
+        "meddra",
+        "mesh",
+        "orphanet",
+        "snomed_ct",
+        "umls"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "comparison_status": "not_computed_source_payloads_excluded",
+      "human_review_required": true,
+      "language": "et",
+      "source_ids": [
+        "snomed_ct"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "comparison_status": "not_computed_source_payloads_excluded",
+      "human_review_required": true,
+      "language": "fi",
+      "source_ids": [
+        "mesh",
+        "snomed_ct"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "comparison_status": "not_computed_source_payloads_excluded",
+      "human_review_required": true,
+      "language": "fr",
+      "source_ids": [
+        "icd10",
+        "icd11",
+        "loinc",
+        "meddra",
+        "mesh",
+        "orphanet",
+        "snomed_ct",
+        "umls"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "comparison_status": "not_computed_source_payloads_excluded",
+      "human_review_required": true,
+      "language": "hu",
+      "source_ids": [
+        "meddra"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "comparison_status": "not_computed_source_payloads_excluded",
+      "human_review_required": true,
+      "language": "it",
+      "source_ids": [
+        "loinc",
+        "meddra",
+        "mesh",
+        "orphanet",
+        "umls"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "comparison_status": "not_computed_source_payloads_excluded",
+      "human_review_required": true,
+      "language": "ja",
+      "source_ids": [
+        "meddra",
+        "mesh",
+        "umls"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "comparison_status": "not_computed_source_payloads_excluded",
+      "human_review_required": true,
+      "language": "ko",
+      "source_ids": [
+        "loinc",
+        "meddra"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "comparison_status": "not_computed_source_payloads_excluded",
+      "human_review_required": true,
+      "language": "nl",
+      "source_ids": [
+        "loinc",
+        "meddra",
+        "orphanet",
+        "snomed_ct"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "comparison_status": "not_computed_source_payloads_excluded",
+      "human_review_required": true,
+      "language": "no",
+      "source_ids": [
+        "snomed_ct"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "comparison_status": "not_computed_source_payloads_excluded",
+      "human_review_required": true,
+      "language": "pl",
+      "source_ids": [
+        "meddra",
+        "mesh",
+        "orphanet"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "comparison_status": "not_computed_source_payloads_excluded",
+      "human_review_required": true,
+      "language": "pt",
+      "source_ids": [
+        "icd11",
+        "loinc",
+        "meddra",
+        "mesh",
+        "orphanet",
+        "umls"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "comparison_status": "not_computed_source_payloads_excluded",
+      "human_review_required": true,
+      "language": "ru",
+      "source_ids": [
+        "icd10",
+        "icd11",
+        "loinc",
+        "meddra",
+        "mesh",
+        "umls"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "comparison_status": "not_computed_source_payloads_excluded",
+      "human_review_required": true,
+      "language": "sk",
+      "source_ids": [
+        "snomed_ct"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "comparison_status": "not_computed_source_payloads_excluded",
+      "human_review_required": true,
+      "language": "sv",
+      "source_ids": [
+        "meddra",
+        "snomed_ct"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "comparison_status": "not_computed_source_payloads_excluded",
+      "human_review_required": true,
+      "language": "tr",
+      "source_ids": [
+        "icd11",
+        "loinc",
+        "meddra"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "comparison_status": "not_computed_source_payloads_excluded",
+      "human_review_required": true,
+      "language": "uz",
+      "source_ids": [
+        "icd11"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "comparison_status": "not_computed_source_payloads_excluded",
+      "human_review_required": true,
+      "language": "zh",
+      "source_ids": [
+        "icd10",
+        "icd11",
+        "loinc",
+        "meddra",
+        "umls"
+      ]
+    }
+  ]
+}

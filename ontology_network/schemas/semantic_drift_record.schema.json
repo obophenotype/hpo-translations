@@ -1,0 +1,30 @@
+{
+  "$id": "https://example.org/hpo-translations/ontology-network/semantic_drift_record.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "drift_status": {
+      "type": "string"
+    },
+    "hpo_release": {
+      "type": "string"
+    },
+    "semantic_drift_score": {
+      "type": "null"
+    },
+    "source_id": {
+      "type": "string"
+    },
+    "source_version": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "drift_status",
+    "hpo_release",
+    "source_id",
+    "source_version"
+  ],
+  "title": "semantic_drift_record",
+  "type": "object"
+}

@@ -1,0 +1,66 @@
+{
+  "generated_date": "2026-06-23",
+  "record_count": 4,
+  "records": [
+    {
+      "access_class": "API-only",
+      "credential_required": false,
+      "human_review_required": true,
+      "local_only_required": true,
+      "ontology_name": "ICD-11",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "probe_id": "probe-api-only",
+      "provenance_id": "prov-source-class-API-only",
+      "registry_record_present": true,
+      "release_safe": false,
+      "source_id": "icd11",
+      "validation_status": "metadata_probe_passed_payload_excluded"
+    },
+    {
+      "access_class": "investigation-only",
+      "credential_required": false,
+      "human_review_required": true,
+      "local_only_required": true,
+      "ontology_name": "LDDB",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "probe_id": "probe-investigation-only",
+      "provenance_id": "prov-source-class-investigation-only",
+      "registry_record_present": true,
+      "release_safe": false,
+      "source_id": "lddb",
+      "validation_status": "metadata_probe_passed_payload_excluded"
+    },
+    {
+      "access_class": "open",
+      "credential_required": false,
+      "human_review_required": true,
+      "local_only_required": true,
+      "ontology_name": "Disease Ontology",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "probe_id": "probe-open",
+      "provenance_id": "prov-source-class-open",
+      "registry_record_present": true,
+      "release_safe": true,
+      "source_id": "do",
+      "validation_status": "metadata_probe_passed_payload_excluded"
+    },
+    {
+      "access_class": "restricted",
+      "credential_required": true,
+      "human_review_required": true,
+      "local_only_required": true,
+      "ontology_name": "DECIPHER",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "probe_id": "probe-restricted",
+      "provenance_id": "prov-source-class-restricted",
+      "registry_record_present": true,
+      "release_safe": false,
+      "source_id": "decipher",
+      "validation_status": "metadata_probe_passed_payload_excluded"
+    }
+  ]
+}

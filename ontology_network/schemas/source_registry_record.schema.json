@@ -1,0 +1,192 @@
+{
+  "$id": "https://example.org/hpo-translations/ontology-network/source_registry_record.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "access_class": {
+      "type": "string"
+    },
+    "access_mode": {
+      "type": "string"
+    },
+    "artifact_contract": {
+      "additionalProperties": true,
+      "type": "object"
+    },
+    "authoritative_endpoint": {
+      "type": "string"
+    },
+    "authoritative_endpoint_note": {
+      "type": "string"
+    },
+    "authoritative_endpoint_status": {
+      "type": "string"
+    },
+    "candidate_only": {
+      "type": "boolean"
+    },
+    "commit_safe_artifacts": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "credential_required": {
+      "type": "boolean"
+    },
+    "declared_language_count": {
+      "type": "integer"
+    },
+    "description": {
+      "type": "string"
+    },
+    "expected_blockers": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "fallback_path": {
+      "type": "string"
+    },
+    "github_repositories": {
+      "items": {},
+      "type": "array"
+    },
+    "github_repository_count": {
+      "type": "integer"
+    },
+    "github_repository_roles": {
+      "items": {},
+      "type": "array"
+    },
+    "human_review_required": {
+      "type": "boolean"
+    },
+    "known_blockers": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "language_codes": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "language_count": {
+      "type": "integer"
+    },
+    "language_normalization_status": {
+      "type": "string"
+    },
+    "languages": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "license_review_required": {
+      "type": "boolean"
+    },
+    "license_status": {
+      "type": "string"
+    },
+    "local_only_requirements": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "metadata_created_at": {
+      "type": "string"
+    },
+    "metadata_updated_at": {
+      "type": "string"
+    },
+    "ontology_name": {
+      "type": "string"
+    },
+    "payload_commit_allowed": {
+      "type": "boolean"
+    },
+    "pr_safe": {
+      "type": "boolean"
+    },
+    "priority": {
+      "type": "string"
+    },
+    "provenance": {
+      "additionalProperties": true,
+      "type": "object"
+    },
+    "redistribution_status": {
+      "type": "string"
+    },
+    "release_safe": {
+      "type": "boolean"
+    },
+    "restricted_sources": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "source_access_status": {
+      "type": "string"
+    },
+    "source_id": {
+      "type": "string"
+    },
+    "source_metadata_paths": {
+      "additionalProperties": true,
+      "type": "object"
+    },
+    "source_note": {
+      "type": "string"
+    },
+    "source_payload_commit_policy": {
+      "type": "string"
+    },
+    "source_payloads_can_be_committed": {
+      "type": "boolean"
+    },
+    "source_version": {
+      "type": "null"
+    },
+    "track_id": {
+      "type": "string"
+    },
+    "track_status": {
+      "type": "string"
+    },
+    "usefulness": {
+      "type": "string"
+    },
+    "version_status": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "access_class",
+    "authoritative_endpoint_status",
+    "declared_language_count",
+    "github_repository_roles",
+    "human_review_required",
+    "language_codes",
+    "license_status",
+    "ontology_name",
+    "payload_commit_allowed",
+    "pr_safe",
+    "redistribution_status",
+    "release_safe",
+    "source_access_status",
+    "source_id",
+    "source_version",
+    "track_id",
+    "version_status"
+  ],
+  "title": "source_registry_record",
+  "type": "object"
+}

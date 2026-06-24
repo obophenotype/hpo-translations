@@ -1,0 +1,28 @@
+{
+  "blocked_patterns": [
+    "raw",
+    "licensed",
+    "credential",
+    "api_key",
+    "token",
+    "full_release",
+    "private",
+    "restricted"
+  ],
+  "commit_policy": "network artifacts may commit registry schemas, source access matrix, provenance, validation, conflict, and coverage reports only when they do not reconstruct restricted source payloads; restricted source payloads stay local-only",
+  "generated_date": "2026-06-23",
+  "local_only_artifacts": [
+    "raw downloads",
+    "licensed payloads",
+    "full API responses",
+    "credentialed exports"
+  ],
+  "no_external_payloads_read": true,
+  "policy_scope": "ontology_network",
+  "required_evidence": [
+    "source license classification",
+    "local-only manifest if any restricted source is touched",
+    "redaction or exclusion proof before commit"
+  ],
+  "source": "conductor/tracks/ontology_network_20260623/metadata.json"
+}

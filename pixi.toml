@@ -1,0 +1,65 @@
+[workspace]
+authors = ["Dylan Mordaunt <Dylan.Mordaunt@health.nsw.gov.au>"]
+channels = ["conda-forge"]
+name = "hpo-translations"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+sort-all = { cmd = ".pixi/envs/default/python.exe -u scripts/process_translations.py sort-all", env = { PYTHONUTF8 = "1" }, inputs = ["babelon/hp-*.babelon.tsv", "babelon/hp-*.synonyms.tsv"], outputs = ["babelon/hp-*.babelon.tsv", "babelon/hp-*.synonyms.tsv"] }
+clean-all = { cmd = ".pixi/envs/default/python.exe -u scripts/process_translations.py clean-all", env = { PYTHONUTF8 = "1" }, inputs = ["babelon/hp-*.babelon.tsv", "babelon/hp-*.synonyms.tsv"], outputs = ["babelon/hp-*.babelon.tsv", "babelon/hp-*.synonyms.tsv"] }
+validate-all = { cmd = ".pixi/envs/default/python.exe -u scripts/process_translations.py validate-all", env = { PYTHONUTF8 = "1" }, inputs = ["babelon/hp-*.babelon.tsv", "babelon/hp-*.synonyms.tsv"], outputs = ["tmp/*-babelon.owl"] }
+qc = { cmd = ".pixi/envs/default/python.exe -u scripts/process_translations.py validate-all", env = { PYTHONUTF8 = "1" }, inputs = ["babelon/hp-*.babelon.tsv", "babelon/hp-*.synonyms.tsv"], outputs = ["tmp/*-babelon.owl"] }
+update = { depends-on = ["sort-all", "clean-all", "validate-all"] }
+ruff-check = { cmd = ".pixi/envs/default/Scripts/ruff.exe check --no-cache .", inputs = ["scripts/**/*.py", "ruff.toml"] }
+ruff-format = { cmd = ".pixi/envs/default/Scripts/ruff.exe format --no-cache --check .", inputs = ["scripts/**/*.py", "ruff.toml"] }
+vale-check = { cmd = ".pixi/envs/default/bin/vale.exe README.md docs/", inputs = ["README.md", "docs/**/*.md", ".vale.ini"] }
+mypy-check = { cmd = ".pixi/envs/default/Scripts/mypy.exe --strict scripts/", inputs = ["scripts/**/*.py"] }
+lint = { depends-on = ["ruff-check", "ruff-format", "vale-check", "mypy-check"] }
+just = ".pixi/envs/default/bin/just.exe"
+cz = ".pixi/envs/default/Scripts/cz.exe"
+pre-commit-install = { cmd = ".pixi/envs/default/Scripts/pre-commit.exe install --install-hooks --hook-type pre-commit --hook-type commit-msg", env = { PRE_COMMIT_HOME = "C:/tmp/hpo-translations-pre-commit" } }
+pre-commit-run = { cmd = ".pixi/envs/default/Scripts/pre-commit.exe run --all-files", env = { PRE_COMMIT_HOME = "C:/tmp/hpo-translations-pre-commit" } }
+package = ".pixi/envs/default/python.exe scripts/package_translations.py"
+profile = ".pixi/envs/default/python.exe scripts/process_translations.py profile"
+diff-audit = ".pixi/envs/default/python.exe scripts/diff_translations.py"
+audit-translations = ".pixi/envs/default/python.exe scripts/translation_audit.py audit"
+agent-export = ".pixi/envs/default/python.exe scripts/translation_audit.py export-work-items"
+agent-apply-dry-run = ".pixi/envs/default/python.exe scripts/translation_audit.py apply-agent-output"
+workflow-list = ".pixi/envs/default/python.exe scripts/translation_workflows.py list"
+workflow-show = ".pixi/envs/default/python.exe scripts/translation_workflows.py show"
+build-ontology-network = ".pixi/envs/default/python.exe -u scripts/build_ontology_network.py build"
+validate-ontology-network = ".pixi/envs/default/python.exe -u scripts/build_ontology_network.py validate"
+validate-ontology-network-artifacts = ".pixi/envs/default/python.exe scripts/validate_ontology_network.py --registry ontology_network/source_registry.json --crosswalk ontology_network/crosswalk_graph.json --conflict ontology_network/conflict_heatmap.json --coverage ontology_network/coverage_summary.json --review-pack ontology_network/language_review_packs.json"
+check-ontology-network-drift = ".pixi/envs/default/python.exe scripts/check_ontology_network_drift.py"
+ontology-network = ".pixi/envs/default/python.exe -u scripts/build_ontology_network.py all"
+validate-conductor = ".pixi/envs/default/python.exe -u scripts/validate_conductor.py"
+validate-conductor-report = ".pixi/envs/default/python.exe -u scripts/validate_conductor.py --json-output tmp/conductor_validation_report.json --text-output tmp/conductor_validation_report.md"
+test-conductor-validation = ".pixi/envs/default/python.exe -m unittest discover -s tests -p test_*.py"
+
+[dependencies]
+python = ">=3.14.6,<3.15"
+setuptools = ">=82.0.1,<83"
+ruff = ">=0.15.18,<0.16"
+vale = ">=3.15.1,<4"
+mypy = ">=1.15.0,<2"
+pre-commit = ">=4.6.0,<5"
+just = ">=1.43.1,<2"
+
+[pypi-dependencies]
+babelon = ">=0.3.6"
+tsvalid = ">=0.0.5"
+curies = ">=0.7.7"
+linkml = ">=1.11.1,<2"
+linkml-runtime = ">=1.11.1,<2"
+commitizen = ">=3.21.0,<4"
+mkdocs = ">=1.6.0"
+mkdocs-material = ">=9.5.0"
+
+[tool.commitizen]
+name = "cz_conventional_commits"
+version = "0.1.0"
+tag_format = "v$version"
+version_files = [
+    "pixi.toml:version",
+]

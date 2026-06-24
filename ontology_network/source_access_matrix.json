@@ -1,0 +1,998 @@
+{
+  "generated_date": "2026-06-23",
+  "record_count": 18,
+  "records": [
+    {
+      "access_class": "restricted",
+      "access_mode": "permissioned_api_or_terms_gated_access",
+      "authoritative_endpoint": "non_github_authority_required",
+      "authoritative_endpoint_status": "non_github_authority_required",
+      "credential_required": true,
+      "declared_language_count": 1,
+      "github_repositories": [],
+      "github_repository_roles": [],
+      "human_review_required": true,
+      "known_blocker_count": 2,
+      "language_codes": [
+        "en"
+      ],
+      "languages": [
+        "English only"
+      ],
+      "license_status": "permission_or_data_use_terms_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads",
+        "source-specific extraction outputs remain local-only until access and redistribution terms pass review"
+      ],
+      "ontology_name": "DECIPHER",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "api_terms_required_no_full_response_redistribution",
+      "release_safe": false,
+      "restricted_sources": [
+        "DECIPHER"
+      ],
+      "source_access_status": "permission_or_api_terms_required",
+      "source_id": "decipher",
+      "source_payload_commit_policy": "do_not_commit_raw_licensed_or_credentialed_payloads; governance metadata only until explicit redistribution permission exists",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "decipher_integration_20260623",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "open",
+      "access_mode": "open_ontology_download_review_required",
+      "authoritative_endpoint": "repository_recorded_authority_review_required",
+      "authoritative_endpoint_status": "repository_recorded_authority_review_required",
+      "credential_required": false,
+      "declared_language_count": 1,
+      "github_repositories": [
+        "https://github.com/DiseaseOntology/HumanDiseaseOntology"
+      ],
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": true,
+          "role": "source_repository",
+          "url": "https://github.com/DiseaseOntology/HumanDiseaseOntology"
+        }
+      ],
+      "human_review_required": true,
+      "known_blocker_count": 2,
+      "language_codes": [
+        "en"
+      ],
+      "languages": [
+        "English only"
+      ],
+      "license_status": "terms_review_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads"
+      ],
+      "ontology_name": "Disease Ontology",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "terms_review_required_before_payload_redistribution",
+      "release_safe": true,
+      "restricted_sources": [],
+      "source_access_status": "open_ontology_download_review_required",
+      "source_id": "do",
+      "source_payload_commit_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "do_integration_20260623",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "open",
+      "access_mode": "open_ontology_download_review_required",
+      "authoritative_endpoint": "repository_recorded_authority_review_required",
+      "authoritative_endpoint_status": "repository_recorded_authority_review_required",
+      "credential_required": false,
+      "declared_language_count": 1,
+      "github_repositories": [
+        "https://github.com/EBISPOT/efo"
+      ],
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": true,
+          "role": "source_repository",
+          "url": "https://github.com/EBISPOT/efo"
+        }
+      ],
+      "human_review_required": true,
+      "known_blocker_count": 2,
+      "language_codes": [
+        "en"
+      ],
+      "languages": [
+        "English only"
+      ],
+      "license_status": "terms_review_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads"
+      ],
+      "ontology_name": "EFO",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "terms_review_required_before_payload_redistribution",
+      "release_safe": true,
+      "restricted_sources": [],
+      "source_access_status": "open_ontology_download_review_required",
+      "source_id": "efo",
+      "source_payload_commit_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "efo_integration_20260623",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "open",
+      "access_mode": "public_ontology_terms_review_required",
+      "authoritative_endpoint": "non_github_authority_required",
+      "authoritative_endpoint_status": "non_github_authority_required",
+      "credential_required": false,
+      "declared_language_count": 1,
+      "github_repositories": [],
+      "github_repository_roles": [],
+      "human_review_required": true,
+      "known_blocker_count": 3,
+      "language_codes": [
+        "en"
+      ],
+      "languages": [
+        "English only"
+      ],
+      "license_status": "terms_review_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads"
+      ],
+      "ontology_name": "FMA",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "terms_review_required_before_payload_redistribution",
+      "release_safe": true,
+      "restricted_sources": [],
+      "source_access_status": "public_ontology_terms_review_required",
+      "source_id": "fma",
+      "source_payload_commit_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "fma_integration_20260623",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "open",
+      "access_mode": "public_or_national_variant_download",
+      "authoritative_endpoint": "authority_described_github_not_authoritative",
+      "authoritative_endpoint_status": "authority_described_github_not_authoritative",
+      "credential_required": false,
+      "declared_language_count": 6,
+      "github_repositories": [
+        "https://github.com/ICD-API"
+      ],
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": false,
+          "role": "tooling_reference",
+          "url": "https://github.com/ICD-API"
+        }
+      ],
+      "human_review_required": true,
+      "known_blocker_count": 2,
+      "language_codes": [
+        "ar",
+        "en",
+        "es",
+        "fr",
+        "ru",
+        "zh"
+      ],
+      "languages": [
+        "English",
+        "French",
+        "Spanish",
+        "Arabic",
+        "Chinese",
+        "Russian",
+        "plus many national localized variants"
+      ],
+      "license_status": "terms_review_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads"
+      ],
+      "ontology_name": "ICD-10",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "terms_review_required_before_payload_redistribution",
+      "release_safe": true,
+      "restricted_sources": [],
+      "source_access_status": "public_or_national_variant_review_required",
+      "source_id": "icd10",
+      "source_payload_commit_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "icd10_integration_20260623",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "API-only",
+      "access_mode": "public_api_terms_review_required",
+      "authoritative_endpoint": "authority_described_github_not_authoritative",
+      "authoritative_endpoint_status": "authority_described_github_not_authoritative",
+      "credential_required": false,
+      "declared_language_count": 10,
+      "github_repositories": [
+        "https://github.com/ICD-API"
+      ],
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": false,
+          "role": "tooling_reference",
+          "url": "https://github.com/ICD-API"
+        }
+      ],
+      "human_review_required": true,
+      "known_blocker_count": 2,
+      "language_codes": [
+        "ar",
+        "cs",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "ru",
+        "tr",
+        "uz",
+        "zh"
+      ],
+      "languages": [
+        "Arabic",
+        "Chinese",
+        "Czech",
+        "English",
+        "French",
+        "Portuguese",
+        "Russian",
+        "Spanish",
+        "Turkish",
+        "Uzbek"
+      ],
+      "license_status": "terms_review_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads",
+        "source-specific extraction outputs remain local-only until access and redistribution terms pass review"
+      ],
+      "ontology_name": "ICD-11",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "api_terms_required_no_full_response_redistribution",
+      "release_safe": false,
+      "restricted_sources": [],
+      "source_access_status": "public_api_terms_review_required",
+      "source_id": "icd11",
+      "source_payload_commit_policy": "do_not_commit_full_api_responses; commit only schemas, request manifests, validation summaries, and redacted derived reports",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "icd11_integration_20260623",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "investigation-only",
+      "access_mode": "source_authority_investigation",
+      "authoritative_endpoint": "non_github_authority_required",
+      "authoritative_endpoint_status": "non_github_authority_required",
+      "credential_required": false,
+      "declared_language_count": 1,
+      "github_repositories": [],
+      "github_repository_roles": [],
+      "human_review_required": true,
+      "known_blocker_count": 2,
+      "language_codes": [
+        "en"
+      ],
+      "languages": [
+        "English only"
+      ],
+      "license_status": "unknown_authority_and_license",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads",
+        "source-specific extraction outputs remain local-only until access and redistribution terms pass review"
+      ],
+      "ontology_name": "LDDB",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "unknown_until_authority_verified",
+      "release_safe": false,
+      "restricted_sources": [
+        "unknown_until_source_authority_verified"
+      ],
+      "source_access_status": "source_authority_and_access_unknown",
+      "source_id": "lddb",
+      "source_payload_commit_policy": "do_not_plan_payload_access until source authority, access path, and license are verified",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "lddb_integration_20260623",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "restricted",
+      "access_mode": "account_gated_download",
+      "authoritative_endpoint": "repository_recorded_authority_review_required",
+      "authoritative_endpoint_status": "repository_recorded_authority_review_required",
+      "credential_required": true,
+      "declared_language_count": 11,
+      "github_repositories": [
+        "https://github.com/loinc",
+        "https://github.com/loinc/comp-loinc"
+      ],
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": true,
+          "role": "source_repository",
+          "url": "https://github.com/loinc"
+        },
+        {
+          "authoritative_for_release_payload": true,
+          "role": "source_repository",
+          "url": "https://github.com/loinc/comp-loinc"
+        }
+      ],
+      "human_review_required": true,
+      "known_blocker_count": 2,
+      "language_codes": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ko",
+        "nl",
+        "pt",
+        "ru",
+        "tr",
+        "zh"
+      ],
+      "languages": [
+        "English",
+        "French",
+        "German",
+        "Italian",
+        "Spanish",
+        "Chinese",
+        "Korean",
+        "Dutch",
+        "Portuguese",
+        "Russian",
+        "Turkish"
+      ],
+      "license_status": "free_account_license_review_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads",
+        "source-specific extraction outputs remain local-only until access and redistribution terms pass review"
+      ],
+      "ontology_name": "LOINC",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "restricted_no_payload_redistribution",
+      "release_safe": false,
+      "restricted_sources": [
+        "LOINC"
+      ],
+      "source_access_status": "free_account_license_review_required",
+      "source_id": "loinc",
+      "source_payload_commit_policy": "do_not_commit_raw_licensed_or_credentialed_payloads; governance metadata only until explicit redistribution permission exists",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "loinc_integration_20260623",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "restricted",
+      "access_mode": "licensed_release_download",
+      "authoritative_endpoint": "non_github_authority_required",
+      "authoritative_endpoint_status": "non_github_authority_required",
+      "credential_required": true,
+      "declared_language_count": 27,
+      "github_repositories": [],
+      "github_repository_roles": [],
+      "human_review_required": true,
+      "known_blocker_count": 2,
+      "language_codes": [
+        "ar",
+        "cs",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hu",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "ru",
+        "sv",
+        "tr",
+        "zh"
+      ],
+      "languages": [
+        "27 languages including English",
+        "French",
+        "German",
+        "Spanish",
+        "Italian",
+        "Portuguese",
+        "Japanese",
+        "Chinese",
+        "Russian",
+        "Arabic",
+        "Czech",
+        "Dutch",
+        "Hungarian",
+        "Korean",
+        "Polish",
+        "Swedish",
+        "Turkish"
+      ],
+      "license_status": "subscription_license_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads",
+        "source-specific extraction outputs remain local-only until access and redistribution terms pass review"
+      ],
+      "ontology_name": "MedDRA",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "restricted_no_payload_redistribution",
+      "release_safe": false,
+      "restricted_sources": [
+        "MedDRA"
+      ],
+      "source_access_status": "subscription_or_license_required",
+      "source_id": "meddra",
+      "source_payload_commit_policy": "do_not_commit_raw_licensed_or_credentialed_payloads; governance metadata only until explicit redistribution permission exists",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "meddra_integration_20260623",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "open",
+      "access_mode": "public_download_terms_review_required",
+      "authoritative_endpoint": "repository_recorded_authority_review_required",
+      "authoritative_endpoint_status": "repository_recorded_authority_review_required",
+      "credential_required": false,
+      "declared_language_count": 11,
+      "github_repositories": [
+        "https://github.com/HHS/meshrdf"
+      ],
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": true,
+          "role": "source_repository",
+          "url": "https://github.com/HHS/meshrdf"
+        }
+      ],
+      "human_review_required": true,
+      "known_blocker_count": 2,
+      "language_codes": [
+        "cs",
+        "de",
+        "en",
+        "es",
+        "fi",
+        "fr",
+        "it",
+        "ja",
+        "pl",
+        "pt",
+        "ru"
+      ],
+      "languages": [
+        "English",
+        "French",
+        "German",
+        "Spanish",
+        "Portuguese",
+        "Italian",
+        "Japanese",
+        "Russian",
+        "Finnish",
+        "Czech",
+        "Polish"
+      ],
+      "license_status": "terms_review_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads"
+      ],
+      "ontology_name": "MeSH",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "terms_review_required_before_payload_redistribution",
+      "release_safe": true,
+      "restricted_sources": [],
+      "source_access_status": "public_download_terms_review_required",
+      "source_id": "mesh",
+      "source_payload_commit_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "mesh_integration_20260623",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "open",
+      "access_mode": "open_ontology_download_review_required",
+      "authoritative_endpoint": "repository_recorded_authority_review_required",
+      "authoritative_endpoint_status": "repository_recorded_authority_review_required",
+      "credential_required": false,
+      "declared_language_count": 1,
+      "github_repositories": [
+        "https://github.com/mgijax/mammalian-phenotype-ontology"
+      ],
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": true,
+          "role": "source_repository",
+          "url": "https://github.com/mgijax/mammalian-phenotype-ontology"
+        }
+      ],
+      "human_review_required": true,
+      "known_blocker_count": 2,
+      "language_codes": [
+        "en"
+      ],
+      "languages": [
+        "English only"
+      ],
+      "license_status": "terms_review_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads"
+      ],
+      "ontology_name": "Mammalian Phenotype Ontology",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "terms_review_required_before_payload_redistribution",
+      "release_safe": true,
+      "restricted_sources": [],
+      "source_access_status": "open_ontology_download_review_required",
+      "source_id": "mp",
+      "source_payload_commit_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "mp_integration_20260623",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "restricted",
+      "access_mode": "credentialed_api_or_download",
+      "authoritative_endpoint": "authority_described_github_not_authoritative",
+      "authoritative_endpoint_status": "authority_described_github_not_authoritative",
+      "credential_required": true,
+      "declared_language_count": 1,
+      "github_repositories": [
+        "https://github.com/OMIM-org"
+      ],
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": false,
+          "role": "organization_reference",
+          "url": "https://github.com/OMIM-org"
+        }
+      ],
+      "human_review_required": true,
+      "known_blocker_count": 2,
+      "language_codes": [
+        "en"
+      ],
+      "languages": [
+        "English only"
+      ],
+      "license_status": "credentialed_api_or_license_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads",
+        "source-specific extraction outputs remain local-only until access and redistribution terms pass review"
+      ],
+      "ontology_name": "OMIM",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "api_terms_required_no_full_response_redistribution",
+      "release_safe": false,
+      "restricted_sources": [
+        "OMIM"
+      ],
+      "source_access_status": "api_key_or_license_required",
+      "source_id": "omim",
+      "source_payload_commit_policy": "do_not_commit_raw_licensed_or_credentialed_payloads; governance metadata only until explicit redistribution permission exists",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "omim_integration_20260623",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "API-only",
+      "access_mode": "public_api_terms_review_required",
+      "authoritative_endpoint": "repository_recorded_authority_review_required",
+      "authoritative_endpoint_status": "repository_recorded_authority_review_required",
+      "credential_required": false,
+      "declared_language_count": 1,
+      "github_repositories": [
+        "https://github.com/cBioPortal/oncotree"
+      ],
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": true,
+          "role": "source_repository",
+          "url": "https://github.com/cBioPortal/oncotree"
+        }
+      ],
+      "human_review_required": true,
+      "known_blocker_count": 2,
+      "language_codes": [
+        "en"
+      ],
+      "languages": [
+        "English only"
+      ],
+      "license_status": "terms_review_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads",
+        "source-specific extraction outputs remain local-only until access and redistribution terms pass review"
+      ],
+      "ontology_name": "OncoTree",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "api_terms_required_no_full_response_redistribution",
+      "release_safe": false,
+      "restricted_sources": [],
+      "source_access_status": "open_api_terms_review_required",
+      "source_id": "oncotree",
+      "source_payload_commit_policy": "do_not_commit_full_api_responses; commit only schemas, request manifests, validation summaries, and redacted derived reports",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "oncotree_integration_20260623",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "open",
+      "access_mode": "public_download_terms_review_required",
+      "authoritative_endpoint": "authority_described_github_not_authoritative",
+      "authoritative_endpoint_status": "authority_described_github_not_authoritative",
+      "credential_required": false,
+      "declared_language_count": 9,
+      "github_repositories": [
+        "https://github.com/Orphanet"
+      ],
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": false,
+          "role": "organization_reference",
+          "url": "https://github.com/Orphanet"
+        }
+      ],
+      "human_review_required": true,
+      "known_blocker_count": 2,
+      "language_codes": [
+        "cs",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "nl",
+        "pl",
+        "pt"
+      ],
+      "languages": [
+        "English",
+        "French",
+        "Spanish",
+        "Italian",
+        "German",
+        "Dutch",
+        "Portuguese",
+        "Czech",
+        "Polish"
+      ],
+      "license_status": "terms_review_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads"
+      ],
+      "ontology_name": "Orphanet",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "terms_review_required_before_payload_redistribution",
+      "release_safe": true,
+      "restricted_sources": [],
+      "source_access_status": "public_download_terms_review_required",
+      "source_id": "orphanet",
+      "source_payload_commit_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "orphanet_integration_20260623",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "open",
+      "access_mode": "open_ontology_download_review_required",
+      "authoritative_endpoint": "repository_recorded_authority_review_required",
+      "authoritative_endpoint_status": "repository_recorded_authority_review_required",
+      "credential_required": false,
+      "declared_language_count": 1,
+      "github_repositories": [
+        "https://github.com/pato-ontology/pato"
+      ],
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": true,
+          "role": "source_repository",
+          "url": "https://github.com/pato-ontology/pato"
+        }
+      ],
+      "human_review_required": true,
+      "known_blocker_count": 2,
+      "language_codes": [
+        "en"
+      ],
+      "languages": [
+        "English only"
+      ],
+      "license_status": "terms_review_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads"
+      ],
+      "ontology_name": "PATO",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "terms_review_required_before_payload_redistribution",
+      "release_safe": true,
+      "restricted_sources": [],
+      "source_access_status": "open_ontology_download_review_required",
+      "source_id": "pato",
+      "source_payload_commit_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "pato_integration_20260623",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "restricted",
+      "access_mode": "licensed_release_download",
+      "authoritative_endpoint": "authority_described_github_not_authoritative",
+      "authoritative_endpoint_status": "authority_described_github_not_authoritative",
+      "credential_required": true,
+      "declared_language_count": 11,
+      "github_repositories": [
+        "https://github.com/IHTSDO",
+        "https://github.com/IHTSDO/snowstorm",
+        "https://github.com/IHTSDO/snomed-owl-toolkit"
+      ],
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": false,
+          "role": "tooling_reference",
+          "url": "https://github.com/IHTSDO"
+        },
+        {
+          "authoritative_for_release_payload": false,
+          "role": "tooling_reference",
+          "url": "https://github.com/IHTSDO/snowstorm"
+        },
+        {
+          "authoritative_for_release_payload": false,
+          "role": "tooling_reference",
+          "url": "https://github.com/IHTSDO/snomed-owl-toolkit"
+        }
+      ],
+      "human_review_required": true,
+      "known_blocker_count": 3,
+      "language_codes": [
+        "da",
+        "de",
+        "en",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "nl",
+        "no",
+        "sk",
+        "sv"
+      ],
+      "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Dutch",
+        "Danish",
+        "Swedish",
+        "Norwegian",
+        "Estonian",
+        "Finnish",
+        "Slovak"
+      ],
+      "license_status": "affiliate_or_jurisdiction_license_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads",
+        "source-specific extraction outputs remain local-only until access and redistribution terms pass review"
+      ],
+      "ontology_name": "SNOMED CT",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "restricted_no_payload_redistribution",
+      "release_safe": false,
+      "restricted_sources": [
+        "SNOMED CT"
+      ],
+      "source_access_status": "license_or_affiliate_release_required",
+      "source_id": "snomed_ct",
+      "source_payload_commit_policy": "do_not_commit_raw_licensed_or_credentialed_payloads; governance metadata only until explicit redistribution permission exists",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "snomed_ct_integration_20260623",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "restricted",
+      "access_mode": "licensed_download_or_api",
+      "authoritative_endpoint": "authority_described_github_not_authoritative",
+      "authoritative_endpoint_status": "authority_described_github_not_authoritative",
+      "credential_required": true,
+      "declared_language_count": 9,
+      "github_repositories": [
+        "https://github.com/HHS/uts-rest-api"
+      ],
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": false,
+          "role": "tooling_reference",
+          "url": "https://github.com/HHS/uts-rest-api"
+        }
+      ],
+      "human_review_required": true,
+      "known_blocker_count": 3,
+      "language_codes": [
+        "ar",
+        "de",
+        "es",
+        "fr",
+        "it",
+        "ja",
+        "pt",
+        "ru",
+        "zh"
+      ],
+      "languages": [
+        "Multilingual via Metathesaurus",
+        "including Arabic",
+        "Chinese",
+        "French",
+        "German",
+        "Italian",
+        "Japanese",
+        "Portuguese",
+        "Russian",
+        "Spanish"
+      ],
+      "license_status": "license_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads",
+        "source-specific extraction outputs remain local-only until access and redistribution terms pass review"
+      ],
+      "ontology_name": "UMLS Metathesaurus",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "restricted_no_payload_redistribution",
+      "release_safe": false,
+      "restricted_sources": [
+        "UMLS Metathesaurus"
+      ],
+      "source_access_status": "license_required",
+      "source_id": "umls",
+      "source_payload_commit_policy": "do_not_commit_raw_licensed_or_credentialed_payloads; governance metadata only until explicit redistribution permission exists",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "umls_metathesaurus_integration_20260623",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "open",
+      "access_mode": "open_ontology_download_review_required",
+      "authoritative_endpoint": "repository_recorded_authority_review_required",
+      "authoritative_endpoint_status": "repository_recorded_authority_review_required",
+      "credential_required": false,
+      "declared_language_count": 1,
+      "github_repositories": [
+        "https://github.com/obophenotype/upheno"
+      ],
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": true,
+          "role": "source_repository",
+          "url": "https://github.com/obophenotype/upheno"
+        }
+      ],
+      "human_review_required": true,
+      "known_blocker_count": 2,
+      "language_codes": [
+        "en"
+      ],
+      "languages": [
+        "English only"
+      ],
+      "license_status": "terms_review_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads"
+      ],
+      "ontology_name": "uPheno",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "terms_review_required_before_payload_redistribution",
+      "release_safe": true,
+      "restricted_sources": [],
+      "source_access_status": "open_ontology_download_review_required",
+      "source_id": "upheno",
+      "source_payload_commit_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "upheno_integration_20260623",
+      "version_status": "not_pinned_in_track_metadata"
+    }
+  ],
+  "source": "conductor track metadata plus source profile fields; no external ontology payloads are read"
+}

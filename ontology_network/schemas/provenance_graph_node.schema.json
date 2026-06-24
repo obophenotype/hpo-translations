@@ -1,0 +1,23 @@
+{
+  "$id": "https://example.org/hpo-translations/ontology-network/provenance_graph_node.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "track_id": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "id",
+    "track_id",
+    "type"
+  ],
+  "title": "provenance_graph_node",
+  "type": "object"
+}

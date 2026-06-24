@@ -1,0 +1,51 @@
+{
+  "$id": "https://example.org/hpo-translations/ontology-network/release_readiness_manifest.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "access_class_counts": {
+      "additionalProperties": true,
+      "type": "object"
+    },
+    "generated_date": {
+      "type": "string"
+    },
+    "governance_artifacts_release_ready": {
+      "type": "boolean"
+    },
+    "human_review_required": {
+      "type": "boolean"
+    },
+    "known_blocker_count": {
+      "type": "integer"
+    },
+    "release_policy": {
+      "type": "string"
+    },
+    "release_ready": {
+      "type": "boolean"
+    },
+    "restricted_source_count": {
+      "type": "integer"
+    },
+    "source_count": {
+      "type": "integer"
+    },
+    "source_payload_blocker_count": {
+      "type": "integer"
+    },
+    "source_payload_release_ready": {
+      "type": "boolean"
+    }
+  },
+  "required": [
+    "generated_date",
+    "governance_artifacts_release_ready",
+    "release_ready",
+    "restricted_source_count",
+    "source_count",
+    "source_payload_release_ready"
+  ],
+  "title": "release_readiness_manifest",
+  "type": "object"
+}

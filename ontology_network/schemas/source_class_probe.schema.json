@@ -1,0 +1,57 @@
+{
+  "$id": "https://example.org/hpo-translations/ontology-network/source_class_probe.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "access_class": {
+      "type": "string"
+    },
+    "credential_required": {
+      "type": "boolean"
+    },
+    "human_review_required": {
+      "type": "boolean"
+    },
+    "local_only_required": {
+      "type": "boolean"
+    },
+    "ontology_name": {
+      "type": "string"
+    },
+    "payload_commit_allowed": {
+      "type": "boolean"
+    },
+    "pr_safe": {
+      "type": "boolean"
+    },
+    "probe_id": {
+      "type": "string"
+    },
+    "provenance_id": {
+      "type": "string"
+    },
+    "registry_record_present": {
+      "type": "boolean"
+    },
+    "release_safe": {
+      "type": "boolean"
+    },
+    "source_id": {
+      "type": "string"
+    },
+    "validation_status": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "access_class",
+    "human_review_required",
+    "payload_commit_allowed",
+    "probe_id",
+    "registry_record_present",
+    "source_id",
+    "validation_status"
+  ],
+  "title": "source_class_probe",
+  "type": "object"
+}

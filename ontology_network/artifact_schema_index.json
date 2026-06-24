@@ -1,0 +1,423 @@
+{
+  "generated_date": "2026-06-23",
+  "schema_count": 18,
+  "schemas": [
+    {
+      "artifact": "artifact_schema_index_record",
+      "artifact_status": "committed_contract",
+      "downstream_consumers": [
+        "ontology source integration tracks",
+        "translation candidate review packs",
+        "release readiness checks"
+      ],
+      "local_only": false,
+      "owner": "ontology-network maintainer",
+      "required_fields": [
+        "artifact",
+        "schema_path",
+        "required_fields",
+        "artifact_status",
+        "safety_class",
+        "owner"
+      ],
+      "safety_class": "release-safe-contract",
+      "schema_path": "schemas/artifact_schema_index_record.schema.json"
+    },
+    {
+      "artifact": "conflict_report_row",
+      "artifact_status": "generated",
+      "downstream_consumers": [
+        "ontology source integration tracks",
+        "translation candidate review packs",
+        "release readiness checks"
+      ],
+      "local_only": false,
+      "owner": "ontology-network maintainer",
+      "required_fields": [
+        "conflict_id",
+        "conflict_type",
+        "evidence_ids",
+        "hpo_id",
+        "provenance_id",
+        "resolution_status",
+        "reviewer_action",
+        "severity",
+        "source_ids"
+      ],
+      "safety_class": "payload-free",
+      "schema_path": "schemas/conflict_report_row.schema.json"
+    },
+    {
+      "artifact": "coverage_summary_row",
+      "artifact_status": "generated",
+      "downstream_consumers": [
+        "ontology source integration tracks",
+        "translation candidate review packs",
+        "release readiness checks"
+      ],
+      "local_only": false,
+      "owner": "ontology-network maintainer",
+      "required_fields": [
+        "coverage_id",
+        "coverage_ratio",
+        "covered_hpo_terms",
+        "hpo_branch_id",
+        "language",
+        "predicate",
+        "provenance_id",
+        "review_status",
+        "source_id",
+        "total_hpo_terms"
+      ],
+      "safety_class": "payload-free",
+      "schema_path": "schemas/coverage_summary_row.schema.json"
+    },
+    {
+      "artifact": "crosswalk_edge",
+      "artifact_status": "generated",
+      "downstream_consumers": [
+        "ontology source integration tracks",
+        "translation candidate review packs",
+        "release readiness checks"
+      ],
+      "local_only": false,
+      "owner": "ontology-network maintainer",
+      "required_fields": [
+        "candidate_only",
+        "confidence",
+        "edge_id",
+        "external_id",
+        "external_source_id",
+        "hpo_id",
+        "human_review_required",
+        "mapping_basis",
+        "mapping_predicate",
+        "mapping_source",
+        "provenance_id",
+        "review_status"
+      ],
+      "safety_class": "payload-free",
+      "schema_path": "schemas/crosswalk_edge.schema.json"
+    },
+    {
+      "artifact": "language_comparison_row",
+      "artifact_status": "generated",
+      "downstream_consumers": [
+        "ontology source integration tracks",
+        "translation candidate review packs",
+        "release readiness checks"
+      ],
+      "local_only": false,
+      "owner": "ontology-network maintainer",
+      "required_fields": [
+        "candidate_only",
+        "human_review_required",
+        "language",
+        "source_ids"
+      ],
+      "safety_class": "payload-free",
+      "schema_path": "schemas/language_comparison_row.schema.json"
+    },
+    {
+      "artifact": "license_access_record",
+      "artifact_status": "committed_contract",
+      "downstream_consumers": [
+        "ontology source integration tracks",
+        "translation candidate review packs",
+        "release readiness checks"
+      ],
+      "local_only": false,
+      "owner": "ontology-network maintainer",
+      "required_fields": [
+        "access_class",
+        "license_status",
+        "payload_commit_allowed",
+        "redistribution_status",
+        "release_safe",
+        "source_id"
+      ],
+      "safety_class": "release-safe-contract",
+      "schema_path": "schemas/license_access_record.schema.json"
+    },
+    {
+      "artifact": "p3_source_governance_record",
+      "artifact_status": "committed_contract",
+      "downstream_consumers": [
+        "ontology source integration tracks",
+        "translation candidate review packs",
+        "release readiness checks"
+      ],
+      "local_only": false,
+      "owner": "ontology-network maintainer",
+      "required_fields": [
+        "access_class",
+        "authority_status",
+        "blocked_downstream_outputs",
+        "bounded_sample_allowed",
+        "candidate_only",
+        "commit_safe_artifacts",
+        "go_no_go",
+        "human_review_required",
+        "identifier_network_allowed",
+        "implementation_scope",
+        "known_blockers",
+        "local_only_requirements",
+        "next_allowed_action",
+        "non_translation_outputs_allowed",
+        "ontology_name",
+        "payload_commit_allowed",
+        "priority",
+        "provenance_id",
+        "source_access_status",
+        "source_authority_confirmed",
+        "source_id",
+        "terms_review_required",
+        "track_id"
+      ],
+      "safety_class": "release-safe-contract",
+      "schema_path": "schemas/p3_source_governance_record.schema.json"
+    },
+    {
+      "artifact": "payload_policy_record",
+      "artifact_status": "committed_contract",
+      "downstream_consumers": [
+        "ontology source integration tracks",
+        "translation candidate review packs",
+        "release readiness checks"
+      ],
+      "local_only": false,
+      "owner": "ontology-network maintainer",
+      "required_fields": [
+        "blocked_patterns",
+        "commit_policy",
+        "local_only_artifacts",
+        "policy_scope",
+        "required_evidence"
+      ],
+      "safety_class": "release-safe-contract",
+      "schema_path": "schemas/payload_policy_record.schema.json"
+    },
+    {
+      "artifact": "provenance_graph_edge",
+      "artifact_status": "committed_contract",
+      "downstream_consumers": [
+        "ontology source integration tracks",
+        "translation candidate review packs",
+        "release readiness checks"
+      ],
+      "local_only": false,
+      "owner": "ontology-network maintainer",
+      "required_fields": [
+        "from",
+        "predicate",
+        "to"
+      ],
+      "safety_class": "release-safe-contract",
+      "schema_path": "schemas/provenance_graph_edge.schema.json"
+    },
+    {
+      "artifact": "provenance_graph_node",
+      "artifact_status": "committed_contract",
+      "downstream_consumers": [
+        "ontology source integration tracks",
+        "translation candidate review packs",
+        "release readiness checks"
+      ],
+      "local_only": false,
+      "owner": "ontology-network maintainer",
+      "required_fields": [
+        "id",
+        "track_id",
+        "type"
+      ],
+      "safety_class": "release-safe-contract",
+      "schema_path": "schemas/provenance_graph_node.schema.json"
+    },
+    {
+      "artifact": "release_readiness_manifest",
+      "artifact_status": "committed_contract",
+      "downstream_consumers": [
+        "ontology source integration tracks",
+        "translation candidate review packs",
+        "release readiness checks"
+      ],
+      "local_only": false,
+      "owner": "ontology-network maintainer",
+      "required_fields": [
+        "generated_date",
+        "governance_artifacts_release_ready",
+        "release_ready",
+        "restricted_source_count",
+        "source_count",
+        "source_payload_release_ready"
+      ],
+      "safety_class": "release-safe-contract",
+      "schema_path": "schemas/release_readiness_manifest.schema.json"
+    },
+    {
+      "artifact": "review_pack_record",
+      "artifact_status": "generated",
+      "downstream_consumers": [
+        "ontology source integration tracks",
+        "translation candidate review packs",
+        "release readiness checks"
+      ],
+      "local_only": false,
+      "owner": "ontology-network maintainer",
+      "required_fields": [
+        "candidate_only",
+        "conflict_ids",
+        "coverage_ids",
+        "crosswalk_ids",
+        "hpo_ids",
+        "human_review_required",
+        "language",
+        "pack_id",
+        "promotion_policy",
+        "provenance_id",
+        "scope",
+        "source_ids"
+      ],
+      "safety_class": "payload-free",
+      "schema_path": "schemas/review_pack_record.schema.json"
+    },
+    {
+      "artifact": "review_workload_record",
+      "artifact_status": "committed_contract",
+      "downstream_consumers": [
+        "ontology source integration tracks",
+        "translation candidate review packs",
+        "release readiness checks"
+      ],
+      "local_only": false,
+      "owner": "ontology-network maintainer",
+      "required_fields": [
+        "candidate_count",
+        "conflict_count",
+        "coverage_gap_count",
+        "language",
+        "source_count"
+      ],
+      "safety_class": "release-safe-contract",
+      "schema_path": "schemas/review_workload_record.schema.json"
+    },
+    {
+      "artifact": "semantic_drift_record",
+      "artifact_status": "committed_contract",
+      "downstream_consumers": [
+        "ontology source integration tracks",
+        "translation candidate review packs",
+        "release readiness checks"
+      ],
+      "local_only": false,
+      "owner": "ontology-network maintainer",
+      "required_fields": [
+        "drift_status",
+        "hpo_release",
+        "source_id",
+        "source_version"
+      ],
+      "safety_class": "release-safe-contract",
+      "schema_path": "schemas/semantic_drift_record.schema.json"
+    },
+    {
+      "artifact": "source_access_record",
+      "artifact_status": "committed_contract",
+      "downstream_consumers": [
+        "ontology source integration tracks",
+        "translation candidate review packs",
+        "release readiness checks"
+      ],
+      "local_only": false,
+      "owner": "ontology-network maintainer",
+      "required_fields": [
+        "access_class",
+        "credential_required",
+        "language_codes",
+        "license_status",
+        "ontology_name",
+        "payload_commit_allowed",
+        "redistribution_status",
+        "release_safe",
+        "source_id",
+        "track_id"
+      ],
+      "safety_class": "release-safe-contract",
+      "schema_path": "schemas/source_access_record.schema.json"
+    },
+    {
+      "artifact": "source_class_probe",
+      "artifact_status": "committed_contract",
+      "downstream_consumers": [
+        "ontology source integration tracks",
+        "translation candidate review packs",
+        "release readiness checks"
+      ],
+      "local_only": false,
+      "owner": "ontology-network maintainer",
+      "required_fields": [
+        "access_class",
+        "human_review_required",
+        "payload_commit_allowed",
+        "probe_id",
+        "registry_record_present",
+        "source_id",
+        "validation_status"
+      ],
+      "safety_class": "release-safe-contract",
+      "schema_path": "schemas/source_class_probe.schema.json"
+    },
+    {
+      "artifact": "source_registry_record",
+      "artifact_status": "committed_contract",
+      "downstream_consumers": [
+        "ontology source integration tracks",
+        "translation candidate review packs",
+        "release readiness checks"
+      ],
+      "local_only": false,
+      "owner": "ontology-network maintainer",
+      "required_fields": [
+        "access_class",
+        "authoritative_endpoint_status",
+        "declared_language_count",
+        "github_repository_roles",
+        "human_review_required",
+        "language_codes",
+        "license_status",
+        "ontology_name",
+        "payload_commit_allowed",
+        "pr_safe",
+        "redistribution_status",
+        "release_safe",
+        "source_access_status",
+        "source_id",
+        "source_version",
+        "track_id",
+        "version_status"
+      ],
+      "safety_class": "release-safe-contract",
+      "schema_path": "schemas/source_registry_record.schema.json"
+    },
+    {
+      "artifact": "validation_report",
+      "artifact_status": "generated",
+      "downstream_consumers": [
+        "ontology source integration tracks",
+        "translation candidate review packs",
+        "release readiness checks"
+      ],
+      "local_only": false,
+      "owner": "ontology-network maintainer",
+      "required_fields": [
+        "artifact",
+        "generated_date",
+        "issues",
+        "validation_result"
+      ],
+      "safety_class": "payload-free",
+      "schema_path": "schemas/validation_report.schema.json"
+    }
+  ],
+  "source": "ontology network metadata contract; schemas describe records, not source payloads"
+}

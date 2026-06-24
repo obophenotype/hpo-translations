@@ -1,0 +1,47 @@
+{
+  "$id": "https://example.org/hpo-translations/ontology-network/artifact_schema_index_record.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "artifact": {
+      "type": "string"
+    },
+    "artifact_status": {
+      "type": "string"
+    },
+    "downstream_consumers": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "local_only": {
+      "type": "boolean"
+    },
+    "owner": {
+      "type": "string"
+    },
+    "required_fields": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "safety_class": {
+      "type": "string"
+    },
+    "schema_path": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "artifact",
+    "schema_path",
+    "required_fields",
+    "artifact_status",
+    "safety_class",
+    "owner"
+  ],
+  "title": "artifact_schema_index_record",
+  "type": "object"
+}

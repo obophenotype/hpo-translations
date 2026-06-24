@@ -1,0 +1,18 @@
+[
+  {
+    "conflict_id": "conflict-fail-fast-1",
+    "conflict_type": "source_disagreement",
+    "evidence_ids": [
+      "probe-open-related-0001"
+    ],
+    "hpo_id": "HP:0000001",
+    "provenance_id": "prov-conflict-fail-fast",
+    "resolution_status": "needs_review",
+    "reviewer_action": "confirm source evidence before candidate promotion",
+    "severity": "info",
+    "source_ids": [
+      "do",
+      "decipher"
+    ]
+  }
+]

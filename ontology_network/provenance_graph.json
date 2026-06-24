@@ -1,0 +1,187 @@
+{
+  "edges": [
+    {
+      "from": "decipher",
+      "predicate": "contributes_metadata_to",
+      "to": "source_registry"
+    },
+    {
+      "from": "do",
+      "predicate": "contributes_metadata_to",
+      "to": "source_registry"
+    },
+    {
+      "from": "efo",
+      "predicate": "contributes_metadata_to",
+      "to": "source_registry"
+    },
+    {
+      "from": "fma",
+      "predicate": "contributes_metadata_to",
+      "to": "source_registry"
+    },
+    {
+      "from": "icd10",
+      "predicate": "contributes_metadata_to",
+      "to": "source_registry"
+    },
+    {
+      "from": "icd11",
+      "predicate": "contributes_metadata_to",
+      "to": "source_registry"
+    },
+    {
+      "from": "lddb",
+      "predicate": "contributes_metadata_to",
+      "to": "source_registry"
+    },
+    {
+      "from": "loinc",
+      "predicate": "contributes_metadata_to",
+      "to": "source_registry"
+    },
+    {
+      "from": "meddra",
+      "predicate": "contributes_metadata_to",
+      "to": "source_registry"
+    },
+    {
+      "from": "mesh",
+      "predicate": "contributes_metadata_to",
+      "to": "source_registry"
+    },
+    {
+      "from": "mp",
+      "predicate": "contributes_metadata_to",
+      "to": "source_registry"
+    },
+    {
+      "from": "omim",
+      "predicate": "contributes_metadata_to",
+      "to": "source_registry"
+    },
+    {
+      "from": "oncotree",
+      "predicate": "contributes_metadata_to",
+      "to": "source_registry"
+    },
+    {
+      "from": "orphanet",
+      "predicate": "contributes_metadata_to",
+      "to": "source_registry"
+    },
+    {
+      "from": "pato",
+      "predicate": "contributes_metadata_to",
+      "to": "source_registry"
+    },
+    {
+      "from": "snomed_ct",
+      "predicate": "contributes_metadata_to",
+      "to": "source_registry"
+    },
+    {
+      "from": "umls",
+      "predicate": "contributes_metadata_to",
+      "to": "source_registry"
+    },
+    {
+      "from": "upheno",
+      "predicate": "contributes_metadata_to",
+      "to": "source_registry"
+    }
+  ],
+  "generated_date": "2026-06-23",
+  "nodes": [
+    {
+      "id": "decipher",
+      "track_id": "decipher_integration_20260623",
+      "type": "ontology_source"
+    },
+    {
+      "id": "do",
+      "track_id": "do_integration_20260623",
+      "type": "ontology_source"
+    },
+    {
+      "id": "efo",
+      "track_id": "efo_integration_20260623",
+      "type": "ontology_source"
+    },
+    {
+      "id": "fma",
+      "track_id": "fma_integration_20260623",
+      "type": "ontology_source"
+    },
+    {
+      "id": "icd10",
+      "track_id": "icd10_integration_20260623",
+      "type": "ontology_source"
+    },
+    {
+      "id": "icd11",
+      "track_id": "icd11_integration_20260623",
+      "type": "ontology_source"
+    },
+    {
+      "id": "lddb",
+      "track_id": "lddb_integration_20260623",
+      "type": "ontology_source"
+    },
+    {
+      "id": "loinc",
+      "track_id": "loinc_integration_20260623",
+      "type": "ontology_source"
+    },
+    {
+      "id": "meddra",
+      "track_id": "meddra_integration_20260623",
+      "type": "ontology_source"
+    },
+    {
+      "id": "mesh",
+      "track_id": "mesh_integration_20260623",
+      "type": "ontology_source"
+    },
+    {
+      "id": "mp",
+      "track_id": "mp_integration_20260623",
+      "type": "ontology_source"
+    },
+    {
+      "id": "omim",
+      "track_id": "omim_integration_20260623",
+      "type": "ontology_source"
+    },
+    {
+      "id": "oncotree",
+      "track_id": "oncotree_integration_20260623",
+      "type": "ontology_source"
+    },
+    {
+      "id": "orphanet",
+      "track_id": "orphanet_integration_20260623",
+      "type": "ontology_source"
+    },
+    {
+      "id": "pato",
+      "track_id": "pato_integration_20260623",
+      "type": "ontology_source"
+    },
+    {
+      "id": "snomed_ct",
+      "track_id": "snomed_ct_integration_20260623",
+      "type": "ontology_source"
+    },
+    {
+      "id": "umls",
+      "track_id": "umls_metathesaurus_integration_20260623",
+      "type": "ontology_source"
+    },
+    {
+      "id": "upheno",
+      "track_id": "upheno_integration_20260623",
+      "type": "ontology_source"
+    }
+  ]
+}

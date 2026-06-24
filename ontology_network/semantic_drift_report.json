@@ -1,0 +1,131 @@
+{
+  "generated_date": "2026-06-23",
+  "records": [
+    {
+      "drift_status": "not_computed_source_payloads_excluded",
+      "hpo_release": "not_pinned_in_track_metadata",
+      "semantic_drift_score": null,
+      "source_id": "decipher",
+      "source_version": "not_pinned_in_track_metadata"
+    },
+    {
+      "drift_status": "not_computed_source_payloads_excluded",
+      "hpo_release": "not_pinned_in_track_metadata",
+      "semantic_drift_score": null,
+      "source_id": "do",
+      "source_version": "not_pinned_in_track_metadata"
+    },
+    {
+      "drift_status": "not_computed_source_payloads_excluded",
+      "hpo_release": "not_pinned_in_track_metadata",
+      "semantic_drift_score": null,
+      "source_id": "efo",
+      "source_version": "not_pinned_in_track_metadata"
+    },
+    {
+      "drift_status": "not_computed_source_payloads_excluded",
+      "hpo_release": "not_pinned_in_track_metadata",
+      "semantic_drift_score": null,
+      "source_id": "fma",
+      "source_version": "not_pinned_in_track_metadata"
+    },
+    {
+      "drift_status": "not_computed_source_payloads_excluded",
+      "hpo_release": "not_pinned_in_track_metadata",
+      "semantic_drift_score": null,
+      "source_id": "icd10",
+      "source_version": "not_pinned_in_track_metadata"
+    },
+    {
+      "drift_status": "not_computed_source_payloads_excluded",
+      "hpo_release": "not_pinned_in_track_metadata",
+      "semantic_drift_score": null,
+      "source_id": "icd11",
+      "source_version": "not_pinned_in_track_metadata"
+    },
+    {
+      "drift_status": "not_computed_source_payloads_excluded",
+      "hpo_release": "not_pinned_in_track_metadata",
+      "semantic_drift_score": null,
+      "source_id": "lddb",
+      "source_version": "not_pinned_in_track_metadata"
+    },
+    {
+      "drift_status": "not_computed_source_payloads_excluded",
+      "hpo_release": "not_pinned_in_track_metadata",
+      "semantic_drift_score": null,
+      "source_id": "loinc",
+      "source_version": "not_pinned_in_track_metadata"
+    },
+    {
+      "drift_status": "not_computed_source_payloads_excluded",
+      "hpo_release": "not_pinned_in_track_metadata",
+      "semantic_drift_score": null,
+      "source_id": "meddra",
+      "source_version": "not_pinned_in_track_metadata"
+    },
+    {
+      "drift_status": "not_computed_source_payloads_excluded",
+      "hpo_release": "not_pinned_in_track_metadata",
+      "semantic_drift_score": null,
+      "source_id": "mesh",
+      "source_version": "not_pinned_in_track_metadata"
+    },
+    {
+      "drift_status": "not_computed_source_payloads_excluded",
+      "hpo_release": "not_pinned_in_track_metadata",
+      "semantic_drift_score": null,
+      "source_id": "mp",
+      "source_version": "not_pinned_in_track_metadata"
+    },
+    {
+      "drift_status": "not_computed_source_payloads_excluded",
+      "hpo_release": "not_pinned_in_track_metadata",
+      "semantic_drift_score": null,
+      "source_id": "omim",
+      "source_version": "not_pinned_in_track_metadata"
+    },
+    {
+      "drift_status": "not_computed_source_payloads_excluded",
+      "hpo_release": "not_pinned_in_track_metadata",
+      "semantic_drift_score": null,
+      "source_id": "oncotree",
+      "source_version": "not_pinned_in_track_metadata"
+    },
+    {
+      "drift_status": "not_computed_source_payloads_excluded",
+      "hpo_release": "not_pinned_in_track_metadata",
+      "semantic_drift_score": null,
+      "source_id": "orphanet",
+      "source_version": "not_pinned_in_track_metadata"
+    },
+    {
+      "drift_status": "not_computed_source_payloads_excluded",
+      "hpo_release": "not_pinned_in_track_metadata",
+      "semantic_drift_score": null,
+      "source_id": "pato",
+      "source_version": "not_pinned_in_track_metadata"
+    },
+    {
+      "drift_status": "not_computed_source_payloads_excluded",
+      "hpo_release": "not_pinned_in_track_metadata",
+      "semantic_drift_score": null,
+      "source_id": "snomed_ct",
+      "source_version": "not_pinned_in_track_metadata"
+    },
+    {
+      "drift_status": "not_computed_source_payloads_excluded",
+      "hpo_release": "not_pinned_in_track_metadata",
+      "semantic_drift_score": null,
+      "source_id": "umls",
+      "source_version": "not_pinned_in_track_metadata"
+    },
+    {
+      "drift_status": "not_computed_source_payloads_excluded",
+      "hpo_release": "not_pinned_in_track_metadata",
+      "semantic_drift_score": null,
+      "source_id": "upheno",
+      "source_version": "not_pinned_in_track_metadata"
+    }
+  ]
+}

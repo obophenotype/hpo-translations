@@ -1,0 +1,746 @@
+{
+  "generated_date": "2026-06-23",
+  "record_count": 23,
+  "records": [
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "conflict_ids": [
+        "conflict-ar-metadata"
+      ],
+      "coverage_ids": [
+        "coverage-icd10-ar",
+        "coverage-icd11-ar",
+        "coverage-meddra-ar",
+        "coverage-umls-ar"
+      ],
+      "crosswalk_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_ids": [
+        "HP:0000001"
+      ],
+      "human_review_required": true,
+      "language": "ar",
+      "pack_id": "pack-ar-metadata",
+      "promotion_policy": "manual_review_only",
+      "provenance_id": "prov-review-pack-ar",
+      "reviewer_role": "language reviewer",
+      "scope": "payload-free ontology-network metadata probe",
+      "source_ids": [
+        "icd10",
+        "icd11",
+        "meddra",
+        "umls"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "conflict_ids": [
+        "conflict-cs-metadata"
+      ],
+      "coverage_ids": [
+        "coverage-icd11-cs",
+        "coverage-meddra-cs",
+        "coverage-mesh-cs",
+        "coverage-orphanet-cs"
+      ],
+      "crosswalk_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_ids": [
+        "HP:0000001"
+      ],
+      "human_review_required": true,
+      "language": "cs",
+      "pack_id": "pack-cs-metadata",
+      "promotion_policy": "manual_review_only",
+      "provenance_id": "prov-review-pack-cs",
+      "reviewer_role": "language reviewer",
+      "scope": "payload-free ontology-network metadata probe",
+      "source_ids": [
+        "icd11",
+        "meddra",
+        "mesh",
+        "orphanet"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "conflict_ids": [
+        "conflict-da-metadata"
+      ],
+      "coverage_ids": [
+        "coverage-snomed_ct-da"
+      ],
+      "crosswalk_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_ids": [
+        "HP:0000001"
+      ],
+      "human_review_required": true,
+      "language": "da",
+      "pack_id": "pack-da-metadata",
+      "promotion_policy": "manual_review_only",
+      "provenance_id": "prov-review-pack-da",
+      "reviewer_role": "language reviewer",
+      "scope": "payload-free ontology-network metadata probe",
+      "source_ids": [
+        "snomed_ct"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "conflict_ids": [
+        "conflict-de-metadata"
+      ],
+      "coverage_ids": [
+        "coverage-loinc-de",
+        "coverage-meddra-de",
+        "coverage-mesh-de",
+        "coverage-orphanet-de",
+        "coverage-snomed_ct-de",
+        "coverage-umls-de"
+      ],
+      "crosswalk_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_ids": [
+        "HP:0000001"
+      ],
+      "human_review_required": true,
+      "language": "de",
+      "pack_id": "pack-de-metadata",
+      "promotion_policy": "manual_review_only",
+      "provenance_id": "prov-review-pack-de",
+      "reviewer_role": "language reviewer",
+      "scope": "payload-free ontology-network metadata probe",
+      "source_ids": [
+        "loinc",
+        "meddra",
+        "mesh",
+        "orphanet",
+        "snomed_ct",
+        "umls"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "conflict_ids": [
+        "conflict-en-metadata"
+      ],
+      "coverage_ids": [
+        "coverage-decipher-en",
+        "coverage-do-en",
+        "coverage-efo-en",
+        "coverage-fma-en",
+        "coverage-icd10-en",
+        "coverage-icd11-en",
+        "coverage-lddb-en",
+        "coverage-loinc-en",
+        "coverage-meddra-en",
+        "coverage-mesh-en",
+        "coverage-mp-en",
+        "coverage-omim-en",
+        "coverage-oncotree-en",
+        "coverage-orphanet-en",
+        "coverage-pato-en",
+        "coverage-snomed_ct-en",
+        "coverage-upheno-en"
+      ],
+      "crosswalk_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_ids": [
+        "HP:0000001"
+      ],
+      "human_review_required": true,
+      "language": "en",
+      "pack_id": "pack-en-metadata",
+      "promotion_policy": "manual_review_only",
+      "provenance_id": "prov-review-pack-en",
+      "reviewer_role": "language reviewer",
+      "scope": "payload-free ontology-network metadata probe",
+      "source_ids": [
+        "decipher",
+        "do",
+        "efo",
+        "fma",
+        "icd10",
+        "icd11",
+        "lddb",
+        "loinc",
+        "meddra",
+        "mesh",
+        "mp",
+        "omim",
+        "oncotree",
+        "orphanet",
+        "pato",
+        "snomed_ct",
+        "upheno"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "conflict_ids": [
+        "conflict-es-metadata"
+      ],
+      "coverage_ids": [
+        "coverage-icd10-es",
+        "coverage-icd11-es",
+        "coverage-loinc-es",
+        "coverage-meddra-es",
+        "coverage-mesh-es",
+        "coverage-orphanet-es",
+        "coverage-snomed_ct-es",
+        "coverage-umls-es"
+      ],
+      "crosswalk_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_ids": [
+        "HP:0000001"
+      ],
+      "human_review_required": true,
+      "language": "es",
+      "pack_id": "pack-es-metadata",
+      "promotion_policy": "manual_review_only",
+      "provenance_id": "prov-review-pack-es",
+      "reviewer_role": "language reviewer",
+      "scope": "payload-free ontology-network metadata probe",
+      "source_ids": [
+        "icd10",
+        "icd11",
+        "loinc",
+        "meddra",
+        "mesh",
+        "orphanet",
+        "snomed_ct",
+        "umls"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "conflict_ids": [
+        "conflict-et-metadata"
+      ],
+      "coverage_ids": [
+        "coverage-snomed_ct-et"
+      ],
+      "crosswalk_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_ids": [
+        "HP:0000001"
+      ],
+      "human_review_required": true,
+      "language": "et",
+      "pack_id": "pack-et-metadata",
+      "promotion_policy": "manual_review_only",
+      "provenance_id": "prov-review-pack-et",
+      "reviewer_role": "language reviewer",
+      "scope": "payload-free ontology-network metadata probe",
+      "source_ids": [
+        "snomed_ct"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "conflict_ids": [
+        "conflict-fi-metadata"
+      ],
+      "coverage_ids": [
+        "coverage-mesh-fi",
+        "coverage-snomed_ct-fi"
+      ],
+      "crosswalk_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_ids": [
+        "HP:0000001"
+      ],
+      "human_review_required": true,
+      "language": "fi",
+      "pack_id": "pack-fi-metadata",
+      "promotion_policy": "manual_review_only",
+      "provenance_id": "prov-review-pack-fi",
+      "reviewer_role": "language reviewer",
+      "scope": "payload-free ontology-network metadata probe",
+      "source_ids": [
+        "mesh",
+        "snomed_ct"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "conflict_ids": [
+        "conflict-fr-metadata"
+      ],
+      "coverage_ids": [
+        "coverage-icd10-fr",
+        "coverage-icd11-fr",
+        "coverage-loinc-fr",
+        "coverage-meddra-fr",
+        "coverage-mesh-fr",
+        "coverage-orphanet-fr",
+        "coverage-snomed_ct-fr",
+        "coverage-umls-fr"
+      ],
+      "crosswalk_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_ids": [
+        "HP:0000001"
+      ],
+      "human_review_required": true,
+      "language": "fr",
+      "pack_id": "pack-fr-metadata",
+      "promotion_policy": "manual_review_only",
+      "provenance_id": "prov-review-pack-fr",
+      "reviewer_role": "language reviewer",
+      "scope": "payload-free ontology-network metadata probe",
+      "source_ids": [
+        "icd10",
+        "icd11",
+        "loinc",
+        "meddra",
+        "mesh",
+        "orphanet",
+        "snomed_ct",
+        "umls"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "conflict_ids": [
+        "conflict-hu-metadata"
+      ],
+      "coverage_ids": [
+        "coverage-meddra-hu"
+      ],
+      "crosswalk_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_ids": [
+        "HP:0000001"
+      ],
+      "human_review_required": true,
+      "language": "hu",
+      "pack_id": "pack-hu-metadata",
+      "promotion_policy": "manual_review_only",
+      "provenance_id": "prov-review-pack-hu",
+      "reviewer_role": "language reviewer",
+      "scope": "payload-free ontology-network metadata probe",
+      "source_ids": [
+        "meddra"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "conflict_ids": [
+        "conflict-it-metadata"
+      ],
+      "coverage_ids": [
+        "coverage-loinc-it",
+        "coverage-meddra-it",
+        "coverage-mesh-it",
+        "coverage-orphanet-it",
+        "coverage-umls-it"
+      ],
+      "crosswalk_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_ids": [
+        "HP:0000001"
+      ],
+      "human_review_required": true,
+      "language": "it",
+      "pack_id": "pack-it-metadata",
+      "promotion_policy": "manual_review_only",
+      "provenance_id": "prov-review-pack-it",
+      "reviewer_role": "language reviewer",
+      "scope": "payload-free ontology-network metadata probe",
+      "source_ids": [
+        "loinc",
+        "meddra",
+        "mesh",
+        "orphanet",
+        "umls"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "conflict_ids": [
+        "conflict-ja-metadata"
+      ],
+      "coverage_ids": [
+        "coverage-meddra-ja",
+        "coverage-mesh-ja",
+        "coverage-umls-ja"
+      ],
+      "crosswalk_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_ids": [
+        "HP:0000001"
+      ],
+      "human_review_required": true,
+      "language": "ja",
+      "pack_id": "pack-ja-metadata",
+      "promotion_policy": "manual_review_only",
+      "provenance_id": "prov-review-pack-ja",
+      "reviewer_role": "language reviewer",
+      "scope": "payload-free ontology-network metadata probe",
+      "source_ids": [
+        "meddra",
+        "mesh",
+        "umls"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "conflict_ids": [
+        "conflict-ko-metadata"
+      ],
+      "coverage_ids": [
+        "coverage-loinc-ko",
+        "coverage-meddra-ko"
+      ],
+      "crosswalk_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_ids": [
+        "HP:0000001"
+      ],
+      "human_review_required": true,
+      "language": "ko",
+      "pack_id": "pack-ko-metadata",
+      "promotion_policy": "manual_review_only",
+      "provenance_id": "prov-review-pack-ko",
+      "reviewer_role": "language reviewer",
+      "scope": "payload-free ontology-network metadata probe",
+      "source_ids": [
+        "loinc",
+        "meddra"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "conflict_ids": [
+        "conflict-nl-metadata"
+      ],
+      "coverage_ids": [
+        "coverage-loinc-nl",
+        "coverage-meddra-nl",
+        "coverage-orphanet-nl",
+        "coverage-snomed_ct-nl"
+      ],
+      "crosswalk_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_ids": [
+        "HP:0000001"
+      ],
+      "human_review_required": true,
+      "language": "nl",
+      "pack_id": "pack-nl-metadata",
+      "promotion_policy": "manual_review_only",
+      "provenance_id": "prov-review-pack-nl",
+      "reviewer_role": "language reviewer",
+      "scope": "payload-free ontology-network metadata probe",
+      "source_ids": [
+        "loinc",
+        "meddra",
+        "orphanet",
+        "snomed_ct"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "conflict_ids": [
+        "conflict-no-metadata"
+      ],
+      "coverage_ids": [
+        "coverage-snomed_ct-no"
+      ],
+      "crosswalk_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_ids": [
+        "HP:0000001"
+      ],
+      "human_review_required": true,
+      "language": "no",
+      "pack_id": "pack-no-metadata",
+      "promotion_policy": "manual_review_only",
+      "provenance_id": "prov-review-pack-no",
+      "reviewer_role": "language reviewer",
+      "scope": "payload-free ontology-network metadata probe",
+      "source_ids": [
+        "snomed_ct"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "conflict_ids": [
+        "conflict-pl-metadata"
+      ],
+      "coverage_ids": [
+        "coverage-meddra-pl",
+        "coverage-mesh-pl",
+        "coverage-orphanet-pl"
+      ],
+      "crosswalk_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_ids": [
+        "HP:0000001"
+      ],
+      "human_review_required": true,
+      "language": "pl",
+      "pack_id": "pack-pl-metadata",
+      "promotion_policy": "manual_review_only",
+      "provenance_id": "prov-review-pack-pl",
+      "reviewer_role": "language reviewer",
+      "scope": "payload-free ontology-network metadata probe",
+      "source_ids": [
+        "meddra",
+        "mesh",
+        "orphanet"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "conflict_ids": [
+        "conflict-pt-metadata"
+      ],
+      "coverage_ids": [
+        "coverage-icd11-pt",
+        "coverage-loinc-pt",
+        "coverage-meddra-pt",
+        "coverage-mesh-pt",
+        "coverage-orphanet-pt",
+        "coverage-umls-pt"
+      ],
+      "crosswalk_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_ids": [
+        "HP:0000001"
+      ],
+      "human_review_required": true,
+      "language": "pt",
+      "pack_id": "pack-pt-metadata",
+      "promotion_policy": "manual_review_only",
+      "provenance_id": "prov-review-pack-pt",
+      "reviewer_role": "language reviewer",
+      "scope": "payload-free ontology-network metadata probe",
+      "source_ids": [
+        "icd11",
+        "loinc",
+        "meddra",
+        "mesh",
+        "orphanet",
+        "umls"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "conflict_ids": [
+        "conflict-ru-metadata"
+      ],
+      "coverage_ids": [
+        "coverage-icd10-ru",
+        "coverage-icd11-ru",
+        "coverage-loinc-ru",
+        "coverage-meddra-ru",
+        "coverage-mesh-ru",
+        "coverage-umls-ru"
+      ],
+      "crosswalk_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_ids": [
+        "HP:0000001"
+      ],
+      "human_review_required": true,
+      "language": "ru",
+      "pack_id": "pack-ru-metadata",
+      "promotion_policy": "manual_review_only",
+      "provenance_id": "prov-review-pack-ru",
+      "reviewer_role": "language reviewer",
+      "scope": "payload-free ontology-network metadata probe",
+      "source_ids": [
+        "icd10",
+        "icd11",
+        "loinc",
+        "meddra",
+        "mesh",
+        "umls"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "conflict_ids": [
+        "conflict-sk-metadata"
+      ],
+      "coverage_ids": [
+        "coverage-snomed_ct-sk"
+      ],
+      "crosswalk_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_ids": [
+        "HP:0000001"
+      ],
+      "human_review_required": true,
+      "language": "sk",
+      "pack_id": "pack-sk-metadata",
+      "promotion_policy": "manual_review_only",
+      "provenance_id": "prov-review-pack-sk",
+      "reviewer_role": "language reviewer",
+      "scope": "payload-free ontology-network metadata probe",
+      "source_ids": [
+        "snomed_ct"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "conflict_ids": [
+        "conflict-sv-metadata"
+      ],
+      "coverage_ids": [
+        "coverage-meddra-sv",
+        "coverage-snomed_ct-sv"
+      ],
+      "crosswalk_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_ids": [
+        "HP:0000001"
+      ],
+      "human_review_required": true,
+      "language": "sv",
+      "pack_id": "pack-sv-metadata",
+      "promotion_policy": "manual_review_only",
+      "provenance_id": "prov-review-pack-sv",
+      "reviewer_role": "language reviewer",
+      "scope": "payload-free ontology-network metadata probe",
+      "source_ids": [
+        "meddra",
+        "snomed_ct"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "conflict_ids": [
+        "conflict-tr-metadata"
+      ],
+      "coverage_ids": [
+        "coverage-icd11-tr",
+        "coverage-loinc-tr",
+        "coverage-meddra-tr"
+      ],
+      "crosswalk_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_ids": [
+        "HP:0000001"
+      ],
+      "human_review_required": true,
+      "language": "tr",
+      "pack_id": "pack-tr-metadata",
+      "promotion_policy": "manual_review_only",
+      "provenance_id": "prov-review-pack-tr",
+      "reviewer_role": "language reviewer",
+      "scope": "payload-free ontology-network metadata probe",
+      "source_ids": [
+        "icd11",
+        "loinc",
+        "meddra"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "conflict_ids": [
+        "conflict-uz-metadata"
+      ],
+      "coverage_ids": [
+        "coverage-icd11-uz"
+      ],
+      "crosswalk_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_ids": [
+        "HP:0000001"
+      ],
+      "human_review_required": true,
+      "language": "uz",
+      "pack_id": "pack-uz-metadata",
+      "promotion_policy": "manual_review_only",
+      "provenance_id": "prov-review-pack-uz",
+      "reviewer_role": "language reviewer",
+      "scope": "payload-free ontology-network metadata probe",
+      "source_ids": [
+        "icd11"
+      ]
+    },
+    {
+      "candidate_count": 0,
+      "candidate_only": true,
+      "conflict_ids": [
+        "conflict-zh-metadata"
+      ],
+      "coverage_ids": [
+        "coverage-icd10-zh",
+        "coverage-icd11-zh",
+        "coverage-loinc-zh",
+        "coverage-meddra-zh",
+        "coverage-umls-zh"
+      ],
+      "crosswalk_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_ids": [
+        "HP:0000001"
+      ],
+      "human_review_required": true,
+      "language": "zh",
+      "pack_id": "pack-zh-metadata",
+      "promotion_policy": "manual_review_only",
+      "provenance_id": "prov-review-pack-zh",
+      "reviewer_role": "language reviewer",
+      "scope": "payload-free ontology-network metadata probe",
+      "source_ids": [
+        "icd10",
+        "icd11",
+        "loinc",
+        "meddra",
+        "umls"
+      ]
+    }
+  ]
+}

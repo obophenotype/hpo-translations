@@ -1,0 +1,59 @@
+{
+  "$id": "https://example.org/hpo-translations/ontology-network/crosswalk_edge.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "candidate_only": {
+      "type": "boolean"
+    },
+    "confidence": {
+      "type": "number"
+    },
+    "edge_id": {
+      "type": "string"
+    },
+    "external_id": {
+      "type": "string"
+    },
+    "external_source_id": {
+      "type": "string"
+    },
+    "hpo_id": {
+      "type": "string"
+    },
+    "human_review_required": {
+      "type": "boolean"
+    },
+    "mapping_basis": {
+      "type": "string"
+    },
+    "mapping_predicate": {
+      "type": "string"
+    },
+    "mapping_source": {
+      "type": "string"
+    },
+    "provenance_id": {
+      "type": "string"
+    },
+    "review_status": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "candidate_only",
+    "confidence",
+    "edge_id",
+    "external_id",
+    "external_source_id",
+    "hpo_id",
+    "human_review_required",
+    "mapping_basis",
+    "mapping_predicate",
+    "mapping_source",
+    "provenance_id",
+    "review_status"
+  ],
+  "title": "crosswalk_edge",
+  "type": "object"
+}

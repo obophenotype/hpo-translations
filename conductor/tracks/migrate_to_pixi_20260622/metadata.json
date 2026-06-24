@@ -1,0 +1,61 @@
+{
+  "track_id": "migrate_to_pixi_20260622",
+  "type": "feature",
+  "status": "legacy_complete",
+  "created_at": "2026-06-22T00:45:30Z",
+  "updated_at": "2026-06-23T00:00:00Z",
+  "description": "Migrate project environment and automation workflows from uv/Makefile to pixi and configure code quality tools (ruff and vale)",
+  "lifecycle_note": "Completed before the current remote-delivery lifecycle; PR/CI/merge evidence was not backfilled.",
+  "depends_on": [],
+  "blocks": [
+    "translation_agents_20260622"
+  ],
+  "branch": "codex/migrate_to_pixi_20260622",
+  "pr_url": null,
+  "ci_status": "not_started",
+  "merge_status": "legacy_unverified",
+  "last_commit": null,
+  "phase_review_status": "not_started",
+  "github_checks_url": null,
+  "merge_commit": null,
+  "parallel_group": "foundation",
+  "local_only_artifacts": [],
+  "restricted_sources": [],
+  "known_blockers": [],
+  "expected_blockers": [
+    "Legacy completion predates current remote CI, PR, merge, and payload-policy evidence requirements."
+  ],
+  "blocker_owner": "legacy maintainer",
+  "fallback_path": "Do not reopen unless a dependent track requires fresh validation evidence.",
+  "source_access_status": "not_applicable",
+  "restricted_payload_policy": {
+    "commit_policy": "not_applicable_to_legacy_foundation_track",
+    "local_only_artifacts": [],
+    "blocked_patterns": [],
+    "required_evidence": []
+  },
+  "fail_fast_probe": {
+    "required": false,
+    "scope": "legacy track",
+    "success_criteria": []
+  },
+  "artifact_contract": {
+    "required_before_phase_1_completion": [],
+    "conditional_outputs": [],
+    "excluded_until_policy_allows": []
+  },
+  "priority": "legacy",
+  "write_owner": "legacy maintainer",
+  "merge_owner": "legacy maintainer",
+  "automation_readiness": "legacy_complete",
+  "evidence_score_policy": {
+    "candidate_only": true,
+    "signals": [],
+    "promotion_rule": "legacy track does not promote candidates"
+  },
+  "agent_telemetry": {
+    "record_required": false,
+    "fields": []
+  },
+  "human_review_handoff": []
+}

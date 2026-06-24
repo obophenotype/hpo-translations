@@ -1,0 +1,49 @@
+{
+  "$id": "https://example.org/hpo-translations/ontology-network/payload_policy_record.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "blocked_patterns": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "commit_policy": {
+      "type": "string"
+    },
+    "generated_date": {
+      "type": "string"
+    },
+    "local_only_artifacts": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "no_external_payloads_read": {
+      "type": "boolean"
+    },
+    "policy_scope": {
+      "type": "string"
+    },
+    "required_evidence": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "source": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "blocked_patterns",
+    "commit_policy",
+    "local_only_artifacts",
+    "policy_scope",
+    "required_evidence"
+  ],
+  "title": "payload_policy_record",
+  "type": "object"
+}

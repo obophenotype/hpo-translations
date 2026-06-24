@@ -1,0 +1,41 @@
+{
+  "$id": "https://example.org/hpo-translations/ontology-network/license_access_record.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "access_class": {
+      "type": "string"
+    },
+    "credential_required": {
+      "type": "boolean"
+    },
+    "license_status": {
+      "type": "string"
+    },
+    "payload_commit_allowed": {
+      "type": "boolean"
+    },
+    "pr_safe": {
+      "type": "boolean"
+    },
+    "redistribution_status": {
+      "type": "string"
+    },
+    "release_safe": {
+      "type": "boolean"
+    },
+    "source_id": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "access_class",
+    "license_status",
+    "payload_commit_allowed",
+    "redistribution_status",
+    "release_safe",
+    "source_id"
+  ],
+  "title": "license_access_record",
+  "type": "object"
+}

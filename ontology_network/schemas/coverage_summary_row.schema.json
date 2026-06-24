@@ -1,0 +1,51 @@
+{
+  "$id": "https://example.org/hpo-translations/ontology-network/coverage_summary_row.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "coverage_id": {
+      "type": "string"
+    },
+    "coverage_ratio": {
+      "type": "number"
+    },
+    "covered_hpo_terms": {
+      "type": "integer"
+    },
+    "hpo_branch_id": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string"
+    },
+    "predicate": {
+      "type": "string"
+    },
+    "provenance_id": {
+      "type": "string"
+    },
+    "review_status": {
+      "type": "string"
+    },
+    "source_id": {
+      "type": "string"
+    },
+    "total_hpo_terms": {
+      "type": "integer"
+    }
+  },
+  "required": [
+    "coverage_id",
+    "coverage_ratio",
+    "covered_hpo_terms",
+    "hpo_branch_id",
+    "language",
+    "predicate",
+    "provenance_id",
+    "review_status",
+    "source_id",
+    "total_hpo_terms"
+  ],
+  "title": "coverage_summary_row",
+  "type": "object"
+}

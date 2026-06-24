@@ -1,0 +1,128 @@
+{
+  "track_id": "conductor_validation_20260623",
+  "type": "feature",
+  "status": "planned",
+  "created_at": "2026-06-23T00:00:00Z",
+  "updated_at": "2026-06-23T00:00:00Z",
+  "description": "Implement automated Conductor validation and lifecycle gates",
+  "depends_on": [
+    "migrate_to_pixi_20260622",
+    "translation_agents_20260622"
+  ],
+  "blocks": [
+    "ontology_network_20260623",
+    "all_future_conductor_tracks"
+  ],
+  "branch": "codex/conductor_validation_20260623",
+  "pr_url": null,
+  "ci_status": "not_started",
+  "merge_status": "not_opened",
+  "last_commit": null,
+  "phase_review_status": "not_started",
+  "github_checks_url": null,
+  "merge_commit": null,
+  "parallel_group": "conductor-validation",
+  "priority": "P0",
+  "known_blockers": [
+    "Validator command does not exist yet.",
+    "GitHub remote checks require authenticated gh access.",
+    "Current worktree has unrelated dirty files and previous git index lock permission failures that must be reported, not hidden."
+  ],
+  "expected_blockers": [
+    "CI integration should wait until local fixtures prove deterministic pass and fail behavior.",
+    "Windows and OneDrive filesystem state can create stale-lock or permission false positives."
+  ],
+  "blocker_owner": "track implementer until reassigned in Phase 0",
+  "fallback_path": "Keep manual JSON, Phase 0, and git hygiene validation documented until the automated validator is implemented.",
+  "source_access_status": "not_applicable",
+  "restricted_payload_policy": {
+    "commit_policy": "validator reads Conductor metadata and plans only; it must not read or commit ontology payloads",
+    "local_only_artifacts": [
+      "raw downloads",
+      "licensed payloads",
+      "full API responses",
+      "credentialed exports"
+    ],
+    "blocked_patterns": [
+      "raw",
+      "licensed",
+      "credential",
+      "api_key",
+      "token",
+      "full_release",
+      "private",
+      "restricted"
+    ],
+    "required_evidence": [
+      "source license classification",
+      "local-only manifest if any restricted source is touched",
+      "redaction or exclusion proof before commit"
+    ]
+  },
+  "fail_fast_probe": {
+    "required": true,
+    "scope": "one passing fixture plus failing fixtures for missing metadata, missing Phase 0, unresolved restricted source, and stale delivery fragment",
+    "success_criteria": [
+      "passing fixture succeeds",
+      "each failing fixture fails for the expected reason",
+      "report contains per-track remediation"
+    ]
+  },
+  "artifact_contract": {
+    "required_before_phase_1_completion": [
+      "metadata_schema",
+      "fixture_set",
+      "human_report",
+      "json_report"
+    ],
+    "conditional_outputs": [
+      "ci_summary",
+      "github_checks_report",
+      "release_readiness_report"
+    ],
+    "excluded_until_policy_allows": [
+      "ontology_source_payloads",
+      "credentials",
+      "licensed_release_archives"
+    ]
+  },
+  "write_owner": "unassigned",
+  "merge_owner": "ontology-network maintainer",
+  "automation_readiness": "phase_0_required",
+  "evidence_score_policy": {
+    "candidate_only": true,
+    "signals": [
+      "curated mapping",
+      "identifier exactness",
+      "preferred-label agreement",
+      "synonym agreement",
+      "language agreement",
+      "LLM agreement",
+      "source conflict",
+      "license caveat"
+    ],
+    "promotion_rule": "no ontology or LLM signal promotes a translation without human review"
+  },
+  "agent_telemetry": {
+    "record_required": true,
+    "fields": [
+      "agent",
+      "model",
+      "task_id",
+      "source_version",
+      "runtime_seconds",
+      "validation_command",
+      "validation_result",
+      "conflict_count",
+      "open_blockers"
+    ]
+  },
+  "human_review_handoff": [
+    "changed records",
+    "source evidence",
+    "model evidence",
+    "conflicts",
+    "license caveats",
+    "validation output"
+  ]
+}

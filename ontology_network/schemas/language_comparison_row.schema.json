@@ -1,0 +1,36 @@
+{
+  "$id": "https://example.org/hpo-translations/ontology-network/language_comparison_row.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "candidate_count": {
+      "type": "integer"
+    },
+    "candidate_only": {
+      "type": "boolean"
+    },
+    "comparison_status": {
+      "type": "string"
+    },
+    "human_review_required": {
+      "type": "boolean"
+    },
+    "language": {
+      "type": "string"
+    },
+    "source_ids": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    }
+  },
+  "required": [
+    "candidate_only",
+    "human_review_required",
+    "language",
+    "source_ids"
+  ],
+  "title": "language_comparison_row",
+  "type": "object"
+}

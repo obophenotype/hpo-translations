@@ -1,0 +1,80 @@
+{
+  "$id": "https://example.org/hpo-translations/ontology-network/review_pack_record.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "candidate_count": {
+      "type": "integer"
+    },
+    "candidate_only": {
+      "type": "boolean"
+    },
+    "conflict_ids": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "coverage_ids": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "crosswalk_ids": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "hpo_ids": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "human_review_required": {
+      "type": "boolean"
+    },
+    "language": {
+      "type": "string"
+    },
+    "pack_id": {
+      "type": "string"
+    },
+    "promotion_policy": {
+      "type": "string"
+    },
+    "provenance_id": {
+      "type": "string"
+    },
+    "reviewer_role": {
+      "type": "string"
+    },
+    "scope": {
+      "type": "string"
+    },
+    "source_ids": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    }
+  },
+  "required": [
+    "candidate_only",
+    "conflict_ids",
+    "coverage_ids",
+    "crosswalk_ids",
+    "hpo_ids",
+    "human_review_required",
+    "language",
+    "pack_id",
+    "promotion_policy",
+    "provenance_id",
+    "scope",
+    "source_ids"
+  ],
+  "title": "review_pack_record",
+  "type": "object"
+}

@@ -1,0 +1,244 @@
+{
+  "conflict_report_row": {
+    "conflict_type": "schema_probe",
+    "hpo_id": "HP:0000001",
+    "review_required": true,
+    "severity": "info",
+    "sources": [
+      "do",
+      "decipher"
+    ]
+  },
+  "crosswalk_edge": {
+    "candidate_only": true,
+    "caveat": "Schema-only fail-fast probe; not a biological assertion.",
+    "confidence": 0.0,
+    "edge_id": "probe-open-related-0001",
+    "external_id": "DO:SCHEMA-PROBE",
+    "external_source_id": "do",
+    "hpo_id": "HP:0000001",
+    "human_review_required": true,
+    "mapping_basis": "source_xref",
+    "mapping_predicate": "relatedMatch",
+    "mapping_source": "ontology_network_fail_fast_probe",
+    "provenance_id": "prov-crosswalk-probe-2026-06-23",
+    "review_status": "needs_review"
+  },
+  "generated_date": "2026-06-23",
+  "open_source_registry_record": {
+    "access_class": "open",
+    "access_mode": "open_ontology_download_review_required",
+    "artifact_contract": {
+      "conditional_outputs": [
+        "language_comparison_pack",
+        "crosswalk_edges",
+        "conflict_report",
+        "coverage_summary",
+        "local_only_manifest"
+      ],
+      "excluded_until_policy_allows": [
+        "raw_source_payloads",
+        "licensed_release_archives",
+        "credentialed_api_responses"
+      ],
+      "required_before_phase_1_completion": [
+        "registry_record",
+        "source_access_record",
+        "provenance_manifest",
+        "validation_report",
+        "review_handoff_pack"
+      ]
+    },
+    "authoritative_endpoint": "repository_recorded_authority_review_required",
+    "authoritative_endpoint_note": "Human Disease Ontology repository.",
+    "authoritative_endpoint_status": "repository_recorded_authority_review_required",
+    "candidate_only": true,
+    "commit_safe_artifacts": [
+      "registry records",
+      "source access matrix",
+      "artifact schemas",
+      "provenance manifests without payload text",
+      "validation summaries without payload reconstruction",
+      "review pack structure without restricted labels"
+    ],
+    "credential_required": false,
+    "declared_language_count": 1,
+    "description": "Integrate Disease Ontology into terminology and translation support",
+    "expected_blockers": [
+      "Synonym-rich disease records can create high-noise candidate evidence.",
+      "English-only labels limit multilingual triangulation value."
+    ],
+    "fallback_path": "Use DO for disease context, identifier network edges, and conflict detection.",
+    "github_repositories": [
+      "https://github.com/DiseaseOntology/HumanDiseaseOntology"
+    ],
+    "github_repository_count": 1,
+    "github_repository_roles": [
+      {
+        "authoritative_for_release_payload": true,
+        "role": "source_repository",
+        "url": "https://github.com/DiseaseOntology/HumanDiseaseOntology"
+      }
+    ],
+    "human_review_required": true,
+    "known_blockers": [
+      "Disease entities are not phenotype labels and require mapping caveats.",
+      "Disease-to-HPO links should prefer curated mappings over text similarity."
+    ],
+    "language_codes": [
+      "en"
+    ],
+    "language_count": 1,
+    "language_normalization_status": "english_only",
+    "languages": [
+      "English only"
+    ],
+    "license_review_required": true,
+    "license_status": "terms_review_required",
+    "local_only_requirements": [
+      "credentialed exports",
+      "full API responses",
+      "licensed payloads",
+      "raw downloads"
+    ],
+    "metadata_created_at": "2026-06-23T00:00:00Z",
+    "metadata_updated_at": "2026-06-23T00:00:00Z",
+    "ontology_name": "Disease Ontology",
+    "payload_commit_allowed": false,
+    "pr_safe": true,
+    "priority": "P1",
+    "provenance": {
+      "generated_date": "2026-06-23",
+      "metadata_path": "conductor\\tracks\\do_integration_20260623\\metadata.json",
+      "method": "conductor_track_metadata_parse",
+      "spec_path": "conductor\\tracks\\do_integration_20260623\\spec.md"
+    },
+    "redistribution_status": "terms_review_required_before_payload_redistribution",
+    "release_safe": true,
+    "restricted_sources": [],
+    "source_access_status": "open_ontology_download_review_required",
+    "source_id": "do",
+    "source_metadata_paths": {
+      "metadata": "conductor\\tracks\\do_integration_20260623\\metadata.json",
+      "source_profile_spec": "conductor\\tracks\\do_integration_20260623\\spec.md"
+    },
+    "source_note": "Human Disease Ontology repository.",
+    "source_payload_commit_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+    "source_payloads_can_be_committed": false,
+    "source_version": null,
+    "track_id": "do_integration_20260623",
+    "track_status": "planned",
+    "usefulness": "Disease normalization and disease-phenotype crosswalk review.",
+    "version_status": "not_pinned_in_track_metadata"
+  },
+  "restricted_source_governance_record": {
+    "access_class": "restricted",
+    "access_mode": "permissioned_api_or_terms_gated_access",
+    "artifact_contract": {
+      "conditional_outputs": [
+        "language_comparison_pack",
+        "crosswalk_edges",
+        "conflict_report",
+        "coverage_summary",
+        "local_only_manifest"
+      ],
+      "excluded_until_policy_allows": [
+        "raw_source_payloads",
+        "licensed_release_archives",
+        "credentialed_api_responses"
+      ],
+      "required_before_phase_1_completion": [
+        "registry_record",
+        "source_access_record",
+        "provenance_manifest",
+        "validation_report",
+        "review_handoff_pack"
+      ]
+    },
+    "authoritative_endpoint": "non_github_authority_required",
+    "authoritative_endpoint_note": "No official public GitHub repository confirmed; use DECIPHER data-access terms.",
+    "authoritative_endpoint_status": "non_github_authority_required",
+    "candidate_only": true,
+    "commit_safe_artifacts": [
+      "registry records",
+      "source access matrix",
+      "artifact schemas",
+      "provenance manifests without payload text",
+      "validation summaries without payload reconstruction",
+      "review pack structure without restricted labels"
+    ],
+    "credential_required": true,
+    "declared_language_count": 1,
+    "description": "Integrate DECIPHER into terminology and translation support",
+    "expected_blockers": [
+      "Only aggregate or public gene/variant/disease evidence may be commit-safe.",
+      "Privacy review may block payload use entirely."
+    ],
+    "fallback_path": "Keep this as a governance-only track until explicit permitted public surfaces are documented.",
+    "github_repositories": [],
+    "github_repository_count": 0,
+    "github_repository_roles": [],
+    "human_review_required": true,
+    "known_blockers": [
+      "DECIPHER may include sensitive case-level or consent-governed content.",
+      "API or data-use terms must be reviewed before any automated extraction."
+    ],
+    "language_codes": [
+      "en"
+    ],
+    "language_count": 1,
+    "language_normalization_status": "english_only",
+    "languages": [
+      "English only"
+    ],
+    "license_review_required": true,
+    "license_status": "permission_or_data_use_terms_required",
+    "local_only_requirements": [
+      "credentialed exports",
+      "full API responses",
+      "licensed payloads",
+      "raw downloads",
+      "source-specific extraction outputs remain local-only until access and redistribution terms pass review"
+    ],
+    "metadata_created_at": "2026-06-23T00:00:00Z",
+    "metadata_updated_at": "2026-06-23T00:00:00Z",
+    "ontology_name": "DECIPHER",
+    "payload_commit_allowed": false,
+    "pr_safe": true,
+    "priority": "P2",
+    "provenance": {
+      "generated_date": "2026-06-23",
+      "metadata_path": "conductor\\tracks\\decipher_integration_20260623\\metadata.json",
+      "method": "conductor_track_metadata_parse",
+      "spec_path": "conductor\\tracks\\decipher_integration_20260623\\spec.md"
+    },
+    "redistribution_status": "api_terms_required_no_full_response_redistribution",
+    "release_safe": false,
+    "restricted_sources": [
+      "DECIPHER"
+    ],
+    "source_access_status": "permission_or_api_terms_required",
+    "source_id": "decipher",
+    "source_metadata_paths": {
+      "metadata": "conductor\\tracks\\decipher_integration_20260623\\metadata.json",
+      "source_profile_spec": "conductor\\tracks\\decipher_integration_20260623\\spec.md"
+    },
+    "source_note": "No official public GitHub repository confirmed; use DECIPHER data-access terms.",
+    "source_payload_commit_policy": "do_not_commit_raw_licensed_or_credentialed_payloads; governance metadata only until explicit redistribution permission exists",
+    "source_payloads_can_be_committed": false,
+    "source_version": null,
+    "track_id": "decipher_integration_20260623",
+    "track_status": "planned",
+    "usefulness": "Variant, CNV, and phenotype case context where licensed access permits.",
+    "version_status": "not_pinned_in_track_metadata"
+  },
+  "review_pack_record": {
+    "candidate_only": true,
+    "evidence": [
+      "schema-only probe"
+    ],
+    "hpo_id": "HP:0000001",
+    "human_review_required": true,
+    "language": "en"
+  }
+}

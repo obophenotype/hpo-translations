@@ -1,0 +1,29 @@
+[
+  {
+    "candidate_count": 0,
+    "candidate_only": true,
+    "conflict_ids": [
+      "conflict-fail-fast-1"
+    ],
+    "coverage_ids": [
+      "coverage-fail-fast-1"
+    ],
+    "crosswalk_ids": [
+      "probe-open-related-0001"
+    ],
+    "hpo_ids": [
+      "HP:0000001"
+    ],
+    "human_review_required": true,
+    "language": "en",
+    "pack_id": "pack-en-fail-fast",
+    "promotion_policy": "manual_review_only",
+    "provenance_id": "prov-review-pack-fail-fast",
+    "reviewer_role": "language reviewer",
+    "scope": "ontology-network fail-fast metadata probe",
+    "source_ids": [
+      "do",
+      "decipher"
+    ]
+  }
+]

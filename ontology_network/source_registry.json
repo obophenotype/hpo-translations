@@ -1,0 +1,2082 @@
+{
+  "generated_date": "2026-06-23",
+  "payload_policy": "No external ontology payloads are read or committed by this registry build.",
+  "record_count": 18,
+  "records": [
+    {
+      "access_class": "restricted",
+      "access_mode": "permissioned_api_or_terms_gated_access",
+      "artifact_contract": {
+        "conditional_outputs": [
+          "language_comparison_pack",
+          "crosswalk_edges",
+          "conflict_report",
+          "coverage_summary",
+          "local_only_manifest"
+        ],
+        "excluded_until_policy_allows": [
+          "raw_source_payloads",
+          "licensed_release_archives",
+          "credentialed_api_responses"
+        ],
+        "required_before_phase_1_completion": [
+          "registry_record",
+          "source_access_record",
+          "provenance_manifest",
+          "validation_report",
+          "review_handoff_pack"
+        ]
+      },
+      "authoritative_endpoint": "non_github_authority_required",
+      "authoritative_endpoint_note": "No official public GitHub repository confirmed; use DECIPHER data-access terms.",
+      "authoritative_endpoint_status": "non_github_authority_required",
+      "candidate_only": true,
+      "commit_safe_artifacts": [
+        "registry records",
+        "source access matrix",
+        "artifact schemas",
+        "provenance manifests without payload text",
+        "validation summaries without payload reconstruction",
+        "review pack structure without restricted labels"
+      ],
+      "credential_required": true,
+      "declared_language_count": 1,
+      "description": "Integrate DECIPHER into terminology and translation support",
+      "expected_blockers": [
+        "Only aggregate or public gene/variant/disease evidence may be commit-safe.",
+        "Privacy review may block payload use entirely."
+      ],
+      "fallback_path": "Keep this as a governance-only track until explicit permitted public surfaces are documented.",
+      "github_repositories": [],
+      "github_repository_count": 0,
+      "github_repository_roles": [],
+      "human_review_required": true,
+      "known_blockers": [
+        "DECIPHER may include sensitive case-level or consent-governed content.",
+        "API or data-use terms must be reviewed before any automated extraction."
+      ],
+      "language_codes": [
+        "en"
+      ],
+      "language_count": 1,
+      "language_normalization_status": "english_only",
+      "languages": [
+        "English only"
+      ],
+      "license_review_required": true,
+      "license_status": "permission_or_data_use_terms_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads",
+        "source-specific extraction outputs remain local-only until access and redistribution terms pass review"
+      ],
+      "metadata_created_at": "2026-06-23T00:00:00Z",
+      "metadata_updated_at": "2026-06-23T00:00:00Z",
+      "ontology_name": "DECIPHER",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "priority": "P2",
+      "provenance": {
+        "generated_date": "2026-06-23",
+        "metadata_path": "conductor\\tracks\\decipher_integration_20260623\\metadata.json",
+        "method": "conductor_track_metadata_parse",
+        "spec_path": "conductor\\tracks\\decipher_integration_20260623\\spec.md"
+      },
+      "redistribution_status": "api_terms_required_no_full_response_redistribution",
+      "release_safe": false,
+      "restricted_sources": [
+        "DECIPHER"
+      ],
+      "source_access_status": "permission_or_api_terms_required",
+      "source_id": "decipher",
+      "source_metadata_paths": {
+        "metadata": "conductor\\tracks\\decipher_integration_20260623\\metadata.json",
+        "source_profile_spec": "conductor\\tracks\\decipher_integration_20260623\\spec.md"
+      },
+      "source_note": "No official public GitHub repository confirmed; use DECIPHER data-access terms.",
+      "source_payload_commit_policy": "do_not_commit_raw_licensed_or_credentialed_payloads; governance metadata only until explicit redistribution permission exists",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "decipher_integration_20260623",
+      "track_status": "planned",
+      "usefulness": "Variant, CNV, and phenotype case context where licensed access permits.",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "open",
+      "access_mode": "open_ontology_download_review_required",
+      "artifact_contract": {
+        "conditional_outputs": [
+          "language_comparison_pack",
+          "crosswalk_edges",
+          "conflict_report",
+          "coverage_summary",
+          "local_only_manifest"
+        ],
+        "excluded_until_policy_allows": [
+          "raw_source_payloads",
+          "licensed_release_archives",
+          "credentialed_api_responses"
+        ],
+        "required_before_phase_1_completion": [
+          "registry_record",
+          "source_access_record",
+          "provenance_manifest",
+          "validation_report",
+          "review_handoff_pack"
+        ]
+      },
+      "authoritative_endpoint": "repository_recorded_authority_review_required",
+      "authoritative_endpoint_note": "Human Disease Ontology repository.",
+      "authoritative_endpoint_status": "repository_recorded_authority_review_required",
+      "candidate_only": true,
+      "commit_safe_artifacts": [
+        "registry records",
+        "source access matrix",
+        "artifact schemas",
+        "provenance manifests without payload text",
+        "validation summaries without payload reconstruction",
+        "review pack structure without restricted labels"
+      ],
+      "credential_required": false,
+      "declared_language_count": 1,
+      "description": "Integrate Disease Ontology into terminology and translation support",
+      "expected_blockers": [
+        "Synonym-rich disease records can create high-noise candidate evidence.",
+        "English-only labels limit multilingual triangulation value."
+      ],
+      "fallback_path": "Use DO for disease context, identifier network edges, and conflict detection.",
+      "github_repositories": [
+        "https://github.com/DiseaseOntology/HumanDiseaseOntology"
+      ],
+      "github_repository_count": 1,
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": true,
+          "role": "source_repository",
+          "url": "https://github.com/DiseaseOntology/HumanDiseaseOntology"
+        }
+      ],
+      "human_review_required": true,
+      "known_blockers": [
+        "Disease entities are not phenotype labels and require mapping caveats.",
+        "Disease-to-HPO links should prefer curated mappings over text similarity."
+      ],
+      "language_codes": [
+        "en"
+      ],
+      "language_count": 1,
+      "language_normalization_status": "english_only",
+      "languages": [
+        "English only"
+      ],
+      "license_review_required": true,
+      "license_status": "terms_review_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads"
+      ],
+      "metadata_created_at": "2026-06-23T00:00:00Z",
+      "metadata_updated_at": "2026-06-23T00:00:00Z",
+      "ontology_name": "Disease Ontology",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "priority": "P1",
+      "provenance": {
+        "generated_date": "2026-06-23",
+        "metadata_path": "conductor\\tracks\\do_integration_20260623\\metadata.json",
+        "method": "conductor_track_metadata_parse",
+        "spec_path": "conductor\\tracks\\do_integration_20260623\\spec.md"
+      },
+      "redistribution_status": "terms_review_required_before_payload_redistribution",
+      "release_safe": true,
+      "restricted_sources": [],
+      "source_access_status": "open_ontology_download_review_required",
+      "source_id": "do",
+      "source_metadata_paths": {
+        "metadata": "conductor\\tracks\\do_integration_20260623\\metadata.json",
+        "source_profile_spec": "conductor\\tracks\\do_integration_20260623\\spec.md"
+      },
+      "source_note": "Human Disease Ontology repository.",
+      "source_payload_commit_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "do_integration_20260623",
+      "track_status": "planned",
+      "usefulness": "Disease normalization and disease-phenotype crosswalk review.",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "open",
+      "access_mode": "open_ontology_download_review_required",
+      "artifact_contract": {
+        "conditional_outputs": [
+          "language_comparison_pack",
+          "crosswalk_edges",
+          "conflict_report",
+          "coverage_summary",
+          "local_only_manifest"
+        ],
+        "excluded_until_policy_allows": [
+          "raw_source_payloads",
+          "licensed_release_archives",
+          "credentialed_api_responses"
+        ],
+        "required_before_phase_1_completion": [
+          "registry_record",
+          "source_access_record",
+          "provenance_manifest",
+          "validation_report",
+          "review_handoff_pack"
+        ]
+      },
+      "authoritative_endpoint": "repository_recorded_authority_review_required",
+      "authoritative_endpoint_note": "EBI SPOT EFO repository.",
+      "authoritative_endpoint_status": "repository_recorded_authority_review_required",
+      "candidate_only": true,
+      "commit_safe_artifacts": [
+        "registry records",
+        "source access matrix",
+        "artifact schemas",
+        "provenance manifests without payload text",
+        "validation summaries without payload reconstruction",
+        "review pack structure without restricted labels"
+      ],
+      "credential_required": false,
+      "declared_language_count": 1,
+      "description": "Integrate EFO into terminology and translation support",
+      "expected_blockers": [
+        "Imported terms and cross-references can duplicate other ontology evidence.",
+        "English-only labels limit direct multilingual triangulation."
+      ],
+      "fallback_path": "Use EFO mainly for coverage, external identifier edges, and conflict detection.",
+      "github_repositories": [
+        "https://github.com/EBISPOT/efo"
+      ],
+      "github_repository_count": 1,
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": true,
+          "role": "source_repository",
+          "url": "https://github.com/EBISPOT/efo"
+        }
+      ],
+      "human_review_required": true,
+      "known_blockers": [
+        "EFO integrates many domains, so source-specific provenance and subsets matter.",
+        "Experimental factor semantics may not directly map to phenotypes."
+      ],
+      "language_codes": [
+        "en"
+      ],
+      "language_count": 1,
+      "language_normalization_status": "english_only",
+      "languages": [
+        "English only"
+      ],
+      "license_review_required": true,
+      "license_status": "terms_review_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads"
+      ],
+      "metadata_created_at": "2026-06-23T00:00:00Z",
+      "metadata_updated_at": "2026-06-23T00:00:00Z",
+      "ontology_name": "EFO",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "priority": "P1",
+      "provenance": {
+        "generated_date": "2026-06-23",
+        "metadata_path": "conductor\\tracks\\efo_integration_20260623\\metadata.json",
+        "method": "conductor_track_metadata_parse",
+        "spec_path": "conductor\\tracks\\efo_integration_20260623\\spec.md"
+      },
+      "redistribution_status": "terms_review_required_before_payload_redistribution",
+      "release_safe": true,
+      "restricted_sources": [],
+      "source_access_status": "open_ontology_download_review_required",
+      "source_id": "efo",
+      "source_metadata_paths": {
+        "metadata": "conductor\\tracks\\efo_integration_20260623\\metadata.json",
+        "source_profile_spec": "conductor\\tracks\\efo_integration_20260623\\spec.md"
+      },
+      "source_note": "EBI SPOT EFO repository.",
+      "source_payload_commit_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "efo_integration_20260623",
+      "track_status": "planned",
+      "usefulness": "Experimental factor, disease, trait, and assay context for biomedical mappings.",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "open",
+      "access_mode": "public_ontology_terms_review_required",
+      "artifact_contract": {
+        "conditional_outputs": [
+          "language_comparison_pack",
+          "crosswalk_edges",
+          "conflict_report",
+          "coverage_summary",
+          "local_only_manifest"
+        ],
+        "excluded_until_policy_allows": [
+          "raw_source_payloads",
+          "licensed_release_archives",
+          "credentialed_api_responses"
+        ],
+        "required_before_phase_1_completion": [
+          "registry_record",
+          "source_access_record",
+          "provenance_manifest",
+          "validation_report",
+          "review_handoff_pack"
+        ]
+      },
+      "authoritative_endpoint": "non_github_authority_required",
+      "authoritative_endpoint_note": "No official public GitHub repository confirmed; use authoritative FMA distribution sources.",
+      "authoritative_endpoint_status": "non_github_authority_required",
+      "candidate_only": true,
+      "commit_safe_artifacts": [
+        "registry records",
+        "source access matrix",
+        "artifact schemas",
+        "provenance manifests without payload text",
+        "validation summaries without payload reconstruction",
+        "review pack structure without restricted labels"
+      ],
+      "credential_required": false,
+      "declared_language_count": 1,
+      "description": "Integrate FMA into terminology and translation support",
+      "expected_blockers": [
+        "Stale or mirrored releases may disagree on identifiers.",
+        "English-only labels limit translation triangulation value."
+      ],
+      "fallback_path": "Use FMA only for anatomy consistency checks unless a current authoritative release is confirmed.",
+      "github_repositories": [],
+      "github_repository_count": 0,
+      "github_repository_roles": [],
+      "human_review_required": true,
+      "known_blockers": [
+        "FMA release location, active maintenance status, and license terms must be verified before payload ingestion.",
+        "FMA can support anatomy consistency checks, but identifier-network and translation-use outputs remain blocked until terms review passes.",
+        "Anatomical entity labels can support validation but not disease or phenotype mappings by themselves."
+      ],
+      "language_codes": [
+        "en"
+      ],
+      "language_count": 1,
+      "language_normalization_status": "english_only",
+      "languages": [
+        "English only"
+      ],
+      "license_review_required": true,
+      "license_status": "terms_review_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads"
+      ],
+      "metadata_created_at": "2026-06-23T00:00:00Z",
+      "metadata_updated_at": "2026-06-24T00:00:00Z",
+      "ontology_name": "FMA",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "priority": "P3",
+      "provenance": {
+        "generated_date": "2026-06-23",
+        "metadata_path": "conductor\\tracks\\fma_integration_20260623\\metadata.json",
+        "method": "conductor_track_metadata_parse",
+        "spec_path": "conductor\\tracks\\fma_integration_20260623\\spec.md"
+      },
+      "redistribution_status": "terms_review_required_before_payload_redistribution",
+      "release_safe": true,
+      "restricted_sources": [],
+      "source_access_status": "public_ontology_terms_review_required",
+      "source_id": "fma",
+      "source_metadata_paths": {
+        "metadata": "conductor\\tracks\\fma_integration_20260623\\metadata.json",
+        "source_profile_spec": "conductor\\tracks\\fma_integration_20260623\\spec.md"
+      },
+      "source_note": "No official public GitHub repository confirmed; use authoritative FMA distribution sources.",
+      "source_payload_commit_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "fma_integration_20260623",
+      "track_status": "phase_0_implemented_blocked",
+      "usefulness": "Anatomy normalization for phenotype labels and definitions.",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "open",
+      "access_mode": "public_or_national_variant_download",
+      "artifact_contract": {
+        "conditional_outputs": [
+          "language_comparison_pack",
+          "crosswalk_edges",
+          "conflict_report",
+          "coverage_summary",
+          "local_only_manifest"
+        ],
+        "excluded_until_policy_allows": [
+          "raw_source_payloads",
+          "licensed_release_archives",
+          "credentialed_api_responses"
+        ],
+        "required_before_phase_1_completion": [
+          "registry_record",
+          "source_access_record",
+          "provenance_manifest",
+          "validation_report",
+          "review_handoff_pack"
+        ]
+      },
+      "authoritative_endpoint": "authority_described_github_not_authoritative",
+      "authoritative_endpoint_note": "Use WHO and national release/licensing rules; ICD-API GitHub is implementation support.",
+      "authoritative_endpoint_status": "authority_described_github_not_authoritative",
+      "candidate_only": true,
+      "commit_safe_artifacts": [
+        "registry records",
+        "source access matrix",
+        "artifact schemas",
+        "provenance manifests without payload text",
+        "validation summaries without payload reconstruction",
+        "review pack structure without restricted labels"
+      ],
+      "credential_required": false,
+      "declared_language_count": 6,
+      "description": "Integrate ICD-10 into terminology and translation support",
+      "expected_blockers": [
+        "Localized variant selection must be explicit before candidate evidence is generated.",
+        "Disease-code mappings require confidence and caveat fields."
+      ],
+      "fallback_path": "Start with WHO/public governance records and defer national variants to separate source manifests.",
+      "github_repositories": [
+        "https://github.com/ICD-API"
+      ],
+      "github_repository_count": 1,
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": false,
+          "role": "tooling_reference",
+          "url": "https://github.com/ICD-API"
+        }
+      ],
+      "human_review_required": true,
+      "known_blockers": [
+        "National ICD-10 variants have different terms, languages, and license rules.",
+        "Diagnostic classification granularity is often broader than HPO phenotypes."
+      ],
+      "language_codes": [
+        "ar",
+        "en",
+        "es",
+        "fr",
+        "ru",
+        "zh"
+      ],
+      "language_count": 6,
+      "language_normalization_status": "partial_multilingual_declaration",
+      "languages": [
+        "English",
+        "French",
+        "Spanish",
+        "Arabic",
+        "Chinese",
+        "Russian",
+        "plus many national localized variants"
+      ],
+      "license_review_required": true,
+      "license_status": "terms_review_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads"
+      ],
+      "metadata_created_at": "2026-06-23T00:00:00Z",
+      "metadata_updated_at": "2026-06-23T00:00:00Z",
+      "ontology_name": "ICD-10",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "priority": "P2",
+      "provenance": {
+        "generated_date": "2026-06-23",
+        "metadata_path": "conductor\\tracks\\icd10_integration_20260623\\metadata.json",
+        "method": "conductor_track_metadata_parse",
+        "spec_path": "conductor\\tracks\\icd10_integration_20260623\\spec.md"
+      },
+      "redistribution_status": "terms_review_required_before_payload_redistribution",
+      "release_safe": true,
+      "restricted_sources": [],
+      "source_access_status": "public_or_national_variant_review_required",
+      "source_id": "icd10",
+      "source_metadata_paths": {
+        "metadata": "conductor\\tracks\\icd10_integration_20260623\\metadata.json",
+        "source_profile_spec": "conductor\\tracks\\icd10_integration_20260623\\spec.md"
+      },
+      "source_note": "Use WHO and national release/licensing rules; ICD-API GitHub is implementation support.",
+      "source_payload_commit_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "icd10_integration_20260623",
+      "track_status": "planned",
+      "usefulness": "Disease classification crosswalks and national morbidity/mortality coding context.",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "API-only",
+      "access_mode": "public_api_terms_review_required",
+      "artifact_contract": {
+        "conditional_outputs": [
+          "language_comparison_pack",
+          "crosswalk_edges",
+          "conflict_report",
+          "coverage_summary",
+          "local_only_manifest"
+        ],
+        "excluded_until_policy_allows": [
+          "raw_source_payloads",
+          "licensed_release_archives",
+          "credentialed_api_responses"
+        ],
+        "required_before_phase_1_completion": [
+          "registry_record",
+          "source_access_record",
+          "provenance_manifest",
+          "validation_report",
+          "review_handoff_pack"
+        ]
+      },
+      "authoritative_endpoint": "authority_described_github_not_authoritative",
+      "authoritative_endpoint_note": "Use WHO ICD API, browser, and licensing as authority; GitHub repositories are implementation support.",
+      "authoritative_endpoint_status": "authority_described_github_not_authoritative",
+      "candidate_only": true,
+      "commit_safe_artifacts": [
+        "registry records",
+        "source access matrix",
+        "artifact schemas",
+        "provenance manifests without payload text",
+        "validation summaries without payload reconstruction",
+        "review pack structure without restricted labels"
+      ],
+      "credential_required": false,
+      "declared_language_count": 10,
+      "description": "Integrate ICD-11 into terminology and translation support",
+      "expected_blockers": [
+        "Polyhierarchy and postcoordination can create ambiguous HPO crosswalk evidence.",
+        "Language availability can vary by release endpoint."
+      ],
+      "fallback_path": "Use bounded API probes and committed manifests without caching full API payloads.",
+      "github_repositories": [
+        "https://github.com/ICD-API"
+      ],
+      "github_repository_count": 1,
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": false,
+          "role": "tooling_reference",
+          "url": "https://github.com/ICD-API"
+        }
+      ],
+      "human_review_required": true,
+      "known_blockers": [
+        "ICD-11 API terms and rate limits must be documented before automation.",
+        "Foundation entities and MMS codes need distinct provenance handling."
+      ],
+      "language_codes": [
+        "ar",
+        "cs",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "ru",
+        "tr",
+        "uz",
+        "zh"
+      ],
+      "language_count": 10,
+      "language_normalization_status": "normalized_listed_languages",
+      "languages": [
+        "Arabic",
+        "Chinese",
+        "Czech",
+        "English",
+        "French",
+        "Portuguese",
+        "Russian",
+        "Spanish",
+        "Turkish",
+        "Uzbek"
+      ],
+      "license_review_required": true,
+      "license_status": "terms_review_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads",
+        "source-specific extraction outputs remain local-only until access and redistribution terms pass review"
+      ],
+      "metadata_created_at": "2026-06-23T00:00:00Z",
+      "metadata_updated_at": "2026-06-23T00:00:00Z",
+      "ontology_name": "ICD-11",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "priority": "P1",
+      "provenance": {
+        "generated_date": "2026-06-23",
+        "metadata_path": "conductor\\tracks\\icd11_integration_20260623\\metadata.json",
+        "method": "conductor_track_metadata_parse",
+        "spec_path": "conductor\\tracks\\icd11_integration_20260623\\spec.md"
+      },
+      "redistribution_status": "api_terms_required_no_full_response_redistribution",
+      "release_safe": false,
+      "restricted_sources": [],
+      "source_access_status": "public_api_terms_review_required",
+      "source_id": "icd11",
+      "source_metadata_paths": {
+        "metadata": "conductor\\tracks\\icd11_integration_20260623\\metadata.json",
+        "source_profile_spec": "conductor\\tracks\\icd11_integration_20260623\\spec.md"
+      },
+      "source_note": "Use WHO ICD API, browser, and licensing as authority; GitHub repositories are implementation support.",
+      "source_payload_commit_policy": "do_not_commit_full_api_responses; commit only schemas, request manifests, validation summaries, and redacted derived reports",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "icd11_integration_20260623",
+      "track_status": "planned",
+      "usefulness": "Digital-first disease classification, multilingual terminology comparison, and ICD-11 foundation alignment.",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "investigation-only",
+      "access_mode": "source_authority_investigation",
+      "artifact_contract": {
+        "conditional_outputs": [
+          "language_comparison_pack",
+          "crosswalk_edges",
+          "conflict_report",
+          "coverage_summary",
+          "local_only_manifest"
+        ],
+        "excluded_until_policy_allows": [
+          "raw_source_payloads",
+          "licensed_release_archives",
+          "credentialed_api_responses"
+        ],
+        "required_before_phase_1_completion": [
+          "registry_record",
+          "source_access_record",
+          "provenance_manifest",
+          "validation_report",
+          "review_handoff_pack"
+        ]
+      },
+      "authoritative_endpoint": "non_github_authority_required",
+      "authoritative_endpoint_note": "No official public GitHub repository confirmed; identify authoritative source before implementation.",
+      "authoritative_endpoint_status": "non_github_authority_required",
+      "candidate_only": true,
+      "commit_safe_artifacts": [
+        "registry records",
+        "source access matrix",
+        "artifact schemas",
+        "provenance manifests without payload text",
+        "validation summaries without payload reconstruction",
+        "review pack structure without restricted labels"
+      ],
+      "credential_required": false,
+      "declared_language_count": 1,
+      "description": "Integrate LDDB into terminology and translation support",
+      "expected_blockers": [
+        "If source authority cannot be verified, this track may remain documentation-only.",
+        "English-only or limited-access status may reduce translation value."
+      ],
+      "fallback_path": "Keep LDDB as an investigation track and close as not-actionable if authority cannot be verified.",
+      "github_repositories": [],
+      "github_repository_count": 0,
+      "github_repository_roles": [],
+      "human_review_required": true,
+      "known_blockers": [
+        "LDDB source authority, maintenance status, license, and access path require confirmation.",
+        "No payload, derived evidence, identifier mapping, or translation comparison should be planned until the authoritative source is identified."
+      ],
+      "language_codes": [
+        "en"
+      ],
+      "language_count": 1,
+      "language_normalization_status": "english_only",
+      "languages": [
+        "English only"
+      ],
+      "license_review_required": true,
+      "license_status": "unknown_authority_and_license",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads",
+        "source-specific extraction outputs remain local-only until access and redistribution terms pass review"
+      ],
+      "metadata_created_at": "2026-06-23T00:00:00Z",
+      "metadata_updated_at": "2026-06-24T00:00:00Z",
+      "ontology_name": "LDDB",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "priority": "P3",
+      "provenance": {
+        "generated_date": "2026-06-23",
+        "metadata_path": "conductor\\tracks\\lddb_integration_20260623\\metadata.json",
+        "method": "conductor_track_metadata_parse",
+        "spec_path": "conductor\\tracks\\lddb_integration_20260623\\spec.md"
+      },
+      "redistribution_status": "unknown_until_authority_verified",
+      "release_safe": false,
+      "restricted_sources": [
+        "unknown_until_source_authority_verified"
+      ],
+      "source_access_status": "source_authority_and_access_unknown",
+      "source_id": "lddb",
+      "source_metadata_paths": {
+        "metadata": "conductor\\tracks\\lddb_integration_20260623\\metadata.json",
+        "source_profile_spec": "conductor\\tracks\\lddb_integration_20260623\\spec.md"
+      },
+      "source_note": "No official public GitHub repository confirmed; identify authoritative source before implementation.",
+      "source_payload_commit_policy": "do_not_plan_payload_access until source authority, access path, and license are verified",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "lddb_integration_20260623",
+      "track_status": "phase_0_implemented_blocked",
+      "usefulness": "Specialized disease database context where licensing and source authority can be verified.",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "restricted",
+      "access_mode": "account_gated_download",
+      "artifact_contract": {
+        "conditional_outputs": [
+          "language_comparison_pack",
+          "crosswalk_edges",
+          "conflict_report",
+          "coverage_summary",
+          "local_only_manifest"
+        ],
+        "excluded_until_policy_allows": [
+          "raw_source_payloads",
+          "licensed_release_archives",
+          "credentialed_api_responses"
+        ],
+        "required_before_phase_1_completion": [
+          "registry_record",
+          "source_access_record",
+          "provenance_manifest",
+          "validation_report",
+          "review_handoff_pack"
+        ]
+      },
+      "authoritative_endpoint": "repository_recorded_authority_review_required",
+      "authoritative_endpoint_note": "Use official LOINC releases and terms of use; CompLOINC provides ontology build support.",
+      "authoritative_endpoint_status": "repository_recorded_authority_review_required",
+      "candidate_only": true,
+      "commit_safe_artifacts": [
+        "registry records",
+        "source access matrix",
+        "artifact schemas",
+        "provenance manifests without payload text",
+        "validation summaries without payload reconstruction",
+        "review pack structure without restricted labels"
+      ],
+      "credential_required": true,
+      "declared_language_count": 11,
+      "description": "Integrate LOINC into terminology and translation support",
+      "expected_blockers": [
+        "Part names, long names, and component strings may conflict as candidate evidence.",
+        "Clinical lab coverage may be sparse for non-lab HPO branches."
+      ],
+      "fallback_path": "Commit only source governance metadata and define local-only extraction steps until license review passes.",
+      "github_repositories": [
+        "https://github.com/loinc",
+        "https://github.com/loinc/comp-loinc"
+      ],
+      "github_repository_count": 2,
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": true,
+          "role": "source_repository",
+          "url": "https://github.com/loinc"
+        },
+        {
+          "authoritative_for_release_payload": true,
+          "role": "source_repository",
+          "url": "https://github.com/loinc/comp-loinc"
+        }
+      ],
+      "human_review_required": true,
+      "known_blockers": [
+        "LOINC access requires license/account review before download automation.",
+        "Laboratory-observation semantics are not direct phenotype labels and need context fields."
+      ],
+      "language_codes": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ko",
+        "nl",
+        "pt",
+        "ru",
+        "tr",
+        "zh"
+      ],
+      "language_count": 11,
+      "language_normalization_status": "normalized_listed_languages",
+      "languages": [
+        "English",
+        "French",
+        "German",
+        "Italian",
+        "Spanish",
+        "Chinese",
+        "Korean",
+        "Dutch",
+        "Portuguese",
+        "Russian",
+        "Turkish"
+      ],
+      "license_review_required": true,
+      "license_status": "free_account_license_review_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads",
+        "source-specific extraction outputs remain local-only until access and redistribution terms pass review"
+      ],
+      "metadata_created_at": "2026-06-23T00:00:00Z",
+      "metadata_updated_at": "2026-06-23T00:00:00Z",
+      "ontology_name": "LOINC",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "priority": "P2",
+      "provenance": {
+        "generated_date": "2026-06-23",
+        "metadata_path": "conductor\\tracks\\loinc_integration_20260623\\metadata.json",
+        "method": "conductor_track_metadata_parse",
+        "spec_path": "conductor\\tracks\\loinc_integration_20260623\\spec.md"
+      },
+      "redistribution_status": "restricted_no_payload_redistribution",
+      "release_safe": false,
+      "restricted_sources": [
+        "LOINC"
+      ],
+      "source_access_status": "free_account_license_review_required",
+      "source_id": "loinc",
+      "source_metadata_paths": {
+        "metadata": "conductor\\tracks\\loinc_integration_20260623\\metadata.json",
+        "source_profile_spec": "conductor\\tracks\\loinc_integration_20260623\\spec.md"
+      },
+      "source_note": "Use official LOINC releases and terms of use; CompLOINC provides ontology build support.",
+      "source_payload_commit_policy": "do_not_commit_raw_licensed_or_credentialed_payloads; governance metadata only until explicit redistribution permission exists",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "loinc_integration_20260623",
+      "track_status": "planned",
+      "usefulness": "Laboratory and clinical observation terminology alignment.",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "restricted",
+      "access_mode": "licensed_release_download",
+      "artifact_contract": {
+        "conditional_outputs": [
+          "language_comparison_pack",
+          "crosswalk_edges",
+          "conflict_report",
+          "coverage_summary",
+          "local_only_manifest"
+        ],
+        "excluded_until_policy_allows": [
+          "raw_source_payloads",
+          "licensed_release_archives",
+          "credentialed_api_responses"
+        ],
+        "required_before_phase_1_completion": [
+          "registry_record",
+          "source_access_record",
+          "provenance_manifest",
+          "validation_report",
+          "review_handoff_pack"
+        ]
+      },
+      "authoritative_endpoint": "non_github_authority_required",
+      "authoritative_endpoint_note": "No official public GitHub repository confirmed; use MSSO/ICH licensed distribution channels.",
+      "authoritative_endpoint_status": "non_github_authority_required",
+      "candidate_only": true,
+      "commit_safe_artifacts": [
+        "registry records",
+        "source access matrix",
+        "artifact schemas",
+        "provenance manifests without payload text",
+        "validation summaries without payload reconstruction",
+        "review pack structure without restricted labels"
+      ],
+      "credential_required": true,
+      "declared_language_count": 27,
+      "description": "Integrate MedDRA into terminology and translation support",
+      "expected_blockers": [
+        "Versioned multilingual terms may require reviewer confirmation before use.",
+        "Redistribution-safe artifacts may be limited to manifests, counts, and non-sensitive derived validation summaries."
+      ],
+      "fallback_path": "Keep a metadata-only track and define review-pack schema without ingesting MedDRA payloads.",
+      "github_repositories": [],
+      "github_repository_count": 0,
+      "github_repository_roles": [],
+      "human_review_required": true,
+      "known_blockers": [
+        "MedDRA is subscription/licensed terminology and payloads must remain local-only.",
+        "Regulatory adverse-event semantics do not always align with phenotypic description semantics."
+      ],
+      "language_codes": [
+        "ar",
+        "cs",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hu",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "ru",
+        "sv",
+        "tr",
+        "zh"
+      ],
+      "language_count": 17,
+      "language_normalization_status": "partial_declared_multilingual_list",
+      "languages": [
+        "27 languages including English",
+        "French",
+        "German",
+        "Spanish",
+        "Italian",
+        "Portuguese",
+        "Japanese",
+        "Chinese",
+        "Russian",
+        "Arabic",
+        "Czech",
+        "Dutch",
+        "Hungarian",
+        "Korean",
+        "Polish",
+        "Swedish",
+        "Turkish"
+      ],
+      "license_review_required": true,
+      "license_status": "subscription_license_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads",
+        "source-specific extraction outputs remain local-only until access and redistribution terms pass review"
+      ],
+      "metadata_created_at": "2026-06-23T00:00:00Z",
+      "metadata_updated_at": "2026-06-23T00:00:00Z",
+      "ontology_name": "MedDRA",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "priority": "P2",
+      "provenance": {
+        "generated_date": "2026-06-23",
+        "metadata_path": "conductor\\tracks\\meddra_integration_20260623\\metadata.json",
+        "method": "conductor_track_metadata_parse",
+        "spec_path": "conductor\\tracks\\meddra_integration_20260623\\spec.md"
+      },
+      "redistribution_status": "restricted_no_payload_redistribution",
+      "release_safe": false,
+      "restricted_sources": [
+        "MedDRA"
+      ],
+      "source_access_status": "subscription_or_license_required",
+      "source_id": "meddra",
+      "source_metadata_paths": {
+        "metadata": "conductor\\tracks\\meddra_integration_20260623\\metadata.json",
+        "source_profile_spec": "conductor\\tracks\\meddra_integration_20260623\\spec.md"
+      },
+      "source_note": "No official public GitHub repository confirmed; use MSSO/ICH licensed distribution channels.",
+      "source_payload_commit_policy": "do_not_commit_raw_licensed_or_credentialed_payloads; governance metadata only until explicit redistribution permission exists",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "meddra_integration_20260623",
+      "track_status": "planned",
+      "usefulness": "Adverse-event terminology alignment for pharmacovigilance and regulatory phenotype context.",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "open",
+      "access_mode": "public_download_terms_review_required",
+      "artifact_contract": {
+        "conditional_outputs": [
+          "language_comparison_pack",
+          "crosswalk_edges",
+          "conflict_report",
+          "coverage_summary",
+          "local_only_manifest"
+        ],
+        "excluded_until_policy_allows": [
+          "raw_source_payloads",
+          "licensed_release_archives",
+          "credentialed_api_responses"
+        ],
+        "required_before_phase_1_completion": [
+          "registry_record",
+          "source_access_record",
+          "provenance_manifest",
+          "validation_report",
+          "review_handoff_pack"
+        ]
+      },
+      "authoritative_endpoint": "repository_recorded_authority_review_required",
+      "authoritative_endpoint_note": "Use NLM MeSH and MeSH RDF release terms as authority.",
+      "authoritative_endpoint_status": "repository_recorded_authority_review_required",
+      "candidate_only": true,
+      "commit_safe_artifacts": [
+        "registry records",
+        "source access matrix",
+        "artifact schemas",
+        "provenance manifests without payload text",
+        "validation summaries without payload reconstruction",
+        "review pack structure without restricted labels"
+      ],
+      "credential_required": false,
+      "declared_language_count": 11,
+      "description": "Integrate MeSH into terminology and translation support",
+      "expected_blockers": [
+        "Publication indexing terminology may be broader than clinical phenotype labels.",
+        "Multilingual MeSH variants may differ by national translation program."
+      ],
+      "fallback_path": "Use descriptors and documented multilingual sources first, with supplementary records marked optional.",
+      "github_repositories": [
+        "https://github.com/HHS/meshrdf"
+      ],
+      "github_repository_count": 1,
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": true,
+          "role": "source_repository",
+          "url": "https://github.com/HHS/meshrdf"
+        }
+      ],
+      "human_review_required": true,
+      "known_blockers": [
+        "Descriptor, concept, term, and supplementary-record layers need separate provenance.",
+        "Tree-number changes can create semantic drift across releases."
+      ],
+      "language_codes": [
+        "cs",
+        "de",
+        "en",
+        "es",
+        "fi",
+        "fr",
+        "it",
+        "ja",
+        "pl",
+        "pt",
+        "ru"
+      ],
+      "language_count": 11,
+      "language_normalization_status": "normalized_listed_languages",
+      "languages": [
+        "English",
+        "French",
+        "German",
+        "Spanish",
+        "Portuguese",
+        "Italian",
+        "Japanese",
+        "Russian",
+        "Finnish",
+        "Czech",
+        "Polish"
+      ],
+      "license_review_required": true,
+      "license_status": "terms_review_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads"
+      ],
+      "metadata_created_at": "2026-06-23T00:00:00Z",
+      "metadata_updated_at": "2026-06-23T00:00:00Z",
+      "ontology_name": "MeSH",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "priority": "P1",
+      "provenance": {
+        "generated_date": "2026-06-23",
+        "metadata_path": "conductor\\tracks\\mesh_integration_20260623\\metadata.json",
+        "method": "conductor_track_metadata_parse",
+        "spec_path": "conductor\\tracks\\mesh_integration_20260623\\spec.md"
+      },
+      "redistribution_status": "terms_review_required_before_payload_redistribution",
+      "release_safe": true,
+      "restricted_sources": [],
+      "source_access_status": "public_download_terms_review_required",
+      "source_id": "mesh",
+      "source_metadata_paths": {
+        "metadata": "conductor\\tracks\\mesh_integration_20260623\\metadata.json",
+        "source_profile_spec": "conductor\\tracks\\mesh_integration_20260623\\spec.md"
+      },
+      "source_note": "Use NLM MeSH and MeSH RDF release terms as authority.",
+      "source_payload_commit_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "mesh_integration_20260623",
+      "track_status": "planned",
+      "usefulness": "Biomedical literature indexing, synonym enrichment, and concept-discovery support.",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "open",
+      "access_mode": "open_ontology_download_review_required",
+      "artifact_contract": {
+        "conditional_outputs": [
+          "language_comparison_pack",
+          "crosswalk_edges",
+          "conflict_report",
+          "coverage_summary",
+          "local_only_manifest"
+        ],
+        "excluded_until_policy_allows": [
+          "raw_source_payloads",
+          "licensed_release_archives",
+          "credentialed_api_responses"
+        ],
+        "required_before_phase_1_completion": [
+          "registry_record",
+          "source_access_record",
+          "provenance_manifest",
+          "validation_report",
+          "review_handoff_pack"
+        ]
+      },
+      "authoritative_endpoint": "repository_recorded_authority_review_required",
+      "authoritative_endpoint_note": "MGI-maintained ontology repository.",
+      "authoritative_endpoint_status": "repository_recorded_authority_review_required",
+      "candidate_only": true,
+      "commit_safe_artifacts": [
+        "registry records",
+        "source access matrix",
+        "artifact schemas",
+        "provenance manifests without payload text",
+        "validation summaries without payload reconstruction",
+        "review pack structure without restricted labels"
+      ],
+      "credential_required": false,
+      "declared_language_count": 1,
+      "description": "Integrate Mammalian Phenotype Ontology into terminology and translation support",
+      "expected_blockers": [
+        "Synonym overlap may create false positives without curated mapping predicates.",
+        "English-only source labels limit multilingual value."
+      ],
+      "fallback_path": "Use MP for cross-species semantic validation and conflict detection, not autonomous candidate promotion.",
+      "github_repositories": [
+        "https://github.com/mgijax/mammalian-phenotype-ontology"
+      ],
+      "github_repository_count": 1,
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": true,
+          "role": "source_repository",
+          "url": "https://github.com/mgijax/mammalian-phenotype-ontology"
+        }
+      ],
+      "human_review_required": true,
+      "known_blockers": [
+        "Mouse phenotype terms are model-organism evidence and require species-context caveats.",
+        "Mammalian phenotype mappings to HPO can be indirect or evidence-specific."
+      ],
+      "language_codes": [
+        "en"
+      ],
+      "language_count": 1,
+      "language_normalization_status": "english_only",
+      "languages": [
+        "English only"
+      ],
+      "license_review_required": true,
+      "license_status": "terms_review_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads"
+      ],
+      "metadata_created_at": "2026-06-23T00:00:00Z",
+      "metadata_updated_at": "2026-06-23T00:00:00Z",
+      "ontology_name": "Mammalian Phenotype Ontology",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "priority": "P1",
+      "provenance": {
+        "generated_date": "2026-06-23",
+        "metadata_path": "conductor\\tracks\\mp_integration_20260623\\metadata.json",
+        "method": "conductor_track_metadata_parse",
+        "spec_path": "conductor\\tracks\\mp_integration_20260623\\spec.md"
+      },
+      "redistribution_status": "terms_review_required_before_payload_redistribution",
+      "release_safe": true,
+      "restricted_sources": [],
+      "source_access_status": "open_ontology_download_review_required",
+      "source_id": "mp",
+      "source_metadata_paths": {
+        "metadata": "conductor\\tracks\\mp_integration_20260623\\metadata.json",
+        "source_profile_spec": "conductor\\tracks\\mp_integration_20260623\\spec.md"
+      },
+      "source_note": "MGI-maintained ontology repository.",
+      "source_payload_commit_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "mp_integration_20260623",
+      "track_status": "planned",
+      "usefulness": "Model-organism phenotype comparison and cross-species validation.",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "restricted",
+      "access_mode": "credentialed_api_or_download",
+      "artifact_contract": {
+        "conditional_outputs": [
+          "language_comparison_pack",
+          "crosswalk_edges",
+          "conflict_report",
+          "coverage_summary",
+          "local_only_manifest"
+        ],
+        "excluded_until_policy_allows": [
+          "raw_source_payloads",
+          "licensed_release_archives",
+          "credentialed_api_responses"
+        ],
+        "required_before_phase_1_completion": [
+          "registry_record",
+          "source_access_record",
+          "provenance_manifest",
+          "validation_report",
+          "review_handoff_pack"
+        ]
+      },
+      "authoritative_endpoint": "authority_described_github_not_authoritative",
+      "authoritative_endpoint_note": "GitHub organization exists; use OMIM API/licensed data terms for content.",
+      "authoritative_endpoint_status": "authority_described_github_not_authoritative",
+      "candidate_only": true,
+      "commit_safe_artifacts": [
+        "registry records",
+        "source access matrix",
+        "artifact schemas",
+        "provenance manifests without payload text",
+        "validation summaries without payload reconstruction",
+        "review pack structure without restricted labels"
+      ],
+      "credential_required": true,
+      "declared_language_count": 1,
+      "description": "Integrate OMIM into terminology and translation support",
+      "expected_blockers": [
+        "Gene-disease-phenotype evidence requires careful source attribution.",
+        "English-only coverage limits multilingual triangulation outputs."
+      ],
+      "fallback_path": "Use OMIM identifier references and access-controlled local manifests until license and API access are confirmed.",
+      "github_repositories": [
+        "https://github.com/OMIM-org"
+      ],
+      "github_repository_count": 1,
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": false,
+          "role": "organization_reference",
+          "url": "https://github.com/OMIM-org"
+        }
+      ],
+      "human_review_required": true,
+      "known_blockers": [
+        "OMIM API/download access is licensed and requires credentials.",
+        "Narrative clinical synopses and identifiers must not be redistributed beyond allowed terms."
+      ],
+      "language_codes": [
+        "en"
+      ],
+      "language_count": 1,
+      "language_normalization_status": "english_only",
+      "languages": [
+        "English only"
+      ],
+      "license_review_required": true,
+      "license_status": "credentialed_api_or_license_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads",
+        "source-specific extraction outputs remain local-only until access and redistribution terms pass review"
+      ],
+      "metadata_created_at": "2026-06-23T00:00:00Z",
+      "metadata_updated_at": "2026-06-23T00:00:00Z",
+      "ontology_name": "OMIM",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "priority": "P2",
+      "provenance": {
+        "generated_date": "2026-06-23",
+        "metadata_path": "conductor\\tracks\\omim_integration_20260623\\metadata.json",
+        "method": "conductor_track_metadata_parse",
+        "spec_path": "conductor\\tracks\\omim_integration_20260623\\spec.md"
+      },
+      "redistribution_status": "api_terms_required_no_full_response_redistribution",
+      "release_safe": false,
+      "restricted_sources": [
+        "OMIM"
+      ],
+      "source_access_status": "api_key_or_license_required",
+      "source_id": "omim",
+      "source_metadata_paths": {
+        "metadata": "conductor\\tracks\\omim_integration_20260623\\metadata.json",
+        "source_profile_spec": "conductor\\tracks\\omim_integration_20260623\\spec.md"
+      },
+      "source_note": "GitHub organization exists; use OMIM API/licensed data terms for content.",
+      "source_payload_commit_policy": "do_not_commit_raw_licensed_or_credentialed_payloads; governance metadata only until explicit redistribution permission exists",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "omim_integration_20260623",
+      "track_status": "planned",
+      "usefulness": "Mendelian disease and gene-phenotype context for English-source review.",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "API-only",
+      "access_mode": "public_api_terms_review_required",
+      "artifact_contract": {
+        "conditional_outputs": [
+          "language_comparison_pack",
+          "crosswalk_edges",
+          "conflict_report",
+          "coverage_summary",
+          "local_only_manifest"
+        ],
+        "excluded_until_policy_allows": [
+          "raw_source_payloads",
+          "licensed_release_archives",
+          "credentialed_api_responses"
+        ],
+        "required_before_phase_1_completion": [
+          "registry_record",
+          "source_access_record",
+          "provenance_manifest",
+          "validation_report",
+          "review_handoff_pack"
+        ]
+      },
+      "authoritative_endpoint": "repository_recorded_authority_review_required",
+      "authoritative_endpoint_note": "cBioPortal OncoTree repository.",
+      "authoritative_endpoint_status": "repository_recorded_authority_review_required",
+      "candidate_only": true,
+      "commit_safe_artifacts": [
+        "registry records",
+        "source access matrix",
+        "artifact schemas",
+        "provenance manifests without payload text",
+        "validation summaries without payload reconstruction",
+        "review pack structure without restricted labels"
+      ],
+      "credential_required": false,
+      "declared_language_count": 1,
+      "description": "Integrate OncoTree into terminology and translation support",
+      "expected_blockers": [
+        "Tumor-type labels can be disease context rather than phenotype candidates.",
+        "Crosswalk confidence needs domain-specific caveats."
+      ],
+      "fallback_path": "Use OncoTree for oncology context, mappings, and coverage reports.",
+      "github_repositories": [
+        "https://github.com/cBioPortal/oncotree"
+      ],
+      "github_repository_count": 1,
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": true,
+          "role": "source_repository",
+          "url": "https://github.com/cBioPortal/oncotree"
+        }
+      ],
+      "human_review_required": true,
+      "known_blockers": [
+        "Cancer classification scope is narrow relative to HPO.",
+        "API or release terms and version pinning must be documented."
+      ],
+      "language_codes": [
+        "en"
+      ],
+      "language_count": 1,
+      "language_normalization_status": "english_only",
+      "languages": [
+        "English only"
+      ],
+      "license_review_required": true,
+      "license_status": "terms_review_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads",
+        "source-specific extraction outputs remain local-only until access and redistribution terms pass review"
+      ],
+      "metadata_created_at": "2026-06-23T00:00:00Z",
+      "metadata_updated_at": "2026-06-23T00:00:00Z",
+      "ontology_name": "OncoTree",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "priority": "P1",
+      "provenance": {
+        "generated_date": "2026-06-23",
+        "metadata_path": "conductor\\tracks\\oncotree_integration_20260623\\metadata.json",
+        "method": "conductor_track_metadata_parse",
+        "spec_path": "conductor\\tracks\\oncotree_integration_20260623\\spec.md"
+      },
+      "redistribution_status": "api_terms_required_no_full_response_redistribution",
+      "release_safe": false,
+      "restricted_sources": [],
+      "source_access_status": "open_api_terms_review_required",
+      "source_id": "oncotree",
+      "source_metadata_paths": {
+        "metadata": "conductor\\tracks\\oncotree_integration_20260623\\metadata.json",
+        "source_profile_spec": "conductor\\tracks\\oncotree_integration_20260623\\spec.md"
+      },
+      "source_note": "cBioPortal OncoTree repository.",
+      "source_payload_commit_policy": "do_not_commit_full_api_responses; commit only schemas, request manifests, validation summaries, and redacted derived reports",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "oncotree_integration_20260623",
+      "track_status": "planned",
+      "usefulness": "Cancer type normalization for oncology-specific phenotype and disease contexts.",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "open",
+      "access_mode": "public_download_terms_review_required",
+      "artifact_contract": {
+        "conditional_outputs": [
+          "language_comparison_pack",
+          "crosswalk_edges",
+          "conflict_report",
+          "coverage_summary",
+          "local_only_manifest"
+        ],
+        "excluded_until_policy_allows": [
+          "raw_source_payloads",
+          "licensed_release_archives",
+          "credentialed_api_responses"
+        ],
+        "required_before_phase_1_completion": [
+          "registry_record",
+          "source_access_record",
+          "provenance_manifest",
+          "validation_report",
+          "review_handoff_pack"
+        ]
+      },
+      "authoritative_endpoint": "authority_described_github_not_authoritative",
+      "authoritative_endpoint_note": "GitHub organization exists; verify authoritative Orphadata release channels and licenses before ingest.",
+      "authoritative_endpoint_status": "authority_described_github_not_authoritative",
+      "candidate_only": true,
+      "commit_safe_artifacts": [
+        "registry records",
+        "source access matrix",
+        "artifact schemas",
+        "provenance manifests without payload text",
+        "validation summaries without payload reconstruction",
+        "review pack structure without restricted labels"
+      ],
+      "credential_required": false,
+      "declared_language_count": 9,
+      "description": "Integrate Orphanet into terminology and translation support",
+      "expected_blockers": [
+        "Disease-to-phenotype annotations need evidence and frequency fields.",
+        "Multilingual disease labels can support triangulation but not direct HPO label replacement."
+      ],
+      "fallback_path": "Start with registry, disease-label comparison packs, and existing Orphanet-HPO mapping references.",
+      "github_repositories": [
+        "https://github.com/Orphanet"
+      ],
+      "github_repository_count": 1,
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": false,
+          "role": "organization_reference",
+          "url": "https://github.com/Orphanet"
+        }
+      ],
+      "human_review_required": true,
+      "known_blockers": [
+        "Orphanet disease entities and HPO phenotype terms operate at different granularities.",
+        "Download terms and versioned XML schemas must be captured before ingestion."
+      ],
+      "language_codes": [
+        "cs",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "nl",
+        "pl",
+        "pt"
+      ],
+      "language_count": 9,
+      "language_normalization_status": "normalized_listed_languages",
+      "languages": [
+        "English",
+        "French",
+        "Spanish",
+        "Italian",
+        "German",
+        "Dutch",
+        "Portuguese",
+        "Czech",
+        "Polish"
+      ],
+      "license_review_required": true,
+      "license_status": "terms_review_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads"
+      ],
+      "metadata_created_at": "2026-06-23T00:00:00Z",
+      "metadata_updated_at": "2026-06-23T00:00:00Z",
+      "ontology_name": "Orphanet",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "priority": "P1",
+      "provenance": {
+        "generated_date": "2026-06-23",
+        "metadata_path": "conductor\\tracks\\orphanet_integration_20260623\\metadata.json",
+        "method": "conductor_track_metadata_parse",
+        "spec_path": "conductor\\tracks\\orphanet_integration_20260623\\spec.md"
+      },
+      "redistribution_status": "terms_review_required_before_payload_redistribution",
+      "release_safe": true,
+      "restricted_sources": [],
+      "source_access_status": "public_download_terms_review_required",
+      "source_id": "orphanet",
+      "source_metadata_paths": {
+        "metadata": "conductor\\tracks\\orphanet_integration_20260623\\metadata.json",
+        "source_profile_spec": "conductor\\tracks\\orphanet_integration_20260623\\spec.md"
+      },
+      "source_note": "GitHub organization exists; verify authoritative Orphadata release channels and licenses before ingest.",
+      "source_payload_commit_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "orphanet_integration_20260623",
+      "track_status": "planned",
+      "usefulness": "Rare disease terminology and HPO disease-context alignment.",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "open",
+      "access_mode": "open_ontology_download_review_required",
+      "artifact_contract": {
+        "conditional_outputs": [
+          "language_comparison_pack",
+          "crosswalk_edges",
+          "conflict_report",
+          "coverage_summary",
+          "local_only_manifest"
+        ],
+        "excluded_until_policy_allows": [
+          "raw_source_payloads",
+          "licensed_release_archives",
+          "credentialed_api_responses"
+        ],
+        "required_before_phase_1_completion": [
+          "registry_record",
+          "source_access_record",
+          "provenance_manifest",
+          "validation_report",
+          "review_handoff_pack"
+        ]
+      },
+      "authoritative_endpoint": "repository_recorded_authority_review_required",
+      "authoritative_endpoint_note": "OBO ontology repository with release files and editorial workflow.",
+      "authoritative_endpoint_status": "repository_recorded_authority_review_required",
+      "candidate_only": true,
+      "commit_safe_artifacts": [
+        "registry records",
+        "source access matrix",
+        "artifact schemas",
+        "provenance manifests without payload text",
+        "validation summaries without payload reconstruction",
+        "review pack structure without restricted labels"
+      ],
+      "credential_required": false,
+      "declared_language_count": 1,
+      "description": "Integrate PATO into terminology and translation support",
+      "expected_blockers": [
+        "PATO labels are often components of phenotypes rather than full candidate labels.",
+        "Cross-ontology edge semantics must be preserved."
+      ],
+      "fallback_path": "Use PATO as semantic-feature evidence and validation fixtures, not direct translation replacement.",
+      "github_repositories": [
+        "https://github.com/pato-ontology/pato"
+      ],
+      "github_repository_count": 1,
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": true,
+          "role": "source_repository",
+          "url": "https://github.com/pato-ontology/pato"
+        }
+      ],
+      "human_review_required": true,
+      "known_blockers": [
+        "Quality terms require composition handling before they can explain HPO labels.",
+        "OBO release drift must be pinned by version or PURL snapshot."
+      ],
+      "language_codes": [
+        "en"
+      ],
+      "language_count": 1,
+      "language_normalization_status": "english_only",
+      "languages": [
+        "English only"
+      ],
+      "license_review_required": true,
+      "license_status": "terms_review_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads"
+      ],
+      "metadata_created_at": "2026-06-23T00:00:00Z",
+      "metadata_updated_at": "2026-06-23T00:00:00Z",
+      "ontology_name": "PATO",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "priority": "P1",
+      "provenance": {
+        "generated_date": "2026-06-23",
+        "metadata_path": "conductor\\tracks\\pato_integration_20260623\\metadata.json",
+        "method": "conductor_track_metadata_parse",
+        "spec_path": "conductor\\tracks\\pato_integration_20260623\\spec.md"
+      },
+      "redistribution_status": "terms_review_required_before_payload_redistribution",
+      "release_safe": true,
+      "restricted_sources": [],
+      "source_access_status": "open_ontology_download_review_required",
+      "source_id": "pato",
+      "source_metadata_paths": {
+        "metadata": "conductor\\tracks\\pato_integration_20260623\\metadata.json",
+        "source_profile_spec": "conductor\\tracks\\pato_integration_20260623\\spec.md"
+      },
+      "source_note": "OBO ontology repository with release files and editorial workflow.",
+      "source_payload_commit_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "pato_integration_20260623",
+      "track_status": "planned",
+      "usefulness": "Phenotypic quality normalization and logical definition support.",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "restricted",
+      "access_mode": "licensed_release_download",
+      "artifact_contract": {
+        "conditional_outputs": [
+          "language_comparison_pack",
+          "crosswalk_edges",
+          "conflict_report",
+          "coverage_summary",
+          "local_only_manifest"
+        ],
+        "excluded_until_policy_allows": [
+          "raw_source_payloads",
+          "licensed_release_archives",
+          "credentialed_api_responses"
+        ],
+        "required_before_phase_1_completion": [
+          "registry_record",
+          "source_access_record",
+          "provenance_manifest",
+          "validation_report",
+          "review_handoff_pack"
+        ]
+      },
+      "authoritative_endpoint": "authority_described_github_not_authoritative",
+      "authoritative_endpoint_note": "Use licensed SNOMED CT releases; GitHub repositories are tooling, not a substitute for release distribution rights.",
+      "authoritative_endpoint_status": "authority_described_github_not_authoritative",
+      "candidate_only": true,
+      "commit_safe_artifacts": [
+        "registry records",
+        "source access matrix",
+        "artifact schemas",
+        "provenance manifests without payload text",
+        "validation summaries without payload reconstruction",
+        "review pack structure without restricted labels"
+      ],
+      "credential_required": true,
+      "declared_language_count": 11,
+      "description": "Integrate SNOMED CT into terminology and translation support",
+      "expected_blockers": [
+        "Localized extensions can diverge from the international release.",
+        "Cross-map availability and licensing can vary by jurisdiction."
+      ],
+      "fallback_path": "Record edition-specific governance and use public documentation only until licensed release access is confirmed.",
+      "github_repositories": [
+        "https://github.com/IHTSDO",
+        "https://github.com/IHTSDO/snowstorm",
+        "https://github.com/IHTSDO/snomed-owl-toolkit"
+      ],
+      "github_repository_count": 3,
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": false,
+          "role": "tooling_reference",
+          "url": "https://github.com/IHTSDO"
+        },
+        {
+          "authoritative_for_release_payload": false,
+          "role": "tooling_reference",
+          "url": "https://github.com/IHTSDO/snowstorm"
+        },
+        {
+          "authoritative_for_release_payload": false,
+          "role": "tooling_reference",
+          "url": "https://github.com/IHTSDO/snomed-owl-toolkit"
+        }
+      ],
+      "human_review_required": true,
+      "known_blockers": [
+        "SNOMED CT release access depends on national or affiliate license terms.",
+        "RF2 payloads must not be committed unless redistribution permission is explicit.",
+        "Postcoordination and hierarchy semantics need separate handling from flat label matching."
+      ],
+      "language_codes": [
+        "da",
+        "de",
+        "en",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "nl",
+        "no",
+        "sk",
+        "sv"
+      ],
+      "language_count": 11,
+      "language_normalization_status": "normalized_listed_languages",
+      "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Dutch",
+        "Danish",
+        "Swedish",
+        "Norwegian",
+        "Estonian",
+        "Finnish",
+        "Slovak"
+      ],
+      "license_review_required": true,
+      "license_status": "affiliate_or_jurisdiction_license_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads",
+        "source-specific extraction outputs remain local-only until access and redistribution terms pass review"
+      ],
+      "metadata_created_at": "2026-06-23T00:00:00Z",
+      "metadata_updated_at": "2026-06-23T00:00:00Z",
+      "ontology_name": "SNOMED CT",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "priority": "P2",
+      "provenance": {
+        "generated_date": "2026-06-23",
+        "metadata_path": "conductor\\tracks\\snomed_ct_integration_20260623\\metadata.json",
+        "method": "conductor_track_metadata_parse",
+        "spec_path": "conductor\\tracks\\snomed_ct_integration_20260623\\spec.md"
+      },
+      "redistribution_status": "restricted_no_payload_redistribution",
+      "release_safe": false,
+      "restricted_sources": [
+        "SNOMED CT"
+      ],
+      "source_access_status": "license_or_affiliate_release_required",
+      "source_id": "snomed_ct",
+      "source_metadata_paths": {
+        "metadata": "conductor\\tracks\\snomed_ct_integration_20260623\\metadata.json",
+        "source_profile_spec": "conductor\\tracks\\snomed_ct_integration_20260623\\spec.md"
+      },
+      "source_note": "Use licensed SNOMED CT releases; GitHub repositories are tooling, not a substitute for release distribution rights.",
+      "source_payload_commit_policy": "do_not_commit_raw_licensed_or_credentialed_payloads; governance metadata only until explicit redistribution permission exists",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "snomed_ct_integration_20260623",
+      "track_status": "planned",
+      "usefulness": "Clinical terminology crosswalks, post-coordination review, and clinical synonym support.",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "restricted",
+      "access_mode": "licensed_download_or_api",
+      "artifact_contract": {
+        "conditional_outputs": [
+          "language_comparison_pack",
+          "crosswalk_edges",
+          "conflict_report",
+          "coverage_summary",
+          "local_only_manifest"
+        ],
+        "excluded_until_policy_allows": [
+          "raw_source_payloads",
+          "licensed_release_archives",
+          "credentialed_api_responses"
+        ],
+        "required_before_phase_1_completion": [
+          "registry_record",
+          "source_access_record",
+          "provenance_manifest",
+          "validation_report",
+          "review_handoff_pack"
+        ]
+      },
+      "authoritative_endpoint": "authority_described_github_not_authoritative",
+      "authoritative_endpoint_note": "Archived UTS REST API samples; use official UMLS licensing and current NLM documentation as the authority.",
+      "authoritative_endpoint_status": "authority_described_github_not_authoritative",
+      "candidate_only": true,
+      "commit_safe_artifacts": [
+        "registry records",
+        "source access matrix",
+        "artifact schemas",
+        "provenance manifests without payload text",
+        "validation summaries without payload reconstruction",
+        "review pack structure without restricted labels"
+      ],
+      "credential_required": true,
+      "declared_language_count": 9,
+      "description": "Integrate UMLS Metathesaurus into terminology and translation support",
+      "expected_blockers": [
+        "Large release files may require local-only cache and incremental extraction.",
+        "Concept-level mappings can collapse clinically distinct HPO terms if source-vocabulary context is ignored."
+      ],
+      "fallback_path": "Create registry-only governance records and validation stubs until licensed UTS access is confirmed.",
+      "github_repositories": [
+        "https://github.com/HHS/uts-rest-api"
+      ],
+      "github_repository_count": 1,
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": false,
+          "role": "tooling_reference",
+          "url": "https://github.com/HHS/uts-rest-api"
+        }
+      ],
+      "human_review_required": true,
+      "known_blockers": [
+        "UMLS UTS license and credentials are required before any payload access.",
+        "Metathesaurus source files and CUIs may be redistribution-restricted.",
+        "Source vocabulary provenance must be retained so mappings do not imply UMLS endorsement."
+      ],
+      "language_codes": [
+        "ar",
+        "de",
+        "es",
+        "fr",
+        "it",
+        "ja",
+        "pt",
+        "ru",
+        "zh"
+      ],
+      "language_count": 9,
+      "language_normalization_status": "partial_multilingual_declaration",
+      "languages": [
+        "Multilingual via Metathesaurus",
+        "including Arabic",
+        "Chinese",
+        "French",
+        "German",
+        "Italian",
+        "Japanese",
+        "Portuguese",
+        "Russian",
+        "Spanish"
+      ],
+      "license_review_required": true,
+      "license_status": "license_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads",
+        "source-specific extraction outputs remain local-only until access and redistribution terms pass review"
+      ],
+      "metadata_created_at": "2026-06-23T00:00:00Z",
+      "metadata_updated_at": "2026-06-23T00:00:00Z",
+      "ontology_name": "UMLS Metathesaurus",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "priority": "P2",
+      "provenance": {
+        "generated_date": "2026-06-23",
+        "metadata_path": "conductor\\tracks\\umls_metathesaurus_integration_20260623\\metadata.json",
+        "method": "conductor_track_metadata_parse",
+        "spec_path": "conductor\\tracks\\umls_metathesaurus_integration_20260623\\spec.md"
+      },
+      "redistribution_status": "restricted_no_payload_redistribution",
+      "release_safe": false,
+      "restricted_sources": [
+        "UMLS Metathesaurus"
+      ],
+      "source_access_status": "license_required",
+      "source_id": "umls",
+      "source_metadata_paths": {
+        "metadata": "conductor\\tracks\\umls_metathesaurus_integration_20260623\\metadata.json",
+        "source_profile_spec": "conductor\\tracks\\umls_metathesaurus_integration_20260623\\spec.md"
+      },
+      "source_note": "Archived UTS REST API samples; use official UMLS licensing and current NLM documentation as the authority.",
+      "source_payload_commit_policy": "do_not_commit_raw_licensed_or_credentialed_payloads; governance metadata only until explicit redistribution permission exists",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "umls_metathesaurus_integration_20260623",
+      "track_status": "planned",
+      "usefulness": "Cross-terminology concept anchoring across UMLS CUIs and source vocabularies.",
+      "version_status": "not_pinned_in_track_metadata"
+    },
+    {
+      "access_class": "open",
+      "access_mode": "open_ontology_download_review_required",
+      "artifact_contract": {
+        "conditional_outputs": [
+          "language_comparison_pack",
+          "crosswalk_edges",
+          "conflict_report",
+          "coverage_summary",
+          "local_only_manifest"
+        ],
+        "excluded_until_policy_allows": [
+          "raw_source_payloads",
+          "licensed_release_archives",
+          "credentialed_api_responses"
+        ],
+        "required_before_phase_1_completion": [
+          "registry_record",
+          "source_access_record",
+          "provenance_manifest",
+          "validation_report",
+          "review_handoff_pack"
+        ]
+      },
+      "authoritative_endpoint": "repository_recorded_authority_review_required",
+      "authoritative_endpoint_note": "Unified Phenotype Ontology repository in the OBO/phenotype ecosystem.",
+      "authoritative_endpoint_status": "repository_recorded_authority_review_required",
+      "candidate_only": true,
+      "commit_safe_artifacts": [
+        "registry records",
+        "source access matrix",
+        "artifact schemas",
+        "provenance manifests without payload text",
+        "validation summaries without payload reconstruction",
+        "review pack structure without restricted labels"
+      ],
+      "credential_required": false,
+      "declared_language_count": 1,
+      "description": "Integrate uPheno into terminology and translation support",
+      "expected_blockers": [
+        "Automated equivalence can overstate confidence for translation candidates.",
+        "Build artifacts may be large and should remain generated unless accepted by policy."
+      ],
+      "fallback_path": "Start with pattern and cross-species conflict reports before any candidate evidence use.",
+      "github_repositories": [
+        "https://github.com/obophenotype/upheno"
+      ],
+      "github_repository_count": 1,
+      "github_repository_roles": [
+        {
+          "authoritative_for_release_payload": true,
+          "role": "source_repository",
+          "url": "https://github.com/obophenotype/upheno"
+        }
+      ],
+      "human_review_required": true,
+      "known_blockers": [
+        "uPheno depends on upstream ontology build products and may change with source releases.",
+        "Cross-species phenotype patterns require explicit evidence and predicate fields."
+      ],
+      "language_codes": [
+        "en"
+      ],
+      "language_count": 1,
+      "language_normalization_status": "english_only",
+      "languages": [
+        "English only"
+      ],
+      "license_review_required": true,
+      "license_status": "terms_review_required",
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads"
+      ],
+      "metadata_created_at": "2026-06-23T00:00:00Z",
+      "metadata_updated_at": "2026-06-23T00:00:00Z",
+      "ontology_name": "uPheno",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "priority": "P1",
+      "provenance": {
+        "generated_date": "2026-06-23",
+        "metadata_path": "conductor\\tracks\\upheno_integration_20260623\\metadata.json",
+        "method": "conductor_track_metadata_parse",
+        "spec_path": "conductor\\tracks\\upheno_integration_20260623\\spec.md"
+      },
+      "redistribution_status": "terms_review_required_before_payload_redistribution",
+      "release_safe": true,
+      "restricted_sources": [],
+      "source_access_status": "open_ontology_download_review_required",
+      "source_id": "upheno",
+      "source_metadata_paths": {
+        "metadata": "conductor\\tracks\\upheno_integration_20260623\\metadata.json",
+        "source_profile_spec": "conductor\\tracks\\upheno_integration_20260623\\spec.md"
+      },
+      "source_note": "Unified Phenotype Ontology repository in the OBO/phenotype ecosystem.",
+      "source_payload_commit_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+      "source_payloads_can_be_committed": false,
+      "source_version": null,
+      "track_id": "upheno_integration_20260623",
+      "track_status": "planned",
+      "usefulness": "Cross-species phenotype pattern alignment and ontology bridge review.",
+      "version_status": "not_pinned_in_track_metadata"
+    }
+  ],
+  "source": "conductor track metadata and source profile specifications"
+}

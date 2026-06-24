@@ -1,0 +1,96 @@
+{
+  "generated_date": "2026-06-23",
+  "payload_policy": "metadata and governance only; no P3 source payloads, labels, or full releases are read or committed",
+  "record_count": 2,
+  "records": [
+    {
+      "access_class": "open",
+      "authority_status": "non_github_authority_required",
+      "blocked_downstream_outputs": [
+        "ontology_network_20260623:phase_3_identifier_network",
+        "ontology_network_20260623:phase_4_non_translation_outputs"
+      ],
+      "bounded_sample_allowed": false,
+      "candidate_only": true,
+      "commit_safe_artifacts": [
+        "registry records",
+        "source access matrix",
+        "artifact schemas",
+        "provenance manifests without payload text",
+        "validation summaries without payload reconstruction",
+        "review pack structure without restricted labels"
+      ],
+      "go_no_go": "governance_only_terms_review_required",
+      "human_review_required": true,
+      "identifier_network_allowed": false,
+      "implementation_scope": "anatomy_identifier_governance_only",
+      "known_blockers": [
+        "FMA release location, active maintenance status, and license terms must be verified before payload ingestion.",
+        "FMA can support anatomy consistency checks, but identifier-network and translation-use outputs remain blocked until terms review passes.",
+        "Anatomical entity labels can support validation but not disease or phenotype mappings by themselves."
+      ],
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads"
+      ],
+      "next_allowed_action": "complete public ontology terms review before any source payload or label extraction",
+      "non_translation_outputs_allowed": false,
+      "ontology_name": "FMA",
+      "payload_commit_allowed": false,
+      "priority": "P3",
+      "provenance_id": "prov-p3-governance-fma",
+      "source_access_status": "public_ontology_terms_review_required",
+      "source_authority_confirmed": false,
+      "source_id": "fma",
+      "terms_review_required": true,
+      "track_id": "fma_integration_20260623"
+    },
+    {
+      "access_class": "investigation-only",
+      "authority_status": "unknown_authority_and_access",
+      "blocked_downstream_outputs": [
+        "ontology_network_20260623:phase_3_identifier_network",
+        "ontology_network_20260623:phase_4_non_translation_outputs"
+      ],
+      "bounded_sample_allowed": false,
+      "candidate_only": true,
+      "commit_safe_artifacts": [
+        "registry records",
+        "source access matrix",
+        "artifact schemas",
+        "provenance manifests without payload text",
+        "validation summaries without payload reconstruction",
+        "review pack structure without restricted labels"
+      ],
+      "go_no_go": "no_go_authority_unknown",
+      "human_review_required": true,
+      "identifier_network_allowed": false,
+      "implementation_scope": "documentation_only_investigation",
+      "known_blockers": [
+        "LDDB source authority, maintenance status, license, and access path require confirmation.",
+        "No payload, derived evidence, identifier mapping, or translation comparison should be planned until the authoritative source is identified."
+      ],
+      "local_only_requirements": [
+        "credentialed exports",
+        "full API responses",
+        "licensed payloads",
+        "raw downloads",
+        "source-specific extraction outputs remain local-only until access and redistribution terms pass review"
+      ],
+      "next_allowed_action": "identify authoritative LDDB source, maintenance status, access path, and redistribution terms",
+      "non_translation_outputs_allowed": false,
+      "ontology_name": "LDDB",
+      "payload_commit_allowed": false,
+      "priority": "P3",
+      "provenance_id": "prov-p3-governance-lddb",
+      "source_access_status": "source_authority_and_access_unknown",
+      "source_authority_confirmed": false,
+      "source_id": "lddb",
+      "terms_review_required": false,
+      "track_id": "lddb_integration_20260623"
+    }
+  ],
+  "scope": "P3 investigation-only or uncertain-source ontology tracks"
+}

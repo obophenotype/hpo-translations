@@ -1,0 +1,6 @@
+extend-exclude = [".cache", "tmp_replace_tracks.py"]
+line-length = 120
+
+[lint]
+select = ["E", "F", "I", "N", "UP", "B", "A", "C4", "SIM", "ARG"]
+ignore = []

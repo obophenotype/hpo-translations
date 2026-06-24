@@ -1,0 +1,492 @@
+[
+  {
+    "access_mode": "restricted",
+    "artifact_classes": [
+      "committed",
+      "generated",
+      "pr_safe"
+    ],
+    "authoritative_endpoint": "non_github_authority_required",
+    "derived_commit_allowed": true,
+    "license_name": "permission_or_data_use_terms_required",
+    "local_only": false,
+    "payload_commit_allowed": false,
+    "payload_policy": "do_not_commit_raw_licensed_or_credentialed_payloads; governance metadata only until explicit redistribution permission exists",
+    "provenance_id": "decipher",
+    "retrieval_date": "2026-06-23",
+    "source_access_status": "permission_or_api_terms_required",
+    "source_id": "decipher",
+    "source_name": "DECIPHER",
+    "source_version": "not_pinned_in_track_metadata",
+    "supported_languages": [
+      "en"
+    ]
+  },
+  {
+    "access_mode": "open",
+    "artifact_classes": [
+      "committed",
+      "generated",
+      "pr_safe"
+    ],
+    "authoritative_endpoint": "repository_recorded_authority_review_required",
+    "derived_commit_allowed": true,
+    "license_name": "terms_review_required",
+    "local_only": false,
+    "payload_commit_allowed": false,
+    "payload_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+    "provenance_id": "do",
+    "retrieval_date": "2026-06-23",
+    "source_access_status": "open_ontology_download_review_required",
+    "source_id": "do",
+    "source_name": "Disease Ontology",
+    "source_version": "not_pinned_in_track_metadata",
+    "supported_languages": [
+      "en"
+    ]
+  },
+  {
+    "access_mode": "open",
+    "artifact_classes": [
+      "committed",
+      "generated",
+      "pr_safe"
+    ],
+    "authoritative_endpoint": "repository_recorded_authority_review_required",
+    "derived_commit_allowed": true,
+    "license_name": "terms_review_required",
+    "local_only": false,
+    "payload_commit_allowed": false,
+    "payload_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+    "provenance_id": "efo",
+    "retrieval_date": "2026-06-23",
+    "source_access_status": "open_ontology_download_review_required",
+    "source_id": "efo",
+    "source_name": "EFO",
+    "source_version": "not_pinned_in_track_metadata",
+    "supported_languages": [
+      "en"
+    ]
+  },
+  {
+    "access_mode": "open",
+    "artifact_classes": [
+      "committed",
+      "generated",
+      "pr_safe"
+    ],
+    "authoritative_endpoint": "non_github_authority_required",
+    "derived_commit_allowed": true,
+    "license_name": "terms_review_required",
+    "local_only": false,
+    "payload_commit_allowed": false,
+    "payload_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+    "provenance_id": "fma",
+    "retrieval_date": "2026-06-23",
+    "source_access_status": "public_ontology_terms_review_required",
+    "source_id": "fma",
+    "source_name": "FMA",
+    "source_version": "not_pinned_in_track_metadata",
+    "supported_languages": [
+      "en"
+    ]
+  },
+  {
+    "access_mode": "open",
+    "artifact_classes": [
+      "committed",
+      "generated",
+      "pr_safe"
+    ],
+    "authoritative_endpoint": "authority_described_github_not_authoritative",
+    "derived_commit_allowed": true,
+    "license_name": "terms_review_required",
+    "local_only": false,
+    "payload_commit_allowed": false,
+    "payload_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+    "provenance_id": "icd10",
+    "retrieval_date": "2026-06-23",
+    "source_access_status": "public_or_national_variant_review_required",
+    "source_id": "icd10",
+    "source_name": "ICD-10",
+    "source_version": "not_pinned_in_track_metadata",
+    "supported_languages": [
+      "ar",
+      "en",
+      "es",
+      "fr",
+      "ru",
+      "zh"
+    ]
+  },
+  {
+    "access_mode": "api_only",
+    "artifact_classes": [
+      "committed",
+      "generated",
+      "pr_safe"
+    ],
+    "authoritative_endpoint": "authority_described_github_not_authoritative",
+    "derived_commit_allowed": true,
+    "license_name": "terms_review_required",
+    "local_only": false,
+    "payload_commit_allowed": false,
+    "payload_policy": "do_not_commit_full_api_responses; commit only schemas, request manifests, validation summaries, and redacted derived reports",
+    "provenance_id": "icd11",
+    "retrieval_date": "2026-06-23",
+    "source_access_status": "public_api_terms_review_required",
+    "source_id": "icd11",
+    "source_name": "ICD-11",
+    "source_version": "not_pinned_in_track_metadata",
+    "supported_languages": [
+      "ar",
+      "cs",
+      "en",
+      "es",
+      "fr",
+      "pt",
+      "ru",
+      "tr",
+      "uz",
+      "zh"
+    ]
+  },
+  {
+    "access_mode": "investigation_only",
+    "artifact_classes": [
+      "committed",
+      "generated",
+      "pr_safe"
+    ],
+    "authoritative_endpoint": "non_github_authority_required",
+    "derived_commit_allowed": true,
+    "license_name": "unknown_authority_and_license",
+    "local_only": false,
+    "payload_commit_allowed": false,
+    "payload_policy": "do_not_plan_payload_access until source authority, access path, and license are verified",
+    "provenance_id": "lddb",
+    "retrieval_date": "2026-06-23",
+    "source_access_status": "source_authority_and_access_unknown",
+    "source_id": "lddb",
+    "source_name": "LDDB",
+    "source_version": "not_pinned_in_track_metadata",
+    "supported_languages": [
+      "en"
+    ]
+  },
+  {
+    "access_mode": "restricted",
+    "artifact_classes": [
+      "committed",
+      "generated",
+      "pr_safe"
+    ],
+    "authoritative_endpoint": "repository_recorded_authority_review_required",
+    "derived_commit_allowed": true,
+    "license_name": "free_account_license_review_required",
+    "local_only": false,
+    "payload_commit_allowed": false,
+    "payload_policy": "do_not_commit_raw_licensed_or_credentialed_payloads; governance metadata only until explicit redistribution permission exists",
+    "provenance_id": "loinc",
+    "retrieval_date": "2026-06-23",
+    "source_access_status": "free_account_license_review_required",
+    "source_id": "loinc",
+    "source_name": "LOINC",
+    "source_version": "not_pinned_in_track_metadata",
+    "supported_languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ko",
+      "nl",
+      "pt",
+      "ru",
+      "tr",
+      "zh"
+    ]
+  },
+  {
+    "access_mode": "restricted",
+    "artifact_classes": [
+      "committed",
+      "generated",
+      "pr_safe"
+    ],
+    "authoritative_endpoint": "non_github_authority_required",
+    "derived_commit_allowed": true,
+    "license_name": "subscription_license_required",
+    "local_only": false,
+    "payload_commit_allowed": false,
+    "payload_policy": "do_not_commit_raw_licensed_or_credentialed_payloads; governance metadata only until explicit redistribution permission exists",
+    "provenance_id": "meddra",
+    "retrieval_date": "2026-06-23",
+    "source_access_status": "subscription_or_license_required",
+    "source_id": "meddra",
+    "source_name": "MedDRA",
+    "source_version": "not_pinned_in_track_metadata",
+    "supported_languages": [
+      "ar",
+      "cs",
+      "de",
+      "en",
+      "es",
+      "fr",
+      "hu",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pl",
+      "pt",
+      "ru",
+      "sv",
+      "tr",
+      "zh"
+    ]
+  },
+  {
+    "access_mode": "open",
+    "artifact_classes": [
+      "committed",
+      "generated",
+      "pr_safe"
+    ],
+    "authoritative_endpoint": "repository_recorded_authority_review_required",
+    "derived_commit_allowed": true,
+    "license_name": "terms_review_required",
+    "local_only": false,
+    "payload_commit_allowed": false,
+    "payload_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+    "provenance_id": "mesh",
+    "retrieval_date": "2026-06-23",
+    "source_access_status": "public_download_terms_review_required",
+    "source_id": "mesh",
+    "source_name": "MeSH",
+    "source_version": "not_pinned_in_track_metadata",
+    "supported_languages": [
+      "cs",
+      "de",
+      "en",
+      "es",
+      "fi",
+      "fr",
+      "it",
+      "ja",
+      "pl",
+      "pt",
+      "ru"
+    ]
+  },
+  {
+    "access_mode": "open",
+    "artifact_classes": [
+      "committed",
+      "generated",
+      "pr_safe"
+    ],
+    "authoritative_endpoint": "repository_recorded_authority_review_required",
+    "derived_commit_allowed": true,
+    "license_name": "terms_review_required",
+    "local_only": false,
+    "payload_commit_allowed": false,
+    "payload_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+    "provenance_id": "mp",
+    "retrieval_date": "2026-06-23",
+    "source_access_status": "open_ontology_download_review_required",
+    "source_id": "mp",
+    "source_name": "Mammalian Phenotype Ontology",
+    "source_version": "not_pinned_in_track_metadata",
+    "supported_languages": [
+      "en"
+    ]
+  },
+  {
+    "access_mode": "restricted",
+    "artifact_classes": [
+      "committed",
+      "generated",
+      "pr_safe"
+    ],
+    "authoritative_endpoint": "authority_described_github_not_authoritative",
+    "derived_commit_allowed": true,
+    "license_name": "credentialed_api_or_license_required",
+    "local_only": false,
+    "payload_commit_allowed": false,
+    "payload_policy": "do_not_commit_raw_licensed_or_credentialed_payloads; governance metadata only until explicit redistribution permission exists",
+    "provenance_id": "omim",
+    "retrieval_date": "2026-06-23",
+    "source_access_status": "api_key_or_license_required",
+    "source_id": "omim",
+    "source_name": "OMIM",
+    "source_version": "not_pinned_in_track_metadata",
+    "supported_languages": [
+      "en"
+    ]
+  },
+  {
+    "access_mode": "api_only",
+    "artifact_classes": [
+      "committed",
+      "generated",
+      "pr_safe"
+    ],
+    "authoritative_endpoint": "repository_recorded_authority_review_required",
+    "derived_commit_allowed": true,
+    "license_name": "terms_review_required",
+    "local_only": false,
+    "payload_commit_allowed": false,
+    "payload_policy": "do_not_commit_full_api_responses; commit only schemas, request manifests, validation summaries, and redacted derived reports",
+    "provenance_id": "oncotree",
+    "retrieval_date": "2026-06-23",
+    "source_access_status": "open_api_terms_review_required",
+    "source_id": "oncotree",
+    "source_name": "OncoTree",
+    "source_version": "not_pinned_in_track_metadata",
+    "supported_languages": [
+      "en"
+    ]
+  },
+  {
+    "access_mode": "open",
+    "artifact_classes": [
+      "committed",
+      "generated",
+      "pr_safe"
+    ],
+    "authoritative_endpoint": "authority_described_github_not_authoritative",
+    "derived_commit_allowed": true,
+    "license_name": "terms_review_required",
+    "local_only": false,
+    "payload_commit_allowed": false,
+    "payload_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+    "provenance_id": "orphanet",
+    "retrieval_date": "2026-06-23",
+    "source_access_status": "public_download_terms_review_required",
+    "source_id": "orphanet",
+    "source_name": "Orphanet",
+    "source_version": "not_pinned_in_track_metadata",
+    "supported_languages": [
+      "cs",
+      "de",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "nl",
+      "pl",
+      "pt"
+    ]
+  },
+  {
+    "access_mode": "open",
+    "artifact_classes": [
+      "committed",
+      "generated",
+      "pr_safe"
+    ],
+    "authoritative_endpoint": "repository_recorded_authority_review_required",
+    "derived_commit_allowed": true,
+    "license_name": "terms_review_required",
+    "local_only": false,
+    "payload_commit_allowed": false,
+    "payload_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+    "provenance_id": "pato",
+    "retrieval_date": "2026-06-23",
+    "source_access_status": "open_ontology_download_review_required",
+    "source_id": "pato",
+    "source_name": "PATO",
+    "source_version": "not_pinned_in_track_metadata",
+    "supported_languages": [
+      "en"
+    ]
+  },
+  {
+    "access_mode": "restricted",
+    "artifact_classes": [
+      "committed",
+      "generated",
+      "pr_safe"
+    ],
+    "authoritative_endpoint": "authority_described_github_not_authoritative",
+    "derived_commit_allowed": true,
+    "license_name": "affiliate_or_jurisdiction_license_required",
+    "local_only": false,
+    "payload_commit_allowed": false,
+    "payload_policy": "do_not_commit_raw_licensed_or_credentialed_payloads; governance metadata only until explicit redistribution permission exists",
+    "provenance_id": "snomed_ct",
+    "retrieval_date": "2026-06-23",
+    "source_access_status": "license_or_affiliate_release_required",
+    "source_id": "snomed_ct",
+    "source_name": "SNOMED CT",
+    "source_version": "not_pinned_in_track_metadata",
+    "supported_languages": [
+      "da",
+      "de",
+      "en",
+      "es",
+      "et",
+      "fi",
+      "fr",
+      "nl",
+      "no",
+      "sk",
+      "sv"
+    ]
+  },
+  {
+    "access_mode": "restricted",
+    "artifact_classes": [
+      "committed",
+      "generated",
+      "pr_safe"
+    ],
+    "authoritative_endpoint": "authority_described_github_not_authoritative",
+    "derived_commit_allowed": true,
+    "license_name": "license_required",
+    "local_only": false,
+    "payload_commit_allowed": false,
+    "payload_policy": "do_not_commit_raw_licensed_or_credentialed_payloads; governance metadata only until explicit redistribution permission exists",
+    "provenance_id": "umls",
+    "retrieval_date": "2026-06-23",
+    "source_access_status": "license_required",
+    "source_id": "umls",
+    "source_name": "UMLS Metathesaurus",
+    "source_version": "not_pinned_in_track_metadata",
+    "supported_languages": [
+      "ar",
+      "de",
+      "es",
+      "fr",
+      "it",
+      "ja",
+      "pt",
+      "ru",
+      "zh"
+    ]
+  },
+  {
+    "access_mode": "open",
+    "artifact_classes": [
+      "committed",
+      "generated",
+      "pr_safe"
+    ],
+    "authoritative_endpoint": "repository_recorded_authority_review_required",
+    "derived_commit_allowed": true,
+    "license_name": "terms_review_required",
+    "local_only": false,
+    "payload_commit_allowed": false,
+    "payload_policy": "do_not_commit_raw_source_payloads; commit only registry, schemas, provenance, bounded validation summaries, and derived reports after terms review",
+    "provenance_id": "upheno",
+    "retrieval_date": "2026-06-23",
+    "source_access_status": "open_ontology_download_review_required",
+    "source_id": "upheno",
+    "source_name": "uPheno",
+    "source_version": "not_pinned_in_track_metadata",
+    "supported_languages": [
+      "en"
+    ]
+  }
+]

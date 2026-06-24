@@ -1,0 +1,189 @@
+{
+  "generated_date": "2026-06-23",
+  "records": [
+    {
+      "candidate_count": 0,
+      "conflict_count": 0,
+      "coverage_gap_count": 0,
+      "language": "ar",
+      "reviewer_role": "language reviewer",
+      "source_count": 4
+    },
+    {
+      "candidate_count": 0,
+      "conflict_count": 0,
+      "coverage_gap_count": 0,
+      "language": "cs",
+      "reviewer_role": "language reviewer",
+      "source_count": 4
+    },
+    {
+      "candidate_count": 0,
+      "conflict_count": 0,
+      "coverage_gap_count": 0,
+      "language": "da",
+      "reviewer_role": "language reviewer",
+      "source_count": 1
+    },
+    {
+      "candidate_count": 0,
+      "conflict_count": 0,
+      "coverage_gap_count": 0,
+      "language": "de",
+      "reviewer_role": "language reviewer",
+      "source_count": 6
+    },
+    {
+      "candidate_count": 0,
+      "conflict_count": 0,
+      "coverage_gap_count": 0,
+      "language": "en",
+      "reviewer_role": "language reviewer",
+      "source_count": 17
+    },
+    {
+      "candidate_count": 0,
+      "conflict_count": 0,
+      "coverage_gap_count": 0,
+      "language": "es",
+      "reviewer_role": "language reviewer",
+      "source_count": 8
+    },
+    {
+      "candidate_count": 0,
+      "conflict_count": 0,
+      "coverage_gap_count": 0,
+      "language": "et",
+      "reviewer_role": "language reviewer",
+      "source_count": 1
+    },
+    {
+      "candidate_count": 0,
+      "conflict_count": 0,
+      "coverage_gap_count": 0,
+      "language": "fi",
+      "reviewer_role": "language reviewer",
+      "source_count": 2
+    },
+    {
+      "candidate_count": 0,
+      "conflict_count": 0,
+      "coverage_gap_count": 0,
+      "language": "fr",
+      "reviewer_role": "language reviewer",
+      "source_count": 8
+    },
+    {
+      "candidate_count": 0,
+      "conflict_count": 0,
+      "coverage_gap_count": 0,
+      "language": "hu",
+      "reviewer_role": "language reviewer",
+      "source_count": 1
+    },
+    {
+      "candidate_count": 0,
+      "conflict_count": 0,
+      "coverage_gap_count": 0,
+      "language": "it",
+      "reviewer_role": "language reviewer",
+      "source_count": 5
+    },
+    {
+      "candidate_count": 0,
+      "conflict_count": 0,
+      "coverage_gap_count": 0,
+      "language": "ja",
+      "reviewer_role": "language reviewer",
+      "source_count": 3
+    },
+    {
+      "candidate_count": 0,
+      "conflict_count": 0,
+      "coverage_gap_count": 0,
+      "language": "ko",
+      "reviewer_role": "language reviewer",
+      "source_count": 2
+    },
+    {
+      "candidate_count": 0,
+      "conflict_count": 0,
+      "coverage_gap_count": 0,
+      "language": "nl",
+      "reviewer_role": "language reviewer",
+      "source_count": 4
+    },
+    {
+      "candidate_count": 0,
+      "conflict_count": 0,
+      "coverage_gap_count": 0,
+      "language": "no",
+      "reviewer_role": "language reviewer",
+      "source_count": 1
+    },
+    {
+      "candidate_count": 0,
+      "conflict_count": 0,
+      "coverage_gap_count": 0,
+      "language": "pl",
+      "reviewer_role": "language reviewer",
+      "source_count": 3
+    },
+    {
+      "candidate_count": 0,
+      "conflict_count": 0,
+      "coverage_gap_count": 0,
+      "language": "pt",
+      "reviewer_role": "language reviewer",
+      "source_count": 6
+    },
+    {
+      "candidate_count": 0,
+      "conflict_count": 0,
+      "coverage_gap_count": 0,
+      "language": "ru",
+      "reviewer_role": "language reviewer",
+      "source_count": 6
+    },
+    {
+      "candidate_count": 0,
+      "conflict_count": 0,
+      "coverage_gap_count": 0,
+      "language": "sk",
+      "reviewer_role": "language reviewer",
+      "source_count": 1
+    },
+    {
+      "candidate_count": 0,
+      "conflict_count": 0,
+      "coverage_gap_count": 0,
+      "language": "sv",
+      "reviewer_role": "language reviewer",
+      "source_count": 2
+    },
+    {
+      "candidate_count": 0,
+      "conflict_count": 0,
+      "coverage_gap_count": 0,
+      "language": "tr",
+      "reviewer_role": "language reviewer",
+      "source_count": 3
+    },
+    {
+      "candidate_count": 0,
+      "conflict_count": 0,
+      "coverage_gap_count": 0,
+      "language": "uz",
+      "reviewer_role": "language reviewer",
+      "source_count": 1
+    },
+    {
+      "candidate_count": 0,
+      "conflict_count": 0,
+      "coverage_gap_count": 0,
+      "language": "zh",
+      "reviewer_role": "language reviewer",
+      "source_count": 5
+    }
+  ]
+}

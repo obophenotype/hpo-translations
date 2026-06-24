@@ -1,0 +1,115 @@
+{
+  "$id": "https://example.org/hpo-translations/ontology-network/p3_source_governance_record.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "access_class": {
+      "type": "string"
+    },
+    "authority_status": {
+      "type": "string"
+    },
+    "blocked_downstream_outputs": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "bounded_sample_allowed": {
+      "type": "boolean"
+    },
+    "candidate_only": {
+      "type": "boolean"
+    },
+    "commit_safe_artifacts": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "go_no_go": {
+      "type": "string"
+    },
+    "human_review_required": {
+      "type": "boolean"
+    },
+    "identifier_network_allowed": {
+      "type": "boolean"
+    },
+    "implementation_scope": {
+      "type": "string"
+    },
+    "known_blockers": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "local_only_requirements": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "next_allowed_action": {
+      "type": "string"
+    },
+    "non_translation_outputs_allowed": {
+      "type": "boolean"
+    },
+    "ontology_name": {
+      "type": "string"
+    },
+    "payload_commit_allowed": {
+      "type": "boolean"
+    },
+    "priority": {
+      "type": "string"
+    },
+    "provenance_id": {
+      "type": "string"
+    },
+    "source_access_status": {
+      "type": "string"
+    },
+    "source_authority_confirmed": {
+      "type": "boolean"
+    },
+    "source_id": {
+      "type": "string"
+    },
+    "terms_review_required": {
+      "type": "boolean"
+    },
+    "track_id": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "access_class",
+    "authority_status",
+    "blocked_downstream_outputs",
+    "bounded_sample_allowed",
+    "candidate_only",
+    "commit_safe_artifacts",
+    "go_no_go",
+    "human_review_required",
+    "identifier_network_allowed",
+    "implementation_scope",
+    "known_blockers",
+    "local_only_requirements",
+    "next_allowed_action",
+    "non_translation_outputs_allowed",
+    "ontology_name",
+    "payload_commit_allowed",
+    "priority",
+    "provenance_id",
+    "source_access_status",
+    "source_authority_confirmed",
+    "source_id",
+    "terms_review_required",
+    "track_id"
+  ],
+  "title": "p3_source_governance_record",
+  "type": "object"
+}

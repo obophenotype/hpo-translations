@@ -1,0 +1,34 @@
+{
+  "$id": "https://example.org/hpo-translations/ontology-network/review_workload_record.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "candidate_count": {
+      "type": "integer"
+    },
+    "conflict_count": {
+      "type": "integer"
+    },
+    "coverage_gap_count": {
+      "type": "integer"
+    },
+    "language": {
+      "type": "string"
+    },
+    "reviewer_role": {
+      "type": "string"
+    },
+    "source_count": {
+      "type": "integer"
+    }
+  },
+  "required": [
+    "candidate_count",
+    "conflict_count",
+    "coverage_gap_count",
+    "language",
+    "source_count"
+  ],
+  "title": "review_workload_record",
+  "type": "object"
+}

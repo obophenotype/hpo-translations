@@ -1,0 +1,116 @@
+{
+  "$id": "https://example.org/hpo-translations/ontology-network/source_access_record.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "access_class": {
+      "type": "string"
+    },
+    "access_mode": {
+      "type": "string"
+    },
+    "authoritative_endpoint": {
+      "type": "string"
+    },
+    "authoritative_endpoint_status": {
+      "type": "string"
+    },
+    "credential_required": {
+      "type": "boolean"
+    },
+    "declared_language_count": {
+      "type": "integer"
+    },
+    "github_repositories": {
+      "items": {},
+      "type": "array"
+    },
+    "github_repository_roles": {
+      "items": {},
+      "type": "array"
+    },
+    "human_review_required": {
+      "type": "boolean"
+    },
+    "known_blocker_count": {
+      "type": "integer"
+    },
+    "language_codes": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "languages": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "license_status": {
+      "type": "string"
+    },
+    "local_only_requirements": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "ontology_name": {
+      "type": "string"
+    },
+    "payload_commit_allowed": {
+      "type": "boolean"
+    },
+    "pr_safe": {
+      "type": "boolean"
+    },
+    "redistribution_status": {
+      "type": "string"
+    },
+    "release_safe": {
+      "type": "boolean"
+    },
+    "restricted_sources": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "source_access_status": {
+      "type": "string"
+    },
+    "source_id": {
+      "type": "string"
+    },
+    "source_payload_commit_policy": {
+      "type": "string"
+    },
+    "source_payloads_can_be_committed": {
+      "type": "boolean"
+    },
+    "source_version": {
+      "type": "null"
+    },
+    "track_id": {
+      "type": "string"
+    },
+    "version_status": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "access_class",
+    "credential_required",
+    "language_codes",
+    "license_status",
+    "ontology_name",
+    "payload_commit_allowed",
+    "redistribution_status",
+    "release_safe",
+    "source_id",
+    "track_id"
+  ],
+  "title": "source_access_record",
+  "type": "object"
+}

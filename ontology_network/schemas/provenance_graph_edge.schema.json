@@ -1,0 +1,23 @@
+{
+  "$id": "https://example.org/hpo-translations/ontology-network/provenance_graph_edge.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "from": {
+      "type": "string"
+    },
+    "predicate": {
+      "type": "string"
+    },
+    "to": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "from",
+    "predicate",
+    "to"
+  ],
+  "title": "provenance_graph_edge",
+  "type": "object"
+}

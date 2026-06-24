@@ -1,0 +1,14 @@
+[
+  {
+    "coverage_id": "coverage-fail-fast-1",
+    "coverage_ratio": 0.0,
+    "covered_hpo_terms": 0,
+    "hpo_branch_id": "HP:0000118",
+    "language": "en",
+    "predicate": "metadata_declared_language_support",
+    "provenance_id": "prov-coverage-fail-fast",
+    "review_status": "needs_review",
+    "source_id": "do",
+    "total_hpo_terms": 0
+  }
+]

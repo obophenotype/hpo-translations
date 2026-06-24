@@ -1,0 +1,31 @@
+{
+  "commands": [
+    "pixi run build-ontology-network",
+    "pixi run validate-ontology-network",
+    "pixi run validate-ontology-network-artifacts",
+    "pixi run test-conductor-validation",
+    "pixi run lint"
+  ],
+  "generated_date": "2026-06-23",
+  "permitted_checksums_only": true,
+  "source_versions": {
+    "decipher": "not_pinned_in_track_metadata",
+    "do": "not_pinned_in_track_metadata",
+    "efo": "not_pinned_in_track_metadata",
+    "fma": "not_pinned_in_track_metadata",
+    "icd10": "not_pinned_in_track_metadata",
+    "icd11": "not_pinned_in_track_metadata",
+    "lddb": "not_pinned_in_track_metadata",
+    "loinc": "not_pinned_in_track_metadata",
+    "meddra": "not_pinned_in_track_metadata",
+    "mesh": "not_pinned_in_track_metadata",
+    "mp": "not_pinned_in_track_metadata",
+    "omim": "not_pinned_in_track_metadata",
+    "oncotree": "not_pinned_in_track_metadata",
+    "orphanet": "not_pinned_in_track_metadata",
+    "pato": "not_pinned_in_track_metadata",
+    "snomed_ct": "not_pinned_in_track_metadata",
+    "umls": "not_pinned_in_track_metadata",
+    "upheno": "not_pinned_in_track_metadata"
+  }
+}

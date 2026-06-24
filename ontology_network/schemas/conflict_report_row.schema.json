@@ -1,0 +1,62 @@
+{
+  "$id": "https://example.org/hpo-translations/ontology-network/conflict_report_row.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "conflict_id": {
+      "type": "string"
+    },
+    "conflict_type": {
+      "type": "string"
+    },
+    "count": {
+      "type": "integer"
+    },
+    "evidence_ids": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "hpo_id": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string"
+    },
+    "provenance_id": {
+      "type": "string"
+    },
+    "resolution_status": {
+      "type": "string"
+    },
+    "review_required": {
+      "type": "boolean"
+    },
+    "reviewer_action": {
+      "type": "string"
+    },
+    "severity": {
+      "type": "string"
+    },
+    "source_ids": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    }
+  },
+  "required": [
+    "conflict_id",
+    "conflict_type",
+    "evidence_ids",
+    "hpo_id",
+    "provenance_id",
+    "resolution_status",
+    "reviewer_action",
+    "severity",
+    "source_ids"
+  ],
+  "title": "conflict_report_row",
+  "type": "object"
+}

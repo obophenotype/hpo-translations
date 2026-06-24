@@ -1,0 +1,443 @@
+{
+  "generated_date": "2026-06-23",
+  "record_count": 23,
+  "records": [
+    {
+      "conflict_id": "conflict-ar-metadata",
+      "conflict_type": "source_disagreement",
+      "count": 0,
+      "evidence_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_id": "HP:0000001",
+      "language": "ar",
+      "provenance_id": "prov-conflict-ar",
+      "resolution_status": "needs_review",
+      "review_required": true,
+      "reviewer_action": "confirm source evidence before candidate promotion",
+      "severity": "info",
+      "source_ids": [
+        "icd10",
+        "icd11"
+      ]
+    },
+    {
+      "conflict_id": "conflict-cs-metadata",
+      "conflict_type": "source_disagreement",
+      "count": 0,
+      "evidence_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_id": "HP:0000001",
+      "language": "cs",
+      "provenance_id": "prov-conflict-cs",
+      "resolution_status": "needs_review",
+      "review_required": true,
+      "reviewer_action": "confirm source evidence before candidate promotion",
+      "severity": "info",
+      "source_ids": [
+        "icd11",
+        "meddra"
+      ]
+    },
+    {
+      "conflict_id": "conflict-da-metadata",
+      "conflict_type": "source_disagreement",
+      "count": 0,
+      "evidence_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_id": "HP:0000001",
+      "language": "da",
+      "provenance_id": "prov-conflict-da",
+      "resolution_status": "needs_review",
+      "review_required": true,
+      "reviewer_action": "confirm source evidence before candidate promotion",
+      "severity": "info",
+      "source_ids": [
+        "snomed_ct",
+        "decipher"
+      ]
+    },
+    {
+      "conflict_id": "conflict-de-metadata",
+      "conflict_type": "source_disagreement",
+      "count": 0,
+      "evidence_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_id": "HP:0000001",
+      "language": "de",
+      "provenance_id": "prov-conflict-de",
+      "resolution_status": "needs_review",
+      "review_required": true,
+      "reviewer_action": "confirm source evidence before candidate promotion",
+      "severity": "info",
+      "source_ids": [
+        "loinc",
+        "meddra"
+      ]
+    },
+    {
+      "conflict_id": "conflict-en-metadata",
+      "conflict_type": "source_disagreement",
+      "count": 0,
+      "evidence_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_id": "HP:0000001",
+      "language": "en",
+      "provenance_id": "prov-conflict-en",
+      "resolution_status": "needs_review",
+      "review_required": true,
+      "reviewer_action": "confirm source evidence before candidate promotion",
+      "severity": "info",
+      "source_ids": [
+        "decipher",
+        "do"
+      ]
+    },
+    {
+      "conflict_id": "conflict-es-metadata",
+      "conflict_type": "source_disagreement",
+      "count": 0,
+      "evidence_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_id": "HP:0000001",
+      "language": "es",
+      "provenance_id": "prov-conflict-es",
+      "resolution_status": "needs_review",
+      "review_required": true,
+      "reviewer_action": "confirm source evidence before candidate promotion",
+      "severity": "info",
+      "source_ids": [
+        "icd10",
+        "icd11"
+      ]
+    },
+    {
+      "conflict_id": "conflict-et-metadata",
+      "conflict_type": "source_disagreement",
+      "count": 0,
+      "evidence_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_id": "HP:0000001",
+      "language": "et",
+      "provenance_id": "prov-conflict-et",
+      "resolution_status": "needs_review",
+      "review_required": true,
+      "reviewer_action": "confirm source evidence before candidate promotion",
+      "severity": "info",
+      "source_ids": [
+        "snomed_ct",
+        "decipher"
+      ]
+    },
+    {
+      "conflict_id": "conflict-fi-metadata",
+      "conflict_type": "source_disagreement",
+      "count": 0,
+      "evidence_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_id": "HP:0000001",
+      "language": "fi",
+      "provenance_id": "prov-conflict-fi",
+      "resolution_status": "needs_review",
+      "review_required": true,
+      "reviewer_action": "confirm source evidence before candidate promotion",
+      "severity": "info",
+      "source_ids": [
+        "mesh",
+        "snomed_ct"
+      ]
+    },
+    {
+      "conflict_id": "conflict-fr-metadata",
+      "conflict_type": "source_disagreement",
+      "count": 0,
+      "evidence_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_id": "HP:0000001",
+      "language": "fr",
+      "provenance_id": "prov-conflict-fr",
+      "resolution_status": "needs_review",
+      "review_required": true,
+      "reviewer_action": "confirm source evidence before candidate promotion",
+      "severity": "info",
+      "source_ids": [
+        "icd10",
+        "icd11"
+      ]
+    },
+    {
+      "conflict_id": "conflict-hu-metadata",
+      "conflict_type": "source_disagreement",
+      "count": 0,
+      "evidence_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_id": "HP:0000001",
+      "language": "hu",
+      "provenance_id": "prov-conflict-hu",
+      "resolution_status": "needs_review",
+      "review_required": true,
+      "reviewer_action": "confirm source evidence before candidate promotion",
+      "severity": "info",
+      "source_ids": [
+        "meddra",
+        "decipher"
+      ]
+    },
+    {
+      "conflict_id": "conflict-it-metadata",
+      "conflict_type": "source_disagreement",
+      "count": 0,
+      "evidence_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_id": "HP:0000001",
+      "language": "it",
+      "provenance_id": "prov-conflict-it",
+      "resolution_status": "needs_review",
+      "review_required": true,
+      "reviewer_action": "confirm source evidence before candidate promotion",
+      "severity": "info",
+      "source_ids": [
+        "loinc",
+        "meddra"
+      ]
+    },
+    {
+      "conflict_id": "conflict-ja-metadata",
+      "conflict_type": "source_disagreement",
+      "count": 0,
+      "evidence_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_id": "HP:0000001",
+      "language": "ja",
+      "provenance_id": "prov-conflict-ja",
+      "resolution_status": "needs_review",
+      "review_required": true,
+      "reviewer_action": "confirm source evidence before candidate promotion",
+      "severity": "info",
+      "source_ids": [
+        "meddra",
+        "mesh"
+      ]
+    },
+    {
+      "conflict_id": "conflict-ko-metadata",
+      "conflict_type": "source_disagreement",
+      "count": 0,
+      "evidence_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_id": "HP:0000001",
+      "language": "ko",
+      "provenance_id": "prov-conflict-ko",
+      "resolution_status": "needs_review",
+      "review_required": true,
+      "reviewer_action": "confirm source evidence before candidate promotion",
+      "severity": "info",
+      "source_ids": [
+        "loinc",
+        "meddra"
+      ]
+    },
+    {
+      "conflict_id": "conflict-nl-metadata",
+      "conflict_type": "source_disagreement",
+      "count": 0,
+      "evidence_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_id": "HP:0000001",
+      "language": "nl",
+      "provenance_id": "prov-conflict-nl",
+      "resolution_status": "needs_review",
+      "review_required": true,
+      "reviewer_action": "confirm source evidence before candidate promotion",
+      "severity": "info",
+      "source_ids": [
+        "loinc",
+        "meddra"
+      ]
+    },
+    {
+      "conflict_id": "conflict-no-metadata",
+      "conflict_type": "source_disagreement",
+      "count": 0,
+      "evidence_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_id": "HP:0000001",
+      "language": "no",
+      "provenance_id": "prov-conflict-no",
+      "resolution_status": "needs_review",
+      "review_required": true,
+      "reviewer_action": "confirm source evidence before candidate promotion",
+      "severity": "info",
+      "source_ids": [
+        "snomed_ct",
+        "decipher"
+      ]
+    },
+    {
+      "conflict_id": "conflict-pl-metadata",
+      "conflict_type": "source_disagreement",
+      "count": 0,
+      "evidence_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_id": "HP:0000001",
+      "language": "pl",
+      "provenance_id": "prov-conflict-pl",
+      "resolution_status": "needs_review",
+      "review_required": true,
+      "reviewer_action": "confirm source evidence before candidate promotion",
+      "severity": "info",
+      "source_ids": [
+        "meddra",
+        "mesh"
+      ]
+    },
+    {
+      "conflict_id": "conflict-pt-metadata",
+      "conflict_type": "source_disagreement",
+      "count": 0,
+      "evidence_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_id": "HP:0000001",
+      "language": "pt",
+      "provenance_id": "prov-conflict-pt",
+      "resolution_status": "needs_review",
+      "review_required": true,
+      "reviewer_action": "confirm source evidence before candidate promotion",
+      "severity": "info",
+      "source_ids": [
+        "icd11",
+        "loinc"
+      ]
+    },
+    {
+      "conflict_id": "conflict-ru-metadata",
+      "conflict_type": "source_disagreement",
+      "count": 0,
+      "evidence_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_id": "HP:0000001",
+      "language": "ru",
+      "provenance_id": "prov-conflict-ru",
+      "resolution_status": "needs_review",
+      "review_required": true,
+      "reviewer_action": "confirm source evidence before candidate promotion",
+      "severity": "info",
+      "source_ids": [
+        "icd10",
+        "icd11"
+      ]
+    },
+    {
+      "conflict_id": "conflict-sk-metadata",
+      "conflict_type": "source_disagreement",
+      "count": 0,
+      "evidence_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_id": "HP:0000001",
+      "language": "sk",
+      "provenance_id": "prov-conflict-sk",
+      "resolution_status": "needs_review",
+      "review_required": true,
+      "reviewer_action": "confirm source evidence before candidate promotion",
+      "severity": "info",
+      "source_ids": [
+        "snomed_ct",
+        "decipher"
+      ]
+    },
+    {
+      "conflict_id": "conflict-sv-metadata",
+      "conflict_type": "source_disagreement",
+      "count": 0,
+      "evidence_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_id": "HP:0000001",
+      "language": "sv",
+      "provenance_id": "prov-conflict-sv",
+      "resolution_status": "needs_review",
+      "review_required": true,
+      "reviewer_action": "confirm source evidence before candidate promotion",
+      "severity": "info",
+      "source_ids": [
+        "meddra",
+        "snomed_ct"
+      ]
+    },
+    {
+      "conflict_id": "conflict-tr-metadata",
+      "conflict_type": "source_disagreement",
+      "count": 0,
+      "evidence_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_id": "HP:0000001",
+      "language": "tr",
+      "provenance_id": "prov-conflict-tr",
+      "resolution_status": "needs_review",
+      "review_required": true,
+      "reviewer_action": "confirm source evidence before candidate promotion",
+      "severity": "info",
+      "source_ids": [
+        "icd11",
+        "loinc"
+      ]
+    },
+    {
+      "conflict_id": "conflict-uz-metadata",
+      "conflict_type": "source_disagreement",
+      "count": 0,
+      "evidence_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_id": "HP:0000001",
+      "language": "uz",
+      "provenance_id": "prov-conflict-uz",
+      "resolution_status": "needs_review",
+      "review_required": true,
+      "reviewer_action": "confirm source evidence before candidate promotion",
+      "severity": "info",
+      "source_ids": [
+        "icd11",
+        "decipher"
+      ]
+    },
+    {
+      "conflict_id": "conflict-zh-metadata",
+      "conflict_type": "source_disagreement",
+      "count": 0,
+      "evidence_ids": [
+        "probe-open-related-0001"
+      ],
+      "hpo_id": "HP:0000001",
+      "language": "zh",
+      "provenance_id": "prov-conflict-zh",
+      "resolution_status": "needs_review",
+      "review_required": true,
+      "reviewer_action": "confirm source evidence before candidate promotion",
+      "severity": "info",
+      "source_ids": [
+        "icd10",
+        "icd11"
+      ]
+    }
+  ]
+}

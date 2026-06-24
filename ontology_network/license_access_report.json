@@ -1,0 +1,185 @@
+{
+  "generated_date": "2026-06-23",
+  "records": [
+    {
+      "access_class": "restricted",
+      "credential_required": true,
+      "license_status": "permission_or_data_use_terms_required",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "api_terms_required_no_full_response_redistribution",
+      "release_safe": false,
+      "source_id": "decipher"
+    },
+    {
+      "access_class": "open",
+      "credential_required": false,
+      "license_status": "terms_review_required",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "terms_review_required_before_payload_redistribution",
+      "release_safe": true,
+      "source_id": "do"
+    },
+    {
+      "access_class": "open",
+      "credential_required": false,
+      "license_status": "terms_review_required",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "terms_review_required_before_payload_redistribution",
+      "release_safe": true,
+      "source_id": "efo"
+    },
+    {
+      "access_class": "open",
+      "credential_required": false,
+      "license_status": "terms_review_required",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "terms_review_required_before_payload_redistribution",
+      "release_safe": true,
+      "source_id": "fma"
+    },
+    {
+      "access_class": "open",
+      "credential_required": false,
+      "license_status": "terms_review_required",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "terms_review_required_before_payload_redistribution",
+      "release_safe": true,
+      "source_id": "icd10"
+    },
+    {
+      "access_class": "API-only",
+      "credential_required": false,
+      "license_status": "terms_review_required",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "api_terms_required_no_full_response_redistribution",
+      "release_safe": false,
+      "source_id": "icd11"
+    },
+    {
+      "access_class": "investigation-only",
+      "credential_required": false,
+      "license_status": "unknown_authority_and_license",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "unknown_until_authority_verified",
+      "release_safe": false,
+      "source_id": "lddb"
+    },
+    {
+      "access_class": "restricted",
+      "credential_required": true,
+      "license_status": "free_account_license_review_required",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "restricted_no_payload_redistribution",
+      "release_safe": false,
+      "source_id": "loinc"
+    },
+    {
+      "access_class": "restricted",
+      "credential_required": true,
+      "license_status": "subscription_license_required",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "restricted_no_payload_redistribution",
+      "release_safe": false,
+      "source_id": "meddra"
+    },
+    {
+      "access_class": "open",
+      "credential_required": false,
+      "license_status": "terms_review_required",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "terms_review_required_before_payload_redistribution",
+      "release_safe": true,
+      "source_id": "mesh"
+    },
+    {
+      "access_class": "open",
+      "credential_required": false,
+      "license_status": "terms_review_required",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "terms_review_required_before_payload_redistribution",
+      "release_safe": true,
+      "source_id": "mp"
+    },
+    {
+      "access_class": "restricted",
+      "credential_required": true,
+      "license_status": "credentialed_api_or_license_required",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "api_terms_required_no_full_response_redistribution",
+      "release_safe": false,
+      "source_id": "omim"
+    },
+    {
+      "access_class": "API-only",
+      "credential_required": false,
+      "license_status": "terms_review_required",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "api_terms_required_no_full_response_redistribution",
+      "release_safe": false,
+      "source_id": "oncotree"
+    },
+    {
+      "access_class": "open",
+      "credential_required": false,
+      "license_status": "terms_review_required",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "terms_review_required_before_payload_redistribution",
+      "release_safe": true,
+      "source_id": "orphanet"
+    },
+    {
+      "access_class": "open",
+      "credential_required": false,
+      "license_status": "terms_review_required",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "terms_review_required_before_payload_redistribution",
+      "release_safe": true,
+      "source_id": "pato"
+    },
+    {
+      "access_class": "restricted",
+      "credential_required": true,
+      "license_status": "affiliate_or_jurisdiction_license_required",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "restricted_no_payload_redistribution",
+      "release_safe": false,
+      "source_id": "snomed_ct"
+    },
+    {
+      "access_class": "restricted",
+      "credential_required": true,
+      "license_status": "license_required",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "restricted_no_payload_redistribution",
+      "release_safe": false,
+      "source_id": "umls"
+    },
+    {
+      "access_class": "open",
+      "credential_required": false,
+      "license_status": "terms_review_required",
+      "payload_commit_allowed": false,
+      "pr_safe": true,
+      "redistribution_status": "terms_review_required_before_payload_redistribution",
+      "release_safe": true,
+      "source_id": "upheno"
+    }
+  ]
+}
