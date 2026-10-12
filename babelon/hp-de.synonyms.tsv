@@ -61,7 +61,9 @@ HP:0001156	Kurze Finger oder Zehen	http://purl.obolibrary.org/obo/hp#layperson
 HP:0001177	Zusätzlicher Daumen	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0001196	Kurze Nabelschnur	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0001260	Unfähigkeit Sprechbewegungen auszuführen|Schwierigkeiten, Sprache zu bilden|Schwierigkeiten zu sprechen	http://purl.obolibrary.org/obo/hp#layperson	
+HP:0001276	erhöhter Muskeltonus		orcid:0000-0002-0736-9199
 HP:0001350	Lallende Sprache|Undeutliche Sprechen|Verwaschene Sprache	http://purl.obolibrary.org/obo/hp#layperson	
+HP:0001373	Verrenkung des Gelenks		orcid:0000-0002-0736-9199
 HP:0001407	Zysten in der Leber|Leberzysten	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0001528	Übermäßiges Wachstum einer Seite	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0001533	Schlanke Statur|Hagerer Körperbau	http://purl.obolibrary.org/obo/hp#layperson	
@@ -158,6 +160,7 @@ HP:0004930	Anomalie der Lungenblutgefäße|Anomalie der Gefäße in der Lunge	ht
 HP:0005008	Ausrenken großer Gelenke	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0005072	Erhöhte Beweglichkeit des Handgelenks|Überbeweglichkeit des Handgelenks|Überflexibles Handgelenk|Überdehnbares Handgelenk	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0005191	Angeborene Kniefehlstellung|Ausgerenktes Knie seit der Geburt	http://purl.obolibrary.org/obo/hp#layperson	
+HP:0005214	Darmverschluss		orcid:0000-0002-0736-9199
 HP:0005215	Häufige Giardiasis		orcid:0000-0002-0736-9199
 HP:0005245	Unterentwickelter Darmtrakt|Unterentwickelter Darm	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0005263	Magenschleimhautentzündung	http://purl.obolibrary.org/obo/hp#layperson	
@@ -198,6 +201,7 @@ HP:0007906	Erhöhter Augendruck|Erhöhter Augeninnendruck	http://purl.obolibrary
 HP:0007925	Fehlender Tränenkanal	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0007979	Blickrichtungsnystagmus		orcid:0000-0002-6601-4486
 HP:0008038	Fehlende/unterentwickelte Tränendrüsen	http://purl.obolibrary.org/obo/hp#layperson	
+HP:0008112	Spitzfußkontraktur		orcid:0000-0002-0736-9199
 HP:0008232	erhöhter FSH-Spiegel		orcid:0000-0002-0736-9199
 HP:0008364	Fehlbildung des Fersenbeins	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0008373	Störungen der Geschlechtsreife sowie Störungen an Hoden oder Eierstock|Störungen der Geschlechtsreife und der Keimdrüsen	http://purl.obolibrary.org/obo/hp#layperson	
