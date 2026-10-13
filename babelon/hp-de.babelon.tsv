@@ -170,7 +170,7 @@ en	Abnormal thrombosis	HP:0001977	rdfs:label	de	Abnorme Thrombose	CANDIDATE	Deep
 en	Abnormal thumb morphology	HP:0001172	rdfs:label	de	Abnormale Daumenmorphologie	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
 en	Abnormal upper lip morphology	HP:0000177	rdfs:label	de	Abnormale Morphologie der Oberlippe	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Abnormal upper to lower segment ratio	HP:0012772	rdfs:label	de	Abnormales Verhältnis zwischen oberem und unterem Segment	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Abnormal vertebral morphology	HP:0003468	rdfs:label	de	Abnorme Morphologie der Wirbelmorphologie	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2026-10-12	
+en	Abnormal vertebral morphology	HP:0003468	rdfs:label	de	Anomalie der Wirbelmorphologie	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2026-10-12	
 en	Abnormal vestibular function	HP:0001751	rdfs:label	de	Abnormale vestibuläre Funktion	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Abnormal visual fixation	HP:0025404	rdfs:label	de	Abnormale visuelle Fixierung	OFFICIAL	orcid:0000-0002-6601-4486	DOMAIN_EXPERT	2024-12-10	
 en	Abnormality of alkaline phosphatase level	HP:0004379	rdfs:label	de	Anomalie des alkalischen Phosphatasespiegels	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -1052,8 +1052,8 @@ en	Diplopia	HP:0000651	rdfs:label	de	Diplopie	CANDIDATE	DeepL	ALGORITHM	2024-05-
 en	Discoid lupus rash	HP:0007417	rdfs:label	de	Diskoider Lupus-Ausschlag	OFFICIAL	orcid:0000-0002-9746-4412	DOMAIN_EXPERT	2024-12-10	
 en	Discordant atrioventricular connection	HP:0011553	rdfs:label	de	Diskordante atrioventrikuläre Verbindung	OFFICIAL	orcid:0000-0002-9746-4412	DOMAIN_EXPERT	2024-12-10	
 en	Dislocated radial head	HP:0003083	rdfs:label	de	Ausgerenkter Radiuskopf	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Disproportionate short-limb short stature	HP:0008873	rdfs:label	de	kurzgliedriger Kleinwuchs	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2026-10-12	
-en	Disproportionate short-trunk short stature	HP:0003521	rdfs:label	de	Disproportionaler Kurzrüssel-Kurzstatur	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Disproportionate short-limb short stature	HP:0008873	rdfs:label	de	Kurzgliedriger Kleinwuchs	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2026-10-12	
+en	Disproportionate short-trunk short stature	HP:0003521	rdfs:label	de	Kurzrumpfiger Kleinwuchs	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Disproportionate tall stature	HP:0001519	rdfs:label	de	Unverhältnismäßig große Statur	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Disseminated nontuberculous mycobacterial infection	HP:0032283	rdfs:label	de	Disseminierte nichttuberkulöse mykobakterielle Infektion	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
 en	Distal amyotrophy	HP:0003693	rdfs:label	de	Distale Amyotrophie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -1928,7 +1928,7 @@ en	Intervertebral disk calcification	HP:0005645	rdfs:label	de	Bandscheibenverkal
 en	Intervertebral disk degeneration	HP:0008419	rdfs:label	de	Degeneration der Bandscheiben	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Intestinal lymphangiectasia	HP:0002593	rdfs:label	de	Intestinale Lymphangiektasie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Intestinal malrotation	HP:0002566	rdfs:label	de	Darm-Malrotation	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Intestinal obstruction	HP:0005214	rdfs:label	de	intestinale Obstruktion	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2026-10-12	
+en	Intestinal obstruction	HP:0005214	rdfs:label	de	Intestinale Obstruktion	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2026-10-12	
 en	Intraalveolar phospholipid accumulation	HP:0006517	rdfs:label	de	Intraalveoläre Phospholipid-Akkumulation	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Intracerebral periventricular calcifications	HP:0007229	rdfs:label	de	Intrazerebrale periventrikuläre Verkalkungen	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Intracranial cystic lesion	HP:0010576	rdfs:label	de	Intrakranielle zystische Läsion	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
