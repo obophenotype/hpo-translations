@@ -191,6 +191,7 @@ en	Abnormality of refraction	HP:0000539	rdfs:label	de	Anomalie der Refraktion	CA
 en	Abnormality of skull size	HP:0000240	rdfs:label	de	Abnormität der Schädelgröße	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Abnormality of somatosensory evoked potentials	HP:0007377	rdfs:label	de	Abnormität der somatosensorisch evozierten Potenziale	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Abnormality of speech or vocalization	HP:0002167	rdfs:label	de	Sprach- oder Vokalanomalie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Abnormality of the calf	HP:0002981	rdfs:label	de	Unterschenkelanomalie	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2026-10-12	
 en	Abnormality of the cardiovascular system	HP:0001626	rdfs:label	de	Anomalie des kardiovaskulären Systems	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
 en	Abnormality of the cervical spine	HP:0003319	rdfs:label	de	Abnormität der Halswirbelsäule	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Abnormality of the coagulation cascade	HP:0003256	rdfs:label	de	Abnormalität der Gerinnungskaskade	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -3487,4 +3488,3 @@ en	Y-shaped metacarpals	HP:0006042	rdfs:label	de	Y-förmige Mittelhandknochen	CA
 en	Y-shaped metatarsals	HP:0010567	rdfs:label	de	Y-förmige Mittelfußknochen	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Yellow-brown discoloration of the teeth	HP:0006286	rdfs:label	de	Gelbbraune Verfärbung der Zähne	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
 en	Z-band streaming	HP:0020203	rdfs:label	de	Z-Band-Streaming	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
-en	Abnormality of the calf	HP:0002981	rdfs:label	de	Unterschenkelanomalie	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2026-10-12	
