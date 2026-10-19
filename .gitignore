@@ -4,3 +4,4 @@ all_translations.zip
 crowdin_data/
 /site
 tmp/
+/issues
