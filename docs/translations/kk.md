@@ -11,3 +11,7 @@ The Kazakh and Russian translations are managed jointly by the HPO Kazakh/Russia
 - [Anara Sultangaziyeva](https://orcid.org/0009-0009-9038-5234), Astana International University
 
 Please [contact](../contact.md) us if there is any interest to join the effort. See also the [Russian](ru.md) translation.
+
+## Sources of Truth
+
+The Kazakh translation has not been published in this repository yet.
