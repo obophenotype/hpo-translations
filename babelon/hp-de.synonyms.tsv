@@ -1,5 +1,5 @@
 subject_id	translation_value	synonym_type	contributor
-ID	AL oboInOwl:hasExactSynonym@de SPLIT=|	>AI oboInOwl:hasSynonymType	AI dc:contributor
+ID	AL oboInOwl:hasExactSynonym@de SPLIT=|	>AI oboInOwl:hasSynonymType SPLIT=|	AI dc:contributor
 HP:0000002	Auffälligkeit bezüglich der Körpergröße	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0000008	Auffälligkeit von Form oder Struktur der inneren weiblichen Geschlechtsorgane	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0000009	Blasenfunktionsstörung	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -62,6 +62,7 @@ HP:0000224	Vermindertes Geschmacksempfinden|Verminderter Geschmack|Geschmacksver
 HP:0000234	Auffälligkeit des Kopfes	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0000236	Abweichende Form der vordere Fontanelle|Anomalie der vorderen Weichteilstelle des Babyköpfchens|Form/Struktur der vorderen weichen Stelle des Babyköpfchens anders	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0000236	Auffälligkeit der vorderen Weichteilstelle des Babyköpfchens	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0000238	Wasserkopf	http://purl.obolibrary.org/obo/hp#obsolete_synonym|http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0000238	Zu viel Gehirnwasser im Gehirn|Zu viel Hirnwasser im Gehirn	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0000239	Überdurchschnittlich große Fontanelle|Überdurchschnittlich große Weichteilstelle des Babyköpfchens|Überdurchschnittlich große weiche Stelle am Babyköpfchen	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0000240	Auffälligkeit der Schädelgröße	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -329,6 +330,7 @@ HP:0001507	Auffälligkeit bezüglich des Wachstums	http://purl.obolibrary.org/ob
 HP:0001508	Kindliche Entwicklungsstörung mit unzureichender Gewichts- und/oder Längenentwicklung im Vergleich zu anderen Kindern	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0001510	Verzögertes Wachstum	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0001511	Wachstumsverzögerung im Mutterleib	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0001513	Fettsucht	http://purl.obolibrary.org/obo/hp#obsolete_synonym|http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0001513	Massives Übergewicht|Dickleibig	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0001525	Schwere kindliche Entwicklungsstörung mit unzureichender Gewichts- und/oder Längenentwicklung	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0001528	Übermäßiges Wachstum einer Seite	http://purl.obolibrary.org/obo/hp#layperson	
@@ -1637,6 +1639,7 @@ HP:0200148	Abweichende Leberwerte während der Schwangerschaft|Nach Geburt wiede
 HP:0400004	Auffällig langes Ohr	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0410018	Wiederkehrende Infektionen der Ohren	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0410022	Fischartiger Geruch aus der Scheide|Fischiger Scheidengeruch	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0410030	Hasenscharte	http://purl.obolibrary.org/obo/hp#obsolete_synonym|http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0410042	Auffälligkeit von Form oder Struktur der Leber	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0410169	Muskelbeschwerden in der Schulter|Muskelprobleme in der Schulter	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0410213	Niedriger Sauerstoffgehalt im Nabelschnurblut	http://purl.obolibrary.org/obo/hp#layperson	
