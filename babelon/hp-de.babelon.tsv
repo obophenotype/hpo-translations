@@ -464,7 +464,7 @@ en	Atrophy/Degeneration affecting the brainstem	HP:0007366	rdfs:label	de	Atrophi
 en	Atrophy/Degeneration affecting the cerebrum	HP:0007369	rdfs:label	de	Atrophie/Degeneration im Bereich des Großhirns	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Attached earlobe	HP:0009907	rdfs:label	de	Angewachsenes Ohrläppchen	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2026-10-12	
 en	Attention deficit hyperactivity disorder	HP:0007018	rdfs:label	de	Aufmerksamkeitsdefizit-Hyperaktivitätsstörung	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Attenuation of retinal blood vessels	HP:0007843	rdfs:label	de	Abschwächung der Blutgefäße in der Netzhaut	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Attenuation of retinal blood vessels	HP:0007843	rdfs:label	de	Verengung der Blutgefäße der Netzhaut	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-10-26	
 en	Atypical absence seizure	HP:0007270	rdfs:label	de	Atypischer Absence-Anfall	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Atypical behavior	HP:0000708	rdfs:label	de	Atypisches Verhalten	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Atypical sorting	HP:5200049	rdfs:label	de	Atypische Sortierung	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -2139,7 +2139,7 @@ en	Malar rash	HP:0025300	rdfs:label	de	Schmetterlingserythem	OFFICIAL	orcid:0000
 en	Male infertility	HP:0003251	rdfs:label	de	Männliche Unfruchtbarkeit	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
 en	Male urethral meatus stenosis	HP:0032077	rdfs:label	de	Verengung des männlichen Harnröhrenganges (Meatus urethralis)	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Malignant hyperthermia	HP:0002047	rdfs:label	de	Bösartige Hyperthermie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Malnutrition	HP:0004395	rdfs:label	de	Unterernährung	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Malnutrition	HP:0004395	rdfs:label	de	Malnutrition	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-10-26	
 en	Mandibular condyle hypoplasia	HP:0007628	rdfs:label	de	Hypoplasie des Unterkieferkondylus	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Mandibular prognathia	HP:0000303	rdfs:label	de	Unterkiefer-Prognathie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Marked delay in bone age	HP:0003799	rdfs:label	de	Deutliche Verzögerung des Knochenalters	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -3264,7 +3264,7 @@ en	Thick nasal septum	HP:0009746	rdfs:label	de	Verdickte Nasenscheidewand	CANDID
 en	Thick oral frenulum	HP:0034414	rdfs:label	de	Dickes Frenulum oris	OFFICIAL	orcid:0000-0002-9746-4412	DOMAIN_EXPERT	2024-12-10	
 en	Thick upper lip vermilion	HP:0000215	rdfs:label	de	Dickes Oberlippenzinnoberrot	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Thick vermilion border	HP:0012471	rdfs:label	de	Dicker Zinnoberrot-Rand	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Thickened calvaria	HP:0002684	rdfs:label	de	Verdickte Kalvarienberge	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Thickened calvaria	HP:0002684	rdfs:label	de	Verdickte Schädelkalotte	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-10-26	
 en	Thickened cortex of long bones	HP:0000935	rdfs:label	de	Verdickte Rinde der Röhrenknochen	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Thickened ears	HP:0009894	rdfs:label	de	Verdickte Ohren	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Thickened glomerular basement membrane	HP:0004722	rdfs:label	de	Verdickte glomeruläre Basalmembran	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
@@ -3277,7 +3277,7 @@ en	Thin bony cortex	HP:0002753	rdfs:label	de	Dünner knöcherner Kortex	CANDIDAT
 en	Thin corpus callosum	HP:0033725	rdfs:label	de	Dünnes Corpus Callosum	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Thin ear helix	HP:0009905	rdfs:label	de	Dünne Ohrhelix	OFFICIAL	orcid:0000-0002-9746-4412	DOMAIN_EXPERT	2024-12-10	
 en	Thin eyebrow	HP:0045074	rdfs:label	de	Dünne Augenbraue	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Thin lower lip vermilion	HP:0010282	rdfs:label	de	Dünnes Unterlippenzinnoberleder	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Thin lower lip vermilion	HP:0010282	rdfs:label	de	Schmales Lippenrot der Unterlippe	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-10-26	
 en	Thin nail	HP:0001816	rdfs:label	de	Dünner Nagel	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Thin ribs	HP:0000883	rdfs:label	de	Dünne Rippen	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Thin skin	HP:0000963	rdfs:label	de	Dünne Haut	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -3412,7 +3412,7 @@ en	Vegetative state	HP:0031358	rdfs:label	de	Vegetativer Zustand	CANDIDATE	DeepL
 en	Velopharyngeal insufficiency	HP:0000220	rdfs:label	de	Velopharyngeale Insuffizienz	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Venous insufficiency	HP:0005293	rdfs:label	de	Venöse Insuffizienz	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
 en	Ventilator dependence with inability to wean	HP:0005946	rdfs:label	de	Abhängigkeit von der Beatmungsmaschine mit Unfähigkeit zur Entwöhnung	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Ventouse delivery	HP:0011412	rdfs:label	de	Hausgeburt	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Ventouse delivery	HP:0011412	rdfs:label	de	Vakuum-Extraktion	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-10-26	
 en	Ventral hernia	HP:0002933	rdfs:label	de	Ventralhernie	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
 en	Ventricular arrhythmia	HP:0004308	rdfs:label	de	Ventrikuläre Arrhythmie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Ventricular bigeminy	HP:0034306	rdfs:label	de	Ventrikuläre Bigeminie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
