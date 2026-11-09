@@ -3264,11 +3264,11 @@ en	Thick cerebral cortex	HP:0006891	rdfs:label	de	Verdickte Großhirnrinde	CANDI
 en	Thick corpus callosum	HP:0007074	rdfs:label	de	Verdickung des Corpus Callosum	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Thick eyebrow	HP:0000574	rdfs:label	de	Dicke Augenbraue	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Thick hair	HP:0100874	rdfs:label	de	Dickes Haar	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Thick lower lip vermilion	HP:0000179	rdfs:label	de	Dickes Unterlippenzinnoberleder	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Thick lower lip vermilion	HP:0000179	rdfs:label	de	Schmales Lippenrot der Oberlippe	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-09	
 en	Thick nasal alae	HP:0009928	rdfs:label	de	Verdickte Nasenflügel	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Thick nasal septum	HP:0009746	rdfs:label	de	Verdickte Nasenscheidewand	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Thick oral frenulum	HP:0034414	rdfs:label	de	Dickes Frenulum oris	OFFICIAL	orcid:0000-0002-9746-4412	DOMAIN_EXPERT	2024-12-10	
-en	Thick upper lip vermilion	HP:0000215	rdfs:label	de	Dickes Oberlippenzinnoberrot	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Thick upper lip vermilion	HP:0000215	rdfs:label	de	Volles Lippenrot der Oberlippe	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-09	
 en	Thick vermilion border	HP:0012471	rdfs:label	de	Dicker Zinnoberrot-Rand	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Thickened calvaria	HP:0002684	rdfs:label	de	Verdickte Schädelkalotte	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-09	
 en	Thickened cortex of long bones	HP:0000935	rdfs:label	de	Verdickte Rinde der Röhrenknochen	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -3287,7 +3287,7 @@ en	Thin lower lip vermilion	HP:0010282	rdfs:label	de	Schmales Lippenrot der Unte
 en	Thin nail	HP:0001816	rdfs:label	de	Dünner Nagel	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Thin ribs	HP:0000883	rdfs:label	de	Dünne Rippen	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Thin skin	HP:0000963	rdfs:label	de	Dünne Haut	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Thin upper lip vermilion	HP:0000219	rdfs:label	de	Dünnes Oberlippenzinnoberleder	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Thin upper lip vermilion	HP:0000219	rdfs:label	de	Schmales Lippenrot der Oberlippe	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-09	
 en	Thin vermilion border	HP:0000233	rdfs:label	de	Dünner Zinnoberrand	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Third degree atrioventricular block	HP:0001709	rdfs:label	de	Atrioventrikulärer Block dritten Grades	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Thoracic aortic aneurysm	HP:0012727	rdfs:label	de	Thorakales Aortenaneurysma	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
