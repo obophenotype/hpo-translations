@@ -444,7 +444,7 @@ HP:0002063	Muskelsteifigkeit|Muskelstarre	http://purl.obolibrary.org/obo/hp#layp
 HP:0002064	Spastisches Gehen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0002075	Schwierigkeiten bei der Ausführung schneller und wechselnder Bewegungen|Unfähigkeit, schnelle, wechselnde Bewegungen durchzuführen|Koordinationsstörung bei schnell aufeinanderfolgenden, gegensätzlichen Bewegungen|Störung der Feinmotorik bei schnell wechselnden Bewegungen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0002078	Rumpfmuskulatur instabil|Rumpfmuskulatur schwach|Mangelnde Koordination der Rumpfmuskulatur	http://purl.obolibrary.org/obo/hp#layperson	
-HP:0002079	Unterentwicklung des so genannten Balkens im Gehirn|Unterentwicklung des sogenannten Corpus Callosum im Gehirn	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0002079	Unterentwicklung des so genannten Balkens im Gehirn|Unterentwicklung des sogenannten Corpus callosum im Gehirn	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0002085	Vorwölbung eines Teils des Gehirns durch eine Öffnung im Schädel in Form einer Schwellung oder Beule am Hinterkopf	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0002086	Auffälligkeit der Atemwege	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0002087	Auffälligkeit der oberen Atemwege	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -689,7 +689,7 @@ HP:0004283	Auffällig schmale Handfläche	http://purl.obolibrary.org/obo/hp#layp
 HP:0004296	Auffälligkeit von Form oder Struktur der Blutgefäße des Magen-Darmtrakts	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0004297	Auffälligkeit des Gallenwegssystems|Auffälligkeit des Gallensystems|Auffälligkeit des Gallentrakts	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0004298	Auffälligkeit der Bauchdecke	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
-HP:0004299	Bauchdeckenbruch|Bauchdeckenhernie|Bauchwandbruch|„Lücke“ in der Bauchwand	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0004299	Bauchdeckenbruch|Bauchdeckenhernie|Bauchwandbruch|Lücke in der Bauchwand	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0004302	Einschränkungen der Bewegungsfähigkeit|Einschränkung der Muskelfunktion	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0004305	Unkontrollierte Bewegungen|Muskelzuckungen|Muskelkrämpfe|Unwillkührliche Muskelanspannung|Unwillkürliche Bewegung	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0004313	Zu wenig Antiköfper im Blut|Antikörper im Blut verringert|Immunglobuline im Blut erniedrigt	http://purl.obolibrary.org/obo/hp#layperson	
