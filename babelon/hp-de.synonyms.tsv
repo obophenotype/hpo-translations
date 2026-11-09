@@ -1,5 +1,5 @@
 subject_id	translation_value	synonym_type	contributor
-ID	AL oboInOwl:hasExactSynonym@de SPLIT=|	>AI oboInOwl:hasSynonymType	AI dc:contributor
+ID	AL oboInOwl:hasExactSynonym@de SPLIT=|	>AI oboInOwl:hasSynonymType SPLIT=|	AI dc:contributor
 HP:0000020	Harninkontinenz|Verlust der Kontrolle über die Blase	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0000027	Keine Spermien in der Samenflüssigkeit|Sperma enthält keine Spermien	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0000103	Erhöhte Urinausscheidung	http://purl.obolibrary.org/obo/hp#layperson	
@@ -9,6 +9,7 @@ HP:0000180	Gelappte Zunge|Beulen oder Einkerbungen an der Zunge	http://purl.obol
 HP:0000212	Zahnfleischwucherung|Übermäßiges Zahnfleischwachstum	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0000221	Faltenzunge|Furchenzunge|Gefurchte Zunge	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0000236	Abweichende Form der vordere Fontanelle|Anomalie der vorderen Weichteilstelle des Babyköpfchens|Form/Struktur der vorderen weichen Stelle des Babyköpfchens anders	http://purl.obolibrary.org/obo/hp#layperson	
+HP:0000238	Wasserkopf	http://purl.obolibrary.org/obo/hp#obsolete_synonym|http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0000239	Überdurchschnittlich große Fontanelle|Überdurchschnittlich große Weichteilstelle des Babyköpfchens|Überdurchschnittlich große weiche Stelle am Babyköpfchen	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0000246	Entzündung der Nasennebenhöhlen|Nasennebenhöhlenentzündung	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0000260	Überdurchschnittlich große vordere Fontanelle|Überdurchschnittlich große vordere Weichteilstelle des Babyköpfchens|Überdurchschnittlich große vordere weiche Stelle am Babyköpfchen	http://purl.obolibrary.org/obo/hp#layperson	
@@ -65,6 +66,7 @@ HP:0001276	erhöhter Muskeltonus		orcid:0000-0002-0736-9199
 HP:0001350	Lallende Sprache|Undeutliche Sprechen|Verwaschene Sprache	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0001373	Verrenkung des Gelenks		orcid:0000-0002-0736-9199
 HP:0001407	Zysten in der Leber|Leberzysten	http://purl.obolibrary.org/obo/hp#layperson	
+HP:0001513	Fettsucht	http://purl.obolibrary.org/obo/hp#obsolete_synonym|http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0001528	Übermäßiges Wachstum einer Seite	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0001533	Schlanke Statur|Hagerer Körperbau	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0001555	Rechte und linke Seite des Brustkorbs unterschiedlich|Brustkorb asymmetrisch	http://purl.obolibrary.org/obo/hp#layperson	
@@ -405,6 +407,7 @@ HP:0200119	Akute Leberentzündung	http://purl.obolibrary.org/obo/hp#layperson
 HP:0200122	Untypische oder ungewöhnlich lange anhaltende Leberentzündung	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0200148	Abweichende Leberwerte während der Schwangerschaft|Nach Geburt wieder normal	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0410030	Lippenspalte, Hasenscharte	http://purl.obolibrary.org/obo/hp#layperson	
+HP:0410030	Hasenscharte	http://purl.obolibrary.org/obo/hp#obsolete_synonym|http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0410169	Muskelbeschwerden in der Schulter|Muskelprobleme in der Schulter	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0410213	Niedriger Sauerstoffgehalt im Nabelschnurblut	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0410321	Tierhaarallergie|Allergie auf Tierhaare	http://purl.obolibrary.org/obo/hp#layperson	
