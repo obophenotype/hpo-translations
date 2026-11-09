@@ -14,8 +14,10 @@ en	3-Methylglutaric aciduria	HP:0003344	rdfs:label	de	3-Methylglutarsäureurie	O
 en	4-5 toe syndactyly	HP:0004692	rdfs:label	de	Syndaktylie zwischen 4. und 5. Zehe	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
 en	Abdominal aortic aneurysm	HP:0005112	rdfs:label	de	Abdominales Aortenaneurysma	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Abdominal distention	HP:0003270	rdfs:label	de	Abdominales Aufblähen	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Abdominal guarding	HP:0032546	rdfs:label	de	Willkürliche Abwehrspannung	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-09	
 en	Abdominal obesity	HP:0012743	rdfs:label	de	Abdominales Übergewicht	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Abdominal pain	HP:0002027	rdfs:label	de	Unterleibsschmerzen	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Abdominal rigidity	HP:0032545	rdfs:label	de	Unwillkürliche Abwehrspannung	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-09	
 en	Abdominal situs ambiguus	HP:0031565	rdfs:label	de	Abdominaler Situs ambiguus	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
 en	Abdominal situs inversus	HP:0003363	rdfs:label	de	Abdominaler Situs inversus	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Abducens palsy	HP:0006897	rdfs:label	de	Abducens-Lähmung	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -272,6 +274,7 @@ en	Acroosteolysis of distal phalanges (feet)	HP:0001870	rdfs:label	de	Akroosteol
 en	Acroparesthesia	HP:0031006	rdfs:label	de	Akroparästhesie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Action myoclonus	HP:0034360	rdfs:label	de	Aktionsmyoklonus	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Action tremor	HP:0002345	rdfs:label	de	Aktionstremor	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Acute abdomen	HP:0033400	rdfs:label	de	Akutes Abdomen	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-09	
 en	Acute aspiration pneumonia	HP:0011952	rdfs:label	de	Akute Aspirationspneumonie	OFFICIAL	orcid:0000-0002-9746-4412	DOMAIN_EXPERT	2024-12-10	
 en	Acute encephalopathy	HP:0006846	rdfs:label	de	Akute Enzephalopathie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Acute hepatic failure	HP:0006554	rdfs:label	de	Akutes hepatisches Versagen	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -464,7 +467,7 @@ en	Atrophy/Degeneration affecting the brainstem	HP:0007366	rdfs:label	de	Atrophi
 en	Atrophy/Degeneration affecting the cerebrum	HP:0007369	rdfs:label	de	Atrophie/Degeneration im Bereich des Großhirns	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Attached earlobe	HP:0009907	rdfs:label	de	Angewachsenes Ohrläppchen	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2026-10-12	
 en	Attention deficit hyperactivity disorder	HP:0007018	rdfs:label	de	Aufmerksamkeitsdefizit-Hyperaktivitätsstörung	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Attenuation of retinal blood vessels	HP:0007843	rdfs:label	de	Verengung der Blutgefäße der Netzhaut	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-10-26	
+en	Attenuation of retinal blood vessels	HP:0007843	rdfs:label	de	Verengung der Blutgefäße der Netzhaut	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-09	
 en	Atypical absence seizure	HP:0007270	rdfs:label	de	Atypischer Absence-Anfall	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Atypical behavior	HP:0000708	rdfs:label	de	Atypisches Verhalten	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Atypical sorting	HP:5200049	rdfs:label	de	Atypische Sortierung	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -1054,7 +1057,7 @@ en	Discoid lupus rash	HP:0007417	rdfs:label	de	Diskoider Lupus-Ausschlag	OFFICIA
 en	Discordant atrioventricular connection	HP:0011553	rdfs:label	de	Diskordante atrioventrikuläre Verbindung	OFFICIAL	orcid:0000-0002-9746-4412	DOMAIN_EXPERT	2024-12-10	
 en	Dislocated radial head	HP:0003083	rdfs:label	de	Ausgerenkter Radiuskopf	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Disproportionate short-limb short stature	HP:0008873	rdfs:label	de	Kurzgliedriger Kleinwuchs	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2026-10-12	
-en	Disproportionate short-trunk short stature	HP:0003521	rdfs:label	de	Kurzrumpfiger Kleinwuchs	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Disproportionate short-trunk short stature	HP:0003521	rdfs:label	de	Dysproportionierter Rumpfkleinwuchs	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-09	
 en	Disproportionate tall stature	HP:0001519	rdfs:label	de	Unverhältnismäßig große Statur	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Disseminated nontuberculous mycobacterial infection	HP:0032283	rdfs:label	de	Disseminierte nichttuberkulöse mykobakterielle Infektion	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
 en	Distal amyotrophy	HP:0003693	rdfs:label	de	Distale Amyotrophie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -1340,6 +1343,7 @@ en	Fetal cystic hygroma	HP:0010878	rdfs:label	de	Fetales zystisches Hygrom	CANDI
 en	Fetal distress	HP:0025116	rdfs:label	de	Fetale Notlage	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Fetal pericardial effusion	HP:0025671	rdfs:label	de	Fetaler Perikarderguss	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Fetal pyelectasis	HP:0010945	rdfs:label	de	Fetale Pyelektase	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Fetor hepaticus	HP:0032142	rdfs:label	de	Foetor hepaticus	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-09	
 en	Fever	HP:0001945	rdfs:label	de	Fieber	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Few cafe-au-lait spots	HP:0007429	rdfs:label	de	Wenige Cafe-au-lait-Flecken	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Fiber type grouping	HP:0033685	rdfs:label	de	Fasertyp-Gruppierung	OFFICIAL	orcid:0000-0002-9746-4412	DOMAIN_EXPERT	2024-12-10	
@@ -2082,7 +2086,7 @@ en	Loss of ambulation	HP:0002505	rdfs:label	de	Verlust der Gehfähigkeit	CANDIDA
 en	Loss of speech	HP:0002371	rdfs:label	de	Verlust der Sprachfähigkeit	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Loss of subcutaneous adipose tissue in limbs	HP:0003635	rdfs:label	de	Verlust von subkutanem Fettgewebe in den Gliedmaßen	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Low anterior hairline	HP:0000294	rdfs:label	de	Niedriger vorderer Haaransatz	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Low back pain	HP:0003419	rdfs:label	de	Niedrige Rückenschmerzen	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Low back pain	HP:0003419	rdfs:label	de	Schmerzen im unteren Rücken	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-09	
 en	Low cholesterol esterification rate	HP:0003349	rdfs:label	de	Niedrige Cholesterin-Veresterungsrate	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
 en	Low frustration tolerance	HP:0000744	rdfs:label	de	Geringe Frustrationstoleranz	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Low hanging columella	HP:0009765	rdfs:label	de	Tief hängende Kolumella	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -2139,7 +2143,7 @@ en	Malar rash	HP:0025300	rdfs:label	de	Schmetterlingserythem	OFFICIAL	orcid:0000
 en	Male infertility	HP:0003251	rdfs:label	de	Männliche Unfruchtbarkeit	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
 en	Male urethral meatus stenosis	HP:0032077	rdfs:label	de	Verengung des männlichen Harnröhrenganges (Meatus urethralis)	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Malignant hyperthermia	HP:0002047	rdfs:label	de	Bösartige Hyperthermie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Malnutrition	HP:0004395	rdfs:label	de	Malnutrition	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-10-26	
+en	Malnutrition	HP:0004395	rdfs:label	de	Malnutrition	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-09	
 en	Mandibular condyle hypoplasia	HP:0007628	rdfs:label	de	Hypoplasie des Unterkieferkondylus	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Mandibular prognathia	HP:0000303	rdfs:label	de	Unterkiefer-Prognathie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Marked delay in bone age	HP:0003799	rdfs:label	de	Deutliche Verzögerung des Knochenalters	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -2378,6 +2382,7 @@ en	Obsessive-compulsive trait	HP:0008770	rdfs:label	de	Zwanghaftes Verhalten (Ob
 en	Obstipation	HP:0034782	rdfs:label	de	Verstopfung	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Obstructive sleep apnea	HP:0002870	rdfs:label	de	Obstruktive Schlafapnoe	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Occipital cortical atrophy	HP:0012105	rdfs:label	de	Atrophie der okzipitalen Kortikalis	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Occipital neuralgia	HP:0012318	rdfs:label	de	Okzipitalneuralgie	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-09	
 en	Ocular hypertension	HP:0007906	rdfs:label	de	Okuläre Hypertension	OFFICIAL	orcid:0000-0002-6601-4486	DOMAIN_EXPERT	2024-12-10	
 en	Oculogyric crisis	HP:0010553	rdfs:label	de	Okulogyrische Krise	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Oculomotor apraxia	HP:0000657	rdfs:label	de	Okulomotorische Apraxie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -2621,6 +2626,7 @@ en	Posterior subcapsular cataract	HP:0007787	rdfs:label	de	Hintere subkapsuläre
 en	Posteriorly placed anus	HP:0012890	rdfs:label	de	Nach hinten liegender Anus	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Posteriorly rotated ears	HP:0000358	rdfs:label	de	Nach hinten gedrehte Ohren	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Posterolateral diaphragmatic hernia	HP:0025193	rdfs:label	de	Posterolaterale Zwerchfellhernie	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
+en	Postexertional symptom exacerbation	HP:0030973	rdfs:label	de	Belastungsinduzierte Symptomverschlechterung	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-09	
 en	Postnatal growth retardation	HP:0008897	rdfs:label	de	Postnatale Wachstumsverzögerung	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Postural instability	HP:0002172	rdfs:label	de	Haltungsinstabilität	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Postural tremor	HP:0002174	rdfs:label	de	Posturaler Tremor	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -3264,7 +3270,7 @@ en	Thick nasal septum	HP:0009746	rdfs:label	de	Verdickte Nasenscheidewand	CANDID
 en	Thick oral frenulum	HP:0034414	rdfs:label	de	Dickes Frenulum oris	OFFICIAL	orcid:0000-0002-9746-4412	DOMAIN_EXPERT	2024-12-10	
 en	Thick upper lip vermilion	HP:0000215	rdfs:label	de	Dickes Oberlippenzinnoberrot	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Thick vermilion border	HP:0012471	rdfs:label	de	Dicker Zinnoberrot-Rand	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Thickened calvaria	HP:0002684	rdfs:label	de	Verdickte Schädelkalotte	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-10-26	
+en	Thickened calvaria	HP:0002684	rdfs:label	de	Verdickte Schädelkalotte	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-09	
 en	Thickened cortex of long bones	HP:0000935	rdfs:label	de	Verdickte Rinde der Röhrenknochen	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Thickened ears	HP:0009894	rdfs:label	de	Verdickte Ohren	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Thickened glomerular basement membrane	HP:0004722	rdfs:label	de	Verdickte glomeruläre Basalmembran	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
@@ -3277,7 +3283,7 @@ en	Thin bony cortex	HP:0002753	rdfs:label	de	Dünner knöcherner Kortex	CANDIDAT
 en	Thin corpus callosum	HP:0033725	rdfs:label	de	Dünnes Corpus Callosum	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Thin ear helix	HP:0009905	rdfs:label	de	Dünne Ohrhelix	OFFICIAL	orcid:0000-0002-9746-4412	DOMAIN_EXPERT	2024-12-10	
 en	Thin eyebrow	HP:0045074	rdfs:label	de	Dünne Augenbraue	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Thin lower lip vermilion	HP:0010282	rdfs:label	de	Schmales Lippenrot der Unterlippe	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-10-26	
+en	Thin lower lip vermilion	HP:0010282	rdfs:label	de	Schmales Lippenrot der Unterlippe	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-09	
 en	Thin nail	HP:0001816	rdfs:label	de	Dünner Nagel	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Thin ribs	HP:0000883	rdfs:label	de	Dünne Rippen	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Thin skin	HP:0000963	rdfs:label	de	Dünne Haut	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -3336,6 +3342,7 @@ en	Tricuspid stenosis	HP:0010446	rdfs:label	de	Trikuspidalstenose	CANDIDATE	Deep
 en	Tricuspid valve prolapse	HP:0001704	rdfs:label	de	Vorfall der Trikuspidalklappe	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Trident acetabulum	HP:0034374	rdfs:label	de	Acetabulum tridentatum	OFFICIAL	orcid:0000-0002-9746-4412	DOMAIN_EXPERT	2024-12-10	
 en	Trident hand	HP:0004060	rdfs:label	de	Dreizack-Hand	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Trigeminal neuralgia	HP:0100661	rdfs:label	de	Trigeminusneuralgie	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-09	
 en	Triggered by physical trauma	HP:0031135	rdfs:label	de	Ausgelöst durch physisches Trauma	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Trigonocephaly	HP:0000243	rdfs:label	de	Trigonozephalie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Triphalangeal thumb	HP:0001199	rdfs:label	de	Dreifacher Daumen	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -3412,7 +3419,7 @@ en	Vegetative state	HP:0031358	rdfs:label	de	Vegetativer Zustand	CANDIDATE	DeepL
 en	Velopharyngeal insufficiency	HP:0000220	rdfs:label	de	Velopharyngeale Insuffizienz	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Venous insufficiency	HP:0005293	rdfs:label	de	Venöse Insuffizienz	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
 en	Ventilator dependence with inability to wean	HP:0005946	rdfs:label	de	Abhängigkeit von der Beatmungsmaschine mit Unfähigkeit zur Entwöhnung	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Ventouse delivery	HP:0011412	rdfs:label	de	Vakuum-Extraktion	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-10-26	
+en	Ventouse delivery	HP:0011412	rdfs:label	de	Vakuumextraktion	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-09	
 en	Ventral hernia	HP:0002933	rdfs:label	de	Ventralhernie	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
 en	Ventricular arrhythmia	HP:0004308	rdfs:label	de	Ventrikuläre Arrhythmie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Ventricular bigeminy	HP:0034306	rdfs:label	de	Ventrikuläre Bigeminie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
