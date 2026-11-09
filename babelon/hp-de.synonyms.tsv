@@ -11,7 +11,7 @@ HP:0000020	Harninkontinenz|Verlust der Kontrolle über die Blase	http://purl.obo
 HP:0000026	Verminderte Hodenfunktion|Eingeschränkte Hodenfunktion	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0000027	Keine Spermien in der Samenflüssigkeit|Sperma enthält keine Spermien	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0000028	Hodenhochstand|Hodenfehlstand|Lage des Hodens außerhalb des Hodensacks	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
-HP:0000032	Auffälligkeit von Form oder Struktur äußeren männlichen Geschlechtsorgane	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0000032	Auffälligkeit von Form oder Struktur der äußeren männlichen Geschlechtsorgane	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0000035	Auffälligkeit von Form oder Struktur der Hoden	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0000036	Auffälligkeit von Form oder Struktur des Penis	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0000040	Vergrößerter Penis|Penis auffallend lang	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -49,13 +49,15 @@ HP:0000164	Aufälligkeit bezüglich des Gebisses	http://purl.obolibrary.org/obo/
 HP:0000174	Auffälligkeit von Form oder Struktur des Gaumens	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0000177	Fehlbildung der Oberlippe|Ungewöhnliche Form der Oberlippe|Oberlippe nicht normal geformt	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0000177	Auffälligkeit bezüglich Form oder Struktur der Oberlippe	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
-HP:0000179	Auffällig stark ausgeprägte Rot-Weiß-Grenze der Unterlippe|Unterlippe erscheint auffällig voll|Ausgeprägter roter Anteil der Unterlippe	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0000179	Unterlippe erscheint auffällig voll|Ausgeprägter roter Anteil der Unterlippe	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0000180	Gelappte Zunge|Beulen oder Einkerbungen an der Zunge	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0000187	Breiter Kieferkamm	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0000188	Dünne Oberlippe|Schmale Oberlippe	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0000202	Orofaziale Spalte	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0000212	Zahnfleischwucherung|Übermäßiges Zahnfleischwachstum	http://purl.obolibrary.org/obo/hp#layperson	
+HP:0000215	Oberlippe erscheint auffällig voll|Ausgeprägter roter Anteil der Oberlippe	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0000218	Spitzgaumen|Steilgaumen|Gotischer Gaumen|Zu hoch angelegter Gaumen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0000219	Oberlippe erscheint schmal|Schmaler roter Anteil der Oberlippe	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0000220	Unvollständiger Verschluss des Übergangs zwischen Nasen- und Rachenraum während des Sprechens und/oder Schluckens	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0000221	Faltenzunge|Furchenzunge|Gefurchte Zunge	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0000224	Vermindertes Geschmacksempfinden|Verminderter Geschmack|Geschmacksverlus	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -370,6 +372,7 @@ HP:0001677	Verkalkung der Herzkranzgefäße|Ablagerungen in den Herzkranzgefäß
 HP:0001679	Auffälligkeit bezüglich Form oder Struktur der Hauptschlagader	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0001680	Verengung der Hauptschlagader|Einengung der Hauptschlagader	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0001682	Verengung eines Blutgefäßes unterhalb der Aortenklappe	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0001699	Plötzlicher, unerwarteter Tod	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0001708	Rechtsherzinsuffizienz		orcid:0000-0002-0736-9199
 HP:0001709	Vollständiger Herzblock|Herzblock dritten Grades|Kompletter Herzblock	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0001713	Auffälligkeit von Form oder Struktur der Herzkammer	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -441,7 +444,7 @@ HP:0002063	Muskelsteifigkeit|Muskelstarre	http://purl.obolibrary.org/obo/hp#layp
 HP:0002064	Spastisches Gehen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0002075	Schwierigkeiten bei der Ausführung schneller und wechselnder Bewegungen|Unfähigkeit, schnelle, wechselnde Bewegungen durchzuführen|Koordinationsstörung bei schnell aufeinanderfolgenden, gegensätzlichen Bewegungen|Störung der Feinmotorik bei schnell wechselnden Bewegungen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0002078	Rumpfmuskulatur instabil|Rumpfmuskulatur schwach|Mangelnde Koordination der Rumpfmuskulatur	http://purl.obolibrary.org/obo/hp#layperson	
-HP:0002079	Unterentwicklung des so genannten „Balkens“ im Gehirn|Unterentwicklung des sogenannten „Corpus Callosums“ im Gehirn	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0002079	Unterentwicklung des so genannten Balkens im Gehirn|Unterentwicklung des sogenannten Corpus Callosum im Gehirn	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0002085	Vorwölbung eines Teils des Gehirns durch eine Öffnung im Schädel in Form einer Schwellung oder Beule am Hinterkopf	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0002086	Auffälligkeit der Atemwege	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0002087	Auffälligkeit der oberen Atemwege	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -505,13 +508,14 @@ HP:0002487	Überaktives Bewegungsmuster	http://purl.obolibrary.org/obo/hp#layper
 HP:0002495	Vibrationen werden nicht gut gespürt|Eingeschränkte Wahrnehmung von Schwingungen|Reduziertes Empfinden für Vibrationen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0002505	Verlust der Fähigkeit zu gehen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0002511	Alzheimer-Krankheit|Alzheimer	http://purl.obolibrary.org/obo/hp#layperson	
-HP:0002514	Kalziumablagerungen im Gehirn|„Verkalkung“ im Gehirn	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0002514	Kalziumablagerungen im Gehirn|Verkalkung im Gehirn	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0002515	Watschelnder Gang	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0002516	Druckanstieg im Schädelinneren|Erhöhter Druck im Schädel	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0002529	Verlust von Nervenzellen im zentralen Nervensystem|Untergang von Nervenzellen in Gehirn und/oder Rückenmark	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0002540	Unvermögen zu gehen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0002546	Unverständliche Sprache|Unverständliches Sprechen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0002557	Kleine Brustwarzen|Unterentwickelte Brustwarzen	http://purl.obolibrary.org/obo/hp#layperson	
+HP:0002574	Wiederkehrende Bauchschmerzen|Episodisch auftretende Bauchschmerzen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0002578	Verzögerte Magenentleerung	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0002594	Unterentwickelte Bauchspeicheldrüse|Klein ausgebildete Bauchspeicheldrüse	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0002597	Auffälligkeit der Blutgefäße	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -522,6 +526,7 @@ HP:0002616	Ausbuchtung in der Wand der Hauptschlagader an der Abgangsstelle aus 
 HP:0002617	Aussackung der Blutgefäß- oder Herzwand|Aufweitung der Blutgefäß- oder Herzwand	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0002621	Arterienverkalkung	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0002650	Seitliche Verkrümmung der Wirbelsäule|Verbiegung der Wirbelsäule zur Seite	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0002653	Schmerzen in/an den Knochen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0002664	Gewebeneubildung|Tumor|Wucherung	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0002669	Knochenzellkrebs|Knochenkrebs	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0002683	Auffälligkeit von Form oder Struktur des Schädeldachs	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -635,6 +640,7 @@ HP:0003307	Auffällig starke Ausprägung der Wirbelsäulenkrümmung	http://purl.
 HP:0003312	Auffällige Wirbelform	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0003319	Fehlbildung der Halswirbelsäule	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0003319	Auffälligkeit der Halswirbelsäule	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0003326	Muskelschmerzen|Muskelkater	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0003354	Erhöhte Threoninwerte im Blut|Hoher Threoninspiegel im Blut|Hohe Threoninwerte im Blut	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0003359	Verringertes Sulfat im Urin|Verminderte Sulfatkonzentration im Urin	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0003366	Auffälligkeiten von Form oder Struktur des Oberschenkelhalses/Hüftkopfes	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -643,6 +649,7 @@ HP:0003368	Auffällige Form oder Struktur vom Kopf des Oberschenkelknochens	http
 HP:0003396	Flüssigkeitsgefüllte Zyste im Rückenmarkskanal|Mit Flüssigkeit gefüllte Hohlräume entlang des Rückenmarkkanals	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0003401	Missempfindungen|Kribbeln|Ameisenlaufen|Pelzigkeit|Prickeln|Jucken|Brennen|Taubheitsgefühl	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0003418	Schmerzen im Rücken	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0003419	Lumbago|Hexenschuss|Kreuzschmerzen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0003468	Auffälligkeit von Form und Gestalt der Wirbel	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0003484	Verminderte Armkraft|Armschwäche	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0003521	Kleinwuchs mit auffällig kurzem Rumpf	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -658,6 +665,7 @@ HP:0003690	Muskelschwäche in Armen und/oder Beinen	http://purl.obolibrary.org/o
 HP:0003691	Flügelförmige Schulterblätter|Flügelform der Schulterblätter	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0003712	Stark ausgeprägte Skelettmuskulatur|Starke Ausprägung der aktiv steuerbaren Muskulatur	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0003733	Auffallend große Oberschenkel|Stark ausgeprägte Oberschenkelmuskeln	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0003738	Belastungsbedingte Muskelschmerzen|Muskelschmerzen beim oder nach dem Sport|Muskelschmerzen bei körperlicher Betätigung|Muskelschmerzen bei oder nach Bewegung|Muskelkater	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0003758	Reduziertes Fettgewebe unter der Haut|Verringerung des Fettgewebes unter der Haut	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0003759	Unterentwickelte Lymphgefäße	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0003763	Zähneknirschen	http://purl.obolibrary.org/obo/hp#layperson	
@@ -742,6 +750,7 @@ HP:0004948	Geschlängelte Adern|Auffällig gewundene Blutgefäße	http://purl.ob
 HP:0004969	Verengung der peripheren Lungenarterie	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0004971	Unterentwickelte Lungenarterien	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0005008	Ausrenken großer Gelenke	http://purl.obolibrary.org/obo/hp#layperson	
+HP:0005059	Gelenkschmerzen/Gelenkentzündung	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0005072	Erhöhte Beweglichkeit des Handgelenks|Überbeweglichkeit des Handgelenks|Überflexibles Handgelenk|Überdehnbares Handgelenk	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0005105	Auffälligkeit der Nasenform oder -struktur	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0005110	Herzrhythmusstörung mit unregelmäßigem, oft zu schnellem Herzschlag	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -764,7 +773,7 @@ HP:0005280	Eindellung des Nasenrückens|Sattelnase	http://purl.obolibrary.org/ob
 HP:0005288	Auffälligkeit der Nasenlöcher	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0005304	Unterentwickelte Lungenvenen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0005323	Eine Gesichtshälfte auffallend größer als die andere|Überentwicklung einer Gesichtshälfte	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
-HP:0005327	Verlust der Mimik|Keine Mimik|Ausdrucksloses Gesicht|„Eingefrorenes“ Gesicht	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0005327	Verlust der Mimik|Keine Mimik|Ausdrucksloses Gesicht|Eingefrorenes Gesicht	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0005328	Vorzeitig gealtertes Aussehen im Gesicht|Gesichtszüge vorzeitig gealtert	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0005336	Dunklere Haut an der Stirn	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0005338	Spärlicher Haarwuchs am Ende der Augenbraue	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -819,7 +828,7 @@ HP:0006323	Vorzeitiges Ausfallen der Milchzähne	http://purl.obolibrary.org/obo/
 HP:0006332	Zusätzlicher oberer Schneidezahn|Überzähliger oberer Schneidezahn	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0006335	Kind behält Milchzähne auffällig lange|Ausfallen der Milchzähne verzögert	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0006339	Spitz zulaufender unterer Schneidezahn|Kegelförmiger unterer Schneidezahn|Unterer Schneidezahn hat Form von „Haifischzahn“	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
-HP:0006347	Besonders kleine Milchzähne|Auffällig kleine Milchzähne|Unterentwickelte Milchzähne	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0006347	Auffällig kleine Milchzähne|Unterentwickelte Milchzähne|Besonders kleine Milchzähne	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0006352	Fehlender Durchbruch des permanenten Gebisses	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0006358	Mittlere obere Schneidezähne schaufelförmig	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0006385	Kurze Beine|Beine kürzer als normal	http://purl.obolibrary.org/obo/hp#layperson	
@@ -837,6 +846,7 @@ HP:0006579	Länger anhaltende Gelbfärbung der Haut bei Neugeborenen|Anhaltende 
 HP:0006583	Lebensbedrohliches Leberveragen im Säuglingsalter	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0006597	Zwerchfelllähmung	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0006610	Weit auseinander liegende Brustwarzen|Abstand zwischen rechter und linker Brustwarze auffallend groß	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0006649	Schmerzen an den Rippenknorpeln	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0006650	Verdickung des seitlichen Schulterblattrands	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0006657	Erste Rippen klein ausgebildet	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0006668	Zwölfte Rippe auffällig klein	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -925,7 +935,7 @@ HP:0008364	Auffälligkeit von Form oder Struktur des Fersenbeins	http://purl.obo
 HP:0008373	Störungen der Geschlechtsreife sowie Störungen an Hoden oder Eierstock|Störungen der Geschlechtsreife und der Keimdrüsen	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0008390	Wiederkehrende Ablösung von Fuß- und Fingernägeln|Wiederkehrender Verlust von Fuß- und Fingernägeln	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0008391	Auffällige Form oder Struktur der Fingernägel|Gestörter Aufbau der Fingernägel	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
-HP:0008392	Verdickte, verfärbte Haut unter dem Nagel|Verdickter	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0008392	Verdickte, verfärbte Haut unter dem Nagel	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0008398	Unterentwickelter Fingernagel des kleinen Fingers|Fingernagel des kleinen Fingers auffallend klein ausgebildet	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0008400	Ablösung des vorderen Nagelrandes vom Nagelbett	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0008401	„Krallennägel“ an den Zehen|Verdickte und gebogene Zehennägel	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -1016,6 +1026,7 @@ HP:0009741	Nierensklerose|Verhärtung und/oder Verdickung der kleinen Blutgefä�
 HP:0009746	Stark ausgeprägte Nasenscheidewand	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0009752	Spalt in der Schädelbasis|Spaltbildung in der Schädelbasis	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0009755	Vollständige oder teilweise Verwachsung der Ränder von unterem und oberem Augenlid|Unteres und oberes Augenlid ganz oder teilweise zusammengewachsen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0009763	Schmerzen in den Gliedmaßen|Gliederschmerzen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0009776	Fehlen von Fingern oder Zehen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0009777	Daumen nicht angelegt	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0009779	Zusammengewachsene Zehen 3 und 4|Schwimmhäute zwischen Zehen 3 und 4	http://purl.obolibrary.org/obo/hp#layperson	
@@ -1158,6 +1169,7 @@ HP:0010954	Unterentwicklung der rechten Herzenhälfte|Unterentwickelte rechte He
 HP:0010976	Erniedrigte Zahl von B-Zellen im Blut|Niedrige B-Zellzahl	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0010978	Gestörte Funktion des Immunsystems	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0010981	Erniedrigte Blutfettwerte	http://purl.obolibrary.org/obo/hp#layperson	
+HP:0010992	Harninkontinenz bei Belastung|Unkontrolliertes Austreten kleiner Urinmengen bei körperlicher Anstrengung oder bei Lachen oder Husten	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0011001	Erhöhte Knochendichte	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0011024	Auffälligkeiten des Magen-Darm-Trakts	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0011025	Auffälligkeit bezüglich der Herz-Kreislauffunktion	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -1175,7 +1187,7 @@ HP:0011070	Ungewöhnlich geformter Backenzahn	http://purl.obolibrary.org/obo/hp#
 HP:0011070	Auffällig geformter Backenzahn	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0011071	Auffälligkeit von Form oder Struktur der bleibenden Backenzähne	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0011080	Anomalie der vorderen (kleinen) Backenzähne|Abweichung an den vorderen (kleinen) Backenzähnen	http://purl.obolibrary.org/obo/hp#layperson	
-HP:0011080	Auffälligkeit von Form oder Struktur der kleinen Backenzähne|Auffälligkeit der vorderen (kleinen) Backenzähne	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0011080	Auffälligkeit der vorderen (kleinen) Backenzähne|Auffälligkeit von Form oder Struktur der kleinen Backenzähne	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0011081	Vergrößerte Schneidezähne	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0011084	Herabgesetzte Mineralisierung des Zahnschmelzes mit Kalzium|Zu wenig Kalzium im Zahnschmelz	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0011088	Zahnauffälligkeit mit Zahnschmelzeinstülpung im Bereich der Zahnkrone	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -1255,6 +1267,8 @@ HP:0011840	Beeinträchtigte T-Zellen-Funktion|Gestörte T-Zell-Funktion	http://p
 HP:0011842	Form und Struktur des Skelettes entspricht nicht der Norm|Skelettanomalie	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0011842	Auffälligkeit von Form oder Struktur des Skelettes|Auffälligkeit von Form oder Struktur des Knochengerüsts	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0011843	Fehlfunktionen des Bewegungsapparats|Störung des Bewegungsapparats	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0011848	Kolik|Krampfartige Schmerzen in der Bauchgegend	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0011868	Ischiasschmerzen|Ausstrahlende Schmerzen im unteren Rücken	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0011873	Abweichung bei der Zahl der Blutplättchen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0011875	Auffälligkeit von Form oder Struktur der Blutplättchen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0011888	Schwere Blutungen, die Bluttransfusion erfordern	http://purl.obolibrary.org/obo/hp#layperson	
@@ -1294,12 +1308,13 @@ HP:0012237	Erhöhte Urocaninsäurespiegel im Urin|Urocaninsäure im Urin erhöht
 HP:0012252	Auffälligkeit bezüglich Aufbau oder Struktur der Atemwege	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0012276	Sehnenscheidenentzündung der Finger-Beugesehnen|Schnappfinger|Schnellfinger	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0012304	Schwach ausgeprägter Aortenbogen|Unterentwickelter Aortenbogen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0012318	Arnold-Neuralgie|Ausstrahlende, oft einseitige Kopfschmerzen im Bereich des oberen Nackens, hinter den Ohren und am Hinterkopf	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0012338	Auffälliger Energieverbrauch|Auffälliger Kalorienverbrauch	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0012343	Verminderte Ferritinwerte im Blut	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0012370	Auffällig stark ausgeprägter Wangenknochen|Starke Vorwölbung des Wangenknochens	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0012372	Auffälligkeit der Augenform|Auffälligkeit der Augenstruktur	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0012373	Auffälligkeit bezüglich der Funktion der Augen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
-HP:0012378	Ausgeprägte Ermüdung|Erschöpfung|Erschöpfungszustand	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0012378	Ausgeprägte Ermüdung|Erschöpfung|Erschöpfungszustand|Fatigue	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0012379	Auffälligkeit bezüglich der Konzentration oder Aktivität von Enzymen im Blut|Konzentration oder Aktivität der im Blut zirkulierenden Enzyme höher oder niedriger als normal	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0012384	Laufende Nase|Fließschnupfen|Verstopfte Nase	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0012385	Übermäßige Beugestellung des Fingers oder Zehs|Hammerfinger/Hammerzeh	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -1323,7 +1338,9 @@ HP:0012492	Verengung einer Hirnarterie	http://purl.obolibrary.org/obo/hp#laypers
 HP:0012503	Auffälligkeit von Form oder Struktur der Hirnanhangdrüse|Auffälligkeit von Form oder Struktur der Hypophyse	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0012511	Temporale Papillenblässe		orcid:0000-0002-6601-4486
 HP:0012513	Schmerzen in den oberen Gliedmaßen|Schmerzen in Armen	http://purl.obolibrary.org/obo/hp#layperson	
+HP:0012514	Schmerzen im Bein|Beinschmerzen|Schmerzen in den unteren Gliedmaßen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0012531	Schmerzen	http://purl.obolibrary.org/obo/hp#layperson	
+HP:0012533	Gesteigerte Schmerzempfindlichkeit|Schmerzempfinden bei Reizen, die normalerweise keine Schmerzen hervorrufen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0012547	Auffälligkeit der unwillkürlichen Augenbewegungen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0012555	Fehlender Nagel der großen Zehe|Fehlender Großzehennagel	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0012569	Verspätetes Einsetzen der ersten Periode|Erste Monatsblutung auffällig spät|Einsetzen der ersten Monatsblutung auffällig spät	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -1376,9 +1393,15 @@ HP:0025031	Auffälligkeit des Verdauungsapparates	http://purl.obolibrary.org/obo
 HP:0025032	Störung der Funktion des Verdauungssystems|Fehlfunktion des Verdauungssystems	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0025033	Auffälligkeit von Form oder Struktur des Verdauungssystems	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0025092	Verdickung der oberen Hautschicht	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0025096	Niesattacken|Niesanfälle	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0025142	Allgemeine Beschwerden	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0025143	Kältegefühl|Frösteln	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0025144	Schlottern, Zittern	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0025145	Schüttelfrost	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0025215	Durch fieberhafte Erkrankung ausgelöste Symptome|Ausgelöst durch Fieber	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0025219	Ausgelöst durch Impfung	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0025225	Durch Geräusche ausgelöst	http://purl.obolibrary.org/obo/hp#layperson	
+HP:0025238	Fußschmerzen|Schmerzen im Fuß	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0025250	Geschlossene Mitesser|Geschlossene Komedonen|Weiß-Mitesser	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0025268	Stammeln	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0025270	Auffälligkeit von Form oder Struktur der Speiseröhre	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -1386,6 +1409,7 @@ HP:0025373	Auffälligkeiten im Elektro-Enzephalogramm (EEG) in der Phase zwische
 HP:0025383	Stiernacken|Büffelhöcker|Büffelhals|Büffelnacken	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0025404	Fixationsanomalie		orcid:0000-0002-6601-4486
 HP:0025404	Gestörte Fixation		orcid:0000-0002-6601-4486
+HP:0025406	Energielosigkeit|Schwächegefühl|Kraftlosigkeit|Schlappheit	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0025408	Auffälligkeit von Form oder Struktur der Milz	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0025553	Hauteinblutung um die Augenhöhlen|Ringförmige Blutergüsse um das Auge|Monokelhämatom|Waschbärauge	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0025668	Auffälligkeit von Form oder Struktur der Hals-Nackenregion	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -1406,9 +1430,12 @@ HP:0030137	Anhaltende Blutungen nach der Beschneidung	http://purl.obolibrary.org
 HP:0030143	Verstärkte Darmgeräusche	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0030144	Abgeschwächte Darmgeräusche|Verminderte Darmgeräusche	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0030153	Gallengangskrebs	http://purl.obolibrary.org/obo/hp#layperson	
+HP:0030155	Schmerzen im Hodensack	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0030157	Flankenschmerzen|Schmerzen im Nierenbereich	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0030160	Entzündung des Gebärmutterhalses	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0030163	Blutgefäßfunktion gestört|Funktion der Adern gestört	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0030164	Abnorme männliche Genitalien|Anomalie der männlichen Genitalien	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0030166	Nächtliche Schweißausbrüche|Nachtschweiß	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0030188	Zittern eines Körperteils	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0030212	Zwanghaftes Horten	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0030221	Auffallend starkes Verlangen nach Süßem	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -1427,16 +1454,26 @@ HP:0030423	Zyste der Milz	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009
 HP:0030437	Gewebeneubildung im Analkanal|Wucherung im Analkanal|Tumor im Analkanal|Tumor im Afterkanal	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0030532	Auffälligkeit im Sehtest	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0030680	Auffälligkeit bezüglich der Form oder Struktur des Herz-Kreislaufsystems	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0030766	Ohrenschmerzen|Schmerzen im Ohr|Schmerzen am Ohr	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0030791	Auffälligkeit von Form oder Struktur des Kiefers	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0030809	Auffälligkeit von Form oder Struktur der Zunge	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0030810	Funktionsstörung der Zunge	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0030811	Schmerzen an der Zunge|Zungenschmerzen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0030826	Zuckungen um die Augen|Muskelzuckungen der Augenlider	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0030833	Nackenschmerzen|Schmerzen am Hals	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0030834	Schmerzen im Schulterbereich	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0030835	Schmerzen im Ellenbogen	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0030836	Schmerzen im Handgelenk	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0030837	Schmerzen am oder im Finger|Fingerschmerzen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0030838	Schmerzen in der Hüfte|Schmerzen an der Hüfte	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0030839	Schmerzen im Knie|Schmerzen am Knie	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0030840	Schmerzen am Fußknöchel|Knöchelschmerzen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0030841	Zehenschmerzen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0030857	Schmerzen im Auge beim Bewegen der Augen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0030943	Schmerzen im Bereich des Venushügels, der Schamlippen, der Scheidenausgangs oder der Klitoris|Schmerzen in der Vulvaregion	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0030973	Unverhältnismässige Symptomverschlechterung nach Anstrengung|Verschlechterung des Gesundheitszustandes nach Belastung|Post-exertionelle Malaise	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0031057	Rissige Haut|Eingerissene Haut|Hauteinrisse	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0031064	Eingeschränkte Kontinenz|Fähigkeit Urin oder Stuhl zu halten eingeschränkt	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0031090	Plumpe, verdickte Finger|„Wurstfinger“	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0031091	Plumpe, verdickte Zehen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0031093	Auffälligkeit von Form oder Struktur der Brust	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -1453,21 +1490,36 @@ HP:0031653	Herzklappenfunktion gestört	http://purl.obolibrary.org/obo/hp#layper
 HP:0031816	Auffälligkeit des Mundes	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0031826	Auffälligkeit bezüglich der Reflexe	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0031843	Verlangsamtes Denken|Geistige Verlangsamung|Verlangsamung des Denkens	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0031921	Wadenschmerzen|Schmerzen im Wadenmuskel	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0031987	Schlechte Konzentration|Konzentrationsschwäche	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0032101	Ungewöhnliche oder untypische Infektionen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0032142	Typischer Geruch der Atemluft bei Patienten mit schwerer Leberfunktionsstörung|Atemluft riecht nach Aceton, süßlich, muffig, erinnert an rohe Leber oder Lehmerde	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0032148	Episodische Schmerzen|Phasenweise auftretende Schmerzen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0032149	Plötzliche, starke Verschlimmerungen bestehender Dauerschmerzen|Akute Schmerzspitzen bei Dauerschmerz|Durchbruchschmerzen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0032150	Krampfartige, stechende Schmerzen im Enddarm|Krampfartige, brennende Schmerzen im Rektum	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0032154	Aphthen der Schleimhäute|Weißlich-runde Stellen in der Schleimhaut	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0032155	Krämpfe im Bauch|Bauchkrämpfe	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0032245	Auffälligkeiten bezüglich des Stoffwechsels	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0032263	Hoher Blutdruck|Erhöhte Blutdruckwerte	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0032545	Reflexartige Verhärtung der Bauchmuskulatur bei Berührung, z.B. beim Abtasten|Unwillkürliche Anspannung der Bauchdecke bei Berührung	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0032546	Angespannte Bauchdecke|Willentlich beeinflussbare Anspannung der Bauchdecke	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0032551	Hämorrhoiden	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0032561	Auffällig kleiner Spermienkopf	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0032943	Auffälligkeit bezüglich des Harn-pH-Wertes|Auffälligkeit bezüglich des pH-Wertes im Urin	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0033047	Unspezifische Schmerzen in Muskeln, Gelenken oder Knochen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0033050	Halsschmerzen|Halsweh|Rauher Hals|Rauhe Kehle|Rachenschmerzen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0033258	Plötzlicher Tod bei Epilepsiepatienten	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0033259	Krampfanfall ohne Beteiligung der Bewegungsmuskulatur	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0033345	Nervenschmerzen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0033348	Epilepsiebedingte Aura	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0033353	Auffälligkeit von Form oder Struktur von Blutgefäßen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0033400	Akuter Bauch|Plötzlich auftretende starke Bauchschmerzen, oft mit Übelkeit oder Erbrechen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0033608	Lungenknötchen		orcid:0000-0002-0736-9199
 HP:0033608	Lungenrundherd		orcid:0000-0002-0736-9199
+HP:0033666	Einschränkung der körperlichen Funktionsfähigkeit|Herabgesetzte körperliche Funktionsfähigkeit	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0033709	Vermehrte Schleimproduktion	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0033710	Kurzatmigkeit in Ruhe	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0033746	Schmerzen zwischen den Schulterblättern	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0033748	Verminderte Berührungsempfindlichkeit|Taubheitsgefühl	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0033835	Auffälligkeiten bezüglich Form oder Struktur der Blutgefäße in den Nieren	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0033836	Auffälligkeit bei Form oder Struktur der Nierenarterien|Auffälligkeit bei Form oder Struktur der Nierenschlagadern	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -1476,11 +1528,13 @@ HP:0033847	Geschmackshalluzinationen|Phantomgeschmack|Phantomschmecken	http://pu
 HP:0034031	Extreme Gesichtsblässe|Bläulich erscheinende Gesichtsfarbe|Gesicht bläulich angelaufen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0034036	Frostbeulenähnliche Hautveränderungen an der Zehe|Pseudo-Chilblain an der Zehe|COVID-Zehe|Corona-Zehe|Rot-lila Beulen an den Zehen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0034057	Fötusauffälligkeit|Fötale Auffälligkeit|Auffälligkeiten am ungeborenen Kind nach der 9. Schwangerschaftswoche	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0034265	Schmerzhafte Brust|Schmerzen in der Brust	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0034353	Spastik der Gliedmaßen|Spastische Muskelkrämpfe in Armen und/oder Beinen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0034392	Gelenksteife|Gelenkversteifung	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0034669	Auffälligkeit von Form und Struktur des Knies	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0034681	Gelenksteife der Finger	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0034684	Störung der Enzymkonzentration oder Enzymaktivität	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0034808	Schmerzen am Augenlid	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0034930	Gewebeneubildung des Verdauungsapparats|Geschwulst des Verdauungssystems|Tumor des Verdauungssystems	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0040008	Gesichtsknochen nicht ausgebildet|Fehlende Gesichtsknochen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0040032	Obere Augenlider unterentwickelt|Obere Augenlider kleiner	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -1509,12 +1563,14 @@ HP:0040159	Abstand der Schneidezähne auffällig	http://purl.obolibrary.org/obo/
 HP:0040167	Gesichtswarze|„Alterswarze“ im Gesichtsbereich	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0040173	Fehlbildung des Zungenmuskels|Fehlbildung der Zunge	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0040173	Auffälligkeit des Zungenmuskels	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0040183	Einkoten	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0040190	Weiß-schuppige Haut	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0040194	Vergrößerter Kopfumfang	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0040195	Verminderter Kopfumfang	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0040211	Auffälligkeit der Haut an der Handfläche	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0040264	Kieferschmerzen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0040323	Rötlicher Hautausschlag am Augenlid|Rotes Augenlid	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0040411	Schmerzen am Penis|Penisschmerzen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0041049	Stärke-Intoleranz	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0041051	Kompletter Geschmacksverlust|Kein Geschmackssinn vorhanden	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0045006	Fehlende Lymphgefäße	http://purl.obolibrary.org/obo/hp#layperson	
@@ -1526,6 +1582,8 @@ HP:0045055	Tigerschwanzmuster der Haare im Mikroskop	http://purl.obolibrary.org/
 HP:0045074	Dünne Augenbraue|Dünne Augenbrauen	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0045075	Spärliche Augenbrauen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0045086	Überbeweglichkeit des Kniegelenks	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0046505	Schmerzen in der Hand	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0046506	Schmerzen in der Kopf- und Halsregion	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0100000	Vorzeitiger Beginn der Geschlechtsreife	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0100006	Tumore des zentralen Nervensystems|Tumor des zentralen Nervensystems	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0100018	Gelbliche Trübung in der Mitte der Augenlinse	http://purl.obolibrary.org/obo/hp#layperson	
@@ -1593,6 +1651,7 @@ HP:0100643	Auffälligkeit der Nagelfarbe	http://purl.obolibrary.org/obo/hp#laype
 HP:0100646	Schilddrüsenentzündung	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0100650	Scheidentumor|Gewebeneubildung in/an der Scheide	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0100659	Auffälligkeit von Form oder Struktur der Blutgefäße im Gehirn	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0100661	Anfallsartig, meist einseitige, starke Schmerzen im Gesicht|Gesichtsneuralgie|Tic douloureux	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0100668	Angeborene doppelte Anlage des Darms	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0100678	Vorzeitige Faltenbildung der Haut	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0100689	Dünne Hornhaut	http://purl.obolibrary.org/obo/hp#layperson	
@@ -1600,8 +1659,11 @@ HP:0100702	Hirnwassergefüllte sackförmige Ausstülpung im Schädel oder an der
 HP:0100720	Kleiner Ohrknorpel|Kleine Ohrmuschel	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0100738	Auffälliges Essverhalten	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0100742	Tumor der Gefäße|Gefäßwucherung|Wucherung an den Gefäßen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0100749	Schmerzen in der Brust|Brustschmerz|Schmerzen im Brustkorb	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0100750	Teilweiser oder vollständiger Kollaps eines Teils oder der gesamten Lunge|Gesamte Lunge oder Lungenteile zusammengefallen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0100751	Speiseröhrentumor|Gewebeneubildung in der Speiseröhre	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0100758	Gangrän|Gewebsnekrose|Absterben von Gewebe	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0100758	Wundbrand	http://purl.obolibrary.org/obo/hp#obsolete_synonym|http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0100763	Auffälligkeit des Lymphsystems	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0100773	Knorpelzerstörung|Zerstörung von Knorpelgewebe	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0100776	Wiederkehrende Halsentzündungen|Häufige Halsschmerzen|Immer wieder entzündeter Hals	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -1612,6 +1674,7 @@ HP:0100802	Auffällige Position des Magens	http://purl.obolibrary.org/obo/hp#lay
 HP:0100807	Lange Finger|Langer Finger	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0100809	Empfindliche Kopfhaut|Berührungsempfindliche Kopfhaut	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0100810	Faunenohren|Elfenohren|Spock-Ohren|Spitz zulaufende Ohren	http://purl.obolibrary.org/obo/hp#layperson	
+HP:0100812	Schlechter Atem|Mundgeruch	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0100816	Verstärkte Pigmentierung der Lippen|Lippen erscheinen dunkler|Dunkelfärbung der Lippen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0100839	Leber nicht angelegt|Fehlende Leber	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0100871	Fehlbildung der Handfläche	http://purl.obolibrary.org/obo/hp#layperson	
@@ -1625,6 +1688,7 @@ HP:0200005	Auffällige Form der Lidspalte|Auffällige Form des Raums zwischen de
 HP:0200007	Auffällige Größe der Lidspalte|Auffällige Weite des Raums zwischen den beiden Augenlidern	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0200020	Oberflächliche Verletzung der Augenhornhaut|Abschürfung an der Hornhaut des Auges	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0200025	Schmerzen im Unterkiefer|Unterkieferschmerzen	http://purl.obolibrary.org/obo/hp#layperson	
+HP:0200026	Augenschmerzen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0200042	Offene Hautwunde|Hautgeweschür|Ulcus|Ulkus	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0200070	Absterben der äußeren Bereiche der Netzhaut|Abbau der äußeren Bereiche der Netzhaut	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0200083	Starke Verkürzung der Gliedmaßen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -1638,12 +1702,16 @@ HP:0200123	Chronische Leberentzündung	http://purl.obolibrary.org/obo/hp#laypers
 HP:0200148	Abweichende Leberwerte während der Schwangerschaft|Nach Geburt wieder normal	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0400004	Auffällig langes Ohr	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0410018	Wiederkehrende Infektionen der Ohren	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0410019	Schmerzen im Oberbauch|Schmerzen in der Magenregion	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0410020	Fischiger Geruch|Fischgeruch	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0410021	Muffiger Körpergeruch|Modriger Körpergeruch	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0410022	Fischartiger Geruch aus der Scheide|Fischiger Scheidengeruch	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0410030	Hasenscharte	http://purl.obolibrary.org/obo/hp#obsolete_synonym|http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0410042	Auffälligkeit von Form oder Struktur der Leber	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0410169	Muskelbeschwerden in der Schulter|Muskelprobleme in der Schulter	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0410213	Niedriger Sauerstoffgehalt im Nabelschnurblut	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0410214	Hoher Kohlendioxidgehalt im Nabelschnurblut	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0410281	Verdauungsstörungen|Beschwerden im Oberbauch	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0410321	Tierhaarallergie|Allergie auf Tierhaare	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0410328	Allergie gegen Eier|Ei-Allergie	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0410329	Glutenallergie	http://purl.obolibrary.org/obo/hp#layperson	
@@ -1655,6 +1723,7 @@ HP:0430009	Unterentwickeltes Augenlid	http://purl.obolibrary.org/obo/hp#layperso
 HP:0430010	Augenlid zu klein|Augenlid zu kurz|Augenlid zu kurz	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0430021	Auffälligkeit von Form oder Struktur der Halsschlagader	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0430028	Vorstehen des Oberkiefers|Ausgeprägter Oberkiefer	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0500001	Körpergeruch	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0500005	Schmerzen im Analbereich|Schmerzen im/um den After|Rektale Schmerzen|Schmerzen am Darmausgang	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0500018	Auffällige Ergebnisse beim Belastungs-EKG	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0500133	Verringertes Tyrosin im Blut|Verminderter Tyrosinspiegel im Blut|Niedrige Tyrosinkonzentration im Blut	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -1678,3 +1747,18 @@ HP:4000181	Übermäßiger Verschleiß der Zähne|Übermäßige Abnutzung der Zä
 HP:5200241	Wiederkehrendes fehlangepasstes Verhalten	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:5200401	Auffälligkeit bezüglich der Urteilsfähigkeit|Auffälligkeit bezüglich des Urteilsvermögens	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:5201015	Kraniofasziale Spalte	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:6000064	Auffallend häufiges Aufstoßen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:6000064	Ständiges Rülpsen	http://purl.obolibrary.org/obo/hp#obsolete_synonym|http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:6000222	Schmerzen beim Stuhlgang	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:6000420	Brennende Augen|Augenbrennen|Augenreizung	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:6000500	Kalte Finger, Hände, Zehen oder Füße	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:6001127	Schmerzen im Bereich der Daumenbasis	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:6001139	Schmerzen im Oberarm	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:6001144	Schmerzen an der vorderen Seite des Knies|Schmerzen vorne am Knie|Schmerzen an der Knievorderseite	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:6001145	Schmerzen im Bereich der Kniekehle	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:6001153	Schmerzen an der Außenseite des Fußes	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:6001154	Schmerzen an der Innenseite des Knies|Schmerzen an der Knieinnenseite	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:6001155	Schmerzen an der Außenseite des Knies|Schmerzen an der Knieaußenseite	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:6001303	Schmerzen beim Ausstrecken des Daumens|Streckschmerz im Daumen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:6001320	Schmerzen an der Außenseite des Fußknöchels|Schmerzen am äußeren Fußknöchel	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:6001322	Schmerzen hinten am Knöchelgelenk	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
