@@ -640,7 +640,7 @@ HP:0003307	Auffällig starke Ausprägung der Wirbelsäulenkrümmung	http://purl.
 HP:0003312	Auffällige Wirbelform	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0003319	Fehlbildung der Halswirbelsäule	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0003319	Auffälligkeit der Halswirbelsäule	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
-HP:0003326	Muskelschmerzen|Muskelkater	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0003326	Muskelschmerzen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0003354	Erhöhte Threoninwerte im Blut|Hoher Threoninspiegel im Blut|Hohe Threoninwerte im Blut	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0003359	Verringertes Sulfat im Urin|Verminderte Sulfatkonzentration im Urin	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0003366	Auffälligkeiten von Form oder Struktur des Oberschenkelhalses/Hüftkopfes	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -873,7 +873,7 @@ HP:0007387	Kleine Schweißdrüsen|Unterentwickelte Schweißdrüsen	http://purl.o
 HP:0007392	Übermäßige Faltenbildung der Haut	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0007407	Übermäßige Faltenbildung der Haut auf Handrücken und Fingern|Übermäßige Hautfaltenbildung auf den Handrücken und Fingern	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0007410	Übermäßiges Schwitzen der Handflächen und Fußsohlen|Übermäßige Schwitzen an Handflächen und Fußsohlen	http://purl.obolibrary.org/obo/hp#layperson	
-HP:0007414	Faltenreiche Haut an Händen und Füßen bei Neugeborenen|Faltiger Haut an Händen und Füßen bei Neugeborenen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0007414	Faltenreiche Haut an Händen und Füßen bei Neugeborenen|Faltige Haut an Händen und Füßen bei Neugeborenen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0007428	Besenreiser auf der Mundschleimhaut|Erweiterte Blutgefäße in der Mundschleimhaut	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0007443	Teilweise fehlende Hautpigmentierung|Weiße Hautstellen|Helle Hautstellen	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0007464	Spärliche Gesichtsbehaarung|Geringe Gesichtsbehaarung	http://purl.obolibrary.org/obo/hp#layperson	
@@ -1126,7 +1126,7 @@ HP:0010706	„Schwimmhäute“ zwischen den Fingern 1 bis 3	http://purl.obolibra
 HP:0010707	„Schwimmhäute“ zwischen den Fingern 1 bis 4	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0010708	„Schwimmhäute“ zwischen Fingern 1-5	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0010709	Schwimmhäute zwischen Zeigefinger, Mittelfinger und Ringfinger|Schwimmhäute zwischen den Fingern 2-4	http://purl.obolibrary.org/obo/hp#layperson	
-HP:0010710	Verwachsung zwischen den Zehen 3-5	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0010710	Verwachsung zwischen den Fingern 3-5	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0010711	Verwachsung zwischen 1. und 2. Zehe	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0010712	Zusammengewachsene Zehen 1-4|Schwimmhäute zwischen der 1.-4. Zehe	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0010712	Verwachsung zwischen den Zehen 1-4	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -1396,7 +1396,7 @@ HP:0025092	Verdickung der oberen Hautschicht	http://purl.obolibrary.org/obo/hp#l
 HP:0025096	Niesattacken|Niesanfälle	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0025142	Allgemeine Beschwerden	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0025143	Kältegefühl|Frösteln	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
-HP:0025144	Schlottern, Zittern	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0025144	Schlottern|Zittern	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0025145	Schüttelfrost	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0025215	Durch fieberhafte Erkrankung ausgelöste Symptome|Ausgelöst durch Fieber	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0025219	Ausgelöst durch Impfung	http://purl.obolibrary.org/obo/hp#layperson	
@@ -1525,7 +1525,7 @@ HP:0033835	Auffälligkeiten bezüglich Form oder Struktur der Blutgefäße in de
 HP:0033836	Auffälligkeit bei Form oder Struktur der Nierenarterien|Auffälligkeit bei Form oder Struktur der Nierenschlagadern	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0033841	Juckende Augen|Augenjucken	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0033847	Geschmackshalluzinationen|Phantomgeschmack|Phantomschmecken	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
-HP:0034031	Extreme Gesichtsblässe|Bläulich erscheinende Gesichtsfarbe|Gesicht bläulich angelaufen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0034031	Bläulich erscheinende Gesichtsfarbe|Gesicht bläulich angelaufen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0034036	Frostbeulenähnliche Hautveränderungen an der Zehe|Pseudo-Chilblain an der Zehe|COVID-Zehe|Corona-Zehe|Rot-lila Beulen an den Zehen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0034057	Fötusauffälligkeit|Fötale Auffälligkeit|Auffälligkeiten am ungeborenen Kind nach der 9. Schwangerschaftswoche	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0034265	Schmerzhafte Brust|Schmerzen in der Brust	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -1720,7 +1720,7 @@ HP:0410335	Insektengiftallergie|Insektenallergie	http://purl.obolibrary.org/obo/
 HP:0410338	Allergie gegen pflanzliche Erzeugnisse|Allergie gegen pflanzliche Produkte	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0430000	Auffälligkeit von Form oder Struktur des Stirnbeins	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0430009	Unterentwickeltes Augenlid	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
-HP:0430010	Augenlid zu klein|Augenlid zu kurz|Augenlid zu kurz	http://purl.obolibrary.org/obo/hp#layperson	
+HP:0430010	Augenlid zu klein|Augenlid zu kurz	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0430021	Auffälligkeit von Form oder Struktur der Halsschlagader	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0430028	Vorstehen des Oberkiefers|Ausgeprägter Oberkiefer	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0500001	Körpergeruch	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -1747,8 +1747,7 @@ HP:4000181	Übermäßiger Verschleiß der Zähne|Übermäßige Abnutzung der Zä
 HP:5200241	Wiederkehrendes fehlangepasstes Verhalten	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:5200401	Auffälligkeit bezüglich der Urteilsfähigkeit|Auffälligkeit bezüglich des Urteilsvermögens	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:5201015	Kraniofasziale Spalte	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
-HP:6000064	Auffallend häufiges Aufstoßen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
-HP:6000064	Ständiges Rülpsen	http://purl.obolibrary.org/obo/hp#obsolete_synonym|http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:6000064	Auffallend häufiges Aufstoßen|Ständiges Rülpsen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:6000222	Schmerzen beim Stuhlgang	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:6000420	Brennende Augen|Augenbrennen|Augenreizung	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:6000500	Kalte Finger, Hände, Zehen oder Füße	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
