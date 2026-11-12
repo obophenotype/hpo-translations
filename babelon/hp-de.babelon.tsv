@@ -265,7 +265,7 @@ en	Acetabular dysplasia	HP:0008807	rdfs:label	de	Acetabuläre Dysplasie	CANDIDAT
 en	Achilles tendon calcification	HP:0025441	rdfs:label	de	Verkalkung der Achillessehne	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Achilles tendon contracture	HP:0001771	rdfs:label	de	Achillessehnenkontraktur	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Acholic stools	HP:0011985	rdfs:label	de	Acholischer Stuhlgang	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Acidemia	HP:0032368	rdfs:label	de	Azidose	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Acidemia	HP:0032368	rdfs:label	de	Azidämie	CANDIDATE	anthropic:claude-opus-5-5	ALGORITHM	2026-11-12	duplicate label fix (#63)
 en	Acidosis	HP:0001941	rdfs:label	de	Azidose	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Acral overgrowth	HP:0033794	rdfs:label	de	Akrale Überwucherung	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Acral ulceration	HP:0006121	rdfs:label	de	Akrale Ulzerationen	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
@@ -413,7 +413,7 @@ en	Aplasia/Hypoplasia of the nails	HP:0008386	rdfs:label	de	Aplasie/Hypoplasie d
 en	Aplasia/Hypoplasia of the thumb	HP:0009601	rdfs:label	de	Aplasie/Hypoplasie des Daumens	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Aplasia/Hypoplasia of the thymus	HP:0010515	rdfs:label	de	Aplasie/Hypoplasie des Thymus	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Aplastic clavicle	HP:0006660	rdfs:label	de	Aplastisches Schlüsselbein	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Apnea	HP:0002104	rdfs:label	de	Atemstillstand	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Apnea	HP:0002104	rdfs:label	de	Apnoe	CANDIDATE	anthropic:claude-opus-5-5	ALGORITHM	2026-11-12	duplicate label fix (#63)
 en	Apneic episodes in infancy	HP:0005949	rdfs:label	de	Apnoe-Episoden im Säuglingsalter	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Appendicular hypotonia	HP:0012389	rdfs:label	de	Appendikuläre Hypotonie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Appendicular spasticity	HP:0034353	rdfs:label	de	Appendikuläre Spastik	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -1317,7 +1317,7 @@ en	Eye poking	HP:0001483	rdfs:label	de	Augenstechen	CANDIDATE	DeepL	ALGORITHM	20
 en	Eyelid myoclonus	HP:0025097	rdfs:label	de	Augenlid-Myoklonus	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Facial asymmetry	HP:0000324	rdfs:label	de	Asymmetrie im Gesicht	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Facial hypotonia	HP:0000297	rdfs:label	de	Hypotonie im Gesicht	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Facial palsy	HP:0010628	rdfs:label	de	Gesichtslähmung	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Facial palsy	HP:0010628	rdfs:label	de	Fazialisparese	CANDIDATE	anthropic:claude-opus-5-5	ALGORITHM	2026-11-12	duplicate label fix (#63)
 en	Facial paralysis	HP:0007209	rdfs:label	de	Gesichtslähmung	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Facial telangiectasia	HP:0007380	rdfs:label	de	Teleangiektasie im Gesicht	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Facial-lingual fasciculations	HP:0007089	rdfs:label	de	Fazialis-Faszikulationen	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -1624,7 +1624,7 @@ en	Hypergalactosemia	HP:0012024	rdfs:label	de	Hypergalaktosämie	CANDIDATE	DeepL
 en	Hypergastrinemia	HP:0500167	rdfs:label	de	Hypergastrinämie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Hyperglutaminemia	HP:0003217	rdfs:label	de	Hyperglutaminämie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Hyperglycemia	HP:0003074	rdfs:label	de	Hyperglykämie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Hyperglycinemia	HP:0002154	rdfs:label	de	Hyperglykämie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Hyperglycinemia	HP:0002154	rdfs:label	de	Hyperglycinämie	CANDIDATE	anthropic:claude-opus-5-5	ALGORITHM	2026-11-12	duplicate label fix (#63)
 en	Hyperglycinuria	HP:0003108	rdfs:label	de	Hyperglycinurie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Hypergonadotropic hypogonadism	HP:0000815	rdfs:label	de	Hypergonadotroper Hypogonadismus	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Hypergranulosis	HP:0025114	rdfs:label	de	Hypergranulose	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
@@ -2312,7 +2312,7 @@ en	Narrow internal auditory canal	HP:0011386	rdfs:label	de	Enger innerer Gehörg
 en	Narrow mouth	HP:0000160	rdfs:label	de	Enger Mund	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Narrow nail	HP:0011313	rdfs:label	de	Schmaler Nagel	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Narrow naris	HP:0009933	rdfs:label	de	Enge Nasenlöcher	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Narrow nasal bridge	HP:0000446	rdfs:label	de	Enger Nasenrücken	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Narrow nasal bridge	HP:0000446	rdfs:label	de	Schmale Nasenwurzel	CANDIDATE	anthropic:claude-opus-5-5	ALGORITHM	2026-11-12	duplicate label fix (#63)
 en	Narrow nasal ridge	HP:0000418	rdfs:label	de	Enger Nasenrücken	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Narrow nose	HP:0000460	rdfs:label	de	Schmale Nase	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Narrow palate	HP:0000189	rdfs:label	de	Enger Gaumen	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -2379,7 +2379,7 @@ en	Nyctalopia	HP:0000662	rdfs:label	de	Nyktalopie	CANDIDATE	DeepL	ALGORITHM	2024
 en	Nystagmus	HP:0000639	rdfs:label	de	Nystagmus	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Obesity	HP:0001513	rdfs:label	de	Fettleibigkeit	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Obsessive-compulsive trait	HP:0008770	rdfs:label	de	Zwanghaftes Verhalten (Obsessive Compulsive Trait)	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Obstipation	HP:0034782	rdfs:label	de	Verstopfung	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Obstipation	HP:0034782	rdfs:label	de	Stuhl- und Windverhalt	CANDIDATE	anthropic:claude-opus-5-5	ALGORITHM	2026-11-12	duplicate label fix (#63)
 en	Obstructive sleep apnea	HP:0002870	rdfs:label	de	Obstruktive Schlafapnoe	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Occipital cortical atrophy	HP:0012105	rdfs:label	de	Atrophie der okzipitalen Kortikalis	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Occipital neuralgia	HP:0012318	rdfs:label	de	Okzipitalneuralgie	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-09	
@@ -2884,7 +2884,7 @@ en	Renal tubular acidosis	HP:0001947	rdfs:label	de	Renal-tubuläre Azidose	OFFIC
 en	Renal tubular atrophy	HP:0000092	rdfs:label	de	Nierentubulusatrophie	OFFICIAL	orcid:0000-0002-9746-4412	DOMAIN_EXPERT	2024-12-10	
 en	Respiratory arrest	HP:0005943	rdfs:label	de	Atemstillstand	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Respiratory distress	HP:0002098	rdfs:label	de	Atembeschwerden	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Respiratory failure	HP:0002878	rdfs:label	de	Atemstillstand	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Respiratory failure	HP:0002878	rdfs:label	de	Respiratorisches Versagen	CANDIDATE	anthropic:claude-opus-5-5	ALGORITHM	2026-11-12	duplicate label fix (#63)
 en	Respiratory failure requiring assisted ventilation	HP:0004887	rdfs:label	de	Atemversagen, das eine unterstützte Beatmung erfordert	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Respiratory insufficiency	HP:0002093	rdfs:label	de	Ateminsuffizienz	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Respiratory insufficiency due to muscle weakness	HP:0002747	rdfs:label	de	Ateminsuffizienz aufgrund von Muskelschwäche	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -3018,7 +3018,7 @@ en	Short chin	HP:0000331	rdfs:label	de	Kurzes Kinn	CANDIDATE	DeepL	ALGORITHM	202
 en	Short clavicles	HP:0000894	rdfs:label	de	Kurze Schlüsselbeine	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Short columella	HP:0002000	rdfs:label	de	Kurze Kolumella	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Short corpus callosum	HP:0200012	rdfs:label	de	Kurzes Corpus Callosum	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Short digit	HP:0011927	rdfs:label	de	Kurzer Finger	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Short digit	HP:0011927	rdfs:label	de	Kurzer Finger oder kurze Zehe	CANDIDATE	anthropic:claude-opus-5-5	ALGORITHM	2026-11-12	duplicate label fix (#63)
 en	Short distal phalanx of finger	HP:0009882	rdfs:label	de	Kurze distale Fingerphalanx	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Short distal phalanx of the 5th finger	HP:0004227	rdfs:label	de	Kurze distale Phalanx des 5.	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Short eyelashes	HP:0010764	rdfs:label	de	Kurze Wimpern	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
@@ -3107,7 +3107,7 @@ en	Small earlobe	HP:0000385	rdfs:label	de	Kleines Ohrläppchen	OFFICIAL	orcid:00
 en	Small face	HP:0000274	rdfs:label	de	Kleines Gesicht	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Small for gestational age	HP:0001518	rdfs:label	de	Klein für das Gestationsalter	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Small foramen magnum	HP:0002677	rdfs:label	de	Kleines Foramen magnum	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Small forehead	HP:0000350	rdfs:label	de	Schmale Stirn	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Small forehead	HP:0000350	rdfs:label	de	Kleine Stirn	CANDIDATE	anthropic:claude-opus-5-5	ALGORITHM	2026-11-12	duplicate label fix (#63)
 en	Small hand	HP:0200055	rdfs:label	de	Kleine Hand	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Small hypothenar eminence	HP:0010487	rdfs:label	de	Kleiner Hypothenar-Eminus	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Small intestinal perforation	HP:0031370	rdfs:label	de	Dünndarmperforation	OFFICIAL	orcid:0000-0002-9746-4412	DOMAIN_EXPERT	2024-12-10	
@@ -3200,7 +3200,7 @@ en	Subependymal nodules	HP:0009716	rdfs:label	de	Subependymale Knötchen	CANDIDA
 en	Subglottic laryngitis	HP:0033000	rdfs:label	de	Subglottische Laryngitis	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Subglottic stenosis	HP:0001607	rdfs:label	de	Subglottische Stenose	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
 en	Subluxation of metacarpal phalangeal joints	HP:0004294	rdfs:label	de	Subluxation der Zehengrundgelenke	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Submucous cleft hard palate	HP:0000176	rdfs:label	de	Submuköse Gaumenspalte	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Submucous cleft hard palate	HP:0000176	rdfs:label	de	Submuköse Spalte des harten Gaumens	CANDIDATE	anthropic:claude-opus-5-5	ALGORITHM	2026-11-12	duplicate label fix (#63)
 en	Submucous cleft of soft and hard palate	HP:0410031	rdfs:label	de	Submuköse Spaltung des weichen und harten Gaumens	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Submucous cleft palate	HP:5201016	rdfs:label	de	Submuköse Gaumenspalte	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
 en	Submucous cleft soft palate	HP:0011819	rdfs:label	de	Submuköse Weichgaumenspalte	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -3473,8 +3473,8 @@ en	Wide anterior fontanel	HP:0000260	rdfs:label	de	Breite vordere Fontanelle	CAN
 en	Wide cavum septum pellucidum	HP:0034964	rdfs:label	de	Breites Cavum septum pellucidum	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Wide intermamillary distance	HP:0006610	rdfs:label	de	Großer Intermamillarabstand	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Wide mouth	HP:0000154	rdfs:label	de	Breiter Mund	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Wide nasal base	HP:0012810	rdfs:label	de	Breite Nasenwurzel	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Wide nasal bridge	HP:0000431	rdfs:label	de	Breiter Nasenrücken	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Wide nasal base	HP:0012810	rdfs:label	de	Breite Nasenbasis	CANDIDATE	anthropic:claude-opus-5-5	ALGORITHM	2026-11-12	duplicate label fix (#63)
+en	Wide nasal bridge	HP:0000431	rdfs:label	de	Breite Nasenwurzel	CANDIDATE	anthropic:claude-opus-5-5	ALGORITHM	2026-11-12	duplicate label fix (#63)
 en	Wide nasal ridge	HP:0012811	rdfs:label	de	Breiter Nasenrücken	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Wide nose	HP:0000445	rdfs:label	de	Breite Nase	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Wide pubic symphysis	HP:0003183	rdfs:label	de	Breite Schambeinfuge	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
