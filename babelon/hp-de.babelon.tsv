@@ -2313,7 +2313,7 @@ en	Narrow mouth	HP:0000160	rdfs:label	de	Enger Mund	CANDIDATE	DeepL	ALGORITHM	20
 en	Narrow nail	HP:0011313	rdfs:label	de	Schmaler Nagel	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Narrow naris	HP:0009933	rdfs:label	de	Enge Nasenlöcher	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Narrow nasal bridge	HP:0000446	rdfs:label	de	Schmale Nasenwurzel	CANDIDATE	anthropic:claude-opus-5-5	ALGORITHM	2026-11-12	duplicate label fix (#63)
-en	Narrow nasal ridge	HP:0000418	rdfs:label	de	Enger Nasenrücken	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Narrow nasal ridge	HP:0000418	rdfs:label	de	Schmaler Nasenrücken	CANDIDATE	anthropic:claude-opus-5-5	ALGORITHM	2026-11-17	review of #65 (@schonbej)
 en	Narrow nose	HP:0000460	rdfs:label	de	Schmale Nase	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Narrow palate	HP:0000189	rdfs:label	de	Enger Gaumen	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Narrow palm	HP:0004283	rdfs:label	de	Schmale Handfläche	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
