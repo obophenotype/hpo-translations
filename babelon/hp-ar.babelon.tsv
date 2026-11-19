@@ -2582,7 +2582,7 @@ en	Absent neutrophil specific granules	HP:0012551	rdfs:label	ar	غياب الح�
 en	Absent nipple	HP:0002561	rdfs:label	ar	الحلمة الغائبة	OFFICIAL	orcid:0009-0006-2085-331X	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Absent or minimally ossified vertebral bodies	HP:0004599	rdfs:label	ar	الأجسام الفقرية الغائبة أو قليلة التحجر	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Absent ossification of calvaria	HP:0005623	rdfs:label	ar	عدم وجود تعظم غائب في العجل	OFFICIAL	orcid:0009-0006-2085-331X	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
-en	Absent ossification of capital femoral epiphysis	HP:0008820	rdfs:label	ar	غياب التعظم في مشاش عظم الفخذ الكبير	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
+en	Absent ossification of capital femoral epiphysis	HP:0008820	rdfs:label	ar	عدم التعظم في مشاشة رأس عظم الفخذ	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Absent ossification of cervical vertebral bodies	HP:0005885	rdfs:label	ar	غياب التعظم في أجسام الفقرات العنقية	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
 en	Absent ossification of the trapezium	HP:0045002	rdfs:label	ar	غياب التعظم في شبه المنحرف	OFFICIAL	orcid:0009-0009-9917-9269	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Absent ossification of thoracic vertebral bodies	HP:0012792	rdfs:label	ar	غياب التعظم في الأجسام الفقرية الصدرية	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
@@ -2656,7 +2656,7 @@ en	Absent vertebral body mineralization	HP:0004605	rdfs:label	ar	عدم تمعد
 en	Absent vestibular function	HP:0008555	rdfs:label	ar	غياب الوظيفة الدهليزية	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Absent zona pellucida	HP:6000328	rdfs:label	ar	المنطقة الصافية الغائبة	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
 en	Absent/hypoplastic coccyx	HP:0008436	rdfs:label	ar	العصعص الغائب/العصعص الغائر	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
-en	Absent/hypoplastic paranasal sinuses	HP:0005453	rdfs:label	ar	الجيوب الأنفية الأنفية الغائبة/المتضخمة	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
+en	Absent/hypoplastic paranasal sinuses	HP:0005453	rdfs:label	ar	انعدام/نقص تنسج الجيوب الأنفية المجاورة للأنف	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Absent/shortened dynein arms	HP:0200106	rdfs:label	ar	أذرع الداينين الغائبة/المقصورة	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Absent/shortened outer dynein arms	HP:0200109	rdfs:label	ar	أذرع الداينين الخارجية الغائبة/المقصّرة	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Absolute eccentric fixation	HP:0500072	rdfs:label	ar	التثبيت اللامركزي المطلق	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
@@ -5547,7 +5547,7 @@ en	Concomitant strabismus	HP:0025069	rdfs:label	ar	الحول المصاحب	OFF
 en	Conductive hearing impairment	HP:0000405	rdfs:label	ar	ضعف السمع التوصيلي	OFFICIAL	orcid:0009-0006-2085-331X	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Cone dystrophy	HP:0008020	rdfs:label	ar	الحثل المخروطي	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
 en	Cone monochromacy	HP:0011517	rdfs:label	ar	أحادية اللون المخروطية	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	medical Genetics Studnet
-en	Cone-shaped capital femoral epiphysis	HP:0008789	rdfs:label	ar	مشاش عظم الفخذ الكبير المخروطي الشكل	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
+en	Cone-shaped capital femoral epiphysis	HP:0008789	rdfs:label	ar	شكل مخروطي في مشاشة رأس عظم الفخذ	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Cone-shaped distal radial epiphysis	HP:0004000	rdfs:label	ar	المشاش الكعبري القاصي المخروطي الشكل	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Cone-shaped distal tibial epiphysis	HP:6000778	rdfs:label	ar	مشاش الظنبوب القاصي مخروطي الشكل	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
 en	Cone-shaped epiphyses fused within their metaphyses	HP:0005066	rdfs:label	ar	مشاشيات مخروطية الشكل مخروطية الشكل ملتحمة داخل مشاشياتها	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
@@ -6086,7 +6086,7 @@ en	Cytochrome C oxidase-negative muscle fibers	HP:0003688	rdfs:label	ar	أليا
 en	Cytokine storm	HP:0033041	rdfs:label	ar	عاصفة السيتوكين الخلوي	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Cytologic atypia in mantle cells	HP:0020270	rdfs:label	ar	اللانمطية الخلوية في خلايا الوشاح	OFFICIAL	orcid:0009-0006-2085-331X	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Cytomegalovirus colitis	HP:0033431	rdfs:label	ar	التهاب القولون الفيروسي المضخم للخلايا	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
-en	Cytoplasmic antineutrophil antibody positivity	HP:0032230	rdfs:label	ar	إيجابية الأجسام المضادة السيتوبلازمية المضادة للمضادات السيتوبلازمية	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
+en	Cytoplasmic antineutrophil antibody positivity	HP:0032230	rdfs:label	ar	إيجابية الأجسام المضادة السيتوبلازمية للعدلات	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	D-2-hydroxyglutaric acidemia	HP:0040146	rdfs:label	ar	د-2-هيدروكسي هيدروكسي جلوتاريك حمض الدوديك	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	D-2-hydroxyglutaric aciduria	HP:0012321	rdfs:label	ar	بوريا حمض د-2-هيدروكسي جلوتاريك	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Dacrolith	HP:6000131	rdfs:label	ar	داكروليث	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
@@ -6289,7 +6289,7 @@ en	Decreased circulating ferritin concentration	HP:0012343	rdfs:label	ar	انخ�
 en	Decreased circulating fetuin A concentration	HP:0033306	rdfs:label	ar	انخفاض تركيز الفيتوين أ في الدورة الدموية	OFFICIAL	orcid:0009-0006-2085-331X	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Decreased circulating ficolin 3 concentration	HP:6000189	rdfs:label	ar	انخفاض تركيز الفايكولين 3 في الدورة الدموية	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Decreased circulating follicle stimulating hormone concentration	HP:0030341	rdfs:label	ar	انخفاض تركيز الهرمون المنبه للجريب في الدورة الدموية	OFFICIAL	orcid:0009-0006-2085-331X	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
-en	Decreased circulating free T3	HP:0032210	rdfs:label	ar	انخفاض في الدورة الدموية الحرة T3	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
+en	Decreased circulating free T3	HP:0032210	rdfs:label	ar	تناقص تركيز T3 الحر في الدم	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Decreased circulating free T4 concentration	HP:0033078	rdfs:label	ar	انخفاض تركيز T4 الحر في الدورة الدموية	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Decreased circulating free fatty acid level	HP:0040299	rdfs:label	ar	انخفاض مستوى الأحماض الدهنية الحرة في الدورة الدموية	OFFICIAL	orcid:0009-0006-2085-331X	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Decreased circulating globulin level	HP:0032312	rdfs:label	ar	انخفاض مستوى الجلوبيولين في الدورة الدموية	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
@@ -6654,7 +6654,7 @@ en	Delayed epiphyseal ossification	HP:0002663	rdfs:label	ar	تأخر تعظم ا
 en	Delayed eruption of permanent teeth	HP:0000696	rdfs:label	ar	تأخر بزوغ الأسنان الدائمة	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Delayed eruption of primary teeth	HP:0000680	rdfs:label	ar	تأخر بزوغ الأسنان الابتدائية	OFFICIAL	orcid:0009-0006-2085-331X	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Delayed eruption of teeth	HP:0000684	rdfs:label	ar	تأخر بزوغ الأسنان	OFFICIAL	orcid:0009-0006-2085-331X	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
-en	Delayed femoral head ossification	HP:0008829	rdfs:label	ar	تأخر تعظم رأس الفخذ المتأخر	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
+en	Delayed femoral head ossification	HP:0008829	rdfs:label	ar	تأخر تعظم رأس الفخذ	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Delayed fine motor development	HP:0010862	rdfs:label	ar	تأخر النمو الحركي الدقيق	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Delayed fracture healing	HP:0032537	rdfs:label	ar	تأخر التئام الكسور	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Delayed gross motor development	HP:0002194	rdfs:label	ar	تأخر النمو الحركي الإجمالي	OFFICIAL	orcid:0009-0009-9917-9269	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
@@ -6663,7 +6663,7 @@ en	Delayed menarche	HP:0012569	rdfs:label	ar	تأخر الدورة الشهري�
 en	Delayed myelination	HP:0012448	rdfs:label	ar	تأخر النخاع الشوكي	OFFICIAL	orcid:0009-0006-2085-331X	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Delayed onset bleeding	HP:0040232	rdfs:label	ar	النزيف المتأخر في الظهور	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Delayed ossification of carpal bones	HP:0001216	rdfs:label	ar	تأخر تعظم عظام الرسغ المتأخر	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
-en	Delayed ossification of pubic rami	HP:0008785	rdfs:label	ar	تأخر تعظم عظام العانة المتأخرة	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
+en	Delayed ossification of pubic rami	HP:0008785	rdfs:label	ar	تأخر التعظم في فروع العانة	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Delayed ossification of the clavicle	HP:6000874	rdfs:label	ar	تأخر تعظم الترقوة في الترقوة	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Delayed ossification of the hand bones	HP:0004052	rdfs:label	ar	تأخر تعظّم عظام اليدين	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
 en	Delayed ossification of the sacrum	HP:0025371	rdfs:label	ar	تأخر تعظم العجز المتأخر	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
@@ -6676,7 +6676,7 @@ en	Delayed patellar ossification	HP:0006454	rdfs:label	ar	تأخر تعظم ال
 en	Delayed peripheral myelination	HP:0011401	rdfs:label	ar	تأخر النخاع المحيطي المتأخر	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Delayed phalangeal epiphyseal ossification	HP:0006016	rdfs:label	ar	تأخر التعظم المشاش السلامي السلامي	OFFICIAL	orcid:0009-0009-9917-9269	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
 en	Delayed pneumatization of the mastoid process	HP:0005906	rdfs:label	ar	تأخر تنفُّس الخشاء في الخشاء	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
-en	Delayed proximal femoral epiphyseal ossification	HP:0008828	rdfs:label	ar	تأخر التعظم المشاش الفخذي الداني القريب	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
+en	Delayed proximal femoral epiphyseal ossification	HP:0008828	rdfs:label	ar	التأخر في تعظم المشاش الفخذي القريب	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Delayed puberty	HP:0000823	rdfs:label	ar	تأخر سن البلوغ	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
 en	Delayed pubic bone ossification	HP:0008788	rdfs:label	ar	تأخر تعظم عظام العانة	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
 en	Delayed recoil upon stretching of skin	HP:0025087	rdfs:label	ar	ارتداد متأخر عند تمدد الجلد	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
@@ -7345,7 +7345,7 @@ en	Early cutaneous photosensitivity	HP:0007396	rdfs:label	ar	حساسية جلد
 en	Early inspiratory crackles	HP:0031997	rdfs:label	ar	الخشخشة الشهيقية المبكرة	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Early onset absence seizures	HP:0011152	rdfs:label	ar	نوبات الغياب المبكرة	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Early onset of sexual maturation	HP:0100000	rdfs:label	ar	البداية المبكرة للنضج الجنسي	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
-en	Early ossification of capital femoral epiphyses	HP:0008797	rdfs:label	ar	التعظم المبكر لمشاش عظم الفخذ الكبير	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
+en	Early ossification of capital femoral epiphyses	HP:0008797	rdfs:label	ar	التعظم المبكر لمشاشات رؤوس عظام الفخذ	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Early progressive calcific cardiac valvular disease	HP:0006694	rdfs:label	ar	مرض الصمامات القلبية التكلسي التدريجي المبكر	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Early satiety	HP:0033842	rdfs:label	ar	الشبع المبكر	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Early young adult onset	HP:0025708	rdfs:label	ar	بداية البلوغ المبكر للشباب	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
@@ -8524,7 +8524,7 @@ en	Femoral neck fracture	HP:6000655	rdfs:label	ar	كسر في عنق الفخذ	
 en	Femoral nerve distribution	HP:6001136	rdfs:label	ar	توزيع العصب الفخذي	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Femoral osteopoikilosis	HP:6000943	rdfs:label	ar	هشاشة العظام الفخذي	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Femoral osteosclerosis	HP:6000708	rdfs:label	ar	تصلب العظام الفخذي	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
-en	Femoral retroversion	HP:0008796	rdfs:label	ar	ارتداد الفخذ إلى الوراء	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
+en	Femoral retroversion	HP:0008796	rdfs:label	ar	انكفاء خلفي في عظم الفخذ	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Femoral spur	HP:0031171	rdfs:label	ar	الحافز الفخذي	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Femoroacetabular impingement	HP:0030883	rdfs:label	ar	الاصطدام المفصلي الفخذي التجاعي	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
 en	Femur fracture	HP:0031846	rdfs:label	ar	كسر في عظم الفخذ	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
@@ -8642,7 +8642,7 @@ en	Finger pain	HP:0030837	rdfs:label	ar	ألم الأصابع	OFFICIAL	orcid:000
 en	Finger swelling	HP:0025131	rdfs:label	ar	تورم الأصابع	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
 en	Finger symphalangism	HP:0009700	rdfs:label	ar	سيمفالية الأصابع	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Finger syndactyly	HP:0006101	rdfs:label	ar	ارتفاق الأصابع	OFFICIAL	orcid:0009-0009-9917-9269	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
-en	Fingernail dysplasia	HP:0100798	rdfs:label	ar	خلل تنسج الأظافر	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
+en	Fingernail dysplasia	HP:0100798	rdfs:label	ar	خلل تنسجي في أظافر اليد	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Fingerpad telangiectases	HP:0006107	rdfs:label	ar	توسع الشعيرات الدموية في الأصابع	OFFICIAL	orcid:0009-0009-9917-9269	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Fingerprint bodies	HP:0034508	rdfs:label	ar	أجسام بصمات الأصابع	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Fingerprint intracellular accumulation of autofluorescent lipopigment storage material	HP:0003208	rdfs:label	ar	تراكم بصمات الأصابع داخل الخلايا من مادة تخزين الصبغة الشحمية ذاتية التألق	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
@@ -9843,7 +9843,7 @@ en	Hip dysplasia	HP:0001385	rdfs:label	ar	خلل التنسج الوركي	OFFIC
 en	Hip flexor weakness	HP:0012515	rdfs:label	ar	ضعف عضلة الورك المثنية	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
 en	Hip internal rotation contracture	HP:0034993	rdfs:label	ar	تقلص الدوران الداخلي للورك	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Hip joint hypermobility	HP:0045087	rdfs:label	ar	فرط حركة مفصل الورك	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
-en	Hip osteoarthritis	HP:0008843	rdfs:label	ar	الفصال العظمي المفصلي الوركي	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
+en	Hip osteoarthritis	HP:0008843	rdfs:label	ar	الفصال العظمي في مفصل الورك	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Hip pain	HP:0030838	rdfs:label	ar	ألم الورك	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Hip subluxation	HP:0030043	rdfs:label	ar	خلع الورك الجزئي	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
 en	Hippocampal atrophy	HP:0410170	rdfs:label	ar	ضمور الحصين	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
@@ -10212,7 +10212,7 @@ en	Hypochloremic metabolic alkalosis	HP:0005977	rdfs:label	ar	القلاء ال�
 en	Hypochloriduria	HP:0012601	rdfs:label	ar	هيبوكلوريد البول	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
 en	Hypocholesterolemia	HP:0003146	rdfs:label	ar	نقص كوليسترول الدم	OFFICIAL	orcid:0009-0006-2085-331X	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Hypochondriac delusion	HP:5200425	rdfs:label	ar	الوهم الوسواسي	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
-en	Hypochromia	HP:0032231	rdfs:label	ar	قصور اللونية	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
+en	Hypochromia	HP:0032231	rdfs:label	ar	نقص صباغ كريات الدم الحمراء	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Hypochromic anemia	HP:0001931	rdfs:label	ar	فقر الدم الناقص الصبغي	OFFICIAL	orcid:0009-0006-2085-331X	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Hypochromic microcytic anemia	HP:0004840	rdfs:label	ar	فقر الدم ناقص الصبغيات الدقيقة	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Hypocitraturia	HP:0012405	rdfs:label	ar	قصور البيلة القطنية	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
@@ -10375,13 +10375,13 @@ en	Hypoplastic colon	HP:0005210	rdfs:label	ar	القولون ناقص التنس
 en	Hypoplastic dermoepidermal hemidesmosomes	HP:0020117	rdfs:label	ar	هيموسومات جلدية جلدية جلدية ناقصة التنسج	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
 en	Hypoplastic distal humeri	HP:0005025	rdfs:label	ar	العضد القاصي ناقص التنسج	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Hypoplastic distal radial epiphyses	HP:0006386	rdfs:label	ar	المشاش الكعبري القاصي ناقص التنسج	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
-en	Hypoplastic distal segments of scapulae	HP:0006631	rdfs:label	ar	الأجزاء البعيدة الناقصة التنسج من الكتف	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
+en	Hypoplastic distal segments of scapulae	HP:0006631	rdfs:label	ar	نقص تنسج الأجزاء البعيدة من لوح الكتف	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Hypoplastic facial bones	HP:0002692	rdfs:label	ar	عظام الوجه الناقصة التنسج	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
 en	Hypoplastic female external genitalia	HP:0012815	rdfs:label	ar	أعضاء تناسلية خارجية أنثوية ناقصة التنسج	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
 en	Hypoplastic fetal nasal bone	HP:0025707	rdfs:label	ar	عظمة الأنف الجنينية الناقصة التنسج	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Hypoplastic fifth fingernail	HP:0008398	rdfs:label	ar	ظفر خامس ناقص التنسج	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
 en	Hypoplastic fifth toenail	HP:0011937	rdfs:label	ar	ظفر القدم الخامس ناقص التنسج	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
-en	Hypoplastic fingernail	HP:0001804	rdfs:label	ar	أظافر ناقصة التنسج	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
+en	Hypoplastic fingernail	HP:0001804	rdfs:label	ar	ظفر إصبع ناقص التنسج	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Hypoplastic frontal sinuses	HP:0002738	rdfs:label	ar	الجيوب الجبهية الجبهية الناقصة التنسج	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Hypoplastic heart	HP:0001961	rdfs:label	ar	القلب ناقص التنسج	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Hypoplastic helices	HP:0008589	rdfs:label	ar	الحلزونات ناقصة التنسج	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
@@ -10392,7 +10392,7 @@ en	Hypoplastic iliac wing	HP:0002866	rdfs:label	ar	الجناح الحرقفي �
 en	Hypoplastic inferior ilia	HP:0008821	rdfs:label	ar	الحرقفة السفلى ناقصة التنسج	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Hypoplastic iris stroma	HP:0007990	rdfs:label	ar	سدى القزحية الناقص التنسج	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
 en	Hypoplastic ischia	HP:0003175	rdfs:label	ar	نقص التنسج الإسكيمية	OFFICIAL	orcid:0009-0006-2085-331X	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
-en	Hypoplastic ischiopubic ramus	HP:0008822	rdfs:label	ar	ضلع ناقص التنسج الإسكيوباني	OFFICIAL	orcid:0009-0009-9917-9269	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
+en	Hypoplastic ischiopubic ramus	HP:0008822	rdfs:label	ar	فرع العانة الإسكي ناقص التنسج	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Hypoplastic labia majora	HP:0000059	rdfs:label	ar	الشفرين الكبيرين ناقصي التنسج نقص تنسج الشفرين الكبيرين	OFFICIAL	orcid:0009-0009-9917-9269	DOMAIN_EXPERT	2025-01-16	medical Genetics Studnet
 en	Hypoplastic labia minora	HP:0000064	rdfs:label	ar	نقص تنسج الشفرين الصغيرين	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
 en	Hypoplastic lacrimal duct	HP:0007900	rdfs:label	ar	القناة الدمعية ناقصة التنسج	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
@@ -10415,7 +10415,7 @@ en	Hypoplastic pubic ramus	HP:0008830	rdfs:label	ar	نقص تنسج عانة ن�
 en	Hypoplastic pulmonary veins	HP:0005304	rdfs:label	ar	الأوردة الرئوية ناقصة التنسج	OFFICIAL	orcid:0009-0006-2085-331X	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Hypoplastic radial head	HP:0003997	rdfs:label	ar	رأس شعاعي ناقص التنسج	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Hypoplastic right atrium	HP:0031294	rdfs:label	ar	الأذين الأيمن ناقص التنسج	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
-en	Hypoplastic right heart	HP:0010954	rdfs:label	ar	القلب الأيمن ناقص التنسج	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
+en	Hypoplastic right heart	HP:0010954	rdfs:label	ar	البطين الأيمن ناقص التنسج	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Hypoplastic sacral vertebrae	HP:0008475	rdfs:label	ar	الفقرات العجزية الناقصة التنسج	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Hypoplastic sacrum	HP:0004590	rdfs:label	ar	عجز ناقص التنسج	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Hypoplastic scapulae	HP:0000882	rdfs:label	ar	الكتف الناقص التنسج	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
@@ -10423,7 +10423,7 @@ en	Hypoplastic spinal processes	HP:0008460	rdfs:label	ar	عمليات العمو
 en	Hypoplastic spleen	HP:0006270	rdfs:label	ar	طحال ناقص التنسج	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
 en	Hypoplastic superior helix	HP:0008559	rdfs:label	ar	اللولب العلوي ناقص التنسج	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Hypoplastic sweat glands	HP:0007387	rdfs:label	ar	الغدد العرقية ناقصة التنسج	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
-en	Hypoplastic thumbnail	HP:0012553	rdfs:label	ar	صورة مصغرة ناقصة التنسج	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
+en	Hypoplastic thumbnail	HP:0012553	rdfs:label	ar	ظفر الإبهام ناقص التنسج	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Hypoplastic toenails	HP:0001800	rdfs:label	ar	أظافر القدم الناقصة التنسج	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
 en	Hypoplastic tricuspid valve	HP:0011573	rdfs:label	ar	الصمام ثلاثي الشرفات ناقص التنسج	OFFICIAL	orcid:0009-0006-2085-331X	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Hypoplastic trochlear nerve	HP:0034965	rdfs:label	ar	عصب ثلاثي القوقعة ناقص التنسج	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
@@ -10494,7 +10494,7 @@ en	Ileoileal intussusception	HP:0033309	rdfs:label	ar	الانغلاف اللف�
 en	Ileus	HP:0002595	rdfs:label	ar	اللفافة	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Iliac arterial calcification	HP:0031304	rdfs:label	ar	تكلس الشرايين الحرقفي	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Iliac artery aneurysm	HP:4000067	rdfs:label	ar	تمدد الأوعية الدموية في الشريان الحرقفي	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
-en	Iliac crest serration	HP:0008786	rdfs:label	ar	تسنين العرف الحرقفي	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
+en	Iliac crest serration	HP:0008786	rdfs:label	ar	تسنن العرف الحرقفي	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Iliac horns	HP:0009780	rdfs:label	ar	قرون الحرقفة	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Iliac vein compression	HP:6001099	rdfs:label	ar	انضغاط الوريد الحرقفي	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Illusions	HP:5200205	rdfs:label	ar	أوهام	OFFICIAL	orcid:0009-0009-9917-9269	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
@@ -10815,7 +10815,7 @@ en	Increased circulating apolipoprotein circulation	HP:0033460	rdfs:label	ar	ز�
 en	Increased circulating arachidonic acid concentration	HP:0020197	rdfs:label	ar	زيادة تركيز حمض الأراكيدونيك في الدورة الدموية	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
 en	Increased circulating argininosuccinic acid	HP:0032491	rdfs:label	ar	زيادة حمض الأرجينينوسوكسينيك في الدورة الدموية	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
 en	Increased circulating aspartic acid concentration	HP:0500159	rdfs:label	ar	زيادة تركيز حمض الأسبارتيك في الدورة الدموية	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
-en	Increased circulating band cell count	HP:0032239	rdfs:label	ar	زيادة عدد خلايا النطاق الدائري	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
+en	Increased circulating band cell count	HP:0032239	rdfs:label	ar	زيادة عدد العدلات الشريطية في الدم	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Increased circulating beta-2-microglobulin level	HP:0025346	rdfs:label	ar	زيادة مستوى بيتا 2 ميكروغلوبولين بيتا 2 في الدورة الدموية	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Increased circulating beta-C-terminal telopeptide concentration	HP:0031425	rdfs:label	ar	زيادة تركيز تيلوبيبتيد بيتا-ج-أطراف بيتا-ج في الدورة الدموية	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
 en	Increased circulating beta-carotene concentration	HP:0430074	rdfs:label	ar	زيادة تركيز بيتا كاروتين في الدورة الدموية	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
@@ -10877,7 +10877,7 @@ en	Increased circulating lipoprotein lipase concentration	HP:0033478	rdfs:label	
 en	Increased circulating mannose-binding protein concentration	HP:0032306	rdfs:label	ar	زيادة تركيز البروتين المرتبط بالمانوز في الدورة الدموية	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Increased circulating mead acid level	HP:0020148	rdfs:label	ar	زيادة مستوى حمض الميد في الدورة الدموية	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Increased circulating metamyelocyte count	HP:0032238	rdfs:label	ar	زيادة عدد الخلايا الميتاميلوسايتية في الدورة الدموية	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
-en	Increased circulating myelocyte count	HP:0032237	rdfs:label	ar	زيادة عدد الكريات النخاعية في الدورة الدموية	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
+en	Increased circulating myelocyte count	HP:0032237	rdfs:label	ar	زيادة عدد الخلايا النقوية في الدم	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Increased circulating myristoleate level	HP:0025628	rdfs:label	ar	زيادة مستوى الميريستوليت في الدورة الدموية	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Increased circulating nicotinurate level	HP:0410206	rdfs:label	ar	زيادة مستوى النيكوتينورات في الدورة الدموية	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
 en	Increased circulating octadecanoate level	HP:0025627	rdfs:label	ar	زيادة مستوى الأوكتاديكانوات في الدورة الدموية	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
@@ -11171,7 +11171,7 @@ en	Increased urinary phosphoserine level	HP:0032405	rdfs:label	ar	زيادة م�
 en	Increased urinary polyhexose	HP:0410345	rdfs:label	ar	زيادة نسبة البولي هكسوز البول	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
 en	Increased urinary porphobilinogen	HP:0012217	rdfs:label	ar	زيادة نسبة البورفوبيلينوجين في البول	OFFICIAL	orcid:0009-0009-9917-9269	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Increased urinary potassium	HP:0003081	rdfs:label	ar	زيادة البوتاسيوم في البول	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
-en	Increased urinary renal tubular epithelial cell count	HP:0032213	rdfs:label	ar	زيادة عدد الخلايا الظهارية الأنبوبية البولية الأنبوبية البولية	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
+en	Increased urinary renal tubular epithelial cell count	HP:0032213	rdfs:label	ar	زيادة عدد خلايا الظهارة الأنبوبية الكلوية في البول	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Increased urinary sedoheptulose	HP:0025157	rdfs:label	ar	زيادة السيدوهيبتولوز في البول	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Increased urinary squamous epithelial cell count	HP:0032212	rdfs:label	ar	زيادة عدد الخلايا الظهارية الحرشفية البولية	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Increased urinary sulfate	HP:0012613	rdfs:label	ar	زيادة كبريتات البول	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
@@ -11211,7 +11211,7 @@ en	Indeterminate ventricular axis	HP:0033570	rdfs:label	ar	محور بطيني �
 en	Index finger dermatoglyphic radial loop	HP:0007566	rdfs:label	ar	الحلقة الشعاعية الجلدية الجلدية لإصبع السبابة	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
 en	Indifference to social norms	HP:5200124	rdfs:label	ar	اللامبالاة بالأعراف الاجتماعية	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Induced vaginal delivery	HP:0030369	rdfs:label	ar	الولادة المهبلية المستحثة	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
-en	Indurated nodule	HP:0032217	rdfs:label	ar	عقيدات غير متضخمة	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
+en	Indurated nodule	HP:0032217	rdfs:label	ar	عقدة متصلبة	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Ineffective esophageal peristalsis	HP:0031857	rdfs:label	ar	التمعج المريئي غير الفعال	OFFICIAL	orcid:0009-0006-2085-331X	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
 en	Inertia	HP:0030216	rdfs:label	ar	القصور الذاتي	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Infancy onset short-trunk short stature	HP:0011406	rdfs:label	ar	بداية الطفولة قصر القامة قصير الجذع قصير القامة	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
@@ -11300,7 +11300,7 @@ en	Intercostal muscle weakness	HP:0004878	rdfs:label	ar	ضعف العضلات ا
 en	Intercostal retractions	HP:0030864	rdfs:label	ar	التقلصات بين الضلوع	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
 en	Intercrural pterygium	HP:0009757	rdfs:label	ar	الظفرة بين الجافية	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Interdigital loops	HP:0100888	rdfs:label	ar	الحلقات البينية الرقمية	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
-en	Interface hepatitis	HP:0032220	rdfs:label	ar	التهاب الكبد البيني	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
+en	Interface hepatitis	HP:0032220	rdfs:label	ar	التهاب السطح الفاصل للكبد	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Interhemispheric cyst	HP:0032327	rdfs:label	ar	كيسة بين نصفي الكرة المخية	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
 en	Interhypothalamic adhesion	HP:0033105	rdfs:label	ar	الالتصاق بين المهاد	OFFICIAL	orcid:0009-0006-2085-331X	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Interictal EEG abnormality	HP:0025373	rdfs:label	ar	شذوذ تخطيط كهربية الدماغ بين النوبات	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
@@ -11489,7 +11489,7 @@ en	Iron accumulation in substantia nigra	HP:0012678	rdfs:label	ar	تراكم ا�
 en	Iron deficiency anemia	HP:0001891	rdfs:label	ar	فقر الدم الناجم عن نقص الحديد	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
 en	Irregular P-P interval	HP:6001087	rdfs:label	ar	فترة P-P غير منتظمة	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Irregular RR interval	HP:6001086	rdfs:label	ar	فترة الاستجابة السريعة غير منتظمة	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
-en	Irregular acetabular roof	HP:0008833	rdfs:label	ar	سقف التجویف الحقي غير المنتظم	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
+en	Irregular acetabular roof	HP:0008833	rdfs:label	ar	سقف الحُق غير منتظم	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Irregular articular surfaces of the elbow joints	HP:0003945	rdfs:label	ar	الأسطح المفصلية غير المنتظمة لمفاصل المرفق	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
 en	Irregular astigmatism	HP:0031792	rdfs:label	ar	اللابؤرية غير المنتظمة	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
 en	Irregular capital femoral epiphysis	HP:0005041	rdfs:label	ar	عدم انتظام مشاش رأس الفخذ غير المنتظم	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
@@ -11819,7 +11819,7 @@ en	Laryngeal atresia	HP:0008750	rdfs:label	ar	رتق الحنجرة	OFFICIAL	orc
 en	Laryngeal calcification	HP:0008754	rdfs:label	ar	تكلس الحنجرة	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Laryngeal carcinoma	HP:0012118	rdfs:label	ar	سرطان الحنجرة	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Laryngeal cartilage malformation	HP:0008752	rdfs:label	ar	تشوه غضروف الحنجرة	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
-en	Laryngeal cleft	HP:0008751	rdfs:label	ar	شق الحنجرة المشقوق	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
+en	Laryngeal cleft	HP:0008751	rdfs:label	ar	شق في الحنجرة	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Laryngeal cyst	HP:0100640	rdfs:label	ar	كيسة الحنجرة	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
 en	Laryngeal dystonia	HP:0012049	rdfs:label	ar	خلل التوتر الحنجري	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Laryngeal edema	HP:0012027	rdfs:label	ar	وذمة الحنجرة	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
@@ -11834,7 +11834,7 @@ en	Laryngeal web	HP:0005950	rdfs:label	ar	شبكة الحنجرة	OFFICIAL	orcid
 en	Laryngomalacia	HP:0001601	rdfs:label	ar	تلين الحنجرة	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
 en	Laryngospasm	HP:0025425	rdfs:label	ar	تشنج الحنجرة	OFFICIAL	orcid:0009-0009-9917-9269	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Laryngotracheal stenosis	HP:0004894	rdfs:label	ar	تضيق الحنجرة والقصبة الهوائية	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
-en	Laryngotracheomalacia	HP:0008755	rdfs:label	ar	تلين الحنجرة الرغامي الحنجري	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
+en	Laryngotracheomalacia	HP:0008755	rdfs:label	ar	تليّن الحنجرة والقصبة الهوائية	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Late chronotype	HP:0031874	rdfs:label	ar	النمط الزمني المتأخر	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
 en	Late first trimester onset	HP:0034199	rdfs:label	ar	بداية الثلث الأول من الحمل المتأخر	OFFICIAL	orcid:0009-0006-2085-331X	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Late inspiratory crackles	HP:0031998	rdfs:label	ar	طقطقة شهيق متأخر في الشهيق	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
@@ -14212,7 +14212,7 @@ en	Pericentral scotoma	HP:0007761	rdfs:label	ar	الورم البقعي حول �
 en	Perifascicular muscle fiber atrophy	HP:0100296	rdfs:label	ar	ضمور الألياف العضلية حول الأوعية الدموية	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
 en	Perifissural pulmonary nodule	HP:0033613	rdfs:label	ar	عقدة رئوية حول الجافية الرئوية	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Perifollicular erythema	HP:0031286	rdfs:label	ar	حمامي حول الجريبات	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
-en	Perifollicular fibroma	HP:0032225	rdfs:label	ar	الورم الليفي حول الجريب الحويصلي	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
+en	Perifollicular fibroma	HP:0032225	rdfs:label	ar	ورم ليفي حول الجريب	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Perifollicular fibrosis	HP:0030054	rdfs:label	ar	التليف حول الحويصلة	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Perifollicular hyperkeratosis	HP:0007468	rdfs:label	ar	فرط التقرن حول الحويصلة	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
 en	Perifolliculitis	HP:0012322	rdfs:label	ar	التهاب حوائط حول الجريبات	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
@@ -14239,7 +14239,7 @@ en	Perineal hypospadias	HP:0000051	rdfs:label	ar	الإحليل التحتي ا�
 en	Perinephric abscess	HP:0032619	rdfs:label	ar	خراج حول الكلى	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Perinephric fluid collection	HP:0031226	rdfs:label	ar	تجميع السائل حول الحويصلة	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Perinephritis	HP:0012784	rdfs:label	ar	التهاب حوائط حول الكلية	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
-en	Perinuclear antineutrophil antibody positivity	HP:0032229	rdfs:label	ar	إيجابية الأجسام المضادة المضادة للمضادات حول النواة	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
+en	Perinuclear antineutrophil antibody positivity	HP:0032229	rdfs:label	ar	إيجابية الأجسام المضادة حول النواة للعدلات	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Perinuclear cardiomyocyte vacuolization	HP:0033997	rdfs:label	ar	تخلخل الخلايا العضلية القلبية حول النواة	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Periocular capillary hemangioma	HP:0500090	rdfs:label	ar	الورم الوعائي الشعري حول العين حول العين	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Periodic	HP:0025304	rdfs:label	ar	الدورية	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
@@ -15501,7 +15501,7 @@ en	Rectal perforation	HP:0031371	rdfs:label	ar	ثقب المستقيم	OFFICIAL	
 en	Rectal polyposis	HP:0100896	rdfs:label	ar	داء السلائل المستقيمي	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
 en	Rectal prolapse	HP:0002035	rdfs:label	ar	تدلي المستقيم	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
 en	Rectilinear intracellular accumulation of autofluorescent lipopigment storage material	HP:0003226	rdfs:label	ar	التراكم المستقيم داخل الخلايا لمواد تخزين الصبغات الشحمية ذاتية التألق	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
-en	Rectocele	HP:0100822	rdfs:label	ar	القيلة المستقيمة	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
+en	Rectocele	HP:0100822	rdfs:label	ar	قيلة مستقيمية	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Rectoperineal fistula	HP:0004792	rdfs:label	ar	الناسور المستقيمي الشرجي	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Rectoureteral fistula	HP:0034452	rdfs:label	ar	الناسور المستقيمي الحالب	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
 en	Rectourethral fistula	HP:0025407	rdfs:label	ar	الناسور المستقيمي الإحليلي	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
@@ -18039,7 +18039,7 @@ en	Toe hyperphalangy	HP:6000868	rdfs:label	ar	فرط فرط فرط فرط فرط
 en	Toe joint contracture	HP:0034675	rdfs:label	ar	تقلص مفصل إصبع القدم	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
 en	Toe pain	HP:0030841	rdfs:label	ar	ألم أصابع القدم	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Toe syndactyly	HP:0001770	rdfs:label	ar	ارتفاق الأصابع	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
-en	Toenail dysplasia	HP:0100797	rdfs:label	ar	خلل تنسج الأظافر	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
+en	Toenail dysplasia	HP:0100797	rdfs:label	ar	خلل تنسجي في أظافر القدم	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Toenail onycholysis	HP:0040040	rdfs:label	ar	انحلال أظافر الأظافر	OFFICIAL	orcid:0009-0006-2085-331X	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Tombstone-shaped proximal phalanges	HP:0006060	rdfs:label	ar	سلاميات دانية على شكل حجر المقابر	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Tongue atrophy	HP:0012473	rdfs:label	ar	ضمور اللسان	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
@@ -18520,7 +18520,7 @@ en	Undulate ribs	HP:0010561	rdfs:label	ar	أضلاع غير مستوية	OFFICIA
 en	Unesterified cholesterol accumulation in cultured fibroblasts	HP:6000158	rdfs:label	ar	تراكم الكوليسترول غير الأستريدي في الخلايا الليفية المستزرعة	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Unexplained fevers	HP:0001955	rdfs:label	ar	حمى غير مبررة	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Unfavorable response of muscle weakness to acetylcholine esterase inhibitors	HP:0030203	rdfs:label	ar	استجابة غير مواتية لضعف العضلات لمثبطات أستيل كولين استريز	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
-en	Ungual fibroma	HP:0100804	rdfs:label	ar	الورم الليفي غير العضلي	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
+en	Ungual fibroma	HP:0100804	rdfs:label	ar	ورم ليفي ظفري	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Unguarded tricuspid valve	HP:0030719	rdfs:label	ar	الصمام ثلاثي الشرفات غير المحمي	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
 en	Unhappy demeanor	HP:0031588	rdfs:label	ar	سلوك غير سعيد	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Uni- and bilateral multifocal epileptiform discharges	HP:0011190	rdfs:label	ar	تفريغات صرع أحادية وثنائية متعددة البؤر متعددة البؤر	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
@@ -18898,7 +18898,7 @@ en	Vulval varicose vein	HP:0100677	rdfs:label	ar	الدوالي الفرجية	O
 en	Vulvar abscess	HP:0033587	rdfs:label	ar	خراج الفرج	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
 en	Vulvar adenocarcinoma	HP:0030420	rdfs:label	ar	السرطان الغدي الفرجي الفرجي	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
 en	Vulvar hemangioma	HP:0410272	rdfs:label	ar	الورم الوعائي الفرجي	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
-en	Vulvar intraepithelial neoplasia	HP:0032202	rdfs:label	ar	الأورام داخل الظهارة الفرجية داخل الفرج	OFFICIAL	orcid:0009-0006-2085-331X	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
+en	Vulvar intraepithelial neoplasia	HP:0032202	rdfs:label	ar	تنشّؤ داخل الظهارة الفرجية	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Vulvar melanoma	HP:0030418	rdfs:label	ar	الورم الميلانيني الفرجي	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic counsoler
 en	Vulvar neoplasm	HP:0030416	rdfs:label	ar	أورام الفرج	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Genetic Counsoler
 en	Vulvodynia	HP:0030943	rdfs:label	ar	التهاب الفرج	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
@@ -18941,7 +18941,7 @@ en	Whole-immunoglobulin paraproteinemia	HP:0031050	rdfs:label	ar	الغلوبو�
 en	Whooping cough	HP:0031247	rdfs:label	ar	السعال الديكي	OFFICIAL	orcid:0009-0009-9917-9269	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Whorled	HP:6001050	rdfs:label	ar	ملتف	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Wide anterior fontanel	HP:0000260	rdfs:label	ar	عرض في مساحة الراس الامامية	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-05-14	Genetic Counsoler
-en	Wide capital femoral epiphyses	HP:0008784	rdfs:label	ar	مشاش عظم الفخذ الكبير العريض	OFFICIAL	orcid:0009-0009-6154-2296	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
+en	Wide capital femoral epiphyses	HP:0008784	rdfs:label	ar	توسع في مشاشات رؤوس عظام الفخذ	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Wide cavum septum pellucidum	HP:0034964	rdfs:label	ar	تجويف الحاجز الصافي العريض	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
 en	Wide cranial sutures	HP:0010537	rdfs:label	ar	الغرز القحفية العريضة	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Wide distal femoral metaphysis	HP:0006387	rdfs:label	ar	مشط الفخذ القاصي العريض	OFFICIAL	orcid:0009-0003-2024-0386	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
@@ -18978,7 +18978,7 @@ en	Widened atrophic scar	HP:0031158	rdfs:label	ar	اتساع الندبة الض
 en	Widened cerebellar subarachnoid space	HP:0012765	rdfs:label	ar	اتساع الحيز تحت العنكبوتية المخيخية	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Widened cerebral subarachnoid space	HP:0012766	rdfs:label	ar	اتساع المساحة تحت العنكبوتية الدماغية	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counsellor
 en	Widened distal phalanges	HP:0006200	rdfs:label	ar	السلاميات البعيدة المتسعة	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
-en	Widened greater sciatic notch	HP:0008798	rdfs:label	ar	اتساع الشق الوركي الأكبر	OFFICIAL	orcid:0009-0009-9917-9269	DOMAIN_EXPERT	2025-01-16	medical Genetics Studnet
+en	Widened greater sciatic notch	HP:0008798	rdfs:label	ar	اتساع في الثلمة الوركية العظمى	OFFICIAL	orcid:0000-0001-6816-2119	DOMAIN_EXPERT	2026-11-19	Corrected after review against the PAVS manually reviewed labels (PR #37)
 en	Widened interpedicular distance	HP:0012679	rdfs:label	ar	اتساع المسافة البينية	OFFICIAL	orcid:0009-0006-2085-331X	DOMAIN_EXPERT	2025-01-16	Biomedical Scientist
 en	Widened mediastinum	HP:0034501	rdfs:label	ar	اتساع المنصف	OFFICIAL	orcid:0009-0005-3510-7857	DOMAIN_EXPERT	2025-01-16	Medical Genetics Studnet
 en	Widened metacarpal shaft	HP:0006012	rdfs:label	ar	عمود المشط المتسع	OFFICIAL	orcid:0000-0002-9272-1168	DOMAIN_EXPERT	2025-01-16	Genetic Counselor
