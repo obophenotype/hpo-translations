@@ -304,6 +304,7 @@ en	Akinesia	HP:0002304	rdfs:label	de	Akinesie	OFFICIAL	orcid:0000-0002-0736-9199
 en	Albuminuria	HP:0012592	rdfs:label	de	Albuminurie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Alkaline urine	HP:0032944	rdfs:label	de	Alkalischer Urin	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Allergy	HP:0012393	rdfs:label	de	Allergie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Allodynia	HP:0012533	rdfs:label	de	Allodynie	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-23	
 en	Almond-shaped palpebral fissure	HP:0007874	rdfs:label	de	Mandelförmige Lidspalte	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
 en	Alobar holoprosencephaly	HP:0006988	rdfs:label	de	Alobäre Holoprosenzephalie	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
 en	Alopecia	HP:0001596	rdfs:label	de	Alopezie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -500,6 +501,7 @@ en	Basal ganglia gliosis	HP:0006999	rdfs:label	de	Basalganglien-Gliose	CANDIDATE
 en	Basal lamina onion bulb formation	HP:0003400	rdfs:label	de	Bildung von Zwiebelknollen in der Basallamina	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Basilar invagination	HP:0012366	rdfs:label	de	Basilaris-Invagination	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Beaking of vertebral bodies	HP:0004568	rdfs:label	de	Verknöcherung der Wirbelkörper	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Beau's lines	HP:0041093	rdfs:label	de	Beau-Reil-Furche	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-23	
 en	Beevor's sign	HP:0030664	rdfs:label	de	Beevor-Zeichen	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
 en	Bell-shaped thorax	HP:0001591	rdfs:label	de	Glockenförmiger Thorax	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Beta-EEG	HP:0011179	rdfs:label	de	Beta-EEG	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -530,7 +532,7 @@ en	Bilateral ptosis	HP:0001488	rdfs:label	de	Beidseitige Ptosis	CANDIDATE	DeepL	
 en	Bilateral radial aplasia	HP:0004977	rdfs:label	de	Bilaterale radiale Aplasie	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
 en	Bilateral renal hypoplasia	HP:0012584	rdfs:label	de	Bilaterale Nierenhypoplasie	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
 en	Bilateral sensorineural hearing impairment	HP:0008619	rdfs:label	de	Beidseitige Schallempfindungsschwerhörigkeit	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Bilateral single transverse palmar creases	HP:0007598	rdfs:label	de	Bilaterale einzelne transversale Palmarfalten	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Bilateral single transverse palmar creases	HP:0007598	rdfs:label	de	Vierfingerfurche an beiden Händen	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-23	
 en	Bilateral superior vena cava	HP:0033379	rdfs:label	de	Beidseitige Vena cava superior	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Bilateral talipes equinovarus	HP:0001776	rdfs:label	de	Beidseitige Talipes equinovarus	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Bilateral tonic-clonic seizure	HP:0002069	rdfs:label	de	Bilateraler tonisch-klonischer Anfall	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -699,6 +701,7 @@ en	Cervical agenesis	HP:0030008	rdfs:label	de	Zervikale Agenesie	CANDIDATE	DeepL
 en	Cervical instability	HP:0008462	rdfs:label	de	Zervikale Instabilität	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Cervical kyphosis	HP:0002947	rdfs:label	de	Halswirbelsäulenkyphose	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Cervical lymphadenopathy	HP:0025289	rdfs:label	de	Zervikale Lymphadenopathie	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
+en	Cervical motion tenderness	HP:6000107	rdfs:label	de	Portioschiebeschmerz	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-23	
 en	Cervical ribs	HP:0000891	rdfs:label	de	Halswirbelsäulenrippen	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Cervical spinal canal stenosis	HP:0008445	rdfs:label	de	Verengung des zervikalen Spinalkanals	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Cervical spine instability	HP:0010646	rdfs:label	de	Instabilität der Halswirbelsäule	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -1287,6 +1290,7 @@ en	Erythema	HP:0010783	rdfs:label	de	Erytheme	CANDIDATE	DeepL	ALGORITHM	2024-05-
 en	Erythematous papule	HP:0030350	rdfs:label	de	Erythematöse Papel	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Erythroderma	HP:0001019	rdfs:label	de	Erythrodermie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Erythroid hyperplasia	HP:0012132	rdfs:label	de	Erythroide Hyperplasie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Erythromelalgia	HP:0032147	rdfs:label	de	Erythromelalgie	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-23	
 en	Esodeviation	HP:0020045	rdfs:label	de	Esodeviation	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Esophageal atresia	HP:0002032	rdfs:label	de	Ösophagusatresie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Esophageal varix	HP:0002040	rdfs:label	de	Ösophagusvarizen	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -1369,7 +1373,7 @@ en	Flat occiput	HP:0005469	rdfs:label	de	Flaches Hinterhaupt	CANDIDATE	DeepL	ALG
 en	Flat sella turcica	HP:0100857	rdfs:label	de	Flache Sella turcica	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Flexion contracture	HP:0001371	rdfs:label	de	Beugekontraktur	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Flexion contracture of finger	HP:0012785	rdfs:label	de	Beugekontraktur der Finger	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Flushing	HP:0031284	rdfs:label	de	Rötung	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Flushing	HP:0031284	rdfs:label	de	Flush	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-23	
 en	Foam cells	HP:0003651	rdfs:label	de	Schaumzellen	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
 en	Foam cells with lamellar inclusion bodies	HP:0003609	rdfs:label	de	Schaumzellen mit lamellaren Einschlusskörpern	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Focal EEG discharges with secondary generalization	HP:0011188	rdfs:label	de	Fokale EEG-Entladungen mit sekundärer Generalisierung	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -1409,7 +1413,7 @@ en	Folliculitis	HP:0025084	rdfs:label	de	Follikulitis	CANDIDATE	DeepL	ALGORITHM	
 en	Food allergy	HP:0500093	rdfs:label	de	Nahrungsmittelallergie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Foot dorsiflexor weakness	HP:0009027	rdfs:label	de	Schwäche der Fußrückenmuskulatur	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Foot oligodactyly	HP:0001849	rdfs:label	de	Fuß-Oligodaktylie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Forearm	HP:6000299	rdfs:label	de	Unterarm	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Forearm	HP:6000299	rdfs:label	de	Unterarmschmerzen	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-23	
 en	Fractured elbow	HP:0041219	rdfs:label	de	Ellbogenfraktur	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
 en	Fragile skin	HP:0001030	rdfs:label	de	Brüchige Haut	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Freckling	HP:0001480	rdfs:label	de	Sommersprossen	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -2239,6 +2243,7 @@ en	Moderately reduced visual acuity	HP:0030515	rdfs:label	de	Mäßig reduzierte 
 en	Molar tooth sign on MRI	HP:0002419	rdfs:label	de	Backenzahnzeichen im MRT	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Molluscoid pseudotumors	HP:0000993	rdfs:label	de	Molluskoide Pseudotumore	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Molluscum contagiosum	HP:0032163	rdfs:label	de	Molluscum contagiosum	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Monochromacy	HP:0007803	rdfs:label	de	Monochromasie	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-23	
 en	Monocular strabismus	HP:0010877	rdfs:label	de	Monokularer Strabismus	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Monocytosis	HP:0012311	rdfs:label	de	Monozytose	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Monotonic speech	HP:0031435	rdfs:label	de	Monotone Sprache	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
@@ -2640,6 +2645,7 @@ en	Precocious atherosclerosis	HP:0004416	rdfs:label	de	Frühzeitige Atherosklero
 en	Precocious puberty	HP:0000826	rdfs:label	de	Vorzeitige Pubertät	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Precocious puberty in females	HP:0010465	rdfs:label	de	Vorzeitige Pubertät bei Frauen	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Precocious puberty in males	HP:0008185	rdfs:label	de	Vorzeitige Pubertät bei Männern	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Precordial pain	HP:0032141	rdfs:label	de	Präkordialschmerz	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-23	
 en	Pregnancy exposure	HP:0031437	rdfs:label	de	Exposition während der Schwangerschaft	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Prelingual sensorineural hearing impairment	HP:0000399	rdfs:label	de	Vorsprachliche Schallempfindungsschwerhörigkeit	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Premature adrenarche	HP:0012412	rdfs:label	de	Vorzeitige Nebennierenschwäche	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -2923,7 +2929,7 @@ en	Rhinitis	HP:0012384	rdfs:label	de	Schnupfen	CANDIDATE	DeepL	ALGORITHM	2024-05
 en	Rhizomelia	HP:0008905	rdfs:label	de	Rhizomelie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Rib fusion	HP:0000902	rdfs:label	de	Rippenfusion	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Rickets	HP:0002748	rdfs:label	de	Rachitis	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Ridged nail	HP:0001807	rdfs:label	de	Gezackter Nagel	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Ridged nail	HP:0001807	rdfs:label	de	Nagelrillen	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-23	
 en	Right aortic arch	HP:0012020	rdfs:label	de	Rechter Aortenbogen	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Right atrial enlargement	HP:0030718	rdfs:label	de	Vergrößerung des rechten Vorhofs	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Right bundle branch block	HP:0011712	rdfs:label	de	Rechtsschenkelblock	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -3071,7 +3077,7 @@ en	Sideroblastic anemia	HP:0001924	rdfs:label	de	Sideroblastische Anämie	CANDID
 en	Simple ear	HP:0020206	rdfs:label	de	Einfaches Ohr	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Simple febrile seizure	HP:0011171	rdfs:label	de	Einfacher Fieberkrampf	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Simplified gyral pattern	HP:0009879	rdfs:label	de	Vereinfachtes Gyralmuster	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Single transverse palmar crease	HP:0000954	rdfs:label	de	Einzelne transversale Palmarfalte	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Single transverse palmar crease	HP:0000954	rdfs:label	de	Vierfingerfurche	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-23	
 en	Single umbilical artery	HP:0001195	rdfs:label	de	Einfache Nabelschnurarterie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Single ventricle	HP:0001750	rdfs:label	de	Einzelner Ventrikel	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Sinus bradycardia	HP:0001688	rdfs:label	de	Sinusbradykardie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
@@ -3346,6 +3352,7 @@ en	Trigeminal neuralgia	HP:0100661	rdfs:label	de	Trigeminusneuralgie	OFFICIAL	or
 en	Triggered by physical trauma	HP:0031135	rdfs:label	de	Ausgelöst durch physisches Trauma	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Trigonocephaly	HP:0000243	rdfs:label	de	Trigonozephalie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Triphalangeal thumb	HP:0001199	rdfs:label	de	Dreifacher Daumen	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
+en	Tritanomaly	HP:0000552	rdfs:label	de	Tritanomalie	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-23	
 en	Truncal ataxia	HP:0002078	rdfs:label	de	Trunkale Ataxie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Truncal obesity	HP:0001956	rdfs:label	de	Fettleibigkeit am Stamm	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Truncal titubation	HP:0030147	rdfs:label	de	Trunkale Titubation	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
