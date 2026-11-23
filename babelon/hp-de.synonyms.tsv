@@ -151,7 +151,7 @@ HP:0000534	Auffälligkeit von Form oder Struktur der Augenbrauen	http://purl.obo
 HP:0000539	Störung der Brechkraft des Auges	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0000540	Weitsichtigkeit	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0000549	Störung der Koordination beider Augen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
-HP:0000551	Farbsehstörung|Auffälligket des Farbsehens|Farbensehen gestört|Auffälligkeit des Farbsehens|Farbensehen eingeschränkt	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0000551	Farbsehstörung|Farbensehen gestört|Auffälligkeit des Farbsehens|Farbensehen eingeschränkt	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0000552	Blau-Gelb-Schwäche|Blau-Schwäche|Blausehschwäche|Blau-Gelb-Farbenblindheit	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0000553	Auffälligkeit von Form oder Struktur der mittleren Augenhaut	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0000556	Störung der Netzhautfunktion|Untergang der Sinneszellen der Netzhaut	http://purl.obolibrary.org/obo/hp#layperson	
@@ -1552,7 +1552,7 @@ HP:0032101	Ungewöhnliche oder untypische Infektionen	http://purl.obolibrary.org
 HP:0032122	Sehr geringfügige Einschränkung der Sehschärfe|Minimale Abnahme der Sehkraft	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0032141	Schmerzen in der Herzregion|Stechender Schmerz in der Herzgegend|Akuter Schmerz im linken Brustbereich	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0032142	Typischer Geruch der Atemluft bei Patienten mit schwerer Leberfunktionsstörung|Atemluft riecht nach Aceton, süßlich, muffig, erinnert an rohe Leber oder Lehmerde	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
-HP:0032147	Gerhardt-Syndrom|Durchblutungsstörung mit brennenden Schmerzen|Hitzegefühl und Schwellungen meist an den äußeren Gliedmaßen (Armen, Beinen, Füßen und Händen), oft ausgelöst durch Hitze oder körperliche Anstrengung	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0032147	Gerhardt-Syndrom|Durchblutungsstörung mit brennenden Schmerzen, Hitzegefühl und Schwellungen meist an den äußeren Gliedmaßen (Armen, Beinen, Füßen und Händen), oft ausgelöst durch Hitze oder körperliche Anstrengung	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0032148	Episodische Schmerzen|Phasenweise auftretende Schmerzen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0032149	Plötzliche, starke Verschlimmerungen bestehender Dauerschmerzen|Akute Schmerzspitzen bei Dauerschmerz|Durchbruchschmerzen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0032150	Krampfartige, stechende Schmerzen im Enddarm|Krampfartige, brennende Schmerzen im Rektum	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X

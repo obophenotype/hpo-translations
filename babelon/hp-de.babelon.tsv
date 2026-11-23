@@ -1413,7 +1413,7 @@ en	Folliculitis	HP:0025084	rdfs:label	de	Follikulitis	CANDIDATE	DeepL	ALGORITHM	
 en	Food allergy	HP:0500093	rdfs:label	de	Nahrungsmittelallergie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Foot dorsiflexor weakness	HP:0009027	rdfs:label	de	Schwäche der Fußrückenmuskulatur	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Foot oligodactyly	HP:0001849	rdfs:label	de	Fuß-Oligodaktylie	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
-en	Forearm	HP:6000299	rdfs:label	de	Unterarmschmerzen	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-23	
+en	Forearm pain	HP:6000299	rdfs:label	de	Unterarmschmerzen	OFFICIAL	orcid:0009-0002-0291-460X	DOMAIN_EXPERT	2026-11-23	
 en	Fractured elbow	HP:0041219	rdfs:label	de	Ellbogenfraktur	OFFICIAL	orcid:0000-0002-0736-9199	DOMAIN_EXPERT	2024-12-10	
 en	Fragile skin	HP:0001030	rdfs:label	de	Brüchige Haut	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
 en	Freckling	HP:0001480	rdfs:label	de	Sommersprossen	CANDIDATE	DeepL	ALGORITHM	2024-05-08	preview
