@@ -1454,8 +1454,8 @@ HP:0025408	Auffälligkeit von Form oder Struktur der Milz	http://purl.obolibrary
 HP:0025553	Hauteinblutung um die Augenhöhlen|Ringförmige Blutergüsse um das Auge|Monokelhämatom|Waschbärauge	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0025668	Auffälligkeit von Form oder Struktur der Hals-Nackenregion	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0025708	Beginn im Alter zwischen 16 und 19 Jahren	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
-HP:0025709	Beginn im Alter zwischen 19 und 25	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
-HP:0025710	Beginn im Alter zwischen 25 und 40	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0025709	Beginn im Alter zwischen 19 und 25 Jahren	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0025710	Beginn im Alter zwischen 25 und 40 Jahren	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0025736	Knochenbruch der Röhrenknochen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0025766	Auffälligkeiten bezüglich des Gefühlsausdrucks|Auffälligkeit der Gefühlsreaktionen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0025780	Störung der Handlungssteuerung|Störung der Volition	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -1522,7 +1522,7 @@ HP:0031059	Einschränkung beim Baden in der Badewanne|Braucht Hilfe beim Baden i
 HP:0031060	Eingeschränkte Fähigkeit, sich selbstständig anzuziehen|Braucht Hilfe beim Anziehen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0031061	Einschränkung bei der Fähigkeit, selbstständig auf die Toilette zu gehen|Einschränkung beim Toilettengang|Braucht Hilfe beim Toilettengang	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0031062	Eingeschränkte Fähigkeit, vom Bett in den Stuhl zu wechseln oder umgekehrt|Braucht Hilfe beim Transfer (z.B. vom Bett zu Stuhl und umgekehrt)	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
-HP:0031063	Einschränkung bei der Fähigkeit, selbstständig zu Essen und zu Trinken|Einschränkung bei der Nahrungsaufnahme|Braucht Hilfe beim Essen und Trinken	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0031063	Einschränkung bei der Fähigkeit, selbstständig zu essen und zu trinken|Einschränkung bei der Nahrungsaufnahme|Braucht Hilfe beim Essen und Trinken	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0031064	Eingeschränkte Kontinenz|Fähigkeit Urin oder Stuhl zu halten eingeschränkt	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0031090	Plumpe, verdickte Finger|„Wurstfinger“	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0031091	Plumpe, verdickte Zehen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -1582,7 +1582,7 @@ HP:0033665	Eingeschränkte gesundheitsbezogene Lebensqualität	http://purl.oboli
 HP:0033666	Einschränkung der körperlichen Funktionsfähigkeit|Herabgesetzte körperliche Funktionsfähigkeit	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0033667	Geistige Gesundheit beeinträchtigt|Eingeschränktes psychisches Wohlbefinden	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0033675	Gebrechlichkeit	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
-HP:0033695	Unfähigkeit, die bisher ausgeübte (berufliche) auszuüben|Einschränkung, die bisher ausgeübten (beruflichen) Aufgaben zu erfüllen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0033695	Unfähigkeit, die bisher ausgeübte (berufliche) Tätigkeit auszuüben|Einschränkung, die bisher ausgeübten (beruflichen) Aufgaben zu erfüllen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0033709	Vermehrte Schleimproduktion	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0033710	Kurzatmigkeit in Ruhe	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0033746	Schmerzen zwischen den Schulterblättern	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -1816,7 +1816,7 @@ HP:0500147	Verminderte Glutaminkonzentration im Blut|Niedriger Glutaminspiegel i
 HP:0500152	Verminderte Cystinkonzentration im Blut|Niedrige Cystinwerte im Blut|Niedriger Cystinspiegel im Blut	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0500164	Auffällige CO2-Werte im Blut	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0500165	Auffällige Blutsauerstoffwerte	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
-HP:0500261	Ausgelöst durch Anästetika	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0500261	Ausgelöst durch Anästhetika	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0550004	Flachwarze	http://purl.obolibrary.org/obo/hp#layperson	
 HP:3000019	Auffälligkeit von Form oder Struktur der Wangenschleimhaut	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:3000034	Auffälligkeit des Knorpels der Nasenscheidewand	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -1836,7 +1836,7 @@ HP:6000299	Schmerzen am Unterarm|Schmerzen im Unterarm	http://purl.obolibrary.or
 HP:6000420	Brennende Augen|Augenbrennen|Augenreizung	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:6000500	Kalte Finger, Hände, Zehen oder Füße	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:6000634	Verschlimmert durch Gabe von Opiaten	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
-HP:6000944	Schmerzen in Bereich der Halsschlagader|Schmerzen an der Halsschlagader	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:6000944	Schmerzen im Bereich der Halsschlagader|Schmerzen an der Halsschlagader	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:6001047	Umschrieben|Begrenzt	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:6001063	Geruch nach Fußschweiß|Geruch nach alten Socken	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:6001127	Schmerzen im Bereich der Daumenbasis	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
