@@ -1549,7 +1549,7 @@ HP:0031921	Wadenschmerzen|Schmerzen im Wadenmuskel	http://purl.obolibrary.org/ob
 HP:0031987	Schlechte Konzentration|Konzentrationsschwäche	http://purl.obolibrary.org/obo/hp#layperson	
 HP:0032037	Geringfügige Sehminderung|Geringfügige Abnahme der Sehschärfe	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0032101	Ungewöhnliche oder untypische Infektionen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
-HP:0032122	Sehr geringfügige Einschränkung der Sehschärfe|Minimale Abnahme der Sehkraft	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:0032122	Sehr starke Einschränkung der Sehschärfe|Starke Abnahme der Sehkraft	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0032141	Schmerzen in der Herzregion|Stechender Schmerz in der Herzgegend|Akuter Schmerz im linken Brustbereich	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0032142	Typischer Geruch der Atemluft bei Patienten mit schwerer Leberfunktionsstörung|Atemluft riecht nach Aceton, süßlich, muffig, erinnert an rohe Leber oder Lehmerde	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:0032147	Gerhardt-Syndrom|Durchblutungsstörung mit brennenden Schmerzen, Hitzegefühl und Schwellungen meist an den äußeren Gliedmaßen (Armen, Beinen, Füßen und Händen), oft ausgelöst durch Hitze oder körperliche Anstrengung	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
@@ -1849,7 +1849,7 @@ HP:6001154	Schmerzen an der Innenseite des Knies|Schmerzen an der Knieinnenseite
 HP:6001155	Schmerzen an der Außenseite des Knies|Schmerzen an der Knieaußenseite	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:6001173	Lateraler Ellenbogenschmerz|Tennisellenbogen|Schmerz an der Außenseite des Ellenbogens|Radialer Ellenbogenschmerz	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:6001174	Schmerzen an der Ellenbogenrückseite	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
-HP:6001175	Medialer Ellenbogenschmerz|Schmerz an der Innenseite der Ellenbogen|Golferellenbogen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
+HP:6001175	Medialer Ellenbogenschmerz|Schmerz an der Innenseite des Ellenbogens|Golferellenbogen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:6001176	Entlang der Nervenbahn des Radialis-Nervs|Im Versorgungsgebiet des Speichennervs	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:6001265	Im Bereich des unteren Augenlids	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
 HP:6001303	Schmerzen beim Ausstrecken des Daumens|Streckschmerz im Daumen	http://purl.obolibrary.org/obo/hp#layperson	orcid:0009-0002-0291-460X
